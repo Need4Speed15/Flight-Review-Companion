@@ -1,4 +1,16 @@
-# Level Flight logo
+# Flight Review Companion logos
+
+## Current: Flight Path
+
+The Flight Path design (concept 01) uses an upward-pointing airplane inside an open circular arc. Its simple, solid silhouette is intended to read clearly at the existing 38px desktop and 30px mobile header sizes.
+
+- `flight-path.svg`: transparent, crisp vector icon used by the header and browser tab.
+- `flight-path-transparent.png`: 1024 × 1024 transparent export for reuse.
+- Root `favicon.svg`: matching copy for existing bookmarks and consumers.
+
+The icon matches the site's `#55c8ef` sky blue. Native HTML continues to render the brand text. The previous Level Flight files are retained as design alternatives.
+
+## Previous: Level Flight
 
 The approved centered Level Flight design replaces the original star-in-a-circle header icon. The airplane, cockpit windows, and two open semicircles are retained; the separate horizon bar is absent.
 

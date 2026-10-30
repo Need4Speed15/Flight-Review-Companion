@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="187 55 880 880" fill="#55c8ef">
-  <title>Flight Review Companion — Level Flight</title>
-  <desc>A front-facing airplane centered between two open semicircular arcs.</desc>
-  <path d="M267 424C318 244 451 124 627 124S936 244 987 424H937C887 271 779 171 627 171S367 271 317 424Z"/>
-  <path d="M283 621C354 781 483 866 627 866S900 781 970 621H920C854 745 748 819 627 819S400 745 333 621Z"/>
-  <path fill-rule="evenodd" d="M234 507Q234 504 241 504L548 503C558 474 579 450 612 445L619 369Q620 360 627 360T635 369L642 445C675 450 696 474 707 503L1013 506Q1020 506 1019 514Q1018 523 1010 525L707 558C696 596 667 619 627 619S558 596 547 558L246 527Q234 525 234 514ZM561 510L615 500V471C589 474 570 485 561 510ZM639 471V500L693 511C684 485 665 474 639 471Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 3 96 96">
+  <title>Flight Review Companion — Flight Path</title>
+  <desc>An upward-pointing airplane inside an open circular flight path.</desc>
+  <path d="M42 94A44 44 0 1 1 92 33" fill="none" stroke="#55c8ef" stroke-width="4.4" stroke-linecap="round"/>
+  <path fill="#55c8ef" d="M50 19C47 19 45 27 45 31V41L19 51Q16 52 16 55V58L45 54L47 72L36 80Q35 81 35 83V86L48 82L49 87Q50 90 51 87L52 82L65 86V83Q65 81 64 80L53 72L55 54L84 58V55Q84 52 81 51L55 41V31C55 27 53 19 50 19Z"/>
 </svg>
