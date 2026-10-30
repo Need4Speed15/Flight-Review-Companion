@@ -3,6 +3,7 @@
   const cards = Array.isArray(window.FLIGHT_REVIEW_CARDS) ? window.FLIGHT_REVIEW_CARDS : [];
   const categories = Array.isArray(window.FLIGHT_REVIEW_CATEGORIES) ? window.FLIGHT_REVIEW_CATEGORIES : [];
   const sources = Array.isArray(window.FLIGHT_REVIEW_SOURCES) ? window.FLIGHT_REVIEW_SOURCES : [];
+  const staticHosting = window.FLIGHT_REVIEW_HOSTING?.mode === 'static';
   let store = window.FlightStudyStore.create({ storage: null });
   let profileReady = false, activeProfile = null, syncGeneration = 0;
   let sessionVersion = store.version('session');
@@ -822,7 +823,7 @@
   function appendPractice(node,card) { if(!card.image)return; const figure=document.createElement('figure');figure.className='practice-figure';const img=document.createElement('img');img.src=card.image;img.alt=card.imageAlt||'';img.loading='lazy';const cap=document.createElement('figcaption');cap.textContent='Illustrative training example. Not for operational use.';figure.append(img,cap);node.append(figure); }
   function cardUrl(card) { const u=new URL(location.href);u.hash='card/'+encodeURIComponent(card.id);return u.href; }
   function cardLinkButton(card) {const link=document.createElement('a');link.className='card-link';link.href='#card/'+encodeURIComponent(card.id);link.textContent='Open card link';link.setAttribute('aria-label','Open '+card.id+' link');return link;}
-  function reportButton(card) { const b=document.createElement('button');b.type='button';b.className='text-button';b.textContent='Suggest a correction';b.setAttribute('aria-label','Suggest a correction for '+card.id);b.addEventListener('click',()=>openReport(card));return b; }
+  function reportButton(card) { const b=document.createElement('button');b.type='button';b.className='text-button';b.textContent=staticHosting?'Suggest correction on GitHub':'Suggest a correction';b.setAttribute('aria-label','Suggest a correction for '+card.id+(staticHosting?' on GitHub':''));b.addEventListener('click',()=>openReport(card));return b; }
   function captureListState(list) {const active=document.activeElement, row=active?.closest('[data-card-id]');return {id:list.contains(active)?row?.dataset.cardId:null,label:active?.getAttribute('aria-label'),index:row?[...list.querySelectorAll('[data-card-id]')].indexOf(row):0,open:[...list.querySelectorAll('details[open]')].map(d=>d.closest('[data-card-id]')?.dataset.cardId)};}
   function restoreListState(list,snapshot,fallbackId) { const rows=[...list.querySelectorAll('[data-card-id]')]; for(const row of rows) if(snapshot.open.includes(row.dataset.cardId)){const d=row.querySelector('details');if(d)d.open=true;} if(!snapshot.id)return;const row=rows.find(r=>r.dataset.cardId===snapshot.id)||rows[Math.min(snapshot.index,rows.length-1)];const button=row?([...row.querySelectorAll('button,a')].find(b=>b.getAttribute('aria-label')===snapshot.label)||row.querySelector('button,a')):$(fallbackId);if(button){if(!button.matches('button,a,input,select'))button.tabIndex=-1;button.focus({preventScroll:true});} }
   function saveInspectRoute() {const p=new URLSearchParams({scope:$('inspectScope').value,filter:$('inspectFilter').value,focus:$('inspectSubtopic').value});if($('inspectSearch').value)p.set('q',$('inspectSearch').value);history.replaceState(null,'','#inspect?'+p.toString());}
@@ -841,6 +842,14 @@
   function syncEnabled() { try{return !!identity?.user?.id&&activeProfile===identity.user.id&&localStorage.getItem('flight-review-cloud-enabled')===identity.user.id;}catch{return false;} }
   async function api(path,options={}) { const r=await fetch(path,{credentials:'same-origin',...options,headers:{'Content-Type':'application/json',...(options.headers||{})}});let data;try{data=await r.json();}catch{throw Error('Cloud services are available on the hosted website. Local study and backups still work.');}if(!r.ok)throw Error(data.error||`Request failed (${r.status}).`);return data; }
   async function loadIdentity() {
+    if(staticHosting){
+      identity=null; activateProfile(null);
+      $('syncIdentity').textContent='Local study mode';
+      $('syncStatus').textContent='Progress saves in this browser. Use a study backup to transfer it to another device.';
+      ['syncButton','syncSignIn','enableSyncButton','syncNowButton','disableSyncButton','inboxButton'].forEach(id=>$(id).hidden=true);
+      $('backupButton').textContent='Study backup';
+      return;
+    }
     try {
       if(location.protocol==='file:') throw Error('Cloud services require the hosted website.');
       identity=await api('/api/identity');
@@ -876,7 +885,8 @@
     } catch(error) { if(current())$('syncStatus').textContent='Sync paused: '+error.message+' Local progress is still available.'; }
     finally { syncBusy=false;updateSyncButtons();if(syncAgain){syncAgain=false;scheduleSync();} }
   }
-  function openReport(card){reportCardId=card.id;$('reportCardSummary').textContent=card.id+' — '+card.question;$('reportConcern').value='';$('reportStatus').textContent='';$('reportSignIn').hidden=!!identity?.authenticated;$('submitReportButton').disabled=!identity?.authenticated;$('reportDialog').showModal();}
+  function correctionUrl(card){const url=new URL('https://github.com/Need4Speed15/Flight-Review-Companion/issues/new');url.searchParams.set('title','Card correction: '+card.id);url.searchParams.set('body',`Card: ${card.id}\nQuestion: ${card.question}\nSource: ${card.sourceUrl||card.source}\n\nWhat needs correcting?\n\nSuggested answer and reference:\n\nPlease include no private medical or flight information. Issues are public.`);return url.href;}
+  function openReport(card){if(staticHosting){window.open(correctionUrl(card),'_blank','noopener,noreferrer');return;}reportCardId=card.id;$('reportCardSummary').textContent=card.id+' — '+card.question;$('reportConcern').value='';$('reportStatus').textContent='';$('reportSignIn').hidden=!!identity?.authenticated;$('submitReportButton').disabled=!identity?.authenticated;$('reportDialog').showModal();}
   async function sendReport(event){event.preventDefault();if(!identity?.authenticated||!reportCardId)return;$('submitReportButton').disabled=true;try{const result=await api('/api/reports',{method:'POST',body:JSON.stringify({cardId:reportCardId,concern:$('reportConcern').value.trim()})});$('reportStatus').textContent='Report received. Reference: '+result.id+'. Thank you for helping improve this card.';$('reportConcern').value='';}catch(error){$('reportStatus').textContent=error.message;$('submitReportButton').disabled=false;}}
   async function openInbox(){
     const dialog=$('inboxDialog'), list=$('inboxList'), status=$('inboxStatus');
@@ -951,6 +961,7 @@
     await loadPage();
   }
   function installEnhancements(){
+    if(staticHosting)$('reportCardButton').textContent='Suggest correction on GitHub';
     document.addEventListener('click',event=>{const menu=$('toolsMenu');if(menu.open&&menu.contains(event.target)&&event.target.closest('button')&&document.querySelector('dialog[open]'))toolsDialogReturn=true;if(!menu.contains(event.target)||event.target.closest('button'))menu.open=false;});
     document.addEventListener('keydown',event=>{if(event.key==='Escape'&&$('toolsMenu').open){$('toolsMenu').open=false;$('toolsMenu').querySelector('summary').focus();}});
     document.addEventListener('close',()=>{if(toolsDialogReturn&&!document.querySelector('dialog[open]')){toolsDialogReturn=false;$('toolsMenu').querySelector('summary').focus();}},true);

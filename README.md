@@ -1,8 +1,23 @@
 # Flight Review Companion
 
+**[Open the public study website](https://need4speed15.github.io/Flight-Review-Companion/)** · Version **v1.1.0**
+
 A flashcard library for U.S. flight-review preparation, IFR refreshers, and professional operations, with **2,245 cards in 25 categories**. It combines 2,235 reference cards with ten illustrated Practical Scenarios for interpreting weather, airport signs, loading, fuel, performance, and approach constraints. Part 121 Ops has 250 cards and Instrument / IFR Refresher has 200.
 
-The same study interface supports opening `index.html` as a local file and running as a hosted Site with optional account sync and correction reports. This README describes the implemented source; publishing a new hosted release and choosing its audience are separate steps.
+The public website runs on GitHub Pages without requiring an account. It saves study data in the visitor's browser and offers backup export/import. Card corrections open GitHub Issues. The retained private ChatGPT Sites edition has the optional account-sync and report-inbox backend.
+
+## GitHub Pages
+
+Every push to `main` builds and deploys the public study edition through `.github/workflows/pages.yml`. The build uses only Node's built-in modules; no dependency installation or server is required:
+
+```sh
+node scripts/build-pages.mjs
+node content/test-pages.cjs
+```
+
+Deployable files are written to `dist/pages/`. Assets use relative paths so the site works under `/Flight-Review-Companion/`. The Pages build activates local study immediately, hides unavailable account controls, and points correction actions to a prefilled public GitHub Issue. A GitHub account is needed only to submit an issue.
+
+Progress is specific to a browser and website address. To move progress from the previous ChatGPT Sites address or another device, export a study backup there and import it on the new site. Exported backups include learning history, bookmarks, private flags, saved mixes, and optionally the current session.
 
 ## Study features
 
