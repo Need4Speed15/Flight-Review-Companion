@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "P135-001",
+    "category": "part-135",
+    "question": "What determines whether a flight belongs under Part 135?",
+    "answer": "The operation's actual nature and applicable certification rules, not the airplane's appearance or a passenger's description of the trip.",
+    "source": "14 CFR 135.1",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.1"
+  },
+  {
+    "id": "P135-002",
+    "category": "part-135",
+    "question": "Does Part 135 replace all Part 91 requirements?",
+    "answer": "No. Applicable Part 91 rules still apply unless Part 135 provides a different requirement; apply the complete regulatory combination.",
+    "source": "14 CFR 135.3",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.3"
+  },
+  {
+    "id": "P135-003",
+    "category": "part-135",
+    "question": "Can an unauthorized charter operator avoid Part 135 by lacking a certificate?",
+    "answer": "No. Applicable Part 135 rules also apply to a person conducting covered operations without the required authority.",
+    "source": "14 CFR 135.7",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.7"
+  },
+  {
+    "id": "P135-004",
+    "category": "part-135",
+    "question": "Who retains operational-control responsibility for a charter flight?",
+    "answer": "The certificate holder. Its manual identifies the people authorized to exercise operational control.",
+    "source": "14 CFR 135.77",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.77"
+  },
+  {
+    "id": "P135-005",
+    "category": "part-135",
+    "question": "A charter customer orders a departure despite unsafe conditions. Who controls the decision?",
+    "answer": "The authorized operator and PIC must apply their safety responsibilities; purchasing the trip gives the customer no operational-control authority.",
+    "source": "14 CFR 135.77",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.77"
+  },
+  {
+    "id": "P135-006",
+    "category": "part-135",
+    "question": "What keeps an operator's charter manual from becoming unofficial advice?",
+    "answer": "It sets the certificate holder's current procedures and policies for the operation; personnel must use the applicable manual and authorized procedures.",
+    "source": "14 CFR 135.21",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.21"
+  },
+  {
+    "id": "P135-007",
+    "category": "part-135",
+    "question": "May a charter manual authorize conduct contrary to an operations specification?",
+    "answer": "No. The manual cannot conflict with applicable regulations, the certificate, or operations specifications.",
+    "source": "14 CFR 135.21",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.21"
+  },
+  {
+    "id": "P135-008",
+    "category": "part-135",
+    "question": "Why must a charter pilot verify the revision status of an electronic manual?",
+    "answer": "The operator must make revision dates immediately ascertainable so personnel can identify current instructions.",
+    "source": "14 CFR 135.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.23"
+  },
+  {
+    "id": "P135-009",
+    "category": "part-135",
+    "question": "What loading procedures should a Part 135 manual provide?",
+    "answer": "Procedures ensuring compliance with aircraft weight and balance limits and applicable multiengine performance requirements.",
+    "source": "14 CFR 135.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.23"
+  },
+  {
+    "id": "P135-010",
+    "category": "part-135",
+    "question": "Why should a pilot know who has operational-control authority before accepting a trip?",
+    "answer": "The manual identifies authorized personnel and responsibilities, enabling release, delay, diversion, and escalation through the correct people.",
+    "source": "14 CFR 135.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.23"
+  },
+  {
+    "id": "P135-011",
+    "category": "part-135",
+    "question": "Can an operator use any airworthy aircraft for a charter trip?",
+    "answer": "No. The aircraft must also meet Part 135 requirements and the operator's applicable authorizations and control arrangements.",
+    "source": "14 CFR 135.25",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.25"
+  },
+  {
+    "id": "P135-012",
+    "category": "part-135",
+    "question": "What does an operator's pilot qualification record establish?",
+    "answer": "Certificates, ratings, experience, assignments, training, checking, and other required information demonstrating eligibility for assigned operations.",
+    "source": "14 CFR 135.63",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.63"
+  },
+  {
+    "id": "P135-013",
+    "category": "part-135",
+    "question": "Why does a charter flight's load manifest matter beyond total weight?",
+    "answer": "Required loading information documents compliance, including weight distribution and center-of-gravity limits where applicable.",
+    "source": "14 CFR 135.63",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.63"
+  },
+  {
+    "id": "P135-014",
+    "category": "part-135",
+    "question": "Passengers swap seats after the manifest is prepared. What needs checking?",
+    "answer": "Whether loading and CG remain valid; update records or seating according to the approved loading procedures before departure.",
+    "source": "14 CFR 135.63",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.63"
+  },
+  {
+    "id": "P135-015",
+    "category": "part-135",
+    "question": "How are mechanical irregularities transferred between charter crews?",
+    "answer": "Enter them in the aircraft maintenance log and use the operator's process so subsequent crews know the discrepancy and its disposition.",
+    "source": "14 CFR 135.65",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.65"
+  },
+  {
+    "id": "P135-016",
+    "category": "part-135",
+    "question": "Why must a charter captain review preceding discrepancy entries?",
+    "answer": "To determine the status of earlier irregularities before the next flight rather than assuming a new crew means a serviceable aircraft.",
+    "source": "14 CFR 135.65",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.65"
+  },
+  {
+    "id": "P135-017",
+    "category": "part-135",
+    "question": "What should a charter pilot do with a facility defect that threatens other flights?",
+    "answer": "Report the irregularity to the appropriate ground station as soon as practicable.",
+    "source": "14 CFR 135.67",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.67"
+  },
+  {
+    "id": "P135-018",
+    "category": "part-135",
+    "question": "How should a Part 135 operator respond to hazardous airport conditions?",
+    "answer": "Restrict or suspend affected operations until the hazard is corrected; current suitability controls the decision.",
+    "source": "14 CFR 135.69",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.69"
+  },
+  {
+    "id": "P135-019",
+    "category": "part-135",
+    "question": "What airworthiness checks precede a Part 135 departure?",
+    "answer": "The PIC must determine required inspections and maintenance releases are satisfied and the aircraft is airworthy under the operator's procedures.",
+    "source": "14 CFR 135.71",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.71"
+  },
+  {
+    "id": "P135-020",
+    "category": "part-135",
+    "question": "Why may the FAA inspect charter personnel and equipment during operations?",
+    "answer": "The rule authorizes inspections and tests to determine compliance; the certificate holder must permit appropriate access.",
+    "source": "14 CFR 135.73",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.73"
+  },
+  {
+    "id": "P135-021",
+    "category": "part-135",
+    "question": "May a charter pilot refuse an authorized FAA inspection because passengers are waiting?",
+    "answer": "No. The operator and crew must permit authorized inspections and provide the required access.",
+    "source": "14 CFR 135.75",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.75"
+  },
+  {
+    "id": "P135-022",
+    "category": "part-135",
+    "question": "Why is PIC final authority not permission to ignore an operator's control system?",
+    "answer": "PIC authority operates within legal operational-control, manual, and safety obligations; disagreements should be resolved before an unsafe flight starts.",
+    "source": "14 CFR 135.77",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.77"
+  },
+  {
+    "id": "P135-023",
+    "category": "part-135",
+    "question": "When must a Part 135 operator arrange flight-locating procedures?",
+    "answer": "For flights where an FAA flight plan is not filed, the operator needs the specified locating process, subject to the rule's exceptions.",
+    "source": "14 CFR 135.79",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.79"
+  },
+  {
+    "id": "P135-024",
+    "category": "part-135",
+    "question": "What makes a charter flight-locating arrangement useful in an overdue event?",
+    "answer": "It retains route, destination, timing, and notification information so responsible personnel can promptly initiate overdue-aircraft action.",
+    "source": "14 CFR 135.79",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.79"
+  },
+  {
+    "id": "P135-025",
+    "category": "part-135",
+    "question": "How must a charter operator communicate operational changes to its personnel?",
+    "answer": "Inform personnel of appropriate changes in equipment and operating procedures, including changes affecting their assigned duties.",
+    "source": "14 CFR 135.81",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.81"
+  },
+  {
+    "id": "P135-026",
+    "category": "part-135",
+    "question": "Can a charter pilot rely on charts downloaded months ago because the route is familiar?",
+    "answer": "No. Required aeronautical information must be current and appropriate to the flight; check effective dates and changes.",
+    "source": "14 CFR 135.83",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.83"
+  },
+  {
+    "id": "P135-027",
+    "category": "part-135",
+    "question": "Why can carrying a company employee still require a passenger-rule review?",
+    "answer": "Only specified persons and conditions qualify for carriage without all passenger-carrying provisions; employee status alone is not enough.",
+    "source": "14 CFR 135.85",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.85"
+  },
+  {
+    "id": "P135-028",
+    "category": "part-135",
+    "question": "What must cabin cargo restraints accomplish in a charter airplane?",
+    "answer": "Secure the load against movement, preserve exits and emergency-equipment access, and meet compartment, floor-loading, and restraint limitations.",
+    "source": "14 CFR 135.87",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.87"
+  },
+  {
+    "id": "P135-029",
+    "category": "part-135",
+    "question": "A bag fits in the cabin but blocks the fire extinguisher. May it stay there?",
+    "answer": "No. Reposition and properly restrain it; physical fit alone does not satisfy cabin-cargo requirements.",
+    "source": "14 CFR 135.87",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.87"
+  },
+  {
+    "id": "P135-030",
+    "category": "part-135",
+    "question": "What governs oxygen use by a Part 135 crew?",
+    "answer": "Apply the specific crew oxygen requirements, aircraft pressurization status, altitude, and operating conditions rather than assuming ordinary private-flight rules alone suffice.",
+    "source": "14 CFR 135.89",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.89"
+  },
+  {
+    "id": "P135-031",
+    "category": "part-135",
+    "question": "What should be checked before accepting medical oxygen aboard a charter aircraft?",
+    "answer": "The operator's authorization, equipment requirements, handling restrictions, and applicable passenger/crew procedures.",
+    "source": "14 CFR 135.91",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.91"
+  },
+  {
+    "id": "P135-032",
+    "category": "part-135",
+    "question": "Why is a charter autopilot's approved approach capability not enough to select an engagement altitude?",
+    "answer": "Part 135 minimum-use heights, AFM limitations, demonstrated altitude loss, and any authorized exceptions must all be satisfied.",
+    "source": "14 CFR 135.93",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.93"
+  },
+  {
+    "id": "P135-033",
+    "category": "part-135",
+    "question": "How do autopilot altitude references differ between en route and approach operations?",
+    "answer": "The rule distinguishes terrain, airport elevation, and touchdown-zone or approach-minimum references; use the reference applicable to that phase.",
+    "source": "14 CFR 135.93",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.93"
+  },
+  {
+    "id": "P135-034",
+    "category": "part-135",
+    "question": "May a pilot accept a charter assignment while medically unfit despite a valid medical certificate?",
+    "answer": "No. A valid certificate does not remove the prohibition on serving when the pilot knows of a disqualifying condition.",
+    "source": "14 CFR 135.95",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.95"
+  },
+  {
+    "id": "P135-035",
+    "category": "part-135",
+    "question": "What must a charter operator provide to keep pilot recent-experience requirements achievable?",
+    "answer": "Suitable aircraft and facilities for the pilot to demonstrate or maintain the applicable required recent flight experience.",
+    "source": "14 CFR 135.97",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.97"
+  },
+  {
+    "id": "P135-036",
+    "category": "part-135",
+    "question": "What sets the minimum charter flightcrew complement?",
+    "answer": "Both aircraft operating limitations and Part 135 requirements for the specific operation; satisfy whichever requires more crewmembers.",
+    "source": "14 CFR 135.99",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.99"
+  },
+  {
+    "id": "P135-037",
+    "category": "part-135",
+    "question": "What passenger seating configuration generally triggers an SIC under § 135.99(b)?",
+    "answer": "Ten or more passenger seats, excluding pilot seats. An installed autopilot does not erase this separate requirement.",
+    "source": "14 CFR 135.99",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.99"
+  },
+  {
+    "id": "P135-038",
+    "category": "part-135",
+    "question": "What is the usual Part 135 SIC rule when carrying passengers under IFR?",
+    "answer": "An SIC is required unless the specific approved-autopilot exception lawfully applies.",
+    "source": "14 CFR 135.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.101"
+  },
+  {
+    "id": "P135-039",
+    "category": "part-135",
+    "question": "Does installing a working autopilot automatically authorize single-pilot passenger IFR charter?",
+    "answer": "No. The autopilot must be approved, operative, and authorized by the applicable operations specifications; other two-pilot requirements still control.",
+    "source": "14 CFR 135.105",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.105"
+  },
+  {
+    "id": "P135-040",
+    "category": "part-135",
+    "question": "The autopilot fails before a planned single-pilot IFR charter. What must be reconsidered?",
+    "answer": "The basis for SIC relief. Provide a legally qualified crew or another authorized operating solution; do not assume the flight may depart unchanged.",
+    "source": "14 CFR 135.105",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.105"
+  },
+  {
+    "id": "P135-041",
+    "category": "part-135",
+    "question": "How are PIC and SIC roles established for a Part 135 flight?",
+    "answer": "The certificate holder designates qualified pilots for the assigned duties, with PIC responsibility clearly assigned.",
+    "source": "14 CFR 135.109",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.109"
+  },
+  {
+    "id": "P135-042",
+    "category": "part-135",
+    "question": "Why can two pilots be required even on a VFR charter flight?",
+    "answer": "Aircraft limitations, seating configuration, or the specific VFR two-pilot provisions may require an SIC independent of weather.",
+    "source": "14 CFR 135.111",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.111"
+  },
+  {
+    "id": "P135-043",
+    "category": "part-135",
+    "question": "When may a charter pilot leave the assigned crew station?",
+    "answer": "Only under the permitted operational or physiological circumstances, with applicable restraints and crew requirements maintained.",
+    "source": "14 CFR 135.113",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.113"
+  },
+  {
+    "id": "P135-044",
+    "category": "part-135",
+    "question": "May a charter operator treat anyone in uniform as flight-deck-authorized?",
+    "answer": "No. Occupancy must meet the permitted-person and operator-authorization rules; appearance alone establishes no eligibility.",
+    "source": "14 CFR 135.115",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.115"
+  },
+  {
+    "id": "P135-045",
+    "category": "part-135",
+    "question": "What evacuation information should a charter passenger briefing emphasize?",
+    "answer": "Exit locations and operation, belts, required flotation and emergency equipment, and instructions applicable to that aircraft and flight.",
+    "source": "14 CFR 135.117",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.117"
+  },
+  {
+    "id": "P135-046",
+    "category": "part-135",
+    "question": "Why should a charter briefing account for passengers needing help?",
+    "answer": "The crew must address appropriate assistance and evacuation arrangements instead of assuming everyone can use every exit independently.",
+    "source": "14 CFR 135.117",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.117"
+  },
+  {
+    "id": "P135-047",
+    "category": "part-135",
+    "question": "What extra safety preparation accompanies extended-overwater charter operations?",
+    "answer": "Provide the applicable flotation-equipment briefing, including how to use available life preservers and other required survival equipment.",
+    "source": "14 CFR 135.119",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.119"
+  },
+  {
+    "id": "P135-048",
+    "category": "part-135",
+    "question": "May a charter passenger drink a personal bottle without the operator serving it?",
+    "answer": "No. The rule restricts consumption to alcoholic beverages served by the certificate holder.",
+    "source": "14 CFR 135.121",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.121"
+  },
+  {
+    "id": "P135-049",
+    "category": "part-135",
+    "question": "How should the operator handle a passenger who appears intoxicated before boarding?",
+    "answer": "Do not allow boarding contrary to the rule; coordinate through the operator rather than accepting customer pressure.",
+    "source": "14 CFR 135.121",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.121"
+  },
+  {
+    "id": "P135-050",
+    "category": "part-135",
+    "question": "Why must a charter operator assign evacuation duties before an emergency?",
+    "answer": "Necessary functions must be realistic for the aircraft, crew, and foreseeable emergency, including possible crewmember incapacitation.",
+    "source": "14 CFR 135.123",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.123"
+  },
+  {
+    "id": "P135-051",
+    "category": "part-135",
+    "question": "Why should a Part 135 crew use a written cockpit checklist?",
+    "answer": "The operator must provide an approved checklist appropriate to the aircraft; systematic use supports required normal and emergency actions.",
+    "source": "14 CFR 135.127",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.127"
+  },
+  {
+    "id": "P135-052",
+    "category": "part-135",
+    "question": "What makes a borrowed checklist unsuitable for charter use?",
+    "answer": "It may not match the operator's approved procedures, aircraft equipment, limitations, or required sequence.",
+    "source": "14 CFR 135.127",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.127"
+  },
+  {
+    "id": "P135-053",
+    "category": "part-135",
+    "question": "Why must charter passenger restraint decisions use approved seating arrangements?",
+    "answer": "Each occupant must comply with applicable seat, belt, and child-restraint rules; an improvised seat is not authorized simply because the trip is short.",
+    "source": "14 CFR 135.128",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.128"
+  },
+  {
+    "id": "P135-054",
+    "category": "part-135",
+    "question": "How should exit-seat suitability be handled in a charter cabin?",
+    "answer": "Apply the rule's selection criteria and operator procedures so occupants can perform required exit functions when applicable.",
+    "source": "14 CFR 135.129",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.129"
+  },
+  {
+    "id": "P135-055",
+    "category": "part-135",
+    "question": "Why does meeting the aircraft type certificate not prove charter equipment compliance?",
+    "answer": "Part 135 may require additional equipment for the operation, route, or conditions beyond original certification.",
+    "source": "14 CFR 135.141",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.141"
+  },
+  {
+    "id": "P135-056",
+    "category": "part-135",
+    "question": "What should a pilot determine about required charter equipment before departure?",
+    "answer": "That required items are installed, approved where required, and operative or legally deferred under applicable authority.",
+    "source": "14 CFR 135.143",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.143"
+  },
+  {
+    "id": "P135-057",
+    "category": "part-135",
+    "question": "What is the purpose of aircraft proving and validation tests in Part 135?",
+    "answer": "Demonstrate the operator's ability to conduct applicable new operations safely with the aircraft and proposed procedures before authorization.",
+    "source": "14 CFR 135.145",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.145"
+  },
+  {
+    "id": "P135-058",
+    "category": "part-135",
+    "question": "What determines whether a dual-control installation is required for charter operations?",
+    "answer": "The aircraft and operation must meet the applicable dual-control rules and any specifically permitted exceptions.",
+    "source": "14 CFR 135.147",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.147"
+  },
+  {
+    "id": "P135-059",
+    "category": "part-135",
+    "question": "Why must a charter preflight verify the required instruments for the planned kind of flight?",
+    "answer": "Part 135 adds instrument and equipment requirements; daylight VFR, night, and IFR assignments may require different combinations.",
+    "source": "14 CFR 135.149",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.149"
+  },
+  {
+    "id": "P135-060",
+    "category": "part-135",
+    "question": "What is the value of a Part 135 public-address system requirement?",
+    "answer": "It lets the crew give required passenger information and emergency instructions using the approved installation when that requirement applies.",
+    "source": "14 CFR 135.150",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.150"
+  },
+  {
+    "id": "P135-061",
+    "category": "part-135",
+    "question": "What should a charter crew know about a required CVR before a trip?",
+    "answer": "Whether the airplane is within the applicability, whether the recorder is serviceable or legally deferred, and the operator's required operating procedures.",
+    "source": "14 CFR 135.151",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.151"
+  },
+  {
+    "id": "P135-062",
+    "category": "part-135",
+    "question": "Why should recorder discrepancies be resolved through maintenance rather than pilot improvisation?",
+    "answer": "Recorder applicability and dispatch relief are regulated; use authorized maintenance and any lawful MEL process.",
+    "source": "14 CFR 135.152",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.152"
+  },
+  {
+    "id": "P135-063",
+    "category": "part-135",
+    "question": "What does a charter TAWS installation protect against?",
+    "answer": "Terrain-related threats within its design capability. It supplements flightpath and terrain planning rather than authorizing descent below safe limits.",
+    "source": "14 CFR 135.154",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.154"
+  },
+  {
+    "id": "P135-064",
+    "category": "part-135",
+    "question": "Why is TAWS database currency relevant to a charter flight?",
+    "answer": "An inappropriate or outdated terrain/airport database can degrade alerts; follow the approved currency and operation requirements.",
+    "source": "14 CFR 135.154",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.154"
+  },
+  {
+    "id": "P135-065",
+    "category": "part-135",
+    "question": "What makes a hand fire extinguisher useful during a charter emergency?",
+    "answer": "An appropriate approved type, required number and location, serviceability, and crew knowledge of access and operation.",
+    "source": "14 CFR 135.155",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.155"
+  },
+  {
+    "id": "P135-066",
+    "category": "part-135",
+    "question": "What should determine oxygen equipment carried on a charter route?",
+    "answer": "The applicable altitude, pressurization, occupant, and emergency-descent requirements, along with the aircraft's approved system capabilities.",
+    "source": "14 CFR 135.157",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.157"
+  },
+  {
+    "id": "P135-067",
+    "category": "part-135",
+    "question": "Why must pitot heat capability be evaluated before a cold-weather charter?",
+    "answer": "The applicable airspeed-indicating-system requirements and flight conditions may make probe heat essential; resolve defects legally before departure.",
+    "source": "14 CFR 135.158",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.158"
+  },
+  {
+    "id": "P135-068",
+    "category": "part-135",
+    "question": "What extra equipment planning accompanies IFR passenger charter?",
+    "answer": "Verify the required instruments, communications, navigation, power sources, and applicable redundancy for that specific aircraft and operation.",
+    "source": "14 CFR 135.159",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.159"
+  },
+  {
+    "id": "P135-069",
+    "category": "part-135",
+    "question": "Why does reliable communication coverage matter to Part 135 flight planning?",
+    "answer": "The operation must meet its communication requirements over the route; an installed radio does not itself prove usable coverage.",
+    "source": "14 CFR 135.161",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.161"
+  },
+  {
+    "id": "P135-070",
+    "category": "part-135",
+    "question": "Why might an apparently healthy charging system still need a redundancy check for IFR charter?",
+    "answer": "Required electrical and instrument power provisions depend on the operation; assess failure protection against the applicable rule and approved installation.",
+    "source": "14 CFR 135.163",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.163"
+  },
+  {
+    "id": "P135-071",
+    "category": "part-135",
+    "question": "How should route changes affect charter navigation-equipment assessment?",
+    "answer": "Confirm the equipment and authorizations still support the newly planned route, facilities, and procedures before accepting the change.",
+    "source": "14 CFR 135.165",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.165"
+  },
+  {
+    "id": "P135-072",
+    "category": "part-135",
+    "question": "What is special about charter emergency equipment for extended-overwater flying?",
+    "answer": "Required flotation, rafts, survival items, and signaling must suit the operation and be accessible and serviceable.",
+    "source": "14 CFR 135.167",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.167"
+  },
+  {
+    "id": "P135-073",
+    "category": "part-135",
+    "question": "Why do overwater rotorcraft charter rules need separate review?",
+    "answer": "Rotorcraft-specific flotation and survival requirements may apply; fixed-wing assumptions do not establish compliance.",
+    "source": "14 CFR 135.168",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.168"
+  },
+  {
+    "id": "P135-074",
+    "category": "part-135",
+    "question": "Why must charter performance approval be checked for the particular aircraft category?",
+    "answer": "The rules distinguish aircraft categories and operations; a general equipment checklist does not establish passenger-carrying eligibility.",
+    "source": "14 CFR 135.169",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.169"
+  },
+  {
+    "id": "P135-075",
+    "category": "part-135",
+    "question": "Why must materials installed in a charter cabin meet applicable fire-protection standards?",
+    "answer": "Cabin interior fireworthiness is part of operational compliance; cosmetic alterations cannot bypass required standards.",
+    "source": "14 CFR 135.170",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.170"
+  },
+  {
+    "id": "P135-076",
+    "category": "part-135",
+    "question": "What shoulder-harness issue should a charter crew verify at pilot stations?",
+    "answer": "Required harnesses must be installed and used under the applicable rule and aircraft procedures, not left unused for convenience.",
+    "source": "14 CFR 135.171",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.171"
+  },
+  {
+    "id": "P135-077",
+    "category": "part-135",
+    "question": "Why does an airborne thunderstorm detector not authorize penetration of hazardous cells?",
+    "answer": "Its role is hazard detection; safe avoidance, limitations, and the operator's procedures still govern routing.",
+    "source": "14 CFR 135.173",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.173"
+  },
+  {
+    "id": "P135-078",
+    "category": "part-135",
+    "question": "When an airborne weather-radar defect is found before charter departure, what comes next?",
+    "answer": "Evaluate the specific radar requirement, conditions, authorized relief, and limitations; do not substitute a phone weather image without approved authority.",
+    "source": "14 CFR 135.175",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.175"
+  },
+  {
+    "id": "P135-079",
+    "category": "part-135",
+    "question": "Why must emergency equipment have suitable markings?",
+    "answer": "Markings help occupants and crew locate and operate required equipment promptly during an emergency.",
+    "source": "14 CFR 135.177",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.177"
+  },
+  {
+    "id": "P135-080",
+    "category": "part-135",
+    "question": "What is the starting point for charter operation with an inoperative installed item?",
+    "answer": "Determine whether a properly approved MEL or other applicable legal provision authorizes it and comply with all associated procedures and restrictions.",
+    "source": "14 CFR 135.179",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.179"
+  },
+  {
+    "id": "P135-081",
+    "category": "part-135",
+    "question": "May a pilot defer a charter defect merely because it is absent from a personal checklist?",
+    "answer": "No. Determine regulatory, AFM, operator, and MEL requirements through the authorized process.",
+    "source": "14 CFR 135.179",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.179"
+  },
+  {
+    "id": "P135-082",
+    "category": "part-135",
+    "question": "Why is traffic-alerting equipment not a substitute for a charter crew's collision avoidance duties?",
+    "answer": "It supplies specific alerts within its capabilities; visual lookout, ATC compliance, and trained responses remain necessary.",
+    "source": "14 CFR 135.180",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.180"
+  },
+  {
+    "id": "P135-083",
+    "category": "part-135",
+    "question": "What engine-out route-performance issue can limit IFR passenger charter weight?",
+    "answer": "Applicable multiengine requirements may demand positive climb with the critical engine inoperative at specified route altitudes; use approved data and exceptions correctly.",
+    "source": "14 CFR 135.181",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.181"
+  },
+  {
+    "id": "P135-084",
+    "category": "part-135",
+    "question": "Why must a charter landplane's overwater route be assessed for engine failure?",
+    "answer": "The rule imposes overwater performance and distance restrictions with specified exceptions; consider whether a safe landing remains possible after loss of power.",
+    "source": "14 CFR 135.183",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.183"
+  },
+  {
+    "id": "P135-085",
+    "category": "part-135",
+    "question": "Why should charter dispatch examine the aircraft empty weight and CG records?",
+    "answer": "Required current weighing/loading information supports the performance and balance calculation for the actual aircraft.",
+    "source": "14 CFR 135.185",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.185"
+  },
+  {
+    "id": "P135-086",
+    "category": "part-135",
+    "question": "What extra obstacle margin applies to Part 135 airplane night VFR planning?",
+    "answer": "Outside takeoff and landing, use the rule's obstacle-based route margins, including the greater designated-mountainous-terrain requirement.",
+    "source": "14 CFR 135.203",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.203"
+  },
+  {
+    "id": "P135-087",
+    "category": "part-135",
+    "question": "A daytime charter route passes close beside a tower. What does Part 135 add?",
+    "answer": "The VFR airplane minimum includes horizontal obstacle clearance as well as height above the surface; evaluate both.",
+    "source": "14 CFR 135.203",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.203"
+  },
+  {
+    "id": "P135-088",
+    "category": "part-135",
+    "question": "Can a charter airplane always use ordinary Part 91 Class G visibility minima?",
+    "answer": "No. Part 135 imposes additional VFR visibility restrictions; apply the more restrictive applicable requirements.",
+    "source": "14 CFR 135.205",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.205"
+  },
+  {
+    "id": "P135-089",
+    "category": "part-135",
+    "question": "What must a VFR charter pilot be able to do with surface references?",
+    "answer": "Maintain visual surface reference as required, subject to the rule's authorized exceptions; simply staying outside clouds may not suffice.",
+    "source": "14 CFR 135.207",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.207"
+  },
+  {
+    "id": "P135-090",
+    "category": "part-135",
+    "question": "How should a charter fuel plan account for VFR reserve requirements?",
+    "answer": "Use the applicable aircraft and day/night reserve rule, then add practical margins for wind, delays, and diversion uncertainty.",
+    "source": "14 CFR 135.209",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.209"
+  },
+  {
+    "id": "P135-091",
+    "category": "part-135",
+    "question": "Why does VFR over-the-top charter require more planning than a clear cruise layer?",
+    "answer": "The flight must meet conditions supporting a lawful descent or continuation and applicable engine-failure provisions, not merely clear weather above the clouds.",
+    "source": "14 CFR 135.211",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.211"
+  },
+  {
+    "id": "P135-092",
+    "category": "part-135",
+    "question": "Which weather sources are acceptable when Part 135 requires a report or forecast?",
+    "answer": "The National Weather Service, an NWS-approved source, or an FAA-approved source; the rule includes a limited VFR observation allowance.",
+    "source": "14 CFR 135.213",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.213"
+  },
+  {
+    "id": "P135-093",
+    "category": "part-135",
+    "question": "Can an IFR charter use a distant airport's report automatically as destination weather?",
+    "answer": "No. Required observations normally come from the airport being used unless operations specifications specifically authorize another location.",
+    "source": "14 CFR 135.213",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.213"
+  },
+  {
+    "id": "P135-094",
+    "category": "part-135",
+    "question": "When departure weather is below authorized landing minima, what does charter planning require?",
+    "answer": "Consider the specific departure-alternate requirement and its location, weather, and performance conditions before takeoff.",
+    "source": "14 CFR 135.217",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.217"
+  },
+  {
+    "id": "P135-095",
+    "category": "part-135",
+    "question": "What destination weather gate applies before an IFR charter takeoff?",
+    "answer": "Applicable reports or forecasts must support the rule's destination conditions at the planned arrival time; verify the exact authorization and exceptions.",
+    "source": "14 CFR 135.219",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.219"
+  },
+  {
+    "id": "P135-096",
+    "category": "part-135",
+    "question": "Why is a convenient alternate not necessarily legal for a charter release?",
+    "answer": "The alternate must meet the operator's authorized weather minima and applicable rule at the planned time of use.",
+    "source": "14 CFR 135.221",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.221"
+  },
+  {
+    "id": "P135-097",
+    "category": "part-135",
+    "question": "What does IFR charter fuel planning normally include beyond reaching destination?",
+    "answer": "Fuel to the destination, then the required alternate, then the specified reserve; apply the rule's exception only when all its conditions are met.",
+    "source": "14 CFR 135.223",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.223"
+  },
+  {
+    "id": "P135-098",
+    "category": "part-135",
+    "question": "Why should the charter alternate decision use ceiling height above circling minima?",
+    "answer": "The no-alternate exception uses its own ceiling test, not simply the familiar domestic-airline or private-flight shortcut.",
+    "source": "14 CFR 135.223",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.223"
+  },
+  {
+    "id": "P135-099",
+    "category": "part-135",
+    "question": "What is the usual weather gate for beginning a Part 135 instrument approach?",
+    "answer": "An approved reporting facility and the latest report indicating conditions at or above authorized landing minima, unless a specific exception applies.",
+    "source": "14 CFR 135.225",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.225"
+  },
+  {
+    "id": "P135-100",
+    "category": "part-135",
+    "question": "How is an eligible on-demand approach to an airport without weather reporting different?",
+    "answer": "It requires the particular exception's conditions, including alternate and weather assessment provisions; eligibility alone is not blanket permission.",
+    "source": "14 CFR 135.225",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.225"
+  },
+  {
+    "id": "P135-101",
+    "category": "part-135",
+    "question": "Weather drops after the charter airplane passes the FAF legally. What must the crew evaluate?",
+    "answer": "The rule permits continuation in specified circumstances, but descent below minima and landing still require the applicable visual and landing conditions.",
+    "source": "14 CFR 135.225",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.225"
+  },
+  {
+    "id": "P135-102",
+    "category": "part-135",
+    "question": "Does an ATC takeoff clearance satisfy charter takeoff-weather requirements?",
+    "answer": "No. Meet authorized takeoff minima and all operator and aircraft conditions independently of ATC clearance.",
+    "source": "14 CFR 135.225",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.225"
+  },
+  {
+    "id": "P135-103",
+    "category": "part-135",
+    "question": "Why is charter icing approval more than having boots and heated probes?",
+    "answer": "The aircraft's approved equipment, training, forecast/known icing limits, and any ground-deicing program must support the actual operation.",
+    "source": "14 CFR 135.227",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.227"
+  },
+  {
+    "id": "P135-104",
+    "category": "part-135",
+    "question": "Can a charter airplane take off with unapproved frost contamination because it is thin?",
+    "answer": "No. Apply clean-aircraft requirements and only specifically permitted exceptions; visual thinness is not an authorization.",
+    "source": "14 CFR 135.227",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.227"
+  },
+  {
+    "id": "P135-105",
+    "category": "part-135",
+    "question": "What makes an airport adequate for a charter trip?",
+    "answer": "Its size, surface, obstructions, lighting, and other conditions must support the actual proposed operation and performance.",
+    "source": "14 CFR 135.229",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.229"
+  },
+  {
+    "id": "P135-106",
+    "category": "part-135",
+    "question": "What must a charter airplane pilot verify about a passenger destination at night?",
+    "answer": "Required wind-direction information and clearly marked landing/takeoff limits, as well as airport and aircraft suitability.",
+    "source": "14 CFR 135.229",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.229"
+  },
+  {
+    "id": "P135-107",
+    "category": "part-135",
+    "question": "What certificate is required for a passenger-carrying turbojet Part 135 PIC?",
+    "answer": "An ATP with appropriate ratings and any required type rating, plus all other applicable operator qualifications.",
+    "source": "14 CFR 135.243",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.243"
+  },
+  {
+    "id": "P135-108",
+    "category": "part-135",
+    "question": "Why do commercial-certificate privileges alone not establish IFR charter PIC eligibility?",
+    "answer": "Part 135 adds aeronautical-experience, instrument, training, and checking requirements for that assignment.",
+    "source": "14 CFR 135.243",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.243"
+  },
+  {
+    "id": "P135-109",
+    "category": "part-135",
+    "question": "How should a pilot evaluate eligibility for a new charter aircraft assignment?",
+    "answer": "Match category, class, type, certificate, experience, and operator training/checking to the actual aircraft and operation.",
+    "source": "14 CFR 135.243",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.243"
+  },
+  {
+    "id": "P135-110",
+    "category": "part-135",
+    "question": "What is the usual certificate baseline for a Part 135 SIC?",
+    "answer": "At least a commercial certificate with appropriate category/class and an instrument rating, subject to the specific helicopter VFR exception.",
+    "source": "14 CFR 135.245",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.245"
+  },
+  {
+    "id": "P135-111",
+    "category": "part-135",
+    "question": "Why must a charter SIC's instrument experience be checked separately?",
+    "answer": "IFR SIC service has applicable instrument-experience requirements; possessing an instrument rating alone is not enough.",
+    "source": "14 CFR 135.245",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.245"
+  },
+  {
+    "id": "P135-112",
+    "category": "part-135",
+    "question": "What does charter landing recency establish, and what does it not establish?",
+    "answer": "It addresses recent takeoffs and landings for passenger PIC service; it does not replace operator checks, training, or aircraft qualification.",
+    "source": "14 CFR 135.247",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.247"
+  },
+  {
+    "id": "P135-113",
+    "category": "part-135",
+    "question": "May simulator takeoffs and landings be counted casually for charter recency?",
+    "answer": "Only when the device, course, and applicable approval meet the rule; ordinary unsupervised simulation is insufficient.",
+    "source": "14 CFR 135.247",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.247"
+  },
+  {
+    "id": "P135-114",
+    "category": "part-135",
+    "question": "Why does fatigue legality require more than counting today's airborne hours?",
+    "answer": "Applicable commercial flying, preceding rest, scheduling provisions, and other flight-time limits must be considered.",
+    "source": "14 CFR 135.263",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.263"
+  },
+  {
+    "id": "P135-115",
+    "category": "part-135",
+    "question": "Does an unforeseen delay justify knowingly scheduling an illegal charter duty plan?",
+    "answer": "No. Planning must comply with the applicable limits; unforeseen circumstances provisions are not routine scheduling tools.",
+    "source": "14 CFR 135.263",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.263"
+  },
+  {
+    "id": "P135-116",
+    "category": "part-135",
+    "question": "Why must a scheduled passenger operator identify its correct duty/rest rule?",
+    "answer": "Scheduled and unscheduled operations can fall under different provisions; do not automatically apply an on-demand limit.",
+    "source": "14 CFR 135.265",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.265"
+  },
+  {
+    "id": "P135-117",
+    "category": "part-135",
+    "question": "What commercial flying counts toward unscheduled one- and two-pilot Part 135 cumulative limits?",
+    "answer": "All commercial flying covered by the rule, not just flights for the current employer.",
+    "source": "14 CFR 135.267",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.267"
+  },
+  {
+    "id": "P135-118",
+    "category": "part-135",
+    "question": "What basic 24-hour flight-time limits apply to unscheduled one- and two-pilot crews?",
+    "answer": "Normally eight hours for one pilot or ten for two qualified pilots, with the rule's specific alternative and rest provisions.",
+    "source": "14 CFR 135.267",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.267"
+  },
+  {
+    "id": "P135-119",
+    "category": "part-135",
+    "question": "Why is the regularly assigned 14-hour duty provision not a universal charter duty entitlement?",
+    "answer": "Its flight-time and preceding/following rest conditions must all be met; other assignments and limits may prevent its use.",
+    "source": "14 CFR 135.267",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.267"
+  },
+  {
+    "id": "P135-120",
+    "category": "part-135",
+    "question": "What quarterly and annual flight-time limits apply under § 135.267(a)?",
+    "answer": "500 hours per calendar quarter, 800 in two consecutive quarters, and 1,400 per calendar year, counting covered commercial flying.",
+    "source": "14 CFR 135.267",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.267"
+  },
+  {
+    "id": "P135-121",
+    "category": "part-135",
+    "question": "Why do three- and four-pilot charter crews need their own fatigue-rule review?",
+    "answer": "They operate under different provisions from unscheduled one- and two-pilot crews; extra pilots alone do not authorize a longer assignment.",
+    "source": "14 CFR 135.269",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.269"
+  },
+  {
+    "id": "P135-122",
+    "category": "part-135",
+    "question": "Why must an operator track cabin-crewmember rest separately?",
+    "answer": "Flight-attendant duty and rest provisions are distinct from pilot limits and must be satisfied for the assigned cabin crew.",
+    "source": "14 CFR 135.273",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.273"
+  },
+  {
+    "id": "P135-123",
+    "category": "part-135",
+    "question": "What is the usual Part 135 recurrent knowledge and competency-check interval?",
+    "answer": "Within the preceding 12-calendar-month framework specified by the rule; the checks cover operator, aircraft, and assigned-pilot knowledge and competency.",
+    "source": "14 CFR 135.293",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.293"
+  },
+  {
+    "id": "P135-124",
+    "category": "part-135",
+    "question": "Why may a charter competency check include an emergency not used on the last trip?",
+    "answer": "The check evaluates capability for the aircraft and operation, including required abnormal and emergency procedures, rather than only routine line experience.",
+    "source": "14 CFR 135.293",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.293"
+  },
+  {
+    "id": "P135-125",
+    "category": "part-135",
+    "question": "What is the usual instrument-proficiency-check interval for a Part 135 IFR PIC?",
+    "answer": "Within the preceding six-calendar-month framework specified in the rule, using an authorized check pilot or the FAA.",
+    "source": "14 CFR 135.297",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.297"
+  },
+  {
+    "id": "P135-126",
+    "category": "part-135",
+    "question": "Why must an IFR charter captain review approach types demonstrated on the last check?",
+    "answer": "The rule separately controls eligibility to use precision and nonprecision procedure types; a generic check date is not the whole assessment.",
+    "source": "14 CFR 135.297",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.297"
+  },
+  {
+    "id": "P135-127",
+    "category": "part-135",
+    "question": "What does the Part 135 PIC line check evaluate?",
+    "answer": "Competent performance of PIC duties on a representative route or operational flight under the applicable checking provisions.",
+    "source": "14 CFR 135.299",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.299"
+  },
+  {
+    "id": "P135-128",
+    "category": "part-135",
+    "question": "How does Part 135 credit a covered check completed in an adjacent calendar month?",
+    "answer": "The rule permits credit to the required month when completed in the month before or after, subject to its scope and approved procedures.",
+    "source": "14 CFR 135.301",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.301"
+  },
+  {
+    "id": "P135-129",
+    "category": "part-135",
+    "question": "Why must a charter operator have an approved training program rather than rely on pilot self-study?",
+    "answer": "The program must provide the training and qualification needed for assigned duties under the applicable requirements.",
+    "source": "14 CFR 135.323",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.323"
+  },
+  {
+    "id": "P135-130",
+    "category": "part-135",
+    "question": "What is the purpose of Part 135 crew emergency training?",
+    "answer": "Teach the equipment, assignments, coordination, and emergency actions relevant to the aircraft and operation.",
+    "source": "14 CFR 135.331",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.331"
+  },
+  {
+    "id": "P135-131",
+    "category": "part-135",
+    "question": "Why is crew resource management important in charter training?",
+    "answer": "It addresses communication, teamwork, decision-making, and workload skills within the operator's required training program.",
+    "source": "14 CFR 135.329",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.329"
+  },
+  {
+    "id": "P135-132",
+    "category": "part-135",
+    "question": "How does differences training help a charter pilot flying variants of one type?",
+    "answer": "It addresses relevant systems, limitations, procedures, and handling differences that a common aircraft designation can hide.",
+    "source": "14 CFR 135.329",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.329"
+  },
+  {
+    "id": "P135-133",
+    "category": "part-135",
+    "question": "What should charter ground training teach beyond memorized limitations?",
+    "answer": "Aircraft systems, performance, normal/abnormal procedures, operator rules, and practical application appropriate to the duty position.",
+    "source": "14 CFR 135.345",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.345"
+  },
+  {
+    "id": "P135-134",
+    "category": "part-135",
+    "question": "Why does initial charter flight training need aircraft-specific maneuvers?",
+    "answer": "The program must develop proficiency for the assigned aircraft and duty position, including applicable failures and emergencies.",
+    "source": "14 CFR 135.347",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.347"
+  },
+  {
+    "id": "P135-135",
+    "category": "part-135",
+    "question": "What is the purpose of recurrent charter training?",
+    "answer": "Maintain current proficiency and refresh required knowledge and maneuvers, including changes and weaknesses relevant to the assignment.",
+    "source": "14 CFR 135.351",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.351"
+  },
+  {
+    "id": "P135-136",
+    "category": "part-135",
+    "question": "Why must large transport-category charter airplanes use approved performance data?",
+    "answer": "The applicable operating limitations and performance rules rely on approved airplane data for the actual weight and conditions.",
+    "source": "14 CFR 135.363",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.363"
+  },
+  {
+    "id": "P135-137",
+    "category": "part-135",
+    "question": "How can runway and obstacles limit a charter jet below structural takeoff weight?",
+    "answer": "Applicable takeoff distances, engine-out climb, obstacles, wind, temperature, and runway conditions can impose a lower allowable weight.",
+    "source": "14 CFR 135.379",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.379"
+  },
+  {
+    "id": "P135-138",
+    "category": "part-135",
+    "question": "Why must charter engine-out en route planning examine the complete route?",
+    "answer": "Terrain and obstacle clearance must remain acceptable along the approved net flightpath, including diversion options and changing weight.",
+    "source": "14 CFR 135.381",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.381"
+  },
+  {
+    "id": "P135-139",
+    "category": "part-135",
+    "question": "What is the usual dry-runway landing-distance dispatch factor for covered large turbine charter airplanes?",
+    "answer": "The applicable landing distance must fit within 60 percent of effective runway length under the specified conditions, unless an authorized alternative applies.",
+    "source": "14 CFR 135.385",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.385"
+  },
+  {
+    "id": "P135-140",
+    "category": "part-135",
+    "question": "What permits eligible on-demand operators to use the alternative landing-distance provision?",
+    "answer": "Specific eligibility, approved destination-airport-analysis procedures, and all conditions of the regulatory alternative; not merely a pilot's judgment.",
+    "source": "14 CFR 135.385",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.385"
+  },
+  {
+    "id": "P135-141",
+    "category": "part-135",
+    "question": "Why must a covered charter turbojet's wet-runway dispatch calculation be checked separately?",
+    "answer": "Additional wet/slippery runway provisions or approved data can increase required runway; a dry calculation alone is insufficient.",
+    "source": "14 CFR 135.385",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.385"
+  },
+  {
+    "id": "P135-142",
+    "category": "part-135",
+    "question": "Why might a small charter aircraft have an approved aircraft inspection program?",
+    "answer": "The FAA can require an AAIP appropriate to the operation; its intervals and tasks become part of maintenance compliance.",
+    "source": "14 CFR 135.419",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.419"
+  },
+  {
+    "id": "P135-143",
+    "category": "part-135",
+    "question": "What maintenance-program issue arises for charter engines and appliances?",
+    "answer": "Applicable additional manufacturer maintenance requirements and approved programs must be followed for the equipment covered by the rule.",
+    "source": "14 CFR 135.421",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.421"
+  },
+  {
+    "id": "P135-144",
+    "category": "part-135",
+    "question": "Why are charter maintenance records part of the flight-safety chain?",
+    "answer": "They document required work, inspections, approvals, and status needed to demonstrate continuing airworthiness.",
+    "source": "14 CFR 135.439",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.439"
+  },
+  {
+    "id": "P135-145",
+    "category": "part-135",
+    "question": "What must happen after required charter maintenance before release to service?",
+    "answer": "An authorized airworthiness release or maintenance-log entry must certify the required completion and condition under the operator's system.",
+    "source": "14 CFR 135.443",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.443"
+  },
+  {
+    "id": "P135-146",
+    "category": "part-135",
+    "question": "Why must a no-carry charter operator still train personnel about hazardous materials?",
+    "answer": "It still needs the applicable recognition, rejection, reporting, and other dangerous-goods training for assigned functions.",
+    "source": "14 CFR 135.501",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.501"
+  },
+  {
+    "id": "P135-147",
+    "category": "part-135",
+    "question": "Why is hazardous-materials training matched to employee duties?",
+    "answer": "Accepting, handling, loading, and operating personnel have different responsibilities and must be trained for the functions they perform.",
+    "source": "14 CFR 135.503",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.503"
+  },
+  {
+    "id": "P135-148",
+    "category": "part-135",
+    "question": "How should a charter operator document dangerous-goods training?",
+    "answer": "Maintain the required employee training records so qualification and currency can be established.",
+    "source": "14 CFR 135.507",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.507"
+  },
+  {
+    "id": "P135-149",
+    "category": "part-135",
+    "question": "What is a helicopter air-ambulance preflight risk analysis intended to accomplish?",
+    "answer": "Identify and assess the applicable operational hazards before the flight and apply the certificate holder’s required risk-analysis and approval procedures.",
+    "source": "14 CFR 135.617",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.617"
+  },
+  {
+    "id": "P135-150",
+    "category": "part-135",
+    "question": "Why is an HAA exception for an airport without weather reporting not general charter authority?",
+    "answer": "It has specialized conditions and scope; unrelated Part 135 flights cannot borrow that exception.",
+    "source": "14 CFR 135.611",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-135.611"
+  },
+  {
+    "id": "INTL-001",
+    "category": "international-oceanic",
+    "question": "Why does an oceanic flight require regional planning instead of a single worldwide checklist?",
+    "answer": "States and regions differ in airspace, equipment, approvals, communications, and contingency procedures; consult current AIPs and notices for every region.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-002",
+    "category": "international-oceanic",
+    "question": "What is an AIP used for in international flight planning?",
+    "answer": "It publishes a state's enduring aeronautical information, including rules, facilities, procedures, and differences relevant to operations there.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-003",
+    "category": "international-oceanic",
+    "question": "How do international NOTAMs complement an AIP?",
+    "answer": "They communicate temporary or recent operational changes and hazards that may supersede baseline published information.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-004",
+    "category": "international-oceanic",
+    "question": "Why does a U.S. aircraft remain subject to U.S. rules abroad?",
+    "answer": "Applicable U.S. requirements continue while foreign-country operating rules and international provisions also apply; resolve the combination before flight.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-005",
+    "category": "international-oceanic",
+    "question": "Does an ICAO recommendation automatically become a pilot's domestic regulation?",
+    "answer": "No. Determine how applicable states implement it and what the operator's approvals require.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-006",
+    "category": "international-oceanic",
+    "question": "Why should foreign overflight permission be checked separately from an ATC flight plan?",
+    "answer": "A filed or accepted flight plan does not necessarily satisfy sovereign overflight, landing, diplomatic, or other entry permissions.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-007",
+    "category": "international-oceanic",
+    "question": "Why verify customs and immigration arrangements before choosing an international destination?",
+    "answer": "Airport operating permission and border-entry permission are separate; required facilities, notices, and opening hours affect usability.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-008",
+    "category": "international-oceanic",
+    "question": "What is a flight-information region boundary's practical significance?",
+    "answer": "Responsibility for ATS may change there, requiring specified contact, reporting, and transfer procedures.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-009",
+    "category": "international-oceanic",
+    "question": "Why is an oceanic control area not necessarily the same as territorial airspace?",
+    "answer": "ATS responsibility over the high seas can be delegated without making the area a state's sovereign territory.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-010",
+    "category": "international-oceanic",
+    "question": "What makes a remote continental route operationally similar to an oceanic route?",
+    "answer": "Limited surveillance, VHF communications, and ground navigation aids can require long-range systems and procedural separation.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-011",
+    "category": "international-oceanic",
+    "question": "Why must crew documentation be reviewed for each international itinerary?",
+    "answer": "Licenses, medicals, travel documents, visas, and required validations can differ by state and operation.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-012",
+    "category": "international-oceanic",
+    "question": "A handler says no additional approvals are needed. What should the operator verify?",
+    "answer": "The actual route, aircraft capabilities, required authorizations, entry requirements, and controlling state publications rather than relying on informal assurance.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-013",
+    "category": "international-oceanic",
+    "question": "Why must international training include contingency procedures before departure?",
+    "answer": "Remote failures can demand prompt precise action without immediate ATC assistance; reading the procedure for the first time during failure increases risk.",
+    "source": "FAA AC 91-70D, chapter 3; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-014",
+    "category": "international-oceanic",
+    "question": "What should a relief pilot understand before assuming oceanic duties?",
+    "answer": "The current clearance, route and offsets, position, communications status, system condition, fuel, weather, and pending actions.",
+    "source": "FAA AC 91-70D, chapter 3; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-015",
+    "category": "international-oceanic",
+    "question": "At oceanic entry, one long-range navigation system disagrees substantially with the others. Is an improvised airborne alignment a sound correction?",
+    "answer": "No. Follow the flight-manual accuracy-check and failure procedures, rank usable systems, and advise ATC as necessary. The FAA warns that airborne alignment or manual position updates can worsen the error.",
+    "source": "FAA AC 91-70D, Appendix D, D.2.5.1",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-016",
+    "category": "international-oceanic",
+    "question": "What does effective oceanic workload planning assign between pilots?",
+    "answer": "Route entry and independent verification, communications, plotting, fuel checks, reporting, and failure-management responsibilities.",
+    "source": "FAA AC 91-70D, chapter 3; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-017",
+    "category": "international-oceanic",
+    "question": "Why should a crew brief regional differences in lost communications?",
+    "answer": "Domestic memory aids may not match oceanic expectations for cleared routing, level, speed, and timing.",
+    "source": "FAA AC 91-70D, chapter 3; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-018",
+    "category": "international-oceanic",
+    "question": "How should a crew prepare for high-latitude navigation limitations?",
+    "answer": "Review magnetic unreliability, approved heading references, navigation coverage, and the aircraft's polar limitations and procedures.",
+    "source": "FAA AC 91-70D, chapter 3; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-019",
+    "category": "international-oceanic",
+    "question": "What does a long-range navigation system provide beyond a radio receiver?",
+    "answer": "Approved positioning and guidance suitable for the intended remote operation using supported sensor inputs and integrity capabilities.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-020",
+    "category": "international-oceanic",
+    "question": "Why are two displays not necessarily two independent long-range navigation systems?",
+    "answer": "They may share a receiver, antenna, power source, or computing unit; independence concerns failure paths, not screen count.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-021",
+    "category": "international-oceanic",
+    "question": "How do RNAV and RNP navigation specifications differ?",
+    "answer": "RNP includes onboard performance monitoring and alerting; RNAV specifications do not require that feature as part of the specification.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-022",
+    "category": "international-oceanic",
+    "question": "What does an RNP accuracy number represent operationally?",
+    "answer": "The specified lateral navigation accuracy in nautical miles under the navigation specification's conditions; other integrity and functionality requirements also apply.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-023",
+    "category": "international-oceanic",
+    "question": "Why is demonstrated aircraft accuracy not enough to claim an oceanic authorization?",
+    "answer": "Operator training, procedures, maintenance, documentation, and specific approval requirements also apply.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-024",
+    "category": "international-oceanic",
+    "question": "What is PBCS intended to support?",
+    "answer": "Performance-based communication and surveillance requirements supporting specified ATS separation and airspace operations.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-025",
+    "category": "international-oceanic",
+    "question": "How are RCP and RSP different?",
+    "answer": "RCP addresses communication performance; RSP addresses surveillance performance. They support different parts of the separation assurance system.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-026",
+    "category": "international-oceanic",
+    "question": "Why should an operator avoid filing unsupported PBCS capabilities?",
+    "answer": "ATC may use reduced separation based on the filed capability; inaccurate declarations undermine the basis for clearance.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-027",
+    "category": "international-oceanic",
+    "question": "What is CPDLC's basic role over the ocean?",
+    "answer": "Exchange ATC messages digitally between controller and flightcrew using the appropriate data-link service and procedures.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-028",
+    "category": "international-oceanic",
+    "question": "What is ADS-C's basic role over the ocean?",
+    "answer": "Automatically provide surveillance reports under a contract established between the aircraft and the ground system.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-029",
+    "category": "international-oceanic",
+    "question": "Why does ADS-B capability not establish ADS-C capability?",
+    "answer": "Broadcast surveillance and contract-based reporting use different functions and requirements; one equipment code cannot stand in for the other.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-030",
+    "category": "international-oceanic",
+    "question": "Why must CPDLC logon use the correct flight identification?",
+    "answer": "Mismatch between aircraft logon and filed flight identity can prevent association and delay service.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-031",
+    "category": "international-oceanic",
+    "question": "What should the crew verify after a data-link logon?",
+    "answer": "The intended ATS unit and appropriate connection status, rather than assuming entry of a logon request established service.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-032",
+    "category": "international-oceanic",
+    "question": "Does a CPDLC connection guarantee an active ADS-C contract?",
+    "answer": "No. Check the separate surveillance function and required reporting status using the aircraft procedures.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-033",
+    "category": "international-oceanic",
+    "question": "Why is voice backup still important with working CPDLC?",
+    "answer": "Data link can fail or be unsuitable for urgent clarification; maintain the prescribed alternate communications capability.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-034",
+    "category": "international-oceanic",
+    "question": "How does an HF radio differ practically from VHF in remote operations?",
+    "answer": "HF supports beyond-line-of-sight communication but can have variable propagation and interference requiring frequency and technique changes.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-035",
+    "category": "international-oceanic",
+    "question": "What does a SELCAL check establish?",
+    "answer": "That selective calling can alert the crew through the assigned communications path; it does not prove all subsequent communication will succeed.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-036",
+    "category": "international-oceanic",
+    "question": "Does SELCAL relieve a crew of all communications monitoring?",
+    "answer": "No. Follow the region's listening-watch and SELCAL procedures and maintain readiness to respond.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-037",
+    "category": "international-oceanic",
+    "question": "Why may oceanic radio personnel relay rather than issue clearances themselves?",
+    "answer": "Communications stations can pass messages between aircraft and controllers; distinguish relay services from the controlling authority.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-038",
+    "category": "international-oceanic",
+    "question": "When is satvoice usefulness limited despite a working phone?",
+    "answer": "Availability, approval, routing, contact numbers, system coverage, and ATS procedures can restrict its operational use.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-039",
+    "category": "international-oceanic",
+    "question": "What should an oceanic communications briefing include besides frequencies?",
+    "answer": "Logon addresses, SELCAL, primary and backup services, changeover points, emergency contacts, and failure procedures.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-040",
+    "category": "international-oceanic",
+    "question": "Why should an HF outage be assessed before entering remote airspace?",
+    "answer": "Required long-range communication capability may no longer be satisfied even when local VHF works.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-041",
+    "category": "international-oceanic",
+    "question": "A CPDLC message seems inconsistent with the voice clearance. What should the crew do?",
+    "answer": "Clarify with ATC using an appropriate channel before executing the disputed instruction; do not choose whichever seems convenient.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-042",
+    "category": "international-oceanic",
+    "question": "Why must CPDLC clearance responses follow the specified message procedure?",
+    "answer": "A correct response closes the clearance transaction; informal text or silence may leave ATC uncertain whether an instruction was accepted.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-043",
+    "category": "international-oceanic",
+    "question": "What does STANDBY mean in a data-link clearance exchange?",
+    "answer": "The crew needs time to evaluate; it is not acceptance and does not itself authorize the proposed maneuver.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-044",
+    "category": "international-oceanic",
+    "question": "Why should an oceanic crew check active versus next ATS-unit status?",
+    "answer": "A transfer can be pending rather than complete; communications with the wrong unit can delay clearance or reporting.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-045",
+    "category": "international-oceanic",
+    "question": "How can inertial navigation degrade during a long remote flight?",
+    "answer": "Position error can grow when updates are unavailable; monitor performance and compare available independent references.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-046",
+    "category": "international-oceanic",
+    "question": "Why check GNSS prediction and interference information for remote routing?",
+    "answer": "Loss or degradation may affect the required navigation performance, available backups, and route eligibility.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-047",
+    "category": "international-oceanic",
+    "question": "What is the practical significance of WGS 84 for international navigation?",
+    "answer": "Consistent geodetic coordinates help ensure charts, procedures, and navigation databases refer to the same positions.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-048",
+    "category": "international-oceanic",
+    "question": "Why can a non-WGS-84 airport require special care?",
+    "answer": "Coordinate discrepancies can affect RNAV use; consult published limitations and operator guidance before relying on the procedure.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-049",
+    "category": "international-oceanic",
+    "question": "What must an oceanic equipment review include beyond an MEL's general dispatch approval?",
+    "answer": "The deferred item's effect on route-specific communications, navigation, surveillance, separation, and special authorizations.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-050",
+    "category": "international-oceanic",
+    "question": "Why check diversion-airport rescue and firefighting capability?",
+    "answer": "A runway may be physically adequate while support capability is unsuitable for the planned extended operation or aircraft.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-051",
+    "category": "international-oceanic",
+    "question": "How do curfews affect remote diversion planning?",
+    "answer": "An alternate's runway, staffing, lighting, and services may be unavailable during the possible arrival window.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-052",
+    "category": "international-oceanic",
+    "question": "What does an equal-time point help a crew decide?",
+    "answer": "Where travel times to specified diversion airports are equal under the assumed conditions; it supports diversion planning, not a compulsory turn point.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-053",
+    "category": "international-oceanic",
+    "question": "Why can engine-out and depressurization equal-time points differ?",
+    "answer": "Their altitudes, speeds, winds, and fuel consumption differ, changing the relative diversion times.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-054",
+    "category": "international-oceanic",
+    "question": "How is a point of safe return different from an equal-time point?",
+    "answer": "It considers whether remaining fuel permits a return under stated assumptions; an ETP compares time to alternatives.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-055",
+    "category": "international-oceanic",
+    "question": "Why recalculate remote diversion options after a significant wind change?",
+    "answer": "The original assumptions for time, fuel, alternates, and critical points may no longer describe the flight.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-056",
+    "category": "international-oceanic",
+    "question": "What should remote fuel planning consider for a depressurization?",
+    "answer": "A safe lower altitude, terrain, oxygen endurance, fuel flow, winds, and the time to a usable diversion airport.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-057",
+    "category": "international-oceanic",
+    "question": "Why is fuel for a normal cruise diversion not necessarily enough after an engine failure?",
+    "answer": "Engine-out altitude and configuration can change speed and consumption; use the applicable critical-fuel scenario.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-058",
+    "category": "international-oceanic",
+    "question": "What determines whether an isolated airport is a dependable destination?",
+    "answer": "Weather, access, runway condition, services, fuel, rescue options, and the lack of a realistic alternate all need consideration.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-059",
+    "category": "international-oceanic",
+    "question": "Why should crew survival equipment match the route's water temperature?",
+    "answer": "Cold-water exposure can become life-threatening quickly; equipment and training must suit realistic ditching and rescue conditions.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-060",
+    "category": "international-oceanic",
+    "question": "What makes a survival kit inaccessible in practice?",
+    "answer": "Stowage that cannot be reached or carried during evacuation can defeat otherwise suitable equipment; plan access and assignment.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-061",
+    "category": "international-oceanic",
+    "question": "Why confirm life-raft capacity and deployment arrangements before remote flight?",
+    "answer": "Occupant numbers, loss-of-raft provisions, accessibility, and usable deployment paths affect survival capability.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-062",
+    "category": "international-oceanic",
+    "question": "Why should a high-latitude dispatch review include fuel temperature?",
+    "answer": "Fuel can approach its operational freezing limitation during long cold-soaked flights; monitor trends and plan approved remedies.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-063",
+    "category": "international-oceanic",
+    "question": "What should an international flight's operational flight plan show for navigation checks?",
+    "answer": "The cleared waypoints, coordinates, tracks, distances, estimates, and other information needed to monitor progress independently.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-064",
+    "category": "international-oceanic",
+    "question": "How should a last-minute oceanic reroute change dispatch preparation?",
+    "answer": "Recheck authorizations, performance, fuel, alternates, equipment, weather, and database entries for the revised route.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-065",
+    "category": "international-oceanic",
+    "question": "Why is an organized track message only part of the flight's authority?",
+    "answer": "It describes a routing structure and conditions; the aircraft still needs the applicable clearances and qualifications.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-066",
+    "category": "international-oceanic",
+    "question": "Why must a North Atlantic track message's validity period be checked?",
+    "answer": "Track structures change with traffic and winds; yesterday's track letter may identify a different route.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-067",
+    "category": "international-oceanic",
+    "question": "What should a crew do if its planned track is unavailable?",
+    "answer": "Obtain and independently verify the revised clearance and reassess fuel and capability rather than fly the filed track automatically.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-068",
+    "category": "international-oceanic",
+    "question": "Why are random routes not exempt from oceanic procedures?",
+    "answer": "They still require appropriate approvals, clearance, separation compliance, navigation checks, and communications.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-069",
+    "category": "international-oceanic",
+    "question": "If the flight plan declares RNP 4, may the FMC navigation alerting threshold be set above 4.0?",
+    "answer": "No. The FMC monitoring and alerting must be consistent with the declared capability; AC 91-70D specifies a threshold no higher than 4.0 for the RNP 4 example.",
+    "source": "FAA AC 91-70D, § 6.4.2.5",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-070",
+    "category": "international-oceanic",
+    "question": "Why verify foreign transition altitude and transition level separately?",
+    "answer": "Their meanings and values can differ, affecting when to change between local pressure settings and standard pressure.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-071",
+    "category": "international-oceanic",
+    "question": "How can mixed altitude units create an international clearance hazard?",
+    "answer": "Feet, meters, or flight-level conventions can be confused; confirm units and apply approved conversions and cross-checks.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-072",
+    "category": "international-oceanic",
+    "question": "What is the oceanic master document?",
+    "answer": "The controlled crew reference recording the effective route clearance and flight progress, used to reconcile navigation and reporting.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-073",
+    "category": "international-oceanic",
+    "question": "Why must amended clearances be recorded on the master document?",
+    "answer": "It must reflect the route actually authorized so later checks and relief-pilot briefings do not rely on the original filed route.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-074",
+    "category": "international-oceanic",
+    "question": "How does independent route verification reduce oceanic navigation errors?",
+    "answer": "A second check against the clearance and full coordinates can detect entry errors that copying or confirming labels alone may miss.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-075",
+    "category": "international-oceanic",
+    "question": "Why check full coordinates rather than just a waypoint's short identifier?",
+    "answer": "Similar abbreviated labels can represent widely separated geographic points or hide degree/minute errors.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-076",
+    "category": "international-oceanic",
+    "question": "What should a crew compare after loading an oceanic flight plan from a data link?",
+    "answer": "The complete active routing, coordinates, tracks, distances, constraints, and clearance against the master reference.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-077",
+    "category": "international-oceanic",
+    "question": "What can an unexpected long leg reveal during oceanic route verification?",
+    "answer": "A wrong coordinate, omitted waypoint, or incorrect sequence; resolve it before proceeding on the suspect leg.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-078",
+    "category": "international-oceanic",
+    "question": "Why must the FROM and TO waypoints be checked at oceanic entry?",
+    "answer": "They establish the active leg; correct waypoints elsewhere in the route do not ensure the airplane is following the cleared segment.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-079",
+    "category": "international-oceanic",
+    "question": "What automation-mode check belongs with oceanic route verification?",
+    "answer": "Confirm the intended navigation steering mode is active, rather than a heading mode that can silently leave the cleared route.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-080",
+    "category": "international-oceanic",
+    "question": "How should a crew verify an oceanic heading change following a waypoint?",
+    "answer": "Check actual turn direction and resulting track against the cleared next leg and expected geometry.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-081",
+    "category": "international-oceanic",
+    "question": "Why compare the FMS track with an independent chart or plotting reference?",
+    "answer": "A self-consistent FMS can accurately fly an incorrectly entered route; an external comparison provides a different error barrier.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-082",
+    "category": "international-oceanic",
+    "question": "What does a plotting check contribute after coast-out?",
+    "answer": "It confirms actual progress and route geometry independently of simply trusting the active navigation display.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-083",
+    "category": "international-oceanic",
+    "question": "Why should a position report use the current cleared route rather than the original flight plan?",
+    "answer": "ATC separation depends on accurate position, estimates, and intentions for the clearance actually being flown.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-084",
+    "category": "international-oceanic",
+    "question": "What information is typically prepared for a procedural position report?",
+    "answer": "Aircraft identity, position and time, flight level, next position and estimate, following position, and any additionally required information.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-085",
+    "category": "international-oceanic",
+    "question": "Why must revised waypoint estimates be reported when required?",
+    "answer": "Longitudinal separation can depend on predicted crossing times; significant changes must reach ATC under regional procedures.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-086",
+    "category": "international-oceanic",
+    "question": "Does ADS-C always eliminate voice position reports?",
+    "answer": "Only when the region and clearance procedures authorize it; confirm the reporting requirement and surveillance status.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-087",
+    "category": "international-oceanic",
+    "question": "Why must the assigned oceanic speed be maintained accurately?",
+    "answer": "ATC can use speed control to preserve longitudinal separation; unapproved changes can close the gap to other traffic.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-088",
+    "category": "international-oceanic",
+    "question": "What should a pilot do when unable to maintain an assigned oceanic Mach number?",
+    "answer": "Notify ATC promptly and obtain a revised clearance or apply the applicable contingency if immediate safety demands it.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-089",
+    "category": "international-oceanic",
+    "question": "Why are unapproved oceanic step climbs dangerous even with no visible traffic?",
+    "answer": "Procedural traffic may be outside visual or onboard detection coverage; altitude changes require clearance except for emergency procedures.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-090",
+    "category": "international-oceanic",
+    "question": "What is strategic lateral offset intended to mitigate?",
+    "answer": "Collision and wake risks from aircraft navigating extremely accurately along the same centerline under the applicable regional procedure.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-091",
+    "category": "international-oceanic",
+    "question": "Why must strategic offset direction and amount be verified regionally?",
+    "answer": "Permitted offsets and increments depend on the applicable procedure and equipment; personal offsets can conflict with the system.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-092",
+    "category": "international-oceanic",
+    "question": "Can strategic lateral offset replace a weather deviation clearance?",
+    "answer": "No. SLOP is a separate normal procedure and does not authorize arbitrary routing around weather.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-093",
+    "category": "international-oceanic",
+    "question": "Why should fuel checks continue after the oceanic clearance is settled?",
+    "answer": "Winds, consumption, leaks, and delays can change diversion viability throughout the remote segment.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-094",
+    "category": "international-oceanic",
+    "question": "What should a relief-pilot handover include about pending data-link messages?",
+    "answer": "Any open clearance transaction, expected transfer, unread message, or deferred response so the new crew does not duplicate or miss action.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-095",
+    "category": "international-oceanic",
+    "question": "What should be checked when returning from oceanic to domestic airspace?",
+    "answer": "Required communications, navigation modes, route and altitude clearance, pressure settings, and offset termination according to local procedures.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-096",
+    "category": "international-oceanic",
+    "question": "When should a crew seek a revised oceanic clearance rather than immediately use a contingency offset?",
+    "answer": "Whenever circumstances allow; coordinated clearance preserves separation more predictably than unilateral deviation.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-097",
+    "category": "international-oceanic",
+    "question": "Why do general oceanic contingencies and weather-deviation contingencies use different procedures?",
+    "answer": "They address different maneuvering needs and separation strategies; do not mix their offsets, altitude adjustments, or trigger conditions.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-098",
+    "category": "international-oceanic",
+    "question": "What should a crew announce when equipment no longer supports the required RNP or RVSM capability?",
+    "answer": "Advise ATS promptly of the inability and cause using the prescribed phraseology, and request an appropriate revised clearance.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-099",
+    "category": "international-oceanic",
+    "question": "How does an engine failure change an oceanic crew's priorities?",
+    "answer": "Control the airplane, apply aircraft procedures, evaluate altitude and diversion needs, coordinate with ATC, and use the correct contingency if clearance cannot be obtained.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-100",
+    "category": "international-oceanic",
+    "question": "Why is an immediate straight-ahead emergency descent potentially hazardous over the ocean?",
+    "answer": "It can cross occupied levels along a busy track; follow applicable emergency and contingency guidance to reduce collision risk while protecting occupants.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-101",
+    "category": "international-oceanic",
+    "question": "What should a weather-deviation request communicate clearly?",
+    "answer": "The required direction and extent of deviation, urgency, and inability to comply if applicable, using the region's procedures.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-102",
+    "category": "international-oceanic",
+    "question": "If ATC cannot approve a necessary weather deviation, what should the crew do?",
+    "answer": "Use the applicable published weather contingency when safety requires it, broadcast intentions as prescribed, and keep trying to coordinate.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-103",
+    "category": "international-oceanic",
+    "question": "Why should crews distinguish loss of one navigation system from loss of all reliable navigation?",
+    "answer": "The remaining capability and regional rules determine whether continued operation, rerouting, or a contingency is appropriate.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-104",
+    "category": "international-oceanic",
+    "question": "What should a remote crew preserve after navigation degradation?",
+    "answer": "Usable independent position information, recent fixes, heading/time calculations, communications, and a clear record of the failure and decisions.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-105",
+    "category": "international-oceanic",
+    "question": "Why does lost CPDLC not necessarily mean total lost communications?",
+    "answer": "HF, VHF, satvoice, or relay paths may remain available; assess and use the approved alternatives.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-106",
+    "category": "international-oceanic",
+    "question": "How can another aircraft help after a remote communications failure?",
+    "answer": "It may relay messages to ATS using prescribed frequencies and procedures; relay assistance does not itself amend the clearance.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-107",
+    "category": "international-oceanic",
+    "question": "What should crews review about an unexpected oceanic ATC-facility shutdown?",
+    "answer": "The applicable contingency communication and routing procedures, notifications, and published regional arrangements.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-108",
+    "category": "international-oceanic",
+    "question": "Why should a remote medical diversion consider more than the nearest runway?",
+    "answer": "Patient needs, medical services, weather, runway suitability, fuel, terrain, and landing support determine the usable option.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-109",
+    "category": "international-oceanic",
+    "question": "Why keep ATS and company informed during an oceanic diversion?",
+    "answer": "They can coordinate traffic, rescue, airport support, weather, and operational assistance while maintaining awareness of the aircraft's intentions.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-110",
+    "category": "international-oceanic",
+    "question": "What is the purpose of automatic aircraft tracking on remote flights?",
+    "answer": "Provide timely position awareness and support overdue-aircraft and search-and-rescue response without depending solely on manual reports.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-111",
+    "category": "international-oceanic",
+    "question": "Why does an ELT not replace a remote flight-tracking and communication plan?",
+    "answer": "It is a distress aid with limitations, not a continuous guarantee of position, communications, or prompt rescue.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-112",
+    "category": "international-oceanic",
+    "question": "A route crosses an active conflict area. Is an ATC clearance sufficient risk approval?",
+    "answer": "No. Review applicable prohibitions, warnings, state restrictions, threat information, and operator risk decisions before accepting the routing.",
+    "source": "FAA AC 91-70D, chapter 2; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-113",
+    "category": "international-oceanic",
+    "question": "Why should international dispatch verify fuel availability and specification at alternates?",
+    "answer": "A physically suitable landing airport may not support onward flight with usable fuel, equipment, payment, or servicing arrangements.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-114",
+    "category": "international-oceanic",
+    "question": "What should happen after a reroute introduces a coordinate not in the navigation database?",
+    "answer": "Enter and verify it using approved manual-coordinate procedures, independently checking hemisphere, degrees, minutes, leg geometry, and clearance.",
+    "source": "FAA AC 91-70D, chapter 6; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-115",
+    "category": "international-oceanic",
+    "question": "Why does a working passenger internet connection not prove operational data-link capability?",
+    "answer": "Cabin connectivity is not evidence of approved ATS communications, required performance, or surveillance service.",
+    "source": "FAA AC 91-70D, chapter 4; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-116",
+    "category": "international-oceanic",
+    "question": "What should a crew verify about volcanic-ash advisories on a remote route?",
+    "answer": "The affected region, levels, movement, alternatives, fuel consequences, and operator avoidance procedures using current official information.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-117",
+    "category": "international-oceanic",
+    "question": "Does the FAA definition of a gross navigation error permit oceanic lateral deviations smaller than 10 NM?",
+    "answer": "No. The 10 NM threshold defines a gross navigation error; it is not an allowable tracking tolerance. Remain on the cleared route and comply with the applicable navigation specification and alerts.",
+    "source": "FAA AC 91-70D, § 6.1.2.2; Appendix A, A.2.35",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-118",
+    "category": "international-oceanic",
+    "question": "Why can ECON or Long Range Cruise speed modes conflict with an assigned fixed oceanic Mach number?",
+    "answer": "Those modes may vary commanded speed as weight or conditions change. An assigned fixed Mach must be maintained unless ATC authorizes a change; select and monitor a compatible speed-control method.",
+    "source": "FAA AC 91-70D, § 6.1.2.3.2",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-119",
+    "category": "international-oceanic",
+    "question": "What is the safest response when the crew cannot confidently recall an oceanic contingency detail?",
+    "answer": "Maintain control, use the current accessible published procedure, coordinate as circumstances permit, and avoid improvising remembered offsets.",
+    "source": "FAA AC 91-70D, chapter 7; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "INTL-120",
+    "category": "international-oceanic",
+    "question": "Why should remote-flight crews check alternate weather over a window rather than only one estimated arrival minute?",
+    "answer": "A diversion can start at different route points and times; the relevant approval and planning rules may require suitability across the possible use period.",
+    "source": "FAA AC 91-70D, chapter 5; current regional AIP and NOTAMs",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70D.pdf"
+  },
+  {
+    "id": "TP-001",
+    "category": "turboprop",
+    "question": "Where does most useful thrust come from in a typical turboprop?",
+    "answer": "The propeller, driven through a reduction gearbox; exhaust also contributes some thrust.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-002",
+    "category": "turboprop",
+    "question": "Why does a turboprop need reduction gearing?",
+    "answer": "Turbine rotational speed is much higher than an efficient propeller speed, so gearing transfers power at usable propeller rpm.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-003",
+    "category": "turboprop",
+    "question": "How does a free-turbine turboprop transmit energy to its propeller?",
+    "answer": "Gas flow drives a separate power turbine mechanically connected to the propeller through gearing, rather than directly coupling the gas generator shaft to it.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-004",
+    "category": "turboprop",
+    "question": "How does a fixed-shaft turboprop differ from a free-turbine design?",
+    "answer": "Its compressor and power-producing turbine/propeller train are mechanically linked; starting and operating characteristics therefore differ.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-005",
+    "category": "turboprop",
+    "question": "Why is a turbine gas-generator speed not the same as propeller rpm?",
+    "answer": "Different shafts and gearing can rotate independently or at different ratios; read the parameter identified for that engine.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-006",
+    "category": "turboprop",
+    "question": "What does turboprop torque indicate?",
+    "answer": "Twisting load transmitted through the shaft or gearbox, a principal power-setting and limitation parameter.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-007",
+    "category": "turboprop",
+    "question": "Why must a turboprop pilot monitor both torque and temperature when setting power?",
+    "answer": "Either can become limiting as conditions change; acceptable torque does not guarantee acceptable turbine temperature.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-008",
+    "category": "turboprop",
+    "question": "How can a hot day change the limiting takeoff-power parameter?",
+    "answer": "Temperature limits can be reached before rated torque; use the actual-condition AFM power-setting method.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-009",
+    "category": "turboprop",
+    "question": "Why may cold dense air make torque limiting at takeoff?",
+    "answer": "The engine can produce sufficient power to reach mechanical torque limits before reaching temperature limits.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-010",
+    "category": "turboprop",
+    "question": "What does ITT or a similar turbine-temperature indication tell the pilot?",
+    "answer": "Temperature at the installation's specified sensing location; its name and allowable values depend on the engine design.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-011",
+    "category": "turboprop",
+    "question": "Why are turbine temperature limits not interchangeable between turboprops?",
+    "answer": "Different sensing locations, hardware, ratings, and approved procedures give the values different meanings.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-012",
+    "category": "turboprop",
+    "question": "What does a turboprop power lever normally command in forward flight?",
+    "answer": "Engine power through the fuel/engine-control system, while the propeller governor maintains selected rpm within its operating range.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-013",
+    "category": "turboprop",
+    "question": "What does a conventional turboprop propeller lever select?",
+    "answer": "The governing propeller rpm and, through designated positions, functions such as feathering where provided.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-014",
+    "category": "turboprop",
+    "question": "What does a turboprop condition lever commonly control?",
+    "answer": "Functions such as fuel cutoff and gas-generator idle selection; exact functions and positions vary by installation.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-015",
+    "category": "turboprop",
+    "question": "Why must turbine-engine control lever names be learned for the actual aircraft?",
+    "answer": "Lever functions, gates, detents, and interlocks differ; a familiar label does not ensure an identical action.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-016",
+    "category": "turboprop",
+    "question": "How does a constant-speed propeller respond to increasing engine power within its governing range?",
+    "answer": "It increases blade angle to absorb more power while maintaining the selected rpm.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-017",
+    "category": "turboprop",
+    "question": "What is an on-speed propeller governor condition?",
+    "answer": "Actual rpm matches selected rpm, so the governor does not command a corrective pitch change.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-018",
+    "category": "turboprop",
+    "question": "How does a governor respond to propeller overspeed within its control capability?",
+    "answer": "It commands a blade-angle change that increases absorbed load and reduces rpm toward the selected value.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-019",
+    "category": "turboprop",
+    "question": "Why can a constant-speed propeller leave its governing range?",
+    "answer": "At low power or a blade-angle stop, the governor may no longer have enough pitch authority to hold selected rpm.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-020",
+    "category": "turboprop",
+    "question": "What does feathering a turboprop propeller accomplish after a failure?",
+    "answer": "It aligns blades to reduce drag from the unpowered propeller, improving the aircraft's available performance.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-021",
+    "category": "turboprop",
+    "question": "Why can an unfeathered failed-engine propeller seriously impair climb?",
+    "answer": "Windmilling and low blade angle can create large drag that consumes the remaining engine's performance margin.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-022",
+    "category": "turboprop",
+    "question": "Does selecting feather necessarily make every turboprop propeller stop instantly?",
+    "answer": "No. Rotation and stopping behavior depend on the design, airflow, and system condition; verify the expected indications.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-023",
+    "category": "turboprop",
+    "question": "What is autofeather intended to do on equipped turboprops?",
+    "answer": "Automatically initiate feathering under the system's qualifying failure conditions to reduce drag during critical phases.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-024",
+    "category": "turboprop",
+    "question": "Why must autofeather arming be verified rather than assumed?",
+    "answer": "Its operation depends on specific arming conditions, switches, power settings, and sensor logic.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-025",
+    "category": "turboprop",
+    "question": "Does autofeather remove the need to identify and secure a failed engine?",
+    "answer": "No. Follow the aircraft's failure identification, verification, control, and securing procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-026",
+    "category": "turboprop",
+    "question": "How does negative torque sensing differ from autofeather?",
+    "answer": "NTS reduces drag by moving blade angle toward feather under qualifying negative torque; it is not necessarily a complete automatic feathering system.",
+    "source": "FAA Lessons Learned, SA227; propeller NTS and feathering",
+    "sourceUrl": "https://www.faa.gov/lessons_learned/small_airplane/accidents/C-FFZN"
+  },
+  {
+    "id": "TP-027",
+    "category": "turboprop",
+    "question": "Why must pilots not rely on NTS alone after engine power loss?",
+    "answer": "It may not fully feather or provide the required final drag reduction; complete the approved engine-failure checklist promptly.",
+    "source": "FAA Lessons Learned, SA227; propeller NTS and feathering",
+    "sourceUrl": "https://www.faa.gov/lessons_learned/small_airplane/accidents/C-FFZN"
+  },
+  {
+    "id": "TP-028",
+    "category": "turboprop",
+    "question": "What does propeller synchronization adjust?",
+    "answer": "It reduces small rpm differences between propellers to reduce beat noise and vibration within the approved operating envelope.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-029",
+    "category": "turboprop",
+    "question": "How is synchrophasing different from simple synchronization?",
+    "answer": "It also controls the relative angular position of blades to optimize noise or vibration, depending on the installation.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-030",
+    "category": "turboprop",
+    "question": "Why are synchronizer operating restrictions aircraft-specific?",
+    "answer": "The system's authority and failure behavior can affect engine-out handling; use the AFM's permitted phases and settings.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-031",
+    "category": "turboprop",
+    "question": "What is the beta range in a turboprop control system?",
+    "answer": "A low-power range where power-lever movement directly schedules propeller blade angle under the design's ground-handling logic.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-032",
+    "category": "turboprop",
+    "question": "How does reverse thrust arise on a reversing turboprop propeller?",
+    "answer": "The blades move to a negative angle, redirecting the propeller's thrust to oppose forward motion.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-033",
+    "category": "turboprop",
+    "question": "Why is reverse thrust not simply a stronger wheel brake?",
+    "answer": "It creates aerodynamic force through the propeller and engine system, with separate controls, limitations, and asymmetric effects.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-034",
+    "category": "turboprop",
+    "question": "Why must pilots respect flight-idle gates and beta interlocks?",
+    "answer": "They help prevent hazardous low or negative blade-angle selection in flight; never defeat them outside approved procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-035",
+    "category": "turboprop",
+    "question": "What can inadvertent ground-beta selection in flight cause?",
+    "answer": "Severe drag, overspeed, controllability problems, or engine/propeller damage depending on the design.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-036",
+    "category": "turboprop",
+    "question": "Why might a turboprop require more taxi-speed attention than a piston airplane?",
+    "answer": "Substantial residual thrust at idle and propeller characteristics can accelerate the aircraft quickly; use approved taxi technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-037",
+    "category": "turboprop",
+    "question": "Why is prolonged aggressive reverse on a loose surface undesirable?",
+    "answer": "Propeller wash can lift debris into the propeller and engine intake, risking damage and hazards to others.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-038",
+    "category": "turboprop",
+    "question": "Why should reverse thrust be reduced according to the aircraft's speed schedule?",
+    "answer": "Low-speed use can increase debris ingestion, vibration, or other risks; follow the approved limitation and technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-039",
+    "category": "turboprop",
+    "question": "What directional problem can unequal reverse thrust cause on a twin turboprop?",
+    "answer": "Asymmetric deceleration and yaw, especially on a slippery runway; maintain control using approved procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-040",
+    "category": "turboprop",
+    "question": "Why is turboprop reverse availability checked in landing-performance planning?",
+    "answer": "Approved calculations may assume specific deceleration devices; inoperative systems can change required runway or operating restrictions.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-041",
+    "category": "turboprop",
+    "question": "What makes a turbine start time-critical for the pilot?",
+    "answer": "Temperature, speed, oil pressure, starter limits, and acceleration must remain within the approved sequence and limits.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-042",
+    "category": "turboprop",
+    "question": "Why does weak starting power raise hot-start risk?",
+    "answer": "Slow acceleration can reduce cooling airflow while fuel burns, increasing temperature; verify approved battery or external-power capability.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-043",
+    "category": "turboprop",
+    "question": "What should a turboprop crew do if starting temperature rises toward a limit abnormally?",
+    "answer": "Apply the aircraft's start-abort procedure promptly rather than waiting for a limit exceedance.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-044",
+    "category": "turboprop",
+    "question": "Why is fuel introduction tied to a specified start condition?",
+    "answer": "Adequate rotation and airflow are needed for proper ignition and temperature control; use the engine's prescribed sequence.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-045",
+    "category": "turboprop",
+    "question": "What does failure of temperature to rise after fuel introduction suggest?",
+    "answer": "Possible failure to light; observe the specified time limit and use the approved abort and clearing procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-046",
+    "category": "turboprop",
+    "question": "Why should an aborted turbine start not be followed immediately by an improvised restart?",
+    "answer": "Starter duty cycle, residual fuel, temperature, battery state, and fault identification must be addressed first.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-047",
+    "category": "turboprop",
+    "question": "What is dry motoring used for when directed by a turboprop checklist?",
+    "answer": "Rotate the engine without fuel as prescribed to clear fuel or provide cooling; observe the particular starter and engine limits.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-048",
+    "category": "turboprop",
+    "question": "Why must oil pressure be checked during turbine starting?",
+    "answer": "Correct pressure must appear within the approved conditions; running without adequate lubrication can damage the engine.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-049",
+    "category": "turboprop",
+    "question": "How can a start-lock system affect a turboprop's starting procedure?",
+    "answer": "It holds blades at a starting position on equipped propellers; engagement and release must follow the approved procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-050",
+    "category": "turboprop",
+    "question": "Why is knowing a propeller's start-lock status important after an engine failure?",
+    "answer": "Some systems can inhibit feathering under certain conditions; use aircraft-specific recognition and feathering procedures.",
+    "source": "FAA Lessons Learned, SA227; propeller NTS and feathering",
+    "sourceUrl": "https://www.faa.gov/lessons_learned/small_airplane/accidents/C-FFZN"
+  },
+  {
+    "id": "TP-051",
+    "category": "turboprop",
+    "question": "Why may a free-turbine engine show different gas-generator and propeller acceleration during start?",
+    "answer": "The power turbine and propeller are not directly mechanically tied to gas-generator rotation.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-052",
+    "category": "turboprop",
+    "question": "What is the purpose of a turboprop overspeed governor?",
+    "answer": "Provide additional propeller-speed protection if the primary governing system does not keep rpm within the intended range.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-053",
+    "category": "turboprop",
+    "question": "Why should the pilot verify overspeed protection during an approved system check?",
+    "answer": "It is an independent protective function whose availability may be required for safe operation and dispatch.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-054",
+    "category": "turboprop",
+    "question": "Does a normal propeller-governor check prove every feathering function works?",
+    "answer": "No. Governing, feathering, autofeather, and backup protection can have separate checks and failure paths.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-055",
+    "category": "turboprop",
+    "question": "Why must turboprop power changes account for engine response lag?",
+    "answer": "Gas-generator and propeller response is not instantaneous; anticipate thrust needs while respecting transient limits.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-056",
+    "category": "turboprop",
+    "question": "How can rapid power application near the ground create problems?",
+    "answer": "Lag, torque changes, asymmetric response, and pitch/yaw effects can make control more demanding; use the approved go-around technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-057",
+    "category": "turboprop",
+    "question": "Why should a turboprop takeoff use a planned profile?",
+    "answer": "Specified speeds, power settings, configuration changes, and failure decisions coordinate performance and workload for that type.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-058",
+    "category": "turboprop",
+    "question": "Why must takeoff power be confirmed early in the roll?",
+    "answer": "An incorrect setting or abnormal engine response should be detected while appropriate reject options remain available.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-059",
+    "category": "turboprop",
+    "question": "What should an unexpected torque split during takeoff prompt?",
+    "answer": "Assess whether required takeoff power and engine indications are achieved, applying the approved reject policy and failure procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-060",
+    "category": "turboprop",
+    "question": "Why is rotating a turboprop early not a reliable cure for a short runway?",
+    "answer": "Premature liftoff can impair acceleration, climb, and control margins; use approved performance and rotation technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-061",
+    "category": "turboprop",
+    "question": "Why does minimum control speed deserve attention in twin turboprop takeoff planning?",
+    "answer": "Asymmetric thrust can make directional control limiting after an engine failure, especially at low speed and high power.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-062",
+    "category": "turboprop",
+    "question": "What should takeoff planning distinguish about accelerate-stop and accelerate-go capability?",
+    "answer": "Stopping and continuing after failure have different performance requirements; a usable runway length does not automatically satisfy both.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-063",
+    "category": "turboprop",
+    "question": "Why can reducing power on the operating engine sometimes improve control after one engine fails in a twin turboprop?",
+    "answer": "It reduces asymmetric yaw when necessary to maintain control, but sacrifices performance; follow the aircraft's trained procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-064",
+    "category": "turboprop",
+    "question": "What does an unfeathering accumulator provide on a propeller system equipped with one?",
+    "answer": "Stored engine oil under gas pressure can move the blades out of feather so airflow can turn the propeller for an approved restart. Its use and availability depend on the installation.",
+    "source": "FAA Airplane Flying Handbook, chapter 13, unfeathering accumulators",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/14_afh_ch13.pdf"
+  },
+  {
+    "id": "TP-065",
+    "category": "turboprop",
+    "question": "What should a turboprop crew verify before moving a propeller lever to feather?",
+    "answer": "The affected engine and checklist action, using the aircraft's required confirmation or challenge-response procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-066",
+    "category": "turboprop",
+    "question": "Why can engine-out airspeed selection differ between climb and descent?",
+    "answer": "The target may optimize climb, obstacle clearance, cooling, range, or control for that phase; use the approved schedule.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-067",
+    "category": "turboprop",
+    "question": "Why must a twin turboprop's single-engine service ceiling be considered before high-terrain routing?",
+    "answer": "The aircraft may be unable to maintain the planned altitude after a failure despite normal two-engine performance.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-068",
+    "category": "turboprop",
+    "question": "What does a turboprop's maximum continuous power rating permit?",
+    "answer": "Operation within the approved continuous rating and associated limits; it is not interchangeable with time-limited takeoff power.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-069",
+    "category": "turboprop",
+    "question": "Why are transient exceedance allowances not normal power targets?",
+    "answer": "They address specified short events, not routine operation; repeated or prolonged exceedance can require maintenance and risk damage.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-070",
+    "category": "turboprop",
+    "question": "What should happen after a turbine temperature or torque exceedance?",
+    "answer": "Record and report the event and obtain the required maintenance evaluation before further operation under the approved program.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-071",
+    "category": "turboprop",
+    "question": "Why should cruise power setting follow tables instead of lever position alone?",
+    "answer": "Altitude, temperature, rpm, bleed use, and limits change actual power and performance for a given lever position.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-072",
+    "category": "turboprop",
+    "question": "How can engine bleed-air demand affect turboprop performance?",
+    "answer": "Air extraction and associated system loads can reduce available power or change temperature; apply the approved corrections.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-073",
+    "category": "turboprop",
+    "question": "Why can ice-protection use alter takeoff or climb calculations?",
+    "answer": "Engine inlet and airframe protection may impose performance penalties or configuration requirements specified by the AFM.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-074",
+    "category": "turboprop",
+    "question": "What is an inertial separator on equipped turboprops intended to do?",
+    "answer": "Divert certain foreign material or precipitation away from the engine intake, with installation-specific use and performance effects.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-075",
+    "category": "turboprop",
+    "question": "Why must inlet-separator use not be improvised?",
+    "answer": "Its required conditions and power penalties depend on the design; follow the actual aircraft's limitations and checklist.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-076",
+    "category": "turboprop",
+    "question": "Why is compressor washing a maintenance matter rather than a pilot power-setting fix?",
+    "answer": "Contamination and approved cleaning affect engine health; pilots use reporting and maintenance processes rather than compensate with unauthorized settings.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-077",
+    "category": "turboprop",
+    "question": "What can an adverse engine-temperature trend at the same power suggest?",
+    "answer": "Changing conditions, instrumentation, or engine deterioration; compare properly normalized data and report through the maintenance program.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-078",
+    "category": "turboprop",
+    "question": "Why are turbine-engine trend-monitoring records useful?",
+    "answer": "They can reveal developing changes in temperature, torque, fuel flow, and speed before a conspicuous failure occurs.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-079",
+    "category": "turboprop",
+    "question": "What should unusually high vibration in a turboprop prompt?",
+    "answer": "Maintain control, evaluate indications, use the approved abnormal procedure, and consider landing; do not assume propeller synchronization will cure a mechanical fault.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-080",
+    "category": "turboprop",
+    "question": "Why must a propeller strike be reported even without visible blade damage?",
+    "answer": "Internal propeller, gearbox, or engine damage can exist; required inspection criteria extend beyond a quick visual check.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-081",
+    "category": "turboprop",
+    "question": "Why should a turboprop exterior inspection include intake condition?",
+    "answer": "Obstructions, ice, debris, or improperly removed covers can compromise airflow and engine operation.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-082",
+    "category": "turboprop",
+    "question": "What propeller blade findings warrant maintenance review before flight?",
+    "answer": "Damage, cracks, erosion, leaks, or other defects outside approved limits; pilots should not blend or repair blades without authorization.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-083",
+    "category": "turboprop",
+    "question": "Why should a pilot not casually pull or rotate a turboprop blade during inspection?",
+    "answer": "Approved handling restrictions protect the propeller, gearbox, and personnel; the correct practice depends on the installation.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-084",
+    "category": "turboprop",
+    "question": "Why can engine shutdown require a specified cooling period?",
+    "answer": "It helps control thermal conditions and protect engine components before fuel cutoff under the approved procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-085",
+    "category": "turboprop",
+    "question": "What should a pilot verify after selecting turboprop fuel cutoff?",
+    "answer": "Expected shutdown indications, propeller behavior, and completion of required securing checks rather than assuming lever movement proves shutdown.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-086",
+    "category": "turboprop",
+    "question": "Why does a turboprop propeller create a hazard after shutdown?",
+    "answer": "It may still rotate or windmill, and restart or system actions can move it; keep people clear until safe under ground procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-087",
+    "category": "turboprop",
+    "question": "How can turboprop noise tempt a pilot into an unsafe rpm choice?",
+    "answer": "Reducing rpm solely for comfort can violate phase or power restrictions; use the approved noise-abatement and power schedule.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-088",
+    "category": "turboprop",
+    "question": "Why must approach speed and power be stabilized in a turboprop?",
+    "answer": "Large power changes and propeller drag changes near the ground can disrupt energy and landing performance.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-089",
+    "category": "turboprop",
+    "question": "Why can flight-idle descent characteristics surprise a piston-trained pilot?",
+    "answer": "Propeller drag and turbine response can produce different deceleration and sink behavior; learn the aircraft's approved energy-management technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-090",
+    "category": "turboprop",
+    "question": "Why should a turboprop pilot avoid attempting to stretch the glide after total power loss?",
+    "answer": "Maintain approved best-glide and control margins while selecting a reachable landing site and applying the engine/propeller procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-091",
+    "category": "turboprop",
+    "question": "How can propeller configuration affect a turboprop's glide distance?",
+    "answer": "A windmilling, feathered, or otherwise configured propeller changes drag substantially; use the applicable approved performance data.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-092",
+    "category": "turboprop",
+    "question": "Why should a turboprop go-around briefing address reverse or beta selection?",
+    "answer": "Once ground deceleration selections have been made, aircraft-specific restrictions and system response may constrain a rejected landing.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-093",
+    "category": "turboprop",
+    "question": "Why are passenger or cargo loading changes important to turboprop handling?",
+    "answer": "CG changes affect trim, stability, control forces, and performance; loading within weight alone is not sufficient.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-094",
+    "category": "turboprop",
+    "question": "What makes turboprop icing encounters an aircraft-specific training issue?",
+    "answer": "Protection systems, minimum speeds, handling effects, and escape criteria differ; generic boot or heater knowledge is insufficient.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-095",
+    "category": "turboprop",
+    "question": "Why should a turboprop pilot know which electrical sources operate feathering components?",
+    "answer": "A power failure can affect system availability; identify the actual installation's normal, backup, and manual paths.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-096",
+    "category": "turboprop",
+    "question": "Why can a hydraulic or oil leak affect propeller control as well as lubrication?",
+    "answer": "Many propeller systems use engine oil pressure for blade control; consequences depend on the design's fail-safe direction and backups.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-097",
+    "category": "turboprop",
+    "question": "What must be understood before using an emergency feathering or unfeathering system?",
+    "answer": "Its prerequisites, electrical or oil supply, limitations, expected indications, and the specific checklist sequence.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-098",
+    "category": "turboprop",
+    "question": "Why is engine-out training in a turboprop conducted using approved simulation methods?",
+    "answer": "Actual feathering, power reduction, and failures introduce risks; training must follow the aircraft and operator's safe simulation procedures.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  },
+  {
+    "id": "TP-099",
+    "category": "turboprop",
+    "question": "How does propeller blade angle differ from the blade’s aerodynamic angle of attack?",
+    "answer": "Blade angle is measured relative to the plane of rotation; angle of attack is measured relative to the local airflow. Forward speed and rotational speed can change angle of attack without an identical change in blade angle.",
+    "source": "FAA AMT Powerplant Handbook, chapter 7, propeller blade geometry",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/09_amtp_ch7.pdf"
+  },
+  {
+    "id": "TP-100",
+    "category": "turboprop",
+    "question": "Why does propeller tip speed limit useful rpm even when the engine could turn faster?",
+    "answer": "High tip speeds bring compressibility, noise, and efficiency penalties; operate within the approved rpm limits rather than seeking power through overspeed.",
+    "source": "FAA Airplane Flying Handbook, chapter 15; turbine/propeller principles — applicable AFM controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/16_afh_ch15.pdf"
+  }
+]

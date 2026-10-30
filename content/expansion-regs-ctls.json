@@ -1,0 +1,962 @@
+[
+  {
+    "id": "PD-026",
+    "category": "pilot-docs",
+    "question": "How long can a temporary pilot certificate normally be used?",
+    "answer": "Up to 120 days, unless it expires earlier under the rule. Check its date and conditions before relying on it while awaiting the permanent certificate.",
+    "source": "14 CFR 61.17",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.17"
+  },
+  {
+    "id": "PD-027",
+    "category": "pilot-docs",
+    "question": "You lose your pilot certificate before a trip. Is a photograph of it enough?",
+    "answer": "No. Obtain the FAA-approved replacement or temporary authority that applies to the operation. A personal photo does not automatically satisfy the possession requirement.",
+    "source": "14 CFR 61.29",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.29"
+  },
+  {
+    "id": "PD-028",
+    "category": "pilot-docs",
+    "question": "What evidence supports changing the name on a pilot certificate?",
+    "answer": "Apply with the certificate and a marriage license, court order, or other document verifying the change. Use the FAA's current submission process.",
+    "source": "14 CFR 61.25",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.25"
+  },
+  {
+    "id": "PD-029",
+    "category": "pilot-docs",
+    "question": "Can a first-class medical remain useful after its first-class privileges expire?",
+    "answer": "Yes. It may support a lower class of privileges for the applicable remaining duration. Determine validity from age at examination, examination date, and the actual operation.",
+    "source": "14 CFR 61.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.23"
+  },
+  {
+    "id": "PD-030",
+    "category": "pilot-docs",
+    "question": "Does an instructor always need a medical certificate just to give instruction?",
+    "answer": "No. A medical is generally tied to acting as PIC or another required crewmember. Resolve who is qualified and acting as PIC before the lesson.",
+    "source": "14 CFR 61.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.23"
+  },
+  {
+    "id": "PD-031",
+    "category": "pilot-docs",
+    "question": "What passenger-carrying limitation applies to a commercial airplane pilot without an instrument rating?",
+    "answer": "The commercial certificate prohibits carrying passengers for hire at night or on cross-country flights beyond 50 nautical miles. An instrument rating removes that particular certificate limitation, not other operating requirements.",
+    "source": "14 CFR 61.133",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.133"
+  },
+  {
+    "id": "PD-032",
+    "category": "pilot-docs",
+    "question": "Does an instrument-helicopter rating authorize airplane IFR privileges?",
+    "answer": "No. The instrument rating or other applicable authority must match the aircraft category. Check the certificate rather than assuming instrument privileges transfer between categories.",
+    "source": "14 CFR 61.3",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.3"
+  },
+  {
+    "id": "PD-033",
+    "category": "pilot-docs",
+    "question": "What additional training applies before PIC service in certain high-altitude pressurized airplanes?",
+    "answer": "Unless an exception applies, receive the required ground and flight training and endorsement for pressurized airplanes with a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL.",
+    "source": "14 CFR 61.31",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.31"
+  },
+  {
+    "id": "PD-034",
+    "category": "pilot-docs",
+    "question": "Does a twin with two 180-hp engines require the high-performance endorsement merely because total power exceeds 200 hp?",
+    "answer": "No. That endorsement rule concerns an airplane with an engine of more than 200 horsepower. Multiengine ratings and other applicable training still matter.",
+    "source": "14 CFR 61.31",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.31"
+  },
+  {
+    "id": "PD-035",
+    "category": "pilot-docs",
+    "question": "Can a small turbojet avoid the PIC type-rating requirement because it is below the large-aircraft weight threshold?",
+    "answer": "No. Turbojet-powered airplanes require the appropriate PIC type rating regardless of that weight threshold, unless specific FAA authorization applies.",
+    "source": "14 CFR 61.31",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.31"
+  },
+  {
+    "id": "PD-036",
+    "category": "pilot-docs",
+    "question": "Does adding a multiengine rating automatically supply a missing complex-airplane endorsement?",
+    "answer": "No. Ratings and additional-training endorsements address different qualifications. Confirm each requirement and any applicable exception for the airplane and PIC role.",
+    "source": "14 CFR 61.31",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.31"
+  },
+  {
+    "id": "PD-037",
+    "category": "pilot-docs",
+    "question": "Can a safety pilot log SIC time for an entire trip when the other pilot wears a hood only briefly?",
+    "answer": "Only time that meets the applicable SIC logging conditions qualifies. Simulated-instrument safety-pilot duties do not automatically make all other time on the trip loggable SIC time.",
+    "source": "14 CFR 61.51",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.51"
+  },
+  {
+    "id": "PD-038",
+    "category": "pilot-docs",
+    "question": "Should an approved training-device session be entered as aircraft flight time?",
+    "answer": "No. Record the correct device identification and training or instrument experience category. Credit toward a requirement depends on device approval and the applicable training rule.",
+    "source": "14 CFR 61.51",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.51"
+  },
+  {
+    "id": "PD-039",
+    "category": "pilot-docs",
+    "question": "Can a private pilot charge passengers for aircraft depreciation as part of shared expenses?",
+    "answer": "No. The permitted pro-rata expense categories do not include depreciation. Also satisfy common-purpose and other applicable compensation limitations.",
+    "source": "14 CFR 61.113",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.113"
+  },
+  {
+    "id": "PD-040",
+    "category": "pilot-docs",
+    "question": "Why can an insurance checkout still be necessary after all FAA ratings and endorsements are satisfied?",
+    "answer": "Insurance and rental conditions can impose separate experience or checkout requirements. Verify them along with legal qualifications before accepting the aircraft; FAA qualification alone does not establish contractual coverage.",
+    "source": "14 CFR 61.31 (FAA qualifications); applicable aircraft rental agreement and insurance policy (separate contractual requirements)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-61.31"
+  },
+  {
+    "id": "AW-031",
+    "category": "airworthiness",
+    "question": "May the 10-hour 100-hour-inspection extension be used for an ordinary sightseeing trip?",
+    "answer": "No. It is limited to reaching a place where the inspection can be done. Excess time counts toward the next 100 hours; it is not free operating time.",
+    "source": "14 CFR 91.409",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.409"
+  },
+  {
+    "id": "AW-032",
+    "category": "airworthiness",
+    "question": "Does a 100-hour inspection completed last week replace an annual that has now expired?",
+    "answer": "No. A qualifying annual can replace a required 100-hour inspection, but an ordinary 100-hour inspection does not replace the annual.",
+    "source": "14 CFR 91.409",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.409"
+  },
+  {
+    "id": "AW-033",
+    "category": "airworthiness",
+    "question": "Can mandatory airworthiness-limitations inspections be ignored because the aircraft passes annual?",
+    "answer": "No. The applicable airworthiness-limitations section's replacement times, inspection intervals, and related procedures must be met unless an approved alternative applies.",
+    "source": "14 CFR 91.403",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.403"
+  },
+  {
+    "id": "AW-034",
+    "category": "airworthiness",
+    "question": "Is possessing an STC document enough to authorize using someone else's modification approval?",
+    "answer": "No. The owner/operator must hold the STC or have the holder's written permission, and the installation and records must meet applicable requirements.",
+    "source": "14 CFR 91.403",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.403"
+  },
+  {
+    "id": "AW-035",
+    "category": "airworthiness",
+    "question": "Why should a pilot look for Form 337 documentation after a major alteration?",
+    "answer": "Major alterations generally require the prescribed major-alteration record, not just a casual log note. Verify the installation approval, required records, and revised operating data with qualified maintenance personnel.",
+    "source": "14 CFR 43.9",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.9"
+  },
+  {
+    "id": "AW-036",
+    "category": "airworthiness",
+    "question": "A new avionics unit has an AFM supplement. What must the pilot do before using it?",
+    "answer": "Identify the supplement's applicability, required limitations, procedures, and required availability. The original flight manual alone may no longer describe the approved installation.",
+    "source": "14 CFR 91.9",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.9"
+  },
+  {
+    "id": "AW-037",
+    "category": "airworthiness",
+    "question": "What records help establish whether a life-limited component can remain in service?",
+    "answer": "Its current life status and the applicable life limit. An overhaul entry alone does not automatically reset a mandatory retirement life.",
+    "source": "14 CFR 91.417",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.417"
+  },
+  {
+    "id": "AW-038",
+    "category": "airworthiness",
+    "question": "Does losing an aircraft logbook reset component times or inspection obligations?",
+    "answer": "No. Reconstruct status through acceptable supporting records and qualified maintenance assistance. Do not assume missing documentation means an item is new or compliant.",
+    "source": "14 CFR 91.417",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.417"
+  },
+  {
+    "id": "AW-039",
+    "category": "airworthiness",
+    "question": "Can a special flight permit authorize an aircraft that is incapable of safe flight?",
+    "answer": "No. The aircraft may fail to meet some airworthiness requirements, but must still be capable of safe flight under the permit's conditions.",
+    "source": "14 CFR 21.197",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-21.197"
+  },
+  {
+    "id": "AW-040",
+    "category": "airworthiness",
+    "question": "What should an application for a special flight permit explain?",
+    "answer": "Purpose, route, required crew, noncompliance, proposed restrictions, and other information the FAA needs to set safe operating limitations. Inspections or tests may be required.",
+    "source": "14 CFR 21.199",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-21.199"
+  },
+  {
+    "id": "AW-041",
+    "category": "airworthiness",
+    "question": "Can an AD prevent using a special flight permit for a ferry flight?",
+    "answer": "Yes. Follow the AD's special-flight-permit provisions and restrictions. A ferry purpose does not by itself override an AD.",
+    "source": "14 CFR 39.23",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-39.23"
+  },
+  {
+    "id": "AW-042",
+    "category": "airworthiness",
+    "question": "Can a pilot supervise an unqualified friend doing maintenance as though the pilot were an A&P?",
+    "answer": "No. Pilot preventive-maintenance privileges do not create the mechanic supervision authority in Part 43. Establish who is authorized to perform and approve the work.",
+    "source": "14 CFR 43.3",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.3"
+  },
+  {
+    "id": "AW-043",
+    "category": "airworthiness",
+    "question": "After authorized pilot preventive maintenance, who approves that work for return to service?",
+    "answer": "The appropriately authorized pilot may approve the preventive maintenance they performed, within the rule's limitations, with a compliant maintenance entry. Authority does not extend to arbitrary repairs.",
+    "source": "14 CFR 43.7",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.7"
+  },
+  {
+    "id": "AW-044",
+    "category": "airworthiness",
+    "question": "Can an owner substitute an internet repair technique for the applicable maintenance instructions?",
+    "answer": "Use current manufacturer instructions or another method acceptable to the FAA, with appropriate tools and workmanship. Convenience or popularity online does not establish acceptability.",
+    "source": "14 CFR 43.13",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.13"
+  },
+  {
+    "id": "AW-045",
+    "category": "airworthiness",
+    "question": "What happens when an inspection finds the aircraft unairworthy?",
+    "answer": "The inspection entry records the disapproval, and the owner/operator receives the discrepancy list required by the rule. An inspection performed is not necessarily an approval for flight.",
+    "source": "14 CFR 43.11",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.11"
+  },
+  {
+    "id": "AW-046",
+    "category": "airworthiness",
+    "question": "Who must ensure inspection discrepancies are repaired or otherwise legally addressed?",
+    "answer": "The owner/operator. Verify that correction or lawful disposition and required return-to-service records exist before operating.",
+    "source": "14 CFR 91.405",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.405"
+  },
+  {
+    "id": "AW-047",
+    "category": "airworthiness",
+    "question": "Does a maintenance release guarantee that the pilot should accept the airplane without a preflight?",
+    "answer": "No. The release addresses the work performed; the PIC still determines condition for safe flight. Inspect the aircraft and review affected systems and limitations.",
+    "source": "14 CFR 91.407",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.407"
+  },
+  {
+    "id": "AW-048",
+    "category": "airworthiness",
+    "question": "Does an annual inspection performed early preserve the old annual expiration month?",
+    "answer": "No. Under the ordinary calendar-month rule, the next interval runs from the month the qualifying annual was completed. Do not apply airline training grace-month rules to annual inspections.",
+    "source": "14 CFR 91.409",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.409"
+  },
+  {
+    "id": "AW-049",
+    "category": "airworthiness",
+    "question": "Can an airframe-rated mechanic perform every part of the required altimeter-system inspection?",
+    "answer": "No. Section 91.411 limits that mechanic authority to static-pressure-system tests and inspections. Other required work needs an appropriately rated repair station, manufacturer, or other specifically authorized person.",
+    "source": "14 CFR 91.411(b)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.411"
+  },
+  {
+    "id": "AW-050",
+    "category": "airworthiness",
+    "question": "Does passing the transponder inspection alone establish that ADS-B Out meets its performance requirements?",
+    "answer": "No. ADS-B Out has separate equipment and performance requirements, including correct identification and position information. Verify the installation and transmitted performance; a routine transponder inspection is not proof of every ADS-B function.",
+    "source": "14 CFR 91.225–91.227; 91.413",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.227"
+  },
+  {
+    "id": "AW-051",
+    "category": "airworthiness",
+    "question": "Must maintenance logs normally be carried aboard during an ordinary domestic Part 91 flight?",
+    "answer": "Not generally. They must be retained and available as required; onboard certificates and operating documents are separate requirements. Specific operations may require additional records aboard.",
+    "source": "14 CFR 91.417",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.417"
+  },
+  {
+    "id": "AW-052",
+    "category": "airworthiness",
+    "question": "What maintenance status should be checked before buying an aircraft with a recent inspection?",
+    "answer": "Total time, life limits, overhaul status, applicable AD compliance, current inspection status, and major-alteration records. A fresh inspection date alone does not establish all those facts.",
+    "source": "14 CFR 91.417",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.417"
+  },
+  {
+    "id": "AW-053",
+    "category": "airworthiness",
+    "question": "How can an operator use a different method from the one specified by an AD?",
+    "answer": "Obtain an approved alternative method of compliance or adjustment as allowed by the AD and FAA process. An owner's or mechanic's preference is not approval.",
+    "source": "14 CFR 39.19",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-39.19"
+  },
+  {
+    "id": "AW-054",
+    "category": "airworthiness",
+    "question": "Why must a removed life-limited part's status remain identifiable?",
+    "answer": "To prevent installation after its allowed life is exhausted. Use the permitted recordkeeping or control method so its life status follows the part appropriately.",
+    "source": "14 CFR 43.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.10"
+  },
+  {
+    "id": "AW-055",
+    "category": "airworthiness",
+    "question": "Does an airworthiness certificate by itself prove the airplane is currently airworthy?",
+    "answer": "No. Its continued effectiveness depends on the applicable conditions; current maintenance, alterations, required inspections, and safe condition still need verification.",
+    "source": "14 CFR 21.181",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-21.181"
+  },
+  {
+    "id": "AW-056",
+    "category": "airworthiness",
+    "question": "What is the practical difference between an MMEL and an aircraft's approved MEL?",
+    "answer": "An MMEL is a master basis for relief; it is not automatically the operator's authorization to dispatch. Use the applicable approved MEL and required authorization or the lawful non-MEL process.",
+    "source": "14 CFR 91.213",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.213"
+  },
+  {
+    "id": "AW-057",
+    "category": "airworthiness",
+    "question": "A day-only airplane gets a landing light. Is it thereby equipped for night VFR?",
+    "answer": "No. Check the entire applicable night-equipment requirement, aircraft operating limitations, installation approvals, and pilot qualifications. One added item does not establish night eligibility.",
+    "source": "14 CFR 91.205",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.205"
+  },
+  {
+    "id": "AW-058",
+    "category": "airworthiness",
+    "question": "Can an S-LSA owner treat a manufacturer's safety directive as merely an optional suggestion?",
+    "answer": "The special-light-sport operating rule addresses applicable safety directives and authorized alternatives. Determine required compliance for the aircraft rather than treating every manufacturer communication alike.",
+    "source": "14 CFR 91.327",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.327"
+  },
+  {
+    "id": "AW-059",
+    "category": "airworthiness",
+    "question": "Does owning an S-LSA permit every repair without an authorized maintenance qualification?",
+    "answer": "No. The work and approval privileges depend on the certificate, task, applicable maintenance rules, and manufacturer instructions. Ownership is not a general mechanic certificate.",
+    "source": "14 CFR 43.3",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-43.3"
+  },
+  {
+    "id": "AW-060",
+    "category": "airworthiness",
+    "question": "Why should a repair's effect on the approved configuration be resolved before flight?",
+    "answer": "The aircraft must continue to meet its applicable design and operating requirements. A physically functioning replacement does not automatically establish an approved installation.",
+    "source": "14 CFR 91.403",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.403"
+  },
+  {
+    "id": "P91-051",
+    "category": "part-91",
+    "question": "ATC asks for a report after giving emergency priority. What deadline can apply?",
+    "answer": "If ATC requests it, submit the detailed report to the facility manager within 48 hours after the emergency-priority event. This is distinct from an FAA-requested report under section 91.3.",
+    "source": "14 CFR 91.123",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.123"
+  },
+  {
+    "id": "P91-052",
+    "category": "part-91",
+    "question": "Can an apparently intoxicated friend ride on an ordinary Part 91 pleasure flight?",
+    "answer": "Except for the specified emergency or properly cared-for medical-patient situation, the pilot may not carry someone who appears intoxicated or under the influence of drugs.",
+    "source": "14 CFR 91.17",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.17"
+  },
+  {
+    "id": "P91-053",
+    "category": "part-91",
+    "question": "Does an ordinary automobile booster seat automatically qualify as an aircraft child restraint?",
+    "answer": "No. Verify that the restraint is an approved type for aircraft use, correctly labeled and installed, and appropriate for the child. A car approval alone is insufficient.",
+    "source": "14 CFR 91.107",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.107"
+  },
+  {
+    "id": "P91-054",
+    "category": "part-91",
+    "question": "Does the under-two lap-child exception mean a shared adult seat belt should be used?",
+    "answer": "No. The exception permits holding the child under its conditions; it does not approve putting an adult belt around both people. An approved child restraint is the safer arrangement.",
+    "source": "14 CFR 91.107",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.107"
+  },
+  {
+    "id": "P91-055",
+    "category": "part-91",
+    "question": "Can a one-control airplane automatically be used for ordinary flight instruction?",
+    "answer": "No. Fully functioning dual controls are the general requirement. Throwover-wheel exceptions have specific instructor, pilot, rudder-control, and safety conditions; verify the exact operation qualifies.",
+    "source": "14 CFR 91.109",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.109"
+  },
+  {
+    "id": "P91-056",
+    "category": "part-91",
+    "question": "Does an IFR clearance excuse a pilot from looking for traffic in visual conditions?",
+    "answer": "No. Vigilance to see and avoid applies when weather permits, whether operating under IFR or VFR. ATC services do not cancel that duty.",
+    "source": "14 CFR 91.113",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.113"
+  },
+  {
+    "id": "P91-057",
+    "category": "part-91",
+    "question": "Two aircraft on the water approach head-on. What should their pilots do?",
+    "answer": "Alter course to the right and keep well clear. Water right-of-way rules also require attention to vessels and other water traffic.",
+    "source": "14 CFR 91.115",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.115"
+  },
+  {
+    "id": "P91-058",
+    "category": "part-91",
+    "question": "ATC says maintain best forward speed below 10,000 feet. Does that automatically waive the speed rule?",
+    "answer": "No. Clarify what can legally and safely be flown. An ordinary speed request is not automatic authorization to exceed a regulatory limit.",
+    "source": "14 CFR 91.117",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.117"
+  },
+  {
+    "id": "P91-059",
+    "category": "part-91",
+    "question": "Why might the lowest usable flight level be above FL180 even though Class A normally starts at 18,000 feet?",
+    "answer": "Low atmospheric pressure can raise the lowest usable flight level to preserve separation from aircraft below using local altimeter settings. Use the applicable setting and clearance.",
+    "source": "14 CFR 91.121",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.121"
+  },
+  {
+    "id": "P91-060",
+    "category": "part-91",
+    "question": "What must a pilot do if an in-flight radio failure occurs while operating VFR in Class D?",
+    "answer": "The rule permits landing when weather is at least basic VFR, visual contact with the tower is maintained, and landing clearance is received. Watch for light signals and comply with applicable procedures.",
+    "source": "14 CFR 91.129",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.129"
+  },
+  {
+    "id": "P91-061",
+    "category": "part-91",
+    "question": "What runway-altitude restriction applies to a large or turbine airplane entering a Class D traffic pattern?",
+    "answer": "Unless ATC instructs otherwise or cloud clearance requires otherwise, maintain at least 1,500 feet above airport elevation until further descent is necessary for a safe landing. Apply the rule to the covered large or turbine airplane operation.",
+    "source": "14 CFR 91.129",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.129"
+  },
+  {
+    "id": "P91-062",
+    "category": "part-91",
+    "question": "What does the Class D rule require when a runway has a visual approach slope indicator?",
+    "answer": "Maintain an altitude at or above the indicated glidepath until a lower altitude is necessary for a safe landing. Do not treat visual guidance as clearance to ignore other restrictions.",
+    "source": "14 CFR 91.129",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.129"
+  },
+  {
+    "id": "P91-063",
+    "category": "part-91",
+    "question": "Does an IFR clearance through a restricted area remove the need for authorization?",
+    "answer": "Entry must be authorized by the using or controlling agency as appropriate. Confirm that the clearance provides the necessary coordination; do not assume every restricted area is available.",
+    "source": "14 CFR 91.133",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.133"
+  },
+  {
+    "id": "P91-064",
+    "category": "part-91",
+    "question": "Can a news or sightseeing pilot enter a disaster TFR simply because the flight stays VFR?",
+    "answer": "No. Entry must qualify under the particular restriction and its coordination conditions. VFR weather alone does not authorize access.",
+    "source": "14 CFR 91.137",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.137"
+  },
+  {
+    "id": "P91-065",
+    "category": "part-91",
+    "question": "What should a pilot do when the FAA issues emergency air traffic rules for a region?",
+    "answer": "Follow the emergency rules and applicable notices, including restrictions on otherwise normal operations. A standing route or previous clearance does not establish exemption.",
+    "source": "14 CFR 91.139",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.139"
+  },
+  {
+    "id": "P91-066",
+    "category": "part-91",
+    "question": "Is a presidential flight restriction limited to the location of the aircraft carrying the President?",
+    "answer": "No. Operate according to the published restriction and instructions. Its defined area, times, permissions, and prohibited activities control.",
+    "source": "14 CFR 91.141",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.141"
+  },
+  {
+    "id": "P91-067",
+    "category": "part-91",
+    "question": "Can a published spaceflight restriction close airspace that is normally usable?",
+    "answer": "Yes. Check the current notice's area, altitude, and effective times and obtain required authorization. A permanent chart does not establish launch-day availability.",
+    "source": "14 CFR 91.143",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.143"
+  },
+  {
+    "id": "P91-068",
+    "category": "part-91",
+    "question": "May an IFR pilot cut an airway corner simply because the next fix is visible?",
+    "answer": "Not without the appropriate authorization. In controlled airspace, follow the airway centerline or the prescribed direct route as applicable unless ATC authorizes otherwise. Visual contact with a fix is not a shortcut clearance.",
+    "source": "14 CFR 91.181",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.181"
+  },
+  {
+    "id": "P91-069",
+    "category": "part-91",
+    "question": "Can a charity fundraiser arrange airplane rides without checking special flight requirements?",
+    "answer": "No. Qualifying charitable, nonprofit, or community-event flights have specific pilot, aircraft, notification, and operating conditions. A good cause does not itself create an exemption.",
+    "source": "14 CFR 91.146",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.146"
+  },
+  {
+    "id": "P91-070",
+    "category": "part-91",
+    "question": "Does a short sightseeing flight automatically fall outside commercial operating oversight?",
+    "answer": "No. Certain qualifying nonstop commercial air tours use a specific authorization and oversight framework, including an FAA letter of authorization and other required programs. Verify eligibility before advertising or accepting payment.",
+    "source": "14 CFR 91.147",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.147"
+  },
+  {
+    "id": "P91-071",
+    "category": "part-91",
+    "question": "Must a pilot still carry the planned reserve at every instant of a VFR flight under the departure fuel rule?",
+    "answer": "The rule is a departure planning and fuel-adequacy requirement, not permission to continue toward fuel exhaustion. Reassess actual burn and conditions and divert while a safe landing remains available.",
+    "source": "14 CFR 91.151",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.151"
+  },
+  {
+    "id": "P91-072",
+    "category": "part-91",
+    "question": "Can a VFR pilot climb into a cloud layer because the destination reports clear weather?",
+    "answer": "No. Applicable visibility and cloud-clearance minima must be maintained along the flight. Destination weather cannot authorize entering cloud en route.",
+    "source": "14 CFR 91.155",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.155"
+  },
+  {
+    "id": "P91-073",
+    "category": "part-91",
+    "question": "Does the hemispheric VFR cruising-altitude rule apply to a sustained turn or holding maneuver?",
+    "answer": "The ordinary rule applies in level cruising flight more than 3,000 feet above the surface, with stated exceptions including turning and holding. Still maintain terrain clearance and avoid traffic.",
+    "source": "14 CFR 91.159",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.159"
+  },
+  {
+    "id": "P91-074",
+    "category": "part-91",
+    "question": "Can a certificate of registration belonging to the previous aircraft owner simply be used indefinitely after a sale?",
+    "answer": "No. Ownership changes affect registration validity. Verify the current registration or permitted temporary evidence and its conditions before flight.",
+    "source": "14 CFR 91.203",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.203"
+  },
+  {
+    "id": "P91-075",
+    "category": "part-91",
+    "question": "Can an airplane whose ELT was removed for repair fly indefinitely with a placard?",
+    "answer": "No. The maintenance-removal exception has record, placard, and time conditions, including a 90-day limit. Check the applicable exception before operating without the required transmitter.",
+    "source": "14 CFR 91.207",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.207"
+  },
+  {
+    "id": "P91-076",
+    "category": "part-91",
+    "question": "Can anticollision lights be switched off if their glare creates a safety hazard in cloud?",
+    "answer": "The PIC may turn them off when doing so is in the interest of safety. This does not eliminate separate position-light requirements.",
+    "source": "14 CFR 91.209",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.209"
+  },
+  {
+    "id": "P91-077",
+    "category": "part-91",
+    "question": "In a pressurized Part 91 airplane above FL250, what emergency oxygen supply is required for occupants?",
+    "answer": "At least ten minutes of supplemental oxygen for each occupant for a pressurization-loss descent, in addition to oxygen otherwise required by the rule.",
+    "source": "14 CFR 91.211",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.211"
+  },
+  {
+    "id": "P91-078",
+    "category": "part-91",
+    "question": "One of two pilots leaves the controls above FL350 in a pressurized Part 91 airplane. What oxygen action is required?",
+    "answer": "The remaining pilot must put on and use the oxygen mask until the other pilot returns. Do not apply the different Part 121 threshold to an ordinary Part 91 operation.",
+    "source": "14 CFR 91.211",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.211"
+  },
+  {
+    "id": "P91-079",
+    "category": "part-91",
+    "question": "May an approved MEL be used while ignoring one of its required maintenance or operating procedures?",
+    "answer": "No. Relief depends on satisfying the MEL and authorization conditions. An item listed in the MEL is not unconditional permission to take off with it failed.",
+    "source": "14 CFR 91.213",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.213"
+  },
+  {
+    "id": "P91-080",
+    "category": "part-91",
+    "question": "How should a flight be planned when the required transponder is inoperative?",
+    "answer": "Obtain the applicable ATC authorization before entering airspace requiring it, complying with the rule's request conditions. A radio call after entry does not automatically cure noncompliance.",
+    "source": "14 CFR 91.215",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.215"
+  },
+  {
+    "id": "P91-081",
+    "category": "part-91",
+    "question": "Does carrying a portable ADS-B receiver satisfy required ADS-B Out capability?",
+    "answer": "No. A receiver provides information to the pilot; it does not establish the compliant installed ADS-B Out transmission required for the airspace.",
+    "source": "14 CFR 91.225",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.225"
+  },
+  {
+    "id": "P91-082",
+    "category": "part-91",
+    "question": "Why must aircraft identification entered into ADS-B match the operation's assigned identification?",
+    "answer": "ADS-B transmits identification used to associate the aircraft with its flight. Use the required registration or flight-plan identification and approved entry procedure to avoid mismatch.",
+    "source": "14 CFR 91.227",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.227"
+  },
+  {
+    "id": "P91-083",
+    "category": "part-91",
+    "question": "Does staying below 60 degrees of bank automatically mean a maneuver is not aerobatic?",
+    "answer": "No. The rule's definition also considers intentional abrupt changes, abnormal attitude or acceleration, and maneuvers unnecessary for normal flight. Bank angle alone does not define aerobatics.",
+    "source": "14 CFR 91.303",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.303"
+  },
+  {
+    "id": "P91-084",
+    "category": "part-91",
+    "question": "What additional location restriction applies when deliberately flight-testing an aircraft?",
+    "answer": "Flight testing must be over open water or sparsely populated areas with light air traffic. Required operating limitations and other airspace or certification restrictions still apply.",
+    "source": "14 CFR 91.305",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.305"
+  },
+  {
+    "id": "P91-085",
+    "category": "part-91",
+    "question": "Are spin-training flights for a certificate always subject to the passenger unusual-attitude parachute rule?",
+    "answer": "The rule includes specified training exceptions when conducted by an authorized instructor for required certificate or rating maneuvers. Confirm the exception and airplane authorization before intentional spins.",
+    "source": "14 CFR 91.307",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.307"
+  },
+  {
+    "id": "P91-086",
+    "category": "part-91",
+    "question": "Does an installed tow attachment alone authorize banner towing?",
+    "answer": "No. Towing other than the specified glider/unpowered-ultralight operation requires a certificate of waiver and compliance with its terms, plus applicable aircraft and pilot requirements.",
+    "source": "14 CFR 91.311",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.311"
+  },
+  {
+    "id": "P91-087",
+    "category": "part-91",
+    "question": "Can a restricted-category agricultural airplane be used for an ordinary passenger sightseeing business?",
+    "answer": "Not merely on the basis of its restricted certificate. Its permitted special purpose, carriage restrictions, and any specific authorizations control.",
+    "source": "14 CFR 91.313",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.313"
+  },
+  {
+    "id": "P91-088",
+    "category": "part-91",
+    "question": "Why must an experimental-aircraft pilot brief passengers about the certificate status?",
+    "answer": "The rule requires advising occupants of the aircraft's experimental nature. The briefing supplements, rather than replaces, compliance with its operating limitations.",
+    "source": "14 CFR 91.319",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.319"
+  },
+  {
+    "id": "P91-089",
+    "category": "part-91",
+    "question": "May a pilot use a general light-sport privilege to disregard an S-LSA's own day-only limitation?",
+    "answer": "No. Aircraft operating limitations remain binding independently of pilot privileges. Both the pilot and the particular airplane must be eligible for the operation.",
+    "source": "14 CFR 91.327",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.327"
+  },
+  {
+    "id": "P91-090",
+    "category": "part-91",
+    "question": "Do all additional Part 91 Subpart F rules automatically apply to every small piston airplane?",
+    "answer": "No. Establish the subpart's applicability, which covers specified large, turbojet multiengine, and fractional-program airplanes and operations. Do not apply a specialized requirement outside its scope without checking.",
+    "source": "14 CFR 91.501",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.501"
+  },
+  {
+    "id": "P91-091",
+    "category": "part-91",
+    "question": "For a Subpart F flight, why must landing performance be checked for planned airports before departure?",
+    "answer": "The pilot must become familiar with the applicable runway lengths and takeoff/landing information. Meeting cruise capability does not establish safe destination or alternate runway performance.",
+    "source": "14 CFR 91.503",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.503"
+  },
+  {
+    "id": "P91-092",
+    "category": "part-91",
+    "question": "What must be verified before using a Subpart F airplane's autopilot below ordinary minimum-use heights?",
+    "answer": "The applicable authorized exception, AFM approval and limitations, equipment status, and operating conditions. An engaged autopilot is not proof that low-altitude use is permitted.",
+    "source": "14 CFR 91.505",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.505"
+  },
+  {
+    "id": "P91-093",
+    "category": "part-91",
+    "question": "What should be checked before a covered Subpart F over-the-top or night VFR flight?",
+    "answer": "The applicable instrument, equipment, weather, and pilot conditions in the rule. Ordinary daytime visual capability does not establish eligibility for those operations.",
+    "source": "14 CFR 91.507",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.507"
+  },
+  {
+    "id": "P91-094",
+    "category": "part-91",
+    "question": "For covered Subpart F overwater operations, is a raft useful if occupants cannot reach it quickly?",
+    "answer": "Required equipment must be accessible under the rule. Plan stowage and occupant access rather than treating a raft stored somewhere aboard as sufficient preparation.",
+    "source": "14 CFR 91.509",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.509"
+  },
+  {
+    "id": "P91-095",
+    "category": "part-91",
+    "question": "How must emergency equipment be carried in a covered Subpart F airplane?",
+    "answer": "Serviceable, accessible, and clearly marked with operating information as required. A hidden or unserviceable item cannot serve its intended emergency purpose.",
+    "source": "14 CFR 91.513",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.513"
+  },
+  {
+    "id": "P91-096",
+    "category": "part-91",
+    "question": "For covered Subpart F flights, what evacuation issue must a passenger briefing address?",
+    "answer": "Emergency exits and equipment, along with required restraint, smoking, oxygen, flotation, and assistance information as applicable. Tailor the briefing to the airplane and occupants.",
+    "source": "14 CFR 91.519",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.519"
+  },
+  {
+    "id": "P91-097",
+    "category": "part-91",
+    "question": "Does an unsecured shoulder harness satisfy the Subpart F flightcrew restraint rule for takeoff and landing?",
+    "answer": "No. Use the installed required restraint as prescribed, subject to the rule's limited duty-performance exception. Merely having the harness installed is not enough.",
+    "source": "14 CFR 91.521",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.521"
+  },
+  {
+    "id": "P91-098",
+    "category": "part-91",
+    "question": "Can a covered Subpart F airplane carry a loose heavy object merely because weight and balance are acceptable?",
+    "answer": "No. Cargo must be properly carried and restrained without obstructing exits or essential access. Loading legality includes more than total weight and CG.",
+    "source": "14 CFR 91.525",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.525"
+  },
+  {
+    "id": "P91-099",
+    "category": "part-91",
+    "question": "For an airplane covered by Subpart F, can a pilot depart with adhering contamination simply because deicing equipment is installed?",
+    "answer": "No. The rule prohibits takeoff with specified frost, ice, or snow adhering, apart from its authorized exceptions. Installed protection does not excuse a contaminated departure.",
+    "source": "14 CFR 91.527",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.527"
+  },
+  {
+    "id": "P91-100",
+    "category": "part-91",
+    "question": "Does receiving an FAA waiver cancel all the other operating rules?",
+    "answer": "No. A waiver authorizes only the specified deviations under its stated conditions and limitations. Other applicable rules and aircraft limitations remain in force.",
+    "source": "14 CFR 91.903",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.903"
+  },
+  {
+    "id": "CT-051",
+    "category": "ctls",
+    "question": "Why must a CTLS passenger keep clear of the unused controls?",
+    "answer": "The dual controls are connected; interference at either seat affects control.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.1, p.7-12",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-052",
+    "category": "ctls",
+    "question": "A CTLS no longer tracks straight while taxiing. Should you shorten a steering rod yourself?",
+    "answer": "No. Linked rudder cable tension and wheel alignment require qualified adjustment.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.2, p.7-12",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-053",
+    "category": "ctls",
+    "question": "Why should the CTLS anti-servo tab not be forced beyond normal travel during handling?",
+    "answer": "Its elastic hinge can be damaged. Use the maintenance instructions.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.3, p.7-13",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-054",
+    "category": "ctls",
+    "question": "Which direction does the cited CTLS pitch-trim wheel move the trim?",
+    "answer": "Forward gives nose-down trim; backward gives nose-up trim. Verify installation.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.4, p.7-14",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-055",
+    "category": "ctls",
+    "question": "Does unequal effort in opposite directions on the CTLS aileron trim automatically mean it is jammed?",
+    "answer": "No. Spring tension changes can cause unequal effort; investigate abnormal changes.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.6, p.7-15",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-056",
+    "category": "ctls",
+    "question": "What does turning the cited CTLS rudder-trim wheel to the right command?",
+    "answer": "Nose-right trim. Confirm the actual control and indication before adjustment.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.8, p.7-17",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-057",
+    "category": "ctls",
+    "question": "Why should a CTLS walkaround include unobstructed winglet fuel vents?",
+    "answer": "Blocked ventilation can impair the tank-pressure and fuel-feed arrangement.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.2.3, p.7-6",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-058",
+    "category": "ctls",
+    "question": "Why must baggage not obstruct the CTLS recovery-system installation or exit path?",
+    "answer": "The parachute and rocket need an unobstructed deployment arrangement.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.3.9, p.7-17",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-059",
+    "category": "ctls",
+    "question": "Can an arbitrary charger safely recover the CTLS's discharged lead-gel battery?",
+    "answer": "Use the battery-specific charging procedure; verify the installed battery type.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.2.4, p.7-8",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-060",
+    "category": "ctls",
+    "question": "Do separate avionics grounds mean the cited CTLS has independent electrical power buses?",
+    "answer": "No. The described distribution uses a common power bus.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.2.4, p.7-8",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-061",
+    "category": "ctls",
+    "question": "Where is braking commanded in the CTLS installation described by this AOI?",
+    "answer": "A central hand lever operates the main-wheel hydraulic disc brakes.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.2.5, p.7-11",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-062",
+    "category": "ctls",
+    "question": "Why inspect the CTLS nose-wheel fairing carefully after wheel servicing?",
+    "answer": "Incorrect seating can let it flutter and become damaged.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.2.5, p.7-11",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-063",
+    "category": "ctls",
+    "question": "What recovery-system precaution is required before CTLS servicing or repair?",
+    "answer": "Secure its activation handle with the safety pin against unintended activation.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8, p.8-1",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-064",
+    "category": "ctls",
+    "question": "Where should CTLS parachute repack and rocket replacement dates be checked?",
+    "answer": "The installed recovery-system handbook and records, not a generic interval.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.3, p.8-2",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-065",
+    "category": "ctls",
+    "question": "Why must a CTLS not be raised on a small hard jack pad anywhere convenient?",
+    "answer": "The composite sandwich needs approved support points and distributed loads.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.1, p.8-1",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-066",
+    "category": "ctls",
+    "question": "May a pressure washer be used to clean the CTLS airframe?",
+    "answer": "No. The cited AOI prohibits high-pressure washing.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.4, p.8-3",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-067",
+    "category": "ctls",
+    "question": "Why are alkaline household cleaners unsafe choices for the cited CTLS composite wings?",
+    "answer": "They can damage the foam core if they penetrate it.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.4.1, p.8-3",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-068",
+    "category": "ctls",
+    "question": "How should the CTLS acrylic windshield be cleaned without harming visibility?",
+    "answer": "Use clean, nonabrasive materials and acrylic-compatible products; avoid circular polishing.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.4.2, p.8-3",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-069",
+    "category": "ctls",
+    "question": "Why remove solvent-soaked cloths from beneath the CTLS windshield?",
+    "answer": "Their vapors can cause acrylic stress cracking.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.4.2, p.8-3",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-070",
+    "category": "ctls",
+    "question": "A CTLS has visible structural composite damage. Is a cosmetic patch sufficient?",
+    "answer": "No. Obtain qualified assessment and the applicable approved repair instructions.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.6, p.8-6",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-071",
+    "category": "ctls",
+    "question": "Does a factory-fitted tow hook authorize glider towing under this archived CTLS AOI?",
+    "answer": "No. This revision prohibits it; a later applicable release would be needed.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 9, p.9-1",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-072",
+    "category": "ctls",
+    "question": "May different antifreeze products be mixed in the CTLS just because both suit aluminum engines?",
+    "answer": "No. Verify compatibility and current Rotax/aircraft instructions before servicing.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.6.1, p.8-6",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-073",
+    "category": "ctls",
+    "question": "Why is adjusting a CTLS mixer bellcrank more than an isolated aileron adjustment?",
+    "answer": "It can alter the flap-aileron mixing function and aircraft handling.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.7, p.8-7",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-074",
+    "category": "ctls",
+    "question": "Should the CTLS plastic flap and aileron bearings be greased routinely?",
+    "answer": "The cited AOI says those bearings are maintenance-free and not to grease them.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 8.7, p.8-7",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  },
+  {
+    "id": "CT-075",
+    "category": "ctls",
+    "question": "Does an AOI illustration showing an instrument prove that every CTLS has that instrument installed?",
+    "answer": "No. Panel layouts vary. Identify actual equipment and its applicable supplements.",
+    "source": "Flight Design CTLS AOI AF04300005 Rev.8 (archived), AOI 7.4.1, p.7-20",
+    "sourceUrl": "https://flightdesignusa.com/wp-content/uploads/2022/11/AF04300005_08.pdf"
+  }
+]

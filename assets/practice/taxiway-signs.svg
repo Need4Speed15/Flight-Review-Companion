@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+<title id="title">Taxiway location and direction signs</title><desc id="desc">Training-only signs show a yellow left arrow and B direction panel next to a black location panel with yellow A.</desc>
+<rect width="720" height="300" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL JUNCTION</text>
+<rect x="120" y="90" width="290" height="110" fill="#f5d438" stroke="#151a20" stroke-width="6"/>
+<path d="M158 145H238m-80 0 25-25m-25 25 25 25" stroke="#151a20" stroke-width="12" fill="none"/><text x="308" y="173" fill="#151a20" font-size="80" font-weight="700">B</text>
+<rect x="425" y="90" width="135" height="110" fill="#111920" stroke="#f5d438" stroke-width="6"/><text x="492" y="173" text-anchor="middle" fill="#f5d438" font-size="80" font-weight="700">A</text>
+<text x="360" y="252" text-anchor="middle" fill="#fff" font-size="23">Clearance: via Alpha, then Bravo</text></g></svg>

@@ -1,0 +1,12 @@
+.sites-runtime/
+*.tgz
+node_modules/
+.wrangler/
+.vinext/
+*.tsbuildinfo
+.env*
+.dev.vars*
+public/
+
+dist/
+.next/

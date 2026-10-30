@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="title desc">
+<title id="title">Runway holding position</title><desc id="desc">Training-only diagram. An aircraft approaches two solid yellow lines, with two dashed yellow lines beyond, before a runway. Red sign reads 18–36.</desc>
+<rect width="720" height="340" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL AIRPORT · NOT TO SCALE</text>
+<rect x="260" y="64" width="200" height="248" fill="#344957"/><rect x="35" y="75" width="650" height="56" fill="#52606d"/>
+<text x="48" y="109" fill="#fff" font-size="22">RUNWAY</text>
+<path d="M260 162H460M260 177H460" stroke="#ffdc57" stroke-width="5" stroke-dasharray="17 12"/>
+<path d="M260 192H460M260 207H460" stroke="#ffdc57" stroke-width="5"/>
+<rect x="510" y="166" width="165" height="57" rx="3" fill="#a91f33" stroke="white" stroke-width="2"/><text x="592" y="206" text-anchor="middle" fill="white" font-size="35" font-weight="700">18–36</text>
+<path d="M360 285V242m0 0l-10 13m10-13 10 13" stroke="#80d2cc" stroke-width="7" fill="none"/>
+<text x="28" y="250" fill="#fff" font-size="21">Your direction</text><text x="28" y="279" fill="#c5d2dc" font-size="18">Solid lines face you.</text>
+<text x="485" y="284" fill="#c5d2dc" font-size="18">Clearance: hold short</text></g></svg>

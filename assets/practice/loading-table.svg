@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 395" role="img" aria-labelledby="title desc">
+<title id="title">Fictional loading worksheet</title><desc id="desc">Aircraft plus fuel: 1600 lb at 40 in; front occupants: 300 lb at 37 in; rear occupants: 200 lb at 73 in; baggage: 50 lb at 95 in. Maximum weight 2300 lb. Allowed CG 41 to 47 in at this weight.</desc>
+<rect width="720" height="395" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL LOADING DATA</text>
+<rect x="28" y="60" width="664" height="46" rx="5" fill="#254c5b"/><g fill="#fff" font-size="22"><text x="44" y="91">Item</text><text x="398" y="91">Weight (lb)</text><text x="556" y="91">Arm (in)</text>
+<text x="44" y="142">Aircraft + fuel</text><text x="420" y="142">1,600</text><text x="585" y="142">40</text>
+<text x="44" y="192">Front occupants</text><text x="430" y="192">300</text><text x="585" y="192">37</text>
+<text x="44" y="242">Rear occupants</text><text x="430" y="242">200</text><text x="585" y="242">73</text>
+<text x="44" y="292">Baggage</text><text x="442" y="292">50</text><text x="585" y="292">95</text></g>
+<path d="M28 158H692M28 208H692M28 258H692M28 308H692" stroke="#3c576a"/>
+<text x="30" y="345" fill="#80d2cc" font-size="21">Example limits: 2,300 lb · CG 41–47 in</text><text x="30" y="376" fill="#c5d2dc" font-size="18">Fuel is already included in the first line.</text></g></svg>

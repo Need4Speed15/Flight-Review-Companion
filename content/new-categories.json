@@ -1,0 +1,7 @@
+[
+ {"id":"part-135","name":"Part 135 / Charter Operations","description":"Charter operational control, pilot qualifications, checking, weather, fuel, performance, and duty rules.","supplemental":true},
+ {"id":"international-oceanic","name":"International & Oceanic Operations","description":"Cross-border preparation, oceanic navigation, data link, communications, contingencies, and regional procedures.","supplemental":true},
+ {"id":"turboprop","name":"Turboprop & Propeller Operations","description":"Turbine and propeller systems, power management, limitations, performance, and abnormal operations.","supplemental":true},
+ {"id":"ground-ramp","name":"Ground Operations & Ramp Safety","description":"Pushback, towing, marshalling, servicing, ground communication, and aircraft movement hazards."},
+ {"id":"dangerous-goods","name":"Dangerous Goods & Cargo Safety","description":"Hazard recognition, batteries, cargo acceptance, notifications, restrictions, and emergency response.","supplemental":true}
+]

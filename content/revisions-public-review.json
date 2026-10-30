@@ -1,0 +1,35 @@
+[
+  {
+    "id": "IFR-006",
+    "source": "14 CFR § 91.169(b), destination-alternate exception (airplanes)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/section-91.169"
+  },
+  {
+    "id": "IFR-102",
+    "question": "What should a pilot do if unable to accept an assigned SID or STAR?",
+    "answer": "Tell ATC and request an amended clearance. Accept only procedures you can fly with the required equipment and procedure information. A STAR requires the approved chart; an RNAV STAR also must be retrievable by name from the navigation database and match the chart. Do not substitute a remembered or manually improvised route.",
+    "source": "FAA AIM 5-2-9 (departure procedures), 5-4-1 (STARs)",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-121",
+    "question": "What must be available at the destination for ATC to authorize a contact approach?",
+    "answer": "The airport must have a published and functioning standard or special instrument approach, and reported ground visibility must be at least 1 statute mile. The pilot must request the contact approach, meet the separate flight-visibility and cloud-clearance conditions, and receive ATC authorization. The pilot remains responsible for obstruction clearance.",
+    "source": "FAA AIM 5-4-25, contact approaches",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-128",
+    "answer": "A: below 91 knots; B: 91 to below 121; C: 121 to below 141; D: 141 to below 166; E: 166 or more. The category basis is VREF, if specified, or 1.3 VSO, at maximum certificated landing weight. If it is necessary to maneuver faster than the category's upper speed limit, use the appropriate higher-category minima.",
+    "source": "FAA AIM 5-4-7, aircraft approach categories",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "CT-026",
+    "answer": "Keep flying the aircraft and attempt a restart only if altitude and time permit. The archived AOI calls for checking fuel availability, fuel-valve position, and both ignitions. A slowly windmilling propeller may not produce ignition; follow the current aircraft and engine restart procedure rather than assuming windmilling guarantees a restart."
+  },
+  {
+    "id": "CT-033",
+    "answer": "With ignition and master off, follow the current aircraft and Rotax safety procedure before touching the propeller; treat it as capable of starting. The archived AOI calls for slowly turning the propeller only in its normal direction until an oil-system gurgle is heard, then checking the dipstick. Keep the oil within the specified limits and do not overfill."
+  }
+]

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="title desc">
+<title id="title">Decode a fictional METAR</title><desc id="desc">Fictional METAR KZZZ 291755Z 22012G20KT 3SM -RA BKN015 OVC030 18/16 A2992.</desc>
+<rect width="720" height="340" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · SYNTHETIC WEATHER REPORT</text>
+<rect x="28" y="65" width="664" height="155" rx="12" fill="#1b3b50"/><g font-family="Consolas,monospace" font-size="27" fill="#fff"><text x="48" y="107">METAR KZZZ 291755Z</text><text x="48" y="151">22012G20KT 3SM -RA</text><text x="48" y="195">BKN015 OVC030 18/16 A2992</text></g>
+<text x="30" y="267" fill="#fff" font-size="24">Find the ceiling, visibility, and wind.</text><text x="30" y="305" fill="#c5d2dc" font-size="20">An observation describes conditions at its report time.</text></g></svg>

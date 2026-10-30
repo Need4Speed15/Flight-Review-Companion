@@ -1,0 +1,37 @@
+[
+  {
+    "id": "IFR-037",
+    "question": "Two independent VOR systems disagree by 6° on a dual-system check. Does that satisfy the dual-VOR IFR check method?",
+    "answer": "No. The maximum permissible difference for that method is 4°. Resolve the discrepancy or use a different authorized check method before relying on the systems for IFR navigation.",
+    "source": "14 CFR 91.171(c)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.171"
+  },
+  {
+    "id": "IFR-039",
+    "question": "If the static-pressure system is opened for maintenance, is a still-current 24-month test enough by itself for IFR flight?",
+    "answer": "No. Opening and closing the system generally triggers the specified post-maintenance test, except for the rule’s listed drain and alternate-static-valve provisions. Verify the maintenance release and required testing.",
+    "source": "14 CFR 91.411(a)(2)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.411"
+  },
+  {
+    "id": "IFR-040",
+    "question": "What extra transponder check may be needed after installation or maintenance that can introduce data-correspondence error?",
+    "answer": "The integrated system must be tested as specified by the rule to verify correct correspondence of the reported altitude information. A current routine inspection date alone does not cover every maintenance event.",
+    "source": "14 CFR 91.413(b)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-91.413"
+  },
+  {
+    "id": "IFR-115",
+    "question": "You pass the visual descent point still without sufficient visual references. Should you start down to catch the runway?",
+    "answer": "No. Remain at or above MDA until all descent conditions are met, and do not force an unstable descent after the normal visual descent opportunity has passed. Execute the missed approach as required.",
+    "source": "FAA AIM 5-4-5 — Visual descent points; 14 CFR 91.175",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-144",
+    "question": "A cold-temperature correction makes a charted segment altitude higher than the ATC assignment. What should you do?",
+    "answer": "Apply the published cold-temperature procedure and coordinate affected assigned altitudes with ATC as required. Do not silently climb into another aircraft’s protected airspace or omit a required correction to avoid asking.",
+    "source": "FAA AIM 7-3 — Cold Temperature Barometric Altimeter Errors",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_3.html"
+  }
+]

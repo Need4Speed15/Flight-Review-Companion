@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" role="img" aria-labelledby="title desc">
+<title id="title">Fictional takeoff interpolation</title><desc id="desc">Training table: density altitude 2000 feet, takeoff distance over 50-foot obstacle 1400 feet; density altitude 4000 feet, distance 1800 feet. Interpolate at 3000 feet, add chosen 25 percent, compare with 2100-foot runway.</desc>
+<rect width="720" height="370" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · NOT AIRCRAFT PERFORMANCE DATA</text>
+<rect x="28" y="60" width="664" height="58" rx="7" fill="#254c5b"/><g fill="#fff" font-size="21"><text x="46" y="96">Density altitude (ft)</text><text x="360" y="85">Takeoff over 50 ft</text><text x="360" y="108">obstacle: distance (ft)</text>
+<text x="130" y="161">2,000</text><text x="480" y="161">1,400</text><text x="130" y="211">4,000</text><text x="480" y="211">1,800</text></g><path d="M28 178H692M28 230H692" stroke="#3c576a"/>
+<text x="30" y="268" fill="#80d2cc" font-size="23">Evaluate 3,000 ft · Add chosen 25% margin</text><text x="30" y="309" fill="#fff" font-size="23">Available runway: 2,100 ft</text><text x="30" y="343" fill="#c5d2dc" font-size="18">All other table conditions held constant for this exercise.</text></g></svg>

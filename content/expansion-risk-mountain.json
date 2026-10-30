@@ -1,0 +1,562 @@
+[
+  {
+    "id": "RM-021",
+    "category": "adm",
+    "question": "How does a hazard differ from a risk?",
+    "answer": "A hazard is a condition with harmful potential; risk considers the likelihood and severity of that harm in the actual operation.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-022",
+    "category": "adm",
+    "question": "Why evaluate risk severity separately from probability?",
+    "answer": "An unlikely event can still demand strong controls when its consequences are catastrophic; frequency alone can hide an unacceptable exposure.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-023",
+    "category": "adm",
+    "question": "What makes a risk control stronger than simply promising to be careful?",
+    "answer": "It changes the operation in a concrete way, such as reducing exposure, adding capability, or establishing an enforceable decision point.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-024",
+    "category": "adm",
+    "question": "How can a pilot test whether a proposed mitigation is practical?",
+    "answer": "Identify who performs it, when it is available, whether it addresses the actual threat, and how its effectiveness will be checked.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-025",
+    "category": "adm",
+    "question": "Why should a flight-risk score not be treated as automatic takeoff permission?",
+    "answer": "A numerical total can conceal a single intolerable hazard or interacting risks; apply judgment and any required escalation.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-026",
+    "category": "adm",
+    "question": "What is the benefit of involving another qualified person in a marginal decision?",
+    "answer": "A fresh review can challenge assumptions and identify options the invested pilot has missed, provided responsibility remains clear.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-027",
+    "category": "adm",
+    "question": "A pilot is reluctant to cancel after paying for fuel and lodging. What bias is present?",
+    "answer": "Sunk-cost pressure. Money already spent does not improve the flight's future safety; judge the remaining options on present conditions.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-028",
+    "category": "adm",
+    "question": "How can hindsight bias distort a flight debrief?",
+    "answer": "Knowing the outcome can make an uncertain decision seem obvious; assess what information and cues were actually available at the time.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-029",
+    "category": "adm",
+    "question": "Why can a successful risky flight be a poor lesson for the next one?",
+    "answer": "A safe outcome may reflect luck rather than a sound decision; review margins and procedures independently of whether harm occurred.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-030",
+    "category": "adm",
+    "question": "What is a useful defense against expectation bias during a clearance change?",
+    "answer": "Read or listen for the actual instruction, compare it independently, and resolve mismatches before acting on the expected version.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-031",
+    "category": "adm",
+    "question": "How can goal fixation narrow a pilot's options?",
+    "answer": "Attention becomes centered on completing one objective while safer alternatives disappear from consideration; deliberately restate the safety goal and available exits.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-032",
+    "category": "adm",
+    "question": "Why should a pilot define the decision deadline as well as the diversion trigger?",
+    "answer": "A correct decision made after fuel, terrain, or weather removes the escape option is too late.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-033",
+    "category": "adm",
+    "question": "What does threat-and-error management add to a preflight briefing?",
+    "answer": "Identify external threats, likely crew errors, and barriers that prevent them from creating an unsafe aircraft state.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-034",
+    "category": "adm",
+    "question": "How is recovering an unsafe aircraft state different from explaining its cause?",
+    "answer": "First restore control and safe flightpath; analyze the chain of events when doing so no longer competes with immediate safety.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-035",
+    "category": "adm",
+    "question": "Why should crews distinguish a checklist challenge from a personal criticism?",
+    "answer": "Safety communication should make deviations discussable and actionable; defensive reactions can suppress necessary correction.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-036",
+    "category": "adm",
+    "question": "What makes a safety challenge more effective than hinting?",
+    "answer": "State the observed problem, its consequence, and the needed action clearly, using the operator's standard escalation if unresolved.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-037",
+    "category": "adm",
+    "question": "How should a pilot respond when a less experienced passenger notices something unusual?",
+    "answer": "Assess the observation rather than dismiss the source; a useful safety cue can come from anyone aboard.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-038",
+    "category": "adm",
+    "question": "Why is a shared mental model valuable before a complicated arrival?",
+    "answer": "It aligns expectations for route, configuration, duties, threats, and contingencies so discrepancies are recognized sooner.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-039",
+    "category": "adm",
+    "question": "An ATC shortcut saves time but increases setup workload. What should the pilot evaluate?",
+    "answer": "Whether the approach can still be prepared and stabilized safely; request delay or retain the original plan if necessary.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-040",
+    "category": "adm",
+    "question": "Why can accepting every ATC offer increase risk?",
+    "answer": "A clearance can be legal yet unsuitable for the aircraft, workload, or preparation state; the pilot must assess capability before acceptance.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-041",
+    "category": "adm",
+    "question": "What is the value of a deliberate pause before an irreversible cockpit action?",
+    "answer": "It provides time to verify the problem, target control, and expected effect, reducing wrong-engine or wrong-system actions.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-042",
+    "category": "adm",
+    "question": "Why should troubleshooting have a time or resource limit?",
+    "answer": "It can consume fuel, altitude, attention, or diversion opportunities without solving the problem; define when to stop diagnosing and land.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-043",
+    "category": "adm",
+    "question": "How should uncertainty affect a go/no-go decision?",
+    "answer": "Uncertainty reduces confidence in the available margin; obtain better information or choose an option robust to unfavorable assumptions.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-044",
+    "category": "adm",
+    "question": "Why distinguish information that is unavailable from information assumed favorable?",
+    "answer": "Missing evidence is not proof of safe conditions; explicit uncertainty prevents optimism from being mistaken for a forecast.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-045",
+    "category": "adm",
+    "question": "How can a pilot compare several diversion choices systematically?",
+    "answer": "Consider reachability, runway, weather, terrain, support, workload, and time-critical threats rather than selecting solely by distance.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-046",
+    "category": "adm",
+    "question": "What makes an early precautionary landing a risk-control tool?",
+    "answer": "It ends exposure while options remain, before deterioration forces a landing under worse circumstances.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-047",
+    "category": "adm",
+    "question": "Why should a pilot brief passengers about possible delays before the trip?",
+    "answer": "It sets realistic expectations and reduces pressure to improvise unsafe compromises when conditions change.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-048",
+    "category": "adm",
+    "question": "How can fatigue alter a pilot's confidence without improving actual ability?",
+    "answer": "Reduced judgment and self-monitoring can make the pilot underestimate impairment; use objective rest and performance cues.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-049",
+    "category": "adm",
+    "question": "Why should a pilot avoid learning unfamiliar avionics during a demanding flight phase?",
+    "answer": "Programming competes with flightpath monitoring; practice beforehand and simplify or delay nonessential changes when workload is high.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-050",
+    "category": "adm",
+    "question": "What should a pilot do when two indications suggest different failures?",
+    "answer": "Maintain control, compare independent evidence, and use the appropriate diagnostic procedure rather than forcing all evidence into the first theory.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-051",
+    "category": "adm",
+    "question": "How can time pressure degrade a preflight inspection?",
+    "answer": "It encourages omission and superficial confirmation; protect required inspection time and postpone departure when necessary.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-052",
+    "category": "adm",
+    "question": "Why is an operational change a reason to repeat the risk assessment?",
+    "answer": "The original controls may no longer fit a different aircraft, runway, crew, weather window, or destination.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-053",
+    "category": "adm",
+    "question": "What makes a debrief action item useful?",
+    "answer": "It names a specific behavior or process to change, an owner, and a way to verify improvement on later flights.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-054",
+    "category": "adm",
+    "question": "How can pilots learn from near misses without waiting for an accident?",
+    "answer": "Identify the broken barriers and successful recoveries, then change training or procedures before the same chain repeats.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-055",
+    "category": "adm",
+    "question": "Why should a pilot be cautious about transferring confidence between aircraft types?",
+    "answer": "Experience in one type does not automatically cover different systems, performance, control behavior, or operating limitations.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-056",
+    "category": "adm",
+    "question": "How can frequent interruptions threaten checklist integrity?",
+    "answer": "They obscure the last confirmed step; use the operator's interruption/restart procedure instead of guessing where to resume.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-057",
+    "category": "adm",
+    "question": "What should the PIC do if crew members disagree about the current clearance?",
+    "answer": "Resolve the discrepancy through the recorded clearance and ATC before executing an uncertain maneuver.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-058",
+    "category": "adm",
+    "question": "Why can an overly detailed briefing become ineffective?",
+    "answer": "It can bury the actual threats and actions in routine information; prioritize what matters to this specific flight while covering required items.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-059",
+    "category": "adm",
+    "question": "How does assertiveness differ from aggression in cockpit communication?",
+    "answer": "Assertiveness clearly states safety concerns and needed action while keeping the exchange focused on the task and mutual understanding.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "RM-060",
+    "category": "adm",
+    "question": "What is the value of identifying a safe default action before a complex situation develops?",
+    "answer": "It gives the pilot an immediately usable stabilizing option while gathering information, reducing pressure for an improvised commitment.",
+    "source": "FAA Risk Management Handbook (FAA-H-8083-2A), decision-making and risk controls",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf"
+  },
+  {
+    "id": "MTN-021",
+    "category": "mountain",
+    "question": "Why can a valley airport report be misleading about cloud clearance over a nearby pass?",
+    "answer": "The report is referenced to the airport and may not describe the higher terrain; compare cloud-base altitude and actual ridge conditions.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-022",
+    "category": "mountain",
+    "question": "What does a strong cross-ridge wind imply for the lee side?",
+    "answer": "Potential downdrafts, turbulence, and rotor; avoid assuming the sheltered-looking side offers smoother or safer passage.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-023",
+    "category": "mountain",
+    "question": "Why do smooth lenticular clouds not prove smooth air beneath them?",
+    "answer": "They can mark standing-wave flow with severe rotor and turbulence lower down; interpret the whole wind and terrain pattern.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-024",
+    "category": "mountain",
+    "question": "Can mountain-wave turbulence exist when no lenticular cloud is visible?",
+    "answer": "Yes. Insufficient moisture can hide the cloud signature even while strong vertical motion exists.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-025",
+    "category": "mountain",
+    "question": "Why should a mountain pilot examine winds at ridge height rather than only surface wind?",
+    "answer": "A sheltered valley can conceal much stronger flow across the surrounding terrain.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-026",
+    "category": "mountain",
+    "question": "How can a narrow mountain pass change local wind speed?",
+    "answer": "Terrain can funnel and accelerate flow, producing stronger winds and turbulence than nearby broad-area forecasts suggest.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-027",
+    "category": "mountain",
+    "question": "What should a pilot do when a downdraft exceeds available climb performance?",
+    "answer": "Preserve safe airspeed and control, move toward a planned escape or lower terrain, and avoid trying to hold altitude through an impending stall.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-028",
+    "category": "mountain",
+    "question": "Why can raising the nose toward terrain worsen a mountain escape?",
+    "answer": "It can sacrifice airspeed and control without overcoming descending air; escape depends on performance and route options, not pitch alone.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-029",
+    "category": "mountain",
+    "question": "Why approach a ridge with an oblique escape angle when conditions and local procedures permit?",
+    "answer": "It can require less turning to retreat toward lower terrain than a perpendicular approach, preserving an earlier escape option.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-030",
+    "category": "mountain",
+    "question": "How can drainage patterns help a mountain pilot maintain terrain awareness?",
+    "answer": "They help identify which way terrain descends, but must be cross-checked with charts and actual valley geometry before relying on an escape route.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-031",
+    "category": "mountain",
+    "question": "Why is flying upstream into an unfamiliar valley a special commitment risk?",
+    "answer": "Terrain commonly rises and the valley may narrow, reducing climb and turning options ahead.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-032",
+    "category": "mountain",
+    "question": "How should a pilot verify the correct valley after several similar branches appear?",
+    "answer": "Use charted landmarks, bearings, position, and terrain relationships before committing; visual similarity alone is insufficient.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-033",
+    "category": "mountain",
+    "question": "Why can a moving-map terrain display create false confidence in a canyon?",
+    "answer": "Database resolution, position accuracy, display scale, and vertical margins may be inadequate for close terrain maneuvering.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-034",
+    "category": "mountain",
+    "question": "Why is an early-morning mountain departure often preferable to an afternoon one?",
+    "answer": "It may offer cooler air, weaker convection, and better performance, but current wind, fog, and weather still control suitability.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-035",
+    "category": "mountain",
+    "question": "What mountain hazard can virga indicate even when rain never reaches the ground?",
+    "answer": "Evaporative cooling can produce strong downdrafts or dry microbursts; avoid the affected area rather than judging by surface rainfall.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-036",
+    "category": "mountain",
+    "question": "How can afternoon thunderstorms change a mountain return route?",
+    "answer": "Cells can block passes and retreat paths quickly; set an earlier return window and retain routes that do not require threading gaps.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-037",
+    "category": "mountain",
+    "question": "Why must an uphill mountain takeoff account for more than book ground roll?",
+    "answer": "Slope, roughness, wind, obstacles, and reduced climb may consume margin beyond a standard-condition runway calculation.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-038",
+    "category": "mountain",
+    "question": "What should a pilot do if actual mountain takeoff acceleration is poorer than planned?",
+    "answer": "Reject while the prebriefed stopping option remains; do not wait for the departure end to confirm inadequate performance.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-039",
+    "category": "mountain",
+    "question": "Why may a short mountain field require an aircraft-specific departure survey?",
+    "answer": "The runway, rising terrain, turns, and engine-out options can impose constraints not captured by runway length alone.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-040",
+    "category": "mountain",
+    "question": "How should a pilot evaluate a runway surrounded by trees above the airport?",
+    "answer": "Use obstacle-clearance and climb performance for the real path; being airborne before the trees does not establish clearance.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-041",
+    "category": "mountain",
+    "question": "Why can a downhill landing with a tailwind be especially difficult at altitude?",
+    "answer": "Higher groundspeed, reduced deceleration, slope, and limited runway combine; use approved data and conservative limits or choose another option.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-042",
+    "category": "mountain",
+    "question": "Why should a mountain arrival include a landing commitment point?",
+    "answer": "Past a terrain- or runway-dependent point a normal go-around may no longer be safe; understand that limit before beginning the approach.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-043",
+    "category": "mountain",
+    "question": "How can snow-covered terrain cause loss of visual depth perception?",
+    "answer": "Uniform surfaces and flat light can hide slope, obstacles, and height; avoid continuing when reliable terrain reference is lost.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-044",
+    "category": "mountain",
+    "question": "Why is unlighted mountain terrain dangerous even on a clear moonlit night?",
+    "answer": "Ridges and obstacles can remain indistinct or blend with the sky; visibility alone does not provide reliable clearance cues.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-045",
+    "category": "mountain",
+    "question": "What oxygen-planning issue arises when a pass crossing extends longer than expected?",
+    "answer": "Actual time and cabin altitude may exceed the original plan; carry suitable oxygen and margin rather than relying on a short intended exposure.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-046",
+    "category": "mountain",
+    "question": "Why should a mountain pilot account for passengers' physiological condition?",
+    "answer": "Altitude, illness, fatigue, and cold can impair occupants and create workload or emergency needs far from assistance.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-047",
+    "category": "mountain",
+    "question": "How can clothing become part of mountain flight preparation even with a heated cabin?",
+    "answer": "A forced landing may expose occupants to terrain and weather immediately; wear or keep accessible protection suitable for survival outside.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-048",
+    "category": "mountain",
+    "question": "Why should a mountain emergency landing plan consider rescue access?",
+    "answer": "Reachability, communication, shelter, and likely rescue time affect survivability after the aircraft stops.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-049",
+    "category": "mountain",
+    "question": "Why can a seemingly inviting high meadow be an uncertain landing surface?",
+    "answer": "Slope, rocks, vegetation, wet ground, and hidden obstructions can be difficult to judge from the air; assess carefully while preserving control.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  },
+  {
+    "id": "MTN-050",
+    "category": "mountain",
+    "question": "How should an unexpected loss of climb capability change a mountain route decision?",
+    "answer": "Reevaluate terrain clearance and reachable lower routes immediately, and use the planned retreat before the remaining margin disappears.",
+    "source": "FAA Tips on Mountain Flying (FAA-P-8740-60), terrain, weather, performance and preparation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/tips_on_mountain_flying.pdf"
+  }
+]

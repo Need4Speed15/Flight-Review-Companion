@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+<title id="title">Fictional TAF change timeline</title><desc id="desc">Initial forecast begins 1800Z. FM292000 replaces it at 2000Z. Arrival 2030Z is in the new group. Full synthetic TAF appears in the question.</desc>
+<rect width="720" height="360" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · SYNTHETIC TAF · ALL TIMES UTC</text>
+<rect x="28" y="65" width="280" height="122" rx="10" fill="#1b3b50"/><rect x="323" y="65" width="369" height="122" rx="10" fill="#254c5b"/>
+<g fill="#fff" font-family="Consolas,monospace" font-size="22"><text x="46" y="100">22010KT P6SM</text><text x="46" y="135">SCT030</text><text x="340" y="100">FM292000</text><text x="340" y="135">24015G25KT 3SM RA</text><text x="340" y="168">BKN012</text></g>
+<path d="M55 240H666" stroke="#80d2cc" stroke-width="4"/><path d="M55 230V251M345 230V251M490 216V251" stroke="#fff" stroke-width="3"/>
+<g fill="#fff" font-size="22"><text x="55" y="281">1800Z</text><text x="308" y="281">2000Z</text><text x="453" y="281">2030Z</text></g><text x="450" y="317" fill="#80d2cc" font-size="21" font-weight="700">ARRIVAL</text></g></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-labelledby="title desc">
+<title id="title">A fictional route and fuel plan</title><desc id="desc">Leg distance 180 nautical miles; groundspeed 120 knots; fuel flow 8 US gallons per hour. Start with 22 usable gallons; chosen arrival reserve 6 gallons.</desc>
+<rect width="720" height="330" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL FLIGHT-PLANNING INPUTS</text>
+<circle cx="65" cy="135" r="12" fill="#80d2cc"/><circle cx="655" cy="135" r="12" fill="#80d2cc"/><path d="M85 135H635" stroke="#80d2cc" stroke-width="4" stroke-dasharray="12 9"/>
+<text x="360" y="108" text-anchor="middle" fill="#fff" font-size="30">180 NM</text><text x="360" y="177" text-anchor="middle" fill="#fff" font-size="23">120 kt groundspeed · 8 US gal/hour</text>
+<rect x="28" y="211" width="320" height="88" rx="10" fill="#1b3b50"/><rect x="362" y="211" width="330" height="88" rx="10" fill="#1b3b50"/>
+<g fill="#fff" font-size="22"><text x="47" y="247">Start: 22 usable gallons</text><text x="381" y="247">Chosen reserve: 6 gallons</text></g><g fill="#c5d2dc" font-size="18"><text x="47" y="278">At the start of this leg</text><text x="381" y="278">Exercise planning input only</text></g></g></svg>

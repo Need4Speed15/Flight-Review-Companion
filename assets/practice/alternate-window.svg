@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 375" role="img" aria-labelledby="title desc">
+<title id="title">Check the whole alternate-planning window</title><desc id="desc">Fictional Part 91 airplane forecast. ETA 2000Z. Required window 1900 to 2100Z. Ceiling 3000 feet AGL at ETA, falling to 1800 from 2030 to 2100. Visibility 5 statute miles throughout.</desc>
+<rect width="720" height="375" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL FORECAST · ALL TIMES UTC</text>
+<text x="28" y="82" fill="#fff" font-size="23">ETA 2000Z · Visibility 5 SM throughout</text>
+<rect x="55" y="117" width="450" height="70" rx="5" fill="#254c5b"/><rect x="505" y="117" width="150" height="70" rx="5" fill="#744742"/>
+<text x="280" y="157" text-anchor="middle" fill="#fff" font-size="25">Ceiling 3,000 ft AGL</text><text x="580" y="145" text-anchor="middle" fill="#fff" font-size="21">1,800 ft</text><text x="580" y="174" text-anchor="middle" fill="#fff" font-size="21">AGL</text>
+<path d="M55 225H655M55 214V237M355 214V237M505 214V237M655 214V237" stroke="#80d2cc" stroke-width="3"/>
+<g fill="#fff" font-size="20" text-anchor="middle"><text x="55" y="268">1900Z</text><text x="355" y="268">2000Z</text><text x="505" y="268">2030Z</text><text x="655" y="268">2100Z</text></g>
+<path d="M55 291V303H655V291" stroke="#c5d2dc" stroke-width="2" fill="none"/><text x="355" y="338" text-anchor="middle" fill="#c5d2dc" font-size="22">One hour before through one hour after ETA</text></g></svg>

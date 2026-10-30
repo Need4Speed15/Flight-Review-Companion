@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "RAMP-001",
+    "category": "ground-ramp",
+    "question": "What should a pilot do if the marshaller disappears from view during parking?",
+    "answer": "Stop and reestablish positive guidance before moving. Do not guess the signal or the remaining clearance.",
+    "source": "FAA AC 00-34B — Marshalling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-002",
+    "category": "ground-ramp",
+    "question": "Does following a marshaller transfer collision responsibility away from the flightcrew?",
+    "answer": "No. Continue monitoring clearance and stop whenever safety is uncertain; guidance is an aid, not a guarantee.",
+    "source": "FAA AC 00-34B — Marshalling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-003",
+    "category": "ground-ramp",
+    "question": "Why should one person be designated to direct aircraft movement?",
+    "answer": "Conflicting signals can cause contradictory actions. Agree who controls the movement and how anyone can signal an immediate stop.",
+    "source": "FAA AC 00-34B — Ground coordination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-004",
+    "category": "ground-ramp",
+    "question": "Why are illuminated wands useful during night marshalling?",
+    "answer": "They make the signal easier to recognize. They do not remove the need for a visible marshaller, adequate lighting, and agreed signals.",
+    "source": "FAA AC 00-34B — Marshalling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-005",
+    "category": "ground-ramp",
+    "question": "A wing walker gives a stop signal while the lead marshaller signals forward. What should happen?",
+    "answer": "Stop. Resolve the conflict and verify clearance before resuming; an apparent obstacle takes priority over continuing.",
+    "source": "FAA AC 00-34B — Ground coordination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-006",
+    "category": "ground-ramp",
+    "question": "What information belongs in a towing briefing?",
+    "answer": "Route, aircraft configuration, steering limits, brake responsibilities, communication, personnel positions, and the stop or emergency plan.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-007",
+    "category": "ground-ramp",
+    "question": "Why must the towbar match the airplane and tug?",
+    "answer": "Attachment geometry and load capability vary. An incompatible towbar can damage the nose gear or disconnect under load.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-008",
+    "category": "ground-ramp",
+    "question": "What should happen after a towbar shear pin breaks?",
+    "answer": "Stop, secure the airplane, and obtain the prescribed inspection and equipment replacement. Do not simply fit another pin and continue.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-009",
+    "category": "ground-ramp",
+    "question": "Why do aircraft have maximum nosewheel towing angles?",
+    "answer": "Exceeding them can damage steering or landing-gear components, even if the airplane appears to tow normally afterward.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-010",
+    "category": "ground-ramp",
+    "question": "Who should occupy the brake position during a tow when required?",
+    "answer": "A trained, authorized person familiar with that airplane's brakes, communication, and emergency procedures.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-011",
+    "category": "ground-ramp",
+    "question": "Why should brake availability be checked before towing?",
+    "answer": "Some brake systems need electrical or hydraulic support and have limited reserve pressure. Establish usable stopping capability first.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-012",
+    "category": "ground-ramp",
+    "question": "When should the flightcrew release brakes for pushback?",
+    "answer": "Only after the coordinated command and confirmation that the tug and ground team are ready, using the operator's procedure.",
+    "source": "FAA AC 00-34B — Pushback",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-013",
+    "category": "ground-ramp",
+    "question": "What should happen if tug-to-cockpit communication fails during pushback?",
+    "answer": "Stop the movement safely and restore communication or use an agreed approved backup before continuing.",
+    "source": "FAA AC 00-34B — Pushback",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-014",
+    "category": "ground-ramp",
+    "question": "Why must ground crews remain clear of towbar travel?",
+    "answer": "Turning and tension changes can sweep or crush personnel between the tug, towbar, and nose gear.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-015",
+    "category": "ground-ramp",
+    "question": "Does clearance to push mean every vehicle will yield?",
+    "answer": "No. Monitor the actual path and stop for vehicles, pedestrians, or equipment that enter the protected area.",
+    "source": "FAA AC 00-34B — Pushback",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-016",
+    "category": "ground-ramp",
+    "question": "Why should the crew verify the parking brake is set before tug disconnection?",
+    "answer": "Otherwise the aircraft can roll as the tug or chocks are removed. Use positive communication rather than assumptions.",
+    "source": "FAA AC 00-34B — Pushback",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-017",
+    "category": "ground-ramp",
+    "question": "What is the purpose of a steering bypass pin on airplanes that require one?",
+    "answer": "It places the steering system in the required towing condition. Installation, removal, and cockpit indications are type-specific.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-018",
+    "category": "ground-ramp",
+    "question": "Why must removal of a steering bypass pin be positively confirmed?",
+    "answer": "A pin left installed may disable normal steering. Confirm configuration through the prescribed ground-to-flightcrew handoff.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-019",
+    "category": "ground-ramp",
+    "question": "What should pilots verify before applying taxi thrust after pushback?",
+    "answer": "Ground personnel and equipment are clear, the tug is disconnected, required pins are removed, and the agreed all-clear has been received.",
+    "source": "FAA AC 00-34B — Departure coordination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-020",
+    "category": "ground-ramp",
+    "question": "Why can a small increase in jet thrust create a large ramp hazard?",
+    "answer": "Exhaust can injure people, move equipment, and damage other aircraft. Use approved low-thrust techniques and consider what is behind the airplane.",
+    "source": "FAA AC 00-34B — Jet blast",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-021",
+    "category": "ground-ramp",
+    "question": "What is an engine ingestion zone?",
+    "answer": "The hazardous area ahead of and around a running turbine inlet where airflow can draw in people or objects. Its extent is aircraft- and power-dependent.",
+    "source": "FAA AC 00-34B — Safety hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-022",
+    "category": "ground-ramp",
+    "question": "Does a stationary propeller guarantee an aircraft is safe to approach?",
+    "answer": "No. Prevent unexpected starting and approach only under established procedures. Treat the propeller area as hazardous.",
+    "source": "FAA AC 00-34B — Propeller safety",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-023",
+    "category": "ground-ramp",
+    "question": "Why are loose hats, scarves, and unsecured tools dangerous near engines?",
+    "answer": "They can be drawn into an inlet or propeller, strike people, or become foreign objects on the ramp.",
+    "source": "FAA AC 00-34B — Safety hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-024",
+    "category": "ground-ramp",
+    "question": "How should passengers be escorted near a propeller airplane?",
+    "answer": "Use a designated safe route under crew supervision, clear of propellers and other aircraft hazards; do not allow unguided shortcuts.",
+    "source": "FAA AC 00-34B — Passenger protection",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-025",
+    "category": "ground-ramp",
+    "question": "Why is a running helicopter hazardous beyond its visible rotor disc?",
+    "answer": "Rotor wash, poor visibility, changing blade clearance, and the tail rotor create hazards outside the obvious boarding area.",
+    "source": "FAA AC 00-34B — Rotorcraft ground hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-026",
+    "category": "ground-ramp",
+    "question": "What should a pilot do if the planned taxi path places people in jet blast?",
+    "answer": "Wait, request ground coordination, change the movement plan, or use a tug as appropriate. Do not rely on people to outrun the exhaust.",
+    "source": "FAA AC 00-34B — Jet blast",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-027",
+    "category": "ground-ramp",
+    "question": "Why should a person crossing a noisy ramp avoid headphones unrelated to hearing protection?",
+    "answer": "Distraction and masked warnings reduce hazard detection. Use approved protective equipment while preserving situational awareness.",
+    "source": "FAA AC 00-34B — Noise and awareness",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-028",
+    "category": "ground-ramp",
+    "question": "What does hearing protection accomplish on the ramp?",
+    "answer": "It reduces hazardous noise exposure. It must be combined with visual awareness and an effective communication method.",
+    "source": "FAA AC 00-34B — Noise",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-029",
+    "category": "ground-ramp",
+    "question": "Why can an anti-collision beacon being off be insufficient evidence that an engine is safe?",
+    "answer": "Lights can fail or procedures can be misunderstood. Verify engine status and authorization rather than using one cue alone.",
+    "source": "FAA AC 00-34B — Engine safety",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-030",
+    "category": "ground-ramp",
+    "question": "Why should ground personnel avoid passing between a moving aircraft and fixed equipment?",
+    "answer": "The space can close rapidly and aircraft clearance is difficult to judge. Stay outside the movement envelope.",
+    "source": "FAA AC 00-34B — Collision prevention",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-031",
+    "category": "ground-ramp",
+    "question": "What is foreign object debris on an aircraft ramp?",
+    "answer": "Loose material that could damage aircraft or injure people, including hardware, packaging, stones, and broken equipment.",
+    "source": "FAA AC 00-34B — FOD",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-032",
+    "category": "ground-ramp",
+    "question": "What should happen to a dropped tool near an aircraft inlet?",
+    "answer": "Stop the relevant operation, account for the tool, and inspect or retrieve it safely before the engine is operated.",
+    "source": "FAA AC 00-34B — FOD",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-033",
+    "category": "ground-ramp",
+    "question": "Why should cones and chocks be accounted for before departure?",
+    "answer": "They can damage tires or engines, obstruct movement, or be blown into personnel and equipment.",
+    "source": "FAA AC 00-34B — Parking and FOD",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-034",
+    "category": "ground-ramp",
+    "question": "How should loose baggage straps be handled around loading equipment?",
+    "answer": "Secure them and keep them clear of moving machinery and aircraft controls; snagging can pull a person or item into equipment.",
+    "source": "FAA AC 00-34B — Ground servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-035",
+    "category": "ground-ramp",
+    "question": "Why is a tail-clearance check needed during a sharp ramp turn?",
+    "answer": "The tail and wings sweep different paths than the nosewheel. Nose clearance alone does not establish whole-aircraft clearance.",
+    "source": "FAA AC 00-34B — Ground movement",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-036",
+    "category": "ground-ramp",
+    "question": "What should be done if wingtip clearance cannot be judged from the cockpit?",
+    "answer": "Stop and obtain suitable assistance or another safe route. Do not use guesswork to squeeze through.",
+    "source": "FAA AC 00-34B — Ground movement",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-037",
+    "category": "ground-ramp",
+    "question": "Why should a parked aircraft be secured before occupants disembark?",
+    "answer": "Uncommanded rolling or wind movement can injure occupants and ground personnel. Apply the approved brake, chock, or tiedown procedure.",
+    "source": "FAA AC 00-34B — Parking",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-038",
+    "category": "ground-ramp",
+    "question": "Can a parking brake always replace chocks during servicing?",
+    "answer": "No. Brake condition, pressure loss, cooling requirements, and local procedures matter. Use the aircraft's prescribed securing method.",
+    "source": "FAA AC 00-34B — Parking",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-039",
+    "category": "ground-ramp",
+    "question": "Why is chock removal near hot brakes a special concern?",
+    "answer": "Heat and potential tire or wheel failure can endanger personnel. Follow the aircraft's hot-brake stand-off and handling procedure.",
+    "source": "FAA AC 00-34B — Heat hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-040",
+    "category": "ground-ramp",
+    "question": "How should a small airplane be tied down for strong winds?",
+    "answer": "Use the aircraft's designated attachment points and approved technique; secure controls as instructed and inspect the anchors and ropes.",
+    "source": "FAA AC 00-34B — Aircraft tiedown",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-041",
+    "category": "ground-ramp",
+    "question": "Why should a flight-control lock be included in the departure configuration check?",
+    "answer": "A lock left installed can prevent control movement. Remove it and verify the required full control travel.",
+    "source": "FAA AC 00-34B — Parking configuration",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-042",
+    "category": "ground-ramp",
+    "question": "What should happen after a ground vehicle contacts an aircraft?",
+    "answer": "Stop, report the contact, and obtain the required inspection before flight, even when no damage is obvious.",
+    "source": "FAA AC 00-34B — Damage reporting",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-043",
+    "category": "ground-ramp",
+    "question": "Why should a ramp worker report a new fluid leak before the flightcrew leaves?",
+    "answer": "It permits identification and maintenance assessment before the next operation rather than allowing an unnoticed defect to carry forward.",
+    "source": "FAA AC 00-34B — Post-arrival inspection",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-044",
+    "category": "ground-ramp",
+    "question": "Why can cabin stairs or a jet bridge damage an aircraft during servicing?",
+    "answer": "Aircraft height can change with passenger, cargo, fuel, or suspension changes. Maintain the prescribed clearances and monitoring.",
+    "source": "FAA AC 00-34B — Servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-045",
+    "category": "ground-ramp",
+    "question": "What should be checked before connecting ground electrical power?",
+    "answer": "Correct equipment compatibility, cable and connector condition, and the aircraft's connection sequence and electrical indications.",
+    "source": "FAA AC 00-34B — External power",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-046",
+    "category": "ground-ramp",
+    "question": "Why should ground-service cables and hoses be protected from vehicle traffic?",
+    "answer": "Crushing or dragging them can cause leaks, electrical hazards, and damage to aircraft connections.",
+    "source": "FAA AC 00-34B — Servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-047",
+    "category": "ground-ramp",
+    "question": "What should happen before disconnecting an external power unit?",
+    "answer": "Coordinate with the flightcrew and confirm the aircraft is ready for the loss of external power using the approved sequence.",
+    "source": "FAA AC 00-34B — External power",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-048",
+    "category": "ground-ramp",
+    "question": "Why is oxygen servicing kept away from oil and grease?",
+    "answer": "Oxygen strongly supports combustion, and petroleum contamination can create a serious fire hazard. Use clean approved equipment and trained personnel.",
+    "source": "FAA AC 00-34B — Oxygen servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-049",
+    "category": "ground-ramp",
+    "question": "Why should only the specified oxygen type and servicing method be used?",
+    "answer": "Aircraft oxygen systems have particular purity, compatibility, pressure, and contamination requirements. Other compressed gases are not substitutes.",
+    "source": "FAA AC 00-34B — Oxygen servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-050",
+    "category": "ground-ramp",
+    "question": "Why are oxygen cylinders secured during transport and servicing?",
+    "answer": "A damaged valve can release high-pressure gas violently. Prevent rolling, impact, heat exposure, and unauthorized handling.",
+    "source": "FAA AC 00-34B — Oxygen servicing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-051",
+    "category": "ground-ramp",
+    "question": "What must be agreed before a fuel truck starts servicing an airplane?",
+    "answer": "Aircraft identity, fuel type and grade, quantity, additives if required, and the authorized servicing procedure.",
+    "source": "FAA AC 00-34B — Fueling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-052",
+    "category": "ground-ramp",
+    "question": "Does a familiar fuel-truck color prove it contains the correct fuel?",
+    "answer": "No. Verify labeling, requested fuel, and the aircraft's placard or documentation. Paint conventions alone are insufficient.",
+    "source": "FAA AC 00-34B — Fuel identification",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-053",
+    "category": "ground-ramp",
+    "question": "What should a pilot do after discovering the wrong fuel may have been loaded?",
+    "answer": "Do not start the engine or depart. Stop servicing and obtain maintenance guidance to identify and correct the contamination.",
+    "source": "FAA AC 00-34B — Fueling errors",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-054",
+    "category": "ground-ramp",
+    "question": "Why is a fueling receipt worth checking before departure?",
+    "answer": "It helps catch wrong aircraft, grade, quantity, or unit errors before the engine runs and the airplane leaves.",
+    "source": "FAA AC 00-34B — Fuel verification",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-055",
+    "category": "ground-ramp",
+    "question": "What is the safety purpose of bonding during fueling?",
+    "answer": "It equalizes electrical potential between connected equipment and the aircraft to reduce static-spark risk. Follow the approved connection sequence.",
+    "source": "FAA AC 00-34B — Fueling static electricity",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-056",
+    "category": "ground-ramp",
+    "question": "Is bonding the same as placing the aircraft at earth potential?",
+    "answer": "No. Bonding equalizes potential between objects; grounding connects to earth. Use the procedure required for the actual fueling system.",
+    "source": "FAA AC 00-34B — Fueling static electricity",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-057",
+    "category": "ground-ramp",
+    "question": "What should happen if fuel spills during servicing?",
+    "answer": "Stop fueling, control ignition sources, protect people, and initiate the airport or operator spill response. Resume only when authorized.",
+    "source": "FAA AC 00-34B — Fuel spills",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-058",
+    "category": "ground-ramp",
+    "question": "Why should a fueling vehicle retain a clear escape path?",
+    "answer": "It may need to be moved promptly during a spill or fire. Do not trap it with other equipment.",
+    "source": "FAA AC 00-34B — Fueling vehicle placement",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-059",
+    "category": "ground-ramp",
+    "question": "Why should aircraft fuel be checked for water after deliveries and storage?",
+    "answer": "Water can enter through contamination or condensation and interrupt fuel supply. Use the applicable sampling and documented inspection procedures.",
+    "source": "FAA AC 00-34B — Fuel contamination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-060",
+    "category": "ground-ramp",
+    "question": "What can cloudy turbine fuel suggest?",
+    "answer": "Suspended water or other contamination. Stop and investigate through the approved fuel-quality process rather than assuming it is normal.",
+    "source": "FAA AC 00-34B — Fuel contamination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-061",
+    "category": "ground-ramp",
+    "question": "Why may an immediate post-fueling sample miss water?",
+    "answer": "Fuel agitation can suspend water and contaminants. Allow the specified settling time and follow the aircraft's sampling procedure.",
+    "source": "FAA AC 00-34B — Fuel sampling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-062",
+    "category": "ground-ramp",
+    "question": "Why must ladders or hoses not rest on unsupported wing areas?",
+    "answer": "They can dent structure or damage trailing edges and control surfaces. Use approved access and protected support locations.",
+    "source": "FAA AC 00-34B — Overwing fueling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-063",
+    "category": "ground-ramp",
+    "question": "Why must a fuel nozzle not be wedged open unattended?",
+    "answer": "The operator may lose control of flow or miss overflow and other hazards. Attend fueling and use the approved shutoff system.",
+    "source": "FAA AC 00-34B — Fueling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-064",
+    "category": "ground-ramp",
+    "question": "What final exterior check follows completion of fueling?",
+    "answer": "Verify caps and panels are secure, no leaks are present, and hoses, bonding leads, and equipment are removed before aircraft movement.",
+    "source": "FAA AC 00-34B — Fueling completion",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-065",
+    "category": "ground-ramp",
+    "question": "How should thunderstorms affect ramp servicing?",
+    "answer": "Follow airport and operator lightning procedures, including suspension and evacuation thresholds. A departure deadline does not justify exposure.",
+    "source": "FAA AC 00-34B — Weather hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-066",
+    "category": "ground-ramp",
+    "question": "Why does wet or icy pavement change pushback planning?",
+    "answer": "Reduced traction can affect tug control and aircraft stopping. Reassess equipment, route, speed, and whether the movement should occur.",
+    "source": "FAA AC 00-34B — Ground movement",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-067",
+    "category": "ground-ramp",
+    "question": "Why can strong wind make an open aircraft door dangerous?",
+    "answer": "It may move violently, injure personnel, or damage hinges and structure. Observe aircraft wind limits and securing procedures.",
+    "source": "FAA AC 00-34B — Weather hazards",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-068",
+    "category": "ground-ramp",
+    "question": "What should a crew do when blowing dust obscures ground personnel?",
+    "answer": "Stop or delay the operation until reliable guidance and safe clearance can be maintained.",
+    "source": "FAA AC 00-34B — Visibility",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-069",
+    "category": "ground-ramp",
+    "question": "Why should baggage loaders and catering vehicles approach an aircraft cautiously?",
+    "answer": "Limited sight lines and changing aircraft height create collision risk. Use trained operators, the prescribed approach, and spotting assistance where needed.",
+    "source": "FAA AC 00-34B — Service vehicles",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-070",
+    "category": "ground-ramp",
+    "question": "Why are high-visibility clothing and approved footwear important on the ramp?",
+    "answer": "They improve detection and reduce slips or injuries, but do not substitute for separation from aircraft and moving equipment.",
+    "source": "FAA AC 00-34B — PPE",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-071",
+    "category": "ground-ramp",
+    "question": "What should happen if a ramp operation uses an unfamiliar signal?",
+    "answer": "Stop and clarify using an agreed communication method before acting. Never infer a safety-critical instruction from an ambiguous gesture.",
+    "source": "FAA AC 00-34B — Marshalling",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-072",
+    "category": "ground-ramp",
+    "question": "Why must ground crews brief a change in towing route?",
+    "answer": "A new route can change clearances, traffic conflicts, surface condition, and stopping options. Update the whole team before proceeding.",
+    "source": "FAA AC 00-34B — Towing",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-073",
+    "category": "ground-ramp",
+    "question": "What is the purpose of an independent observer during a highly focused ramp task?",
+    "answer": "The observer watches for approaching traffic or other hazards that the task-focused worker may not detect.",
+    "source": "FAA AC 00-34B — Overwatch",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-074",
+    "category": "ground-ramp",
+    "question": "Why should a rushed turnaround include an explicit final all-clear?",
+    "answer": "Different teams can finish at different times. Confirm that doors, panels, people, equipment, and servicing connections are ready before movement.",
+    "source": "FAA AC 00-34B — Turnaround coordination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "RAMP-075",
+    "category": "ground-ramp",
+    "question": "What should a pilot do after receiving a ramp instruction that conflicts with safe clearance?",
+    "answer": "Stop and resolve it with the appropriate controller, ramp coordinator, or ground crew. An instruction does not make a collision safe.",
+    "source": "FAA AC 00-34B — Ground coordination",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-34B.pdf"
+  },
+  {
+    "id": "DG-001",
+    "category": "dangerous-goods",
+    "question": "Why can an ordinary household product be dangerous aboard an aircraft?",
+    "answer": "Pressure, temperature, vibration, or accidental activation can cause leakage, fire, toxic fumes, or other hazards. Product familiarity does not establish transport permission.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-002",
+    "category": "dangerous-goods",
+    "question": "Does passing TSA screening prove an item complies with dangerous-goods rules?",
+    "answer": "No. Security screening and hazardous-materials safety rules are separate. Both sets of restrictions must be satisfied.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-003",
+    "category": "dangerous-goods",
+    "question": "Why should a passenger ask about an item missing from the PackSafe chart?",
+    "answer": "The chart lists common examples, not every regulated article. An unlisted item is not automatically permitted.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-004",
+    "category": "dangerous-goods",
+    "question": "Can an airline impose stricter baggage restrictions than a general federal exception?",
+    "answer": "Yes. Check the operating airline's policy and route requirements as well as the applicable safety rules.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-005",
+    "category": "dangerous-goods",
+    "question": "What is the first step when a passenger reveals an unfamiliar chemical in a bag?",
+    "answer": "Identify the exact product and obtain the carrier's trained dangerous-goods assessment before acceptance. Do not guess from the trade name.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-006",
+    "category": "dangerous-goods",
+    "question": "Why should staff ask about batteries when a bag is gate-checked?",
+    "answer": "Articles acceptable in the cabin may be forbidden in checked baggage. Identify and remove prohibited spare batteries and devices before loading.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-007",
+    "category": "dangerous-goods",
+    "question": "What does undeclared dangerous goods mean?",
+    "answer": "Regulated material offered without the required identification, declaration, or other compliance. Ordinary packaging can conceal a regulated hazard.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-008",
+    "category": "dangerous-goods",
+    "question": "Why can a consumer label saying flammable be operationally important?",
+    "answer": "It is a cue to investigate a possible hazardous material. Acceptance depends on transport classification and exceptions, not solely the consumer warning.",
+    "source": "FAA PackSafe",
+    "sourceUrl": "https://www.faa.gov/hazmat/packsafe"
+  },
+  {
+    "id": "DG-009",
+    "category": "dangerous-goods",
+    "question": "Where must spare lithium batteries normally travel under the passenger exception?",
+    "answer": "In carry-on baggage, protected against short circuits. They may not be placed in checked baggage.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-010",
+    "category": "dangerous-goods",
+    "question": "Are portable power banks treated as installed-device batteries for baggage purposes?",
+    "answer": "No. They are treated as spare batteries and must meet the carry-on and protection requirements.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-011",
+    "category": "dangerous-goods",
+    "question": "How should exposed spare-battery terminals be protected for flight?",
+    "answer": "Use original packaging, individual protective bags or cases, or insulated terminals that prevent contact with conductive objects.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-012",
+    "category": "dangerous-goods",
+    "question": "Why should coins and keys not share a pocket with unprotected spare batteries?",
+    "answer": "They can bridge terminals and create a short circuit, heating, or fire.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-013",
+    "category": "dangerous-goods",
+    "question": "What is the usual lithium-ion energy limit for ordinary passenger electronic devices and spares?",
+    "answer": "Up to 100 Wh under the exception's conditions. Larger batteries need a specific applicable provision and any required airline approval.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-014",
+    "category": "dangerous-goods",
+    "question": "What passenger allowance can apply to spare lithium-ion batteries above 100 Wh through 160 Wh?",
+    "answer": "With airline approval, no more than two individually protected spares per person, in carry-on baggage. Verify the full applicable conditions.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-015",
+    "category": "dangerous-goods",
+    "question": "May an ordinary passenger carry a 200 Wh power bank using the standard personal-electronics exception?",
+    "answer": "No. It exceeds that exception's maximum. Do not accept it merely because it fits inside the cabin bag.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-016",
+    "category": "dangerous-goods",
+    "question": "How is a battery's watt-hour rating calculated from volts and amp-hours?",
+    "answer": "Multiply nominal volts by amp-hours. Convert milliamp-hours to amp-hours first; obtain reliable manufacturer information when markings are unclear.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-017",
+    "category": "dangerous-goods",
+    "question": "Why should a checked battery-powered device be fully switched off?",
+    "answer": "Sleep or hibernation is insufficient protection against heat generation. Protect it from accidental activation and damage under the applicable exception.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-018",
+    "category": "dangerous-goods",
+    "question": "Does a battery meeting UN 38.3 tests eliminate the need to inspect its condition before travel?",
+    "answer": "No. The tests address the battery type’s transport qualification, not damage, recall status, terminal protection, or compliance of the particular battery offered.",
+    "source": "49 CFR 175.10(a)(18)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-019",
+    "category": "dangerous-goods",
+    "question": "Can a damaged or safety-recalled lithium battery use the ordinary baggage exception?",
+    "answer": "Not when it is likely to produce dangerous heat, fire, or a short circuit. Apply the specific prohibition and carrier guidance.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-020",
+    "category": "dangerous-goods",
+    "question": "What must happen to an e-cigarette before boarding?",
+    "answer": "Carry it on the person or in carry-on baggage, prevent accidental activation, and comply with battery limits; it is not checked baggage.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-021",
+    "category": "dangerous-goods",
+    "question": "May an e-cigarette be recharged aboard the aircraft?",
+    "answer": "No. The passenger exception prohibits recharging the device or its batteries aboard.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-022",
+    "category": "dangerous-goods",
+    "question": "Why must smart baggage battery removability be checked before accepting it into the hold?",
+    "answer": "A battery outside the small built-in exception must be removed and carried under the spare-battery rules. A nonremovable battery may make the bag unacceptable.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-023",
+    "category": "dangerous-goods",
+    "question": "Are all battery-powered mobility aids governed by ordinary laptop battery limits?",
+    "answer": "No. Mobility aids have their own provisions for approval, isolation, protection, and battery removal or retention. Use the specific applicable paragraph.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-024",
+    "category": "dangerous-goods",
+    "question": "Why must mobility-aid batteries be protected against accidental operation?",
+    "answer": "Movement or a short circuit can damage the aid and aircraft or cause a fire. Follow the battery-type-specific procedure.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-025",
+    "category": "dangerous-goods",
+    "question": "What information should a traveler provide when arranging a battery-powered mobility aid?",
+    "answer": "Battery type, rating, removability, and safe isolation or handling instructions, so the airline can apply the correct provision.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-026",
+    "category": "dangerous-goods",
+    "question": "May a fuel-powered camping stove be accepted just because its tank is empty?",
+    "answer": "Not automatically. Residual liquid or vapor remains hazardous; acceptance requires the applicable drained, cleaned, and purged conditions and carrier approval where specified.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-027",
+    "category": "dangerous-goods",
+    "question": "What is the passenger dry-ice quantity limit under the usual baggage exception?",
+    "answer": "Up to 2.5 kg per person with airline approval, in packaging that permits carbon-dioxide release, subject to the applicable marking conditions.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-028",
+    "category": "dangerous-goods",
+    "question": "Why must dry-ice packaging vent gas?",
+    "answer": "Dry ice sublimates into carbon dioxide. A sealed container can pressurize, and released gas must be considered in aircraft ventilation and loading.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-029",
+    "category": "dangerous-goods",
+    "question": "What dry-ice information belongs on an applicable checked package?",
+    "answer": "Identify dry ice or solid carbon dioxide and the net dry-ice mass, or indicate that the mass is 2.5 kg or less, as the rule permits.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-030",
+    "category": "dangerous-goods",
+    "question": "May a passenger carry fireworks under the normal personal-item exception?",
+    "answer": "No. Fireworks are not made acceptable by placing them in checked baggage or labeling them as souvenirs.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-031",
+    "category": "dangerous-goods",
+    "question": "What is the usual passenger-baggage restriction on alcoholic beverages above 70 percent alcohol by volume?",
+    "answer": "They are forbidden under the passenger exception. Retail packaging does not make them acceptable.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-032",
+    "category": "dangerous-goods",
+    "question": "What quantity limit applies to beverages above 24 through 70 percent alcohol by volume?",
+    "answer": "Unopened retail packaging of no more than five liters each, with a total of five liters per person, under the exception.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-033",
+    "category": "dangerous-goods",
+    "question": "Are beverages at or below 24 percent alcohol subject to that dangerous-goods quantity limit?",
+    "answer": "No, not that alcohol-specific limit. Baggage, security, customs, and carrier restrictions may still apply.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-034",
+    "category": "dangerous-goods",
+    "question": "Does permission to transport an alcoholic beverage authorize drinking it in flight?",
+    "answer": "No. Transport and onboard consumption are different rules; follow the carrier's service requirements.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-035",
+    "category": "dangerous-goods",
+    "question": "What total limit normally applies to permitted personal medicinal and toiletry hazardous articles?",
+    "answer": "Two kilograms or two liters per person in aggregate, with each container no larger than 0.5 kg or 500 mL, subject to the paragraph's conditions.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-036",
+    "category": "dangerous-goods",
+    "question": "Why must permitted aerosol release valves be protected?",
+    "answer": "To prevent accidental discharge during handling or flight. A missing cap can defeat an otherwise applicable exception.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-037",
+    "category": "dangerous-goods",
+    "question": "Can a passenger pack extra fuel cartridges for a butane curling iron under its personal-item exception?",
+    "answer": "No. The exception for the permitted device does not permit its gas refills.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-038",
+    "category": "dangerous-goods",
+    "question": "Why is a self-inflating life jacket not automatically forbidden as compressed gas?",
+    "answer": "A specific passenger exception permits qualifying devices and cartridges under conditions, including operator approval. Apply the exact allowance rather than a blanket gas rule.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-039",
+    "category": "dangerous-goods",
+    "question": "Why does sporting ammunition require a separate baggage assessment?",
+    "answer": "Only qualifying securely boxed small-arms ammunition has a passenger exception, with checked-baggage, quantity, and personal-use conditions. Other explosives do not inherit that allowance.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-040",
+    "category": "dangerous-goods",
+    "question": "May ammunition be accepted loose in a bag under the passenger exception?",
+    "answer": "No. It must be securely packaged as required; loose cartridges do not meet the standard.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-041",
+    "category": "dangerous-goods",
+    "question": "Why are oxygen cylinders different from approved portable oxygen concentrators?",
+    "answer": "They present different hazards and regulatory conditions. A concentrator allowance does not authorize a passenger's compressed-oxygen cylinder.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-042",
+    "category": "dangerous-goods",
+    "question": "What should be checked before accepting a gas-powered personal appliance?",
+    "answer": "The exact device exception, fuel type, quantity, activation protection, permitted baggage location, and approval requirements.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-043",
+    "category": "dangerous-goods",
+    "question": "Why should the rule's most appropriate article description be selected?",
+    "answer": "Different exceptions have different conditions. Selecting a convenient but incorrect description can bypass the controls for the actual hazard.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-044",
+    "category": "dangerous-goods",
+    "question": "Can separated or misrouted passenger baggage ignore dangerous-goods conditions?",
+    "answer": "No. The applicable passenger-baggage exception can continue to apply, but its conditions and carrier incident-reporting obligations remain relevant.",
+    "source": "49 CFR 175.10",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.10"
+  },
+  {
+    "id": "DG-045",
+    "category": "dangerous-goods",
+    "question": "What does a proper shipping name identify in a dangerous-goods shipment?",
+    "answer": "The regulatory description used in transport documentation and marking. A marketing name alone is not a substitute.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-046",
+    "category": "dangerous-goods",
+    "question": "What is the purpose of a UN or NA identification number?",
+    "answer": "It identifies a regulated substance or article entry and helps responders and handlers associate the shipment with the correct hazard information.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-047",
+    "category": "dangerous-goods",
+    "question": "What does a packing group indicate when one is assigned?",
+    "answer": "The relative degree of danger for packaging purposes: I high, II medium, and III low. Not every material has a packing group.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-048",
+    "category": "dangerous-goods",
+    "question": "What does a subsidiary hazard label communicate?",
+    "answer": "An additional regulated hazard beyond the primary class. Handling and segregation must account for all applicable hazards.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-049",
+    "category": "dangerous-goods",
+    "question": "Does a Cargo Aircraft Only label allow the package aboard a passenger flight?",
+    "answer": "No. It identifies cargo-aircraft-only restrictions; passenger carriage requires an applicable authorization, not a convenient empty hold.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-050",
+    "category": "dangerous-goods",
+    "question": "Why must the hazardous-materials table's aircraft quantity limits be checked?",
+    "answer": "A material permitted by another transport mode may be forbidden or limited aboard passenger or cargo aircraft.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-051",
+    "category": "dangerous-goods",
+    "question": "What is an excepted-quantity marking intended to communicate?",
+    "answer": "That a qualifying small quantity uses a specific regulatory exception. It is not an unrestricted exemption from all transport requirements.",
+    "source": "49 CFR 173.4a — Excepted quantities",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-173.4a"
+  },
+  {
+    "id": "DG-052",
+    "category": "dangerous-goods",
+    "question": "Why must a shipper's description be checked against the actual contents?",
+    "answer": "Incorrect identification can lead to unsuitable packaging, wrong emergency actions, and incompatible loading. Trained acceptance checks must resolve discrepancies.",
+    "source": "49 CFR 172.101",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.101"
+  },
+  {
+    "id": "DG-053",
+    "category": "dangerous-goods",
+    "question": "What should airline acceptance personnel check before accepting regulated cargo?",
+    "answer": "Required documents, package condition, marking, labeling, and other applicable acceptance requirements. Use the operator's trained process.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-054",
+    "category": "dangerous-goods",
+    "question": "May a visibly leaking dangerous-goods package be accepted for flight?",
+    "answer": "No. Stop acceptance and initiate the approved isolation and response procedure; do not conceal the leak with outer packaging.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-055",
+    "category": "dangerous-goods",
+    "question": "Does the shipper's certification eliminate the carrier's acceptance inspection?",
+    "answer": "No. The carrier retains its applicable inspection and acceptance obligations.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-056",
+    "category": "dangerous-goods",
+    "question": "What should happen when a hazard label is unreadable or missing?",
+    "answer": "Hold the shipment for trained assessment and correction before acceptance. Do not infer the classification from similar packages.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-057",
+    "category": "dangerous-goods",
+    "question": "Can a damaged outer package be loaded because the inner container looks intact?",
+    "answer": "Not without the required assessment and compliance. Damage can compromise containment and obscure evidence of leakage.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-058",
+    "category": "dangerous-goods",
+    "question": "Why should overpack markings and labels remain identifiable?",
+    "answer": "An overpack must communicate the hazards when the required inner markings are not visible. Concealed labels undermine handling and emergency information.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-059",
+    "category": "dangerous-goods",
+    "question": "What should a crew do when cargo paperwork and package labels disagree?",
+    "answer": "Have the discrepancy resolved through qualified personnel before transport. Neither the label nor the paperwork should be guessed correct.",
+    "source": "49 CFR 175.30",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.30"
+  },
+  {
+    "id": "DG-060",
+    "category": "dangerous-goods",
+    "question": "What is the purpose of dangerous-goods information provided to the pilot in command?",
+    "answer": "To identify the material and its onboard location so the crew can manage the flight and communicate effectively during an emergency.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-061",
+    "category": "dangerous-goods",
+    "question": "Why must last-minute cargo changes be reflected in the pilot's dangerous-goods information?",
+    "answer": "An accurate initial notice becomes misleading if packages move, are removed, or are added. Reconcile the final load and notification.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-062",
+    "category": "dangerous-goods",
+    "question": "Why does package location matter during a cargo emergency?",
+    "answer": "It helps identify affected compartments, select appropriate procedures, and inform responders about access and hazards.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-063",
+    "category": "dangerous-goods",
+    "question": "What should a captain do if required dangerous-goods notification has not been received?",
+    "answer": "Resolve the missing information through the operator's process before departure; do not assume another person has checked it.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-064",
+    "category": "dangerous-goods",
+    "question": "What should ATC receive during an airborne emergency involving carried dangerous goods when circumstances permit?",
+    "answer": "Information sufficient to alert responders, including the relevant goods and location as available. Aircraft control and immediate emergency actions take priority.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-065",
+    "category": "dangerous-goods",
+    "question": "Why should the ground organization retain accessible shipment information?",
+    "answer": "Emergency responders may need it promptly if the aircraft cannot communicate or documents aboard are unavailable.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-066",
+    "category": "dangerous-goods",
+    "question": "What is the danger of a generic statement that dangerous goods are aboard?",
+    "answer": "It omits the identity, quantity, and location needed for an informed response. Use the required detailed notification.",
+    "source": "49 CFR 175.33",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.33"
+  },
+  {
+    "id": "DG-067",
+    "category": "dangerous-goods",
+    "question": "Why must dangerous-goods packages be secured against movement?",
+    "answer": "Shifting can damage packaging and cause leakage, and may violate required orientation or separation from other cargo.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-068",
+    "category": "dangerous-goods",
+    "question": "Why are incompatible dangerous goods separated during loading?",
+    "answer": "Leakage or damage could bring incompatible materials together and cause fire, heat, gas, or another dangerous reaction.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-069",
+    "category": "dangerous-goods",
+    "question": "Can every hazardous material be placed in any available cargo compartment?",
+    "answer": "No. Accessibility, quantity, aircraft type, compartment, and segregation requirements govern the permitted position.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-070",
+    "category": "dangerous-goods",
+    "question": "Why must package orientation arrows be respected?",
+    "answer": "They communicate the required upright position for qualifying liquid packages. Incorrect orientation can increase leakage risk.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-071",
+    "category": "dangerous-goods",
+    "question": "What should happen if dangerous goods are discovered in a compartment not authorized for them?",
+    "answer": "Stop and correct the loading under the operator's trained procedure before departure.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-072",
+    "category": "dangerous-goods",
+    "question": "Why should heavy cargo not be allowed to crush hazardous packages?",
+    "answer": "Containment can fail even when the package was originally compliant. Protect packages and use the prescribed stowage and restraint.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-073",
+    "category": "dangerous-goods",
+    "question": "What should be verified after unloading a leaking dangerous-goods shipment?",
+    "answer": "Inspect the affected aircraft and equipment for contamination or damage and complete the required response before reuse.",
+    "source": "49 CFR 175.75 and 175.78",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-175.78"
+  },
+  {
+    "id": "DG-074",
+    "category": "dangerous-goods",
+    "question": "What is function-specific dangerous-goods training?",
+    "answer": "Training for the transport duties an employee actually performs, such as acceptance, loading, documentation, or flightcrew notification.",
+    "source": "49 CFR 172.704",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.704"
+  },
+  {
+    "id": "DG-075",
+    "category": "dangerous-goods",
+    "question": "Does general awareness training alone qualify a person for every hazmat task?",
+    "answer": "No. Function-specific, safety, security, and other applicable training must match the duties performed.",
+    "source": "49 CFR 172.704",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.704"
+  },
+  {
+    "id": "DG-076",
+    "category": "dangerous-goods",
+    "question": "Why must dangerous-goods training records be maintained?",
+    "answer": "They demonstrate what training was provided, when, and by whom, and support verification that personnel are qualified for assigned functions.",
+    "source": "49 CFR 172.704",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.704"
+  },
+  {
+    "id": "DG-077",
+    "category": "dangerous-goods",
+    "question": "What should an employee do when asked to perform an unfamiliar hazmat task?",
+    "answer": "Stop and obtain qualified assistance or required training. A supervisor's request does not create competence or authorization.",
+    "source": "49 CFR 172.704",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.704"
+  },
+  {
+    "id": "DG-078",
+    "category": "dangerous-goods",
+    "question": "Why does a no-carry airline still need dangerous-goods recognition procedures?",
+    "answer": "Prohibited or undeclared material can still be offered in baggage or freight. Staff must recognize, reject, and respond correctly.",
+    "source": "49 CFR 172.704",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-172.704"
+  },
+  {
+    "id": "DG-079",
+    "category": "dangerous-goods",
+    "question": "How should procedures change when a carrier begins accepting dangerous-goods cargo?",
+    "answer": "Obtain the required authorizations and trained personnel before acceptance; passenger exceptions do not establish a cargo program.",
+    "source": "FAA OperateSafe — Air carrier dangerous-goods approval and OpSpec A055",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-080",
+    "category": "dangerous-goods",
+    "question": "Why should a suspected hazardous-materials release be reported promptly?",
+    "answer": "Qualified responders need early warning, and specified events trigger immediate and written regulatory reports. Follow the operator's reporting chain without delaying urgent protection.",
+    "source": "49 CFR 171.15 and 171.16",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-171.15"
+  },
+  {
+    "id": "DG-081",
+    "category": "dangerous-goods",
+    "question": "Does a spill have to injure someone before it matters?",
+    "answer": "No. Fire, leakage, contamination, undeclared shipments, and other events can require action or reporting even without injury.",
+    "source": "49 CFR 171.15 and 171.16",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-171.15"
+  },
+  {
+    "id": "DG-082",
+    "category": "dangerous-goods",
+    "question": "What information is useful in an initial dangerous-goods incident report?",
+    "answer": "Location, aircraft or shipment identity, material if known, visible effects, exposure, and actions taken. Describe observations without inventing a chemical identity.",
+    "source": "49 CFR 171.15 and 171.16",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-171.15"
+  },
+  {
+    "id": "DG-083",
+    "category": "dangerous-goods",
+    "question": "Why should leaking packages and affected baggage not be handled casually?",
+    "answer": "Contact can spread contamination and expose personnel. Isolate the area and obtain trained emergency-response assistance.",
+    "source": "49 CFR 171.15 and 171.16",
+    "sourceUrl": "https://www.ecfr.gov/current/title-49/section-171.15"
+  },
+  {
+    "id": "DG-084",
+    "category": "dangerous-goods",
+    "question": "Why should responders be told when lithium batteries may be involved?",
+    "answer": "Battery thermal runaway can continue or recur and requires appropriate cooling and containment procedures. Follow the aircraft's approved response.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-085",
+    "category": "dangerous-goods",
+    "question": "What should passengers do when a device becomes unusually hot or starts smoking?",
+    "answer": "Notify the cabin crew immediately and stop using it. Do not hide it in a bag, seat pocket, or lavatory.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-086",
+    "category": "dangerous-goods",
+    "question": "Why is a device trapped in a powered seat mechanism hazardous?",
+    "answer": "Moving the seat can crush the battery and initiate a fire. Notify the crew and avoid moving the mechanism until the approved procedure is followed.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-087",
+    "category": "dangerous-goods",
+    "question": "Why is extinguishing visible flames not necessarily the end of a lithium-battery event?",
+    "answer": "Heat can propagate to other cells and reignition can occur. Continued monitoring and the approved cooling procedure remain necessary.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-088",
+    "category": "dangerous-goods",
+    "question": "Can a battery fire containment bag replace the aircraft's firefighting checklist?",
+    "answer": "No. Use only approved equipment as directed; a bag does not eliminate heat, smoke, or the need for monitoring.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-089",
+    "category": "dangerous-goods",
+    "question": "Why should a crew avoid moving an actively burning battery device without guidance?",
+    "answer": "Handling can cause burns, spread fire, or worsen battery damage. Follow the trained aircraft procedure and protect occupants first.",
+    "source": "FAA AC 120-80B — Lithium battery fire response",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-80B.pdf"
+  },
+  {
+    "id": "DG-090",
+    "category": "dangerous-goods",
+    "question": "Does a passenger-baggage exception authorize carriage of the same material as commercial cargo?",
+    "answer": "No. Cargo acceptance requires its own classification, packaging, documentation, training, and operator authority.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-091",
+    "category": "dangerous-goods",
+    "question": "Why is an empty chemical drum not necessarily harmless cargo?",
+    "answer": "Residue and vapors may remain regulated and hazardous. Assess it under the applicable empty-packaging provisions.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-092",
+    "category": "dangerous-goods",
+    "question": "What should an airline do with a shipment offered as laboratory samples?",
+    "answer": "Have qualified staff determine classification and packaging requirements. The informal description does not establish that the samples are nonhazardous.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-093",
+    "category": "dangerous-goods",
+    "question": "Why should a repair shipment containing an installed fire extinguisher be assessed for dangerous goods?",
+    "answer": "Aircraft parts can contain compressed gas, batteries, or other regulated contents. A maintenance purpose does not waive transport requirements.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-094",
+    "category": "dangerous-goods",
+    "question": "What is the acceptance concern with an oxygen generator shipped as an aircraft spare?",
+    "answer": "It may present a serious oxidizing and heat-generating hazard and has specific transport restrictions. Refer it to qualified specialists rather than treating it as an empty cylinder.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-095",
+    "category": "dangerous-goods",
+    "question": "Why can a wet, stained, or odorous package warrant stopping loading?",
+    "answer": "It may indicate leakage or undeclared hazardous contents. Keep personnel clear and invoke the operator's inspection and response process.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-096",
+    "category": "dangerous-goods",
+    "question": "Why should baggage personnel ask about a large quantity of loose consumer batteries?",
+    "answer": "The personal-use exception and short-circuit protections may not apply to a commercial shipment disguised as baggage.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-097",
+    "category": "dangerous-goods",
+    "question": "What must be coordinated before transporting dry ice in multiple cargo packages?",
+    "answer": "Total quantity, ventilation, permitted loading, package compliance, and flightcrew information as required. Individual package compliance alone may not establish safe carriage.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-098",
+    "category": "dangerous-goods",
+    "question": "Why must a pilot avoid inventing a neutralization method for an unknown chemical spill?",
+    "answer": "Wrong chemicals or water can worsen the reaction. Use the approved emergency guidance and trained responders.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-099",
+    "category": "dangerous-goods",
+    "question": "What is a strong final dangerous-goods cross-check before departure?",
+    "answer": "Match accepted packages, authorized loading positions, quantities, and the final pilot notification, resolving discrepancies before the flight begins.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "DG-100",
+    "category": "dangerous-goods",
+    "question": "Why should dangerous-goods rules be checked for the actual route and operator?",
+    "answer": "State variations, carrier restrictions, and approvals can differ. A shipment accepted elsewhere is not automatically acceptable on this flight.",
+    "source": "FAA OperateSafe for Air Carriers",
+    "sourceUrl": "https://www.faa.gov/hazmat/air_carriers"
+  },
+  {
+    "id": "P121-201",
+    "category": "part-121",
+    "question": "Why must an airline cockpit checklist be approved for the aircraft type?",
+    "answer": "It must address the required safety checks and emergencies for that type, rather than rely on a generic checklist or memory alone.",
+    "source": "14 CFR 121.315",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.315"
+  },
+  {
+    "id": "P121-202",
+    "category": "part-121",
+    "question": "How should a crew resume a checklist interrupted by an ATC call?",
+    "answer": "Use the carrier's interruption and restart technique, positively establishing the last completed item. Do not assume the other pilot finished it.",
+    "source": "FAA AC 120-71B — SOP checklist interruption and resumption",
+    "sourceUrl": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-71B.pdf"
+  },
+  {
+    "id": "P121-203",
+    "category": "part-121",
+    "question": "Why must an airline crew verify passenger-information signs before taxi?",
+    "answer": "Required signs communicate restraint and smoking restrictions. A verbal reminder does not automatically cure an inoperative required system.",
+    "source": "14 CFR 121.317",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.317"
+  },
+  {
+    "id": "P121-204",
+    "category": "part-121",
+    "question": "How should a crew address a report of lavatory smoke-detector tampering?",
+    "answer": "Treat it as a safety and compliance issue, notify the appropriate crew, and follow the carrier's response and reporting procedures.",
+    "source": "14 CFR 121.317",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.317"
+  },
+  {
+    "id": "P121-205",
+    "category": "part-121",
+    "question": "Why does an airliner's public-address system need prompt accessibility?",
+    "answer": "Crew must be able to communicate essential instructions to passengers during normal and emergency operation.",
+    "source": "14 CFR 121.318",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.318"
+  },
+  {
+    "id": "P121-206",
+    "category": "part-121",
+    "question": "What should happen when a required passenger announcement cannot be heard in part of the cabin?",
+    "answer": "Identify the failure and apply the approved maintenance or abnormal procedure before relying on the system for safety instructions.",
+    "source": "14 CFR 121.318",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.318"
+  },
+  {
+    "id": "P121-207",
+    "category": "part-121",
+    "question": "Why is icing approval not permission to ignore abnormal accretion on propellers or wings?",
+    "answer": "Required ice protection must be operated correctly, and conditions beyond capability require the approved escape or diversion response.",
+    "source": "14 CFR 121.321",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.321"
+  },
+  {
+    "id": "P121-208",
+    "category": "part-121",
+    "question": "Why should flight-data-recorder discrepancies be treated as aircraft status items?",
+    "answer": "The applicable recorder installation and operation are required equipment matters; dispatch relief must come from approved provisions.",
+    "source": "14 CFR 121.344",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.344"
+  },
+  {
+    "id": "P121-209",
+    "category": "part-121",
+    "question": "What drives airline survival-equipment requirements over uninhabited terrain?",
+    "answer": "The operation, route environment, and operations specifications determine the needed signaling and survival equipment. A normal domestic route assumption may be inadequate.",
+    "source": "14 CFR 121.353",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.353"
+  },
+  {
+    "id": "P121-210",
+    "category": "part-121",
+    "question": "Why should a carrier match survival kits to the route's climate?",
+    "answer": "Equipment useful in one environment may not support survival after a remote landing in another. Apply the route-specific required provisions.",
+    "source": "14 CFR 121.353",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.353"
+  },
+  {
+    "id": "P121-211",
+    "category": "part-121",
+    "question": "Does a terrain-awareness display authorize descending below cleared or published altitudes?",
+    "answer": "No. It supports awareness and warning; it is not a substitute for instrument procedures, clearance compliance, or approved escape guidance.",
+    "source": "14 CFR 121.354",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.354"
+  },
+  {
+    "id": "P121-212",
+    "category": "part-121",
+    "question": "What governs an airline crew's response to a terrain warning?",
+    "answer": "The aircraft's approved warning-response procedure and carrier training. Diagnose only as directed without delaying a required escape maneuver.",
+    "source": "Honeywell — Performance Assessment of Pilot Response to EGPWS, response to an EGPWS alert activation; applicable AFM",
+    "sourceUrl": "https://aerospace.honeywell.com/content/dam/aerobt/en/documents/landing-pages/user-documentation/hon-aero-performance-assessment-of-pilot-response-to-egpws.pdf"
+  },
+  {
+    "id": "P121-213",
+    "category": "part-121",
+    "question": "Does visual acquisition of traffic automatically cancel a TCAS resolution advisory?",
+    "answer": "No. Follow the approved collision-avoidance response and ATC coordination procedure; visual identification can be incomplete or wrong.",
+    "source": "FAA AIM 4-4-16 — Traffic Alert and Collision Avoidance System",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_4.html"
+  },
+  {
+    "id": "P121-214",
+    "category": "part-121",
+    "question": "Why must crews know the difference between a traffic advisory and a resolution advisory?",
+    "answer": "A traffic advisory promotes traffic awareness, while a resolution advisory commands or limits vertical maneuvering under the approved system procedure.",
+    "source": "FAA AIM 4-4-16 — Traffic Alert and Collision Avoidance System",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_4.html"
+  },
+  {
+    "id": "P121-215",
+    "category": "part-121",
+    "question": "What should an airline crew verify about windshear equipment before using its protection in planning?",
+    "answer": "Applicable required equipment status and system limitations. Detection aids do not justify entering known hazardous windshear.",
+    "source": "14 CFR 121.358",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.358"
+  },
+  {
+    "id": "P121-216",
+    "category": "part-121",
+    "question": "Why must airline maintenance and flight operations coordinate deferred defects?",
+    "answer": "The carrier's maintenance organization and operating crews have different responsibilities that must produce one accurate, compliant aircraft status.",
+    "source": "14 CFR 121.365",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.365"
+  },
+  {
+    "id": "P121-217",
+    "category": "part-121",
+    "question": "Why are airline maintenance procedures documented rather than improvised at the gate?",
+    "answer": "The required manual defines methods, responsibilities, inspections, and records. Time pressure does not authorize an unofficial substitute.",
+    "source": "14 CFR 121.369",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.369"
+  },
+  {
+    "id": "P121-218",
+    "category": "part-121",
+    "question": "What is the purpose of an airline's continuing-analysis and surveillance system?",
+    "answer": "To monitor maintenance-program performance and effectiveness and correct deficiencies. Repeated defects need systematic follow-up, not only individual repairs.",
+    "source": "14 CFR 121.373",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.373"
+  },
+  {
+    "id": "P121-219",
+    "category": "part-121",
+    "question": "Why must airline maintenance personnel receive training for their assigned work?",
+    "answer": "The carrier must provide a program that keeps personnel competent for applicable duties, procedures, and equipment.",
+    "source": "14 CFR 121.375",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.375"
+  },
+  {
+    "id": "P121-220",
+    "category": "part-121",
+    "question": "Can a pilot assume any airline employee is authorized to release maintenance work?",
+    "answer": "No. Maintenance and release authority depend on the applicable qualifications and carrier authorization, not job familiarity or seniority.",
+    "source": "14 CFR 121.379",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.379"
+  },
+  {
+    "id": "P121-221",
+    "category": "part-121",
+    "question": "Why should an airline crew resolve an ambiguous maintenance-record entry before accepting the airplane?",
+    "answer": "The record must support a clear airworthiness status; an unclear entry may conceal an incomplete action, inspection, or limitation.",
+    "source": "14 CFR 121.380",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.380"
+  },
+  {
+    "id": "P121-222",
+    "category": "part-121",
+    "question": "May a cabin occupant leave a seatback reclined for takeoff because the flight is short?",
+    "answer": "No. Passenger seatbacks must be upright for takeoff and landing except the rule’s specifically allowed circumstances. Apply the actual approved seating and operator procedures.",
+    "source": "14 CFR 121.311(e)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.311"
+  },
+  {
+    "id": "P121-223",
+    "category": "part-121",
+    "question": "When might an airline aircraft require a flight engineer in addition to pilots?",
+    "answer": "When the airplane's type certification and applicable rule require that position. A two-pilot assumption does not apply to every design.",
+    "source": "14 CFR 121.387",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.387"
+  },
+  {
+    "id": "P121-224",
+    "category": "part-121",
+    "question": "How does airline transition training differ from upgrade training?",
+    "answer": "Transition qualifies a crewmember for another airplane type in the applicable group and position; upgrade prepares an already qualified crewmember for a higher duty position.",
+    "source": "14 CFR 121.400",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.400"
+  },
+  {
+    "id": "P121-225",
+    "category": "part-121",
+    "question": "Can an airline informally shorten an approved training curriculum?",
+    "answer": "No. Program changes and applicable reductions need the required FAA approval. Strong past performance alone does not authorize a shortcut.",
+    "source": "14 CFR 121.405",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.405"
+  },
+  {
+    "id": "P121-226",
+    "category": "part-121",
+    "question": "Why must a simulator be approved for the specific airline training task?",
+    "answer": "A device's general realism does not establish that its qualification and approval cover the required maneuver or check.",
+    "source": "14 CFR 121.407",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.407"
+  },
+  {
+    "id": "P121-227",
+    "category": "part-121",
+    "question": "What is the benefit of line-oriented flight training for an airline crew?",
+    "answer": "It practices realistic operational sequences and crew coordination in an approved simulator environment, connecting individual skills to line decisions.",
+    "source": "14 CFR 121.409",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.409"
+  },
+  {
+    "id": "P121-228",
+    "category": "part-121",
+    "question": "Why does an airline instructor need more than aircraft handling proficiency?",
+    "answer": "Instructor training must develop the ability to teach, demonstrate, evaluate, and correct performance safely in the approved program.",
+    "source": "14 CFR 121.413",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.413"
+  },
+  {
+    "id": "P121-229",
+    "category": "part-121",
+    "question": "What performance-analysis skills should initial airline ground training develop for weight and balance?",
+    "answer": "Pilots must be able to apply the airplane’s loading limits and operational performance data to the assigned operation, including relevant runway and environmental factors, rather than only recall the structural maximum weight.",
+    "source": "14 CFR 121.419 — Pilots initial ground training",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.419"
+  },
+  {
+    "id": "P121-230",
+    "category": "part-121",
+    "question": "What operational purpose does captain leadership and mentoring training serve?",
+    "answer": "It develops command, communication, and mentoring skills that help the crew maintain safe standards and manage differing experience levels.",
+    "source": "14 CFR 121.420",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.420"
+  },
+  {
+    "id": "P121-231",
+    "category": "part-121",
+    "question": "Why must cabin-crew training match the actual airplane configuration?",
+    "answer": "Exits, emergency equipment, seating, and evacuation duties differ. Qualification on another configuration does not establish knowledge of this one.",
+    "source": "14 CFR 121.421",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.421"
+  },
+  {
+    "id": "P121-232",
+    "category": "part-121",
+    "question": "Why does dispatcher training include airplane performance and limitations?",
+    "answer": "Release decisions depend on runway, route, fuel, and equipment constraints. Dispatch cannot be based solely on weather and scheduling.",
+    "source": "14 CFR 121.422",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.422"
+  },
+  {
+    "id": "P121-233",
+    "category": "part-121",
+    "question": "What does consolidation of airline operating experience seek to accomplish?",
+    "answer": "It reinforces recently learned type-specific skills through required line flying within the applicable period, subject to authorized alternatives.",
+    "source": "14 CFR 121.434",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.434"
+  },
+  {
+    "id": "P121-234",
+    "category": "part-121",
+    "question": "What operations familiarization is required for covered newly hired airline pilots before operating experience?",
+    "answer": "At least two operating cycles observed from the flight-deck observer seat with an operational headset, unless an approved deviation applies. Apply the section’s applicability provisions.",
+    "source": "14 CFR 121.435",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.435"
+  },
+  {
+    "id": "P121-235",
+    "category": "part-121",
+    "question": "A pilot flies two airline airplane types. Does a proficiency check in one automatically establish checking eligibility for both?",
+    "answer": "No. Apply the type-specific check requirements and any authorized alternative program provisions. A current check date in one type does not by itself establish qualification in the other.",
+    "source": "14 CFR 121.441",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.441"
+  },
+  {
+    "id": "P121-236",
+    "category": "part-121",
+    "question": "Why must a flight engineer retain type-specific recent competence?",
+    "answer": "The position has its own experience or checking requirements. Pilot qualifications alone do not establish current flight-engineer qualification.",
+    "source": "14 CFR 121.453",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.453"
+  },
+  {
+    "id": "P121-237",
+    "category": "part-121",
+    "question": "Why must an airline provide operational notices to relevant employees promptly?",
+    "answer": "Changes to equipment, procedures, facilities, or hazards affect decisions before the next manual revision. Personnel need current operational information.",
+    "source": "14 CFR 121.539",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.539"
+  },
+  {
+    "id": "P121-238",
+    "category": "part-121",
+    "question": "Who must ensure adequate navigation and approach charts are aboard an airline flight?",
+    "answer": "The PIC must ensure appropriate charts containing adequate navigation-aid and instrument-approach information are aboard for each flight.",
+    "source": "14 CFR 121.549(a)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.549"
+  },
+  {
+    "id": "P121-239",
+    "category": "part-121",
+    "question": "May an unqualified flight-deck observer manipulate airline aircraft controls as a courtesy?",
+    "answer": "No. Manipulation is restricted to the persons and circumstances the rule authorizes. Cockpit access is not control authority.",
+    "source": "14 CFR 121.545",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.545"
+  },
+  {
+    "id": "P121-240",
+    "category": "part-121",
+    "question": "Does each airline crewmember need a usable flashlight available on a daylight flight?",
+    "answer": "Yes. Each crewmember must have a flashlight in good working order readily available on each flight; unexpected darkness or smoke can make it essential.",
+    "source": "14 CFR 121.549(b)",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.549"
+  },
+  {
+    "id": "P121-241",
+    "category": "part-121",
+    "question": "Does an airline's approval for an airport authorize every route into it?",
+    "answer": "No. Domestic and flag flights must comply with approved routes and limitations, except for the rule's authorized circumstances.",
+    "source": "14 CFR 121.555",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.555"
+  },
+  {
+    "id": "P121-242",
+    "category": "part-121",
+    "question": "Why should an airline approach keep specified IFR minimum altitudes until descent is authorized?",
+    "answer": "A visual impression or apparent shortcut does not provide the terrain and obstacle protection built into the applicable altitude requirements.",
+    "source": "14 CFR 121.567",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.567"
+  },
+  {
+    "id": "P121-243",
+    "category": "part-121",
+    "question": "Why can aircraft interchange between airlines require additional familiarization?",
+    "answer": "The agreement must address approved procedures, personnel training, route qualifications, and potentially hazardous cockpit differences. Similar paint or model names do not establish interchangeable procedures.",
+    "source": "14 CFR 121.569",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.569"
+  },
+  {
+    "id": "P121-244",
+    "category": "part-121",
+    "question": "Why must a passenger's portable oxygen concentrator be assessed before airline use?",
+    "answer": "It must satisfy applicable device, stowage, battery, and use conditions. Personal medical need alone does not establish aircraft compatibility.",
+    "source": "14 CFR 121.574",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.574"
+  },
+  {
+    "id": "P121-245",
+    "category": "part-121",
+    "question": "Does carrying authorized nonpassenger personnel on a cargo flight make all passenger rules irrelevant?",
+    "answer": "No. Only specified exceptions apply, with conditions and briefing requirements. Identify the person's status and the actual relief permitted.",
+    "source": "14 CFR 121.583",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.583"
+  },
+  {
+    "id": "P121-246",
+    "category": "part-121",
+    "question": "Why should a delayed airline flight reassess destination forecast timing?",
+    "answer": "The forecast must support the revised estimated arrival under the applicable rule and authorizations. An earlier release package may no longer match the flight.",
+    "source": "14 CFR 121.613",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.613"
+  },
+  {
+    "id": "P121-247",
+    "category": "part-121",
+    "question": "Why should a supplemental crew distinguish its alternate rule from the domestic airline rule?",
+    "answer": "The applicable operational category has its own alternate provisions. Familiar domestic practices are not automatic supplemental authority.",
+    "source": "14 CFR 121.623",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.623"
+  },
+  {
+    "id": "P121-248",
+    "category": "part-121",
+    "question": "Why must a supplemental release amendment be coordinated and recorded?",
+    "answer": "A changed destination or alternate must meet the applicable weather, fuel, and release conditions through the authorized operational-control system.",
+    "source": "14 CFR 121.637",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.637"
+  },
+  {
+    "id": "P121-249",
+    "category": "part-121",
+    "question": "Who is responsible for accurate airline load-manifest preparation and signing?",
+    "answer": "The certificate holder must ensure preparation and signing by authorized qualified personnel under its approved system. The crew must use the resulting accurate loading information.",
+    "source": "14 CFR 121.665",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.665"
+  },
+  {
+    "id": "P121-250",
+    "category": "part-121",
+    "question": "Why should crews report recurring minor mechanical interruptions rather than normalize them?",
+    "answer": "The carrier uses required reports and maintenance analysis to detect trends. A recurring discrepancy can signal a larger safety problem.",
+    "source": "14 CFR 121.705",
+    "sourceUrl": "https://www.ecfr.gov/current/title-14/section-121.705"
+  },
+  {
+    "id": "IFR-151",
+    "category": "ifr",
+    "question": "What does RNAV (RNP) in an approach title signal to a pilot?",
+    "answer": "An RNP authorization-required procedure with specific aircraft, operator, and training requirements. Ordinary IFR GPS approval is insufficient.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-152",
+    "category": "ifr",
+    "question": "Why must an RF leg be checked against the installed navigator's approval?",
+    "answer": "A radius-to-fix path requires supported functionality and the applicable procedure authorization. A displayed curved line does not prove approval.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-153",
+    "category": "ifr",
+    "question": "Can a pilot manually build missing approach waypoints to replace an unavailable database procedure?",
+    "answer": "No. Do not substitute a manually constructed approach for the required current, retrievable approved procedure.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-154",
+    "category": "ifr",
+    "question": "What should be checked when a navigator downgrades from LPV to LNAV before final?",
+    "answer": "Available authorized minima, required equipment, weather, and a stable rebriefed plan. Do not continue using the original LPV DA.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-155",
+    "category": "ifr",
+    "question": "Why should approach availability be checked independently of the destination METAR?",
+    "answer": "Navigation outages, satellite limitations, database issues, and procedural NOTAMs can make an otherwise weather-suitable approach unavailable.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-156",
+    "category": "ifr",
+    "question": "What should a pilot do when cleared direct to a waypoint that is not a permitted approach entry?",
+    "answer": "Clarify the clearance and preserve obstacle protection. A direct clearance does not authorize skipping required altitude or segment conditions.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-157",
+    "category": "ifr",
+    "question": "Why are vectors to final and selecting vectors-to-final in a navigator separate decisions?",
+    "answer": "The ATC clearance and the navigator's sequencing behavior must agree. Some selections remove fixes needed for subsequent clearance changes.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-158",
+    "category": "ifr",
+    "question": "What should be checked before accepting a shortened approach intercept?",
+    "answer": "Distance to configure, intercept geometry, altitude, required fixes, and navigator sequencing. Decline if it prevents a stabilized legal approach.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-159",
+    "category": "ifr",
+    "question": "What does an approach's equipment note control?",
+    "answer": "The equipment or capability necessary to fly the procedure or a particular minima line. The chart title alone is not a complete equipment assessment.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-160",
+    "category": "ifr",
+    "question": "Why should a charted localizer frequency be identified rather than merely tuned?",
+    "answer": "Identification confirms the intended operating facility and reduces the risk of following the wrong or unreliable signal.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-161",
+    "category": "ifr",
+    "question": "Why should a pilot check the charted localizer service-volume limits before tracking an extended final?",
+    "answer": "Useful signal coverage is not unlimited. Outside the authorized service volume, apparent guidance may not provide the protection expected; use approved routing and guidance within its limits.",
+    "source": "FAA AIM 1-1-9 — Instrument Landing System",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "IFR-162",
+    "category": "ifr",
+    "question": "What should a pilot do if the final approach course shown in the navigator disagrees with the chart?",
+    "answer": "Resolve the discrepancy before using the guidance. Check procedure version, runway, transitions, and equipment state rather than choosing the preferred display.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-163",
+    "category": "ifr",
+    "question": "What is the operational meaning of a charted visual segment being unavailable or restricted?",
+    "answer": "Do not assume normal visual descent protection from the instrument segment. Review notes, visibility, lighting, and the approved landing plan.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-164",
+    "category": "ifr",
+    "question": "Why should a circling restriction be checked for runway and sector rather than only category?",
+    "answer": "Terrain, obstacles, or noise restrictions may prohibit a direction or area even when the aircraft's category has published minima.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-165",
+    "category": "ifr",
+    "question": "What should a pilot verify when an approach requires radar?",
+    "answer": "That the required radar service is available for the applicable part of the procedure. The label is an operating requirement, not merely a suggestion.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-166",
+    "category": "ifr",
+    "question": "Why should an alternate approach be briefed before arriving in deteriorating weather?",
+    "answer": "It reduces workload if the planned navigation service, runway, or minima become unavailable. Preserve fuel and authorization for the backup.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-167",
+    "category": "ifr",
+    "question": "What does a PRM approach require beyond an ordinary parallel ILS?",
+    "answer": "Applicable training, briefing, equipment, and monitoring procedures. Follow the Attention All Users page and published breakout requirements.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-168",
+    "category": "ifr",
+    "question": "How should a PRM breakout instruction be treated?",
+    "answer": "Respond promptly under the prescribed procedure; it differs from a routine published missed approach and is intended to avoid adjacent traffic.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-169",
+    "category": "ifr",
+    "question": "Why can an aircraft with excellent climb performance still be unsuitable for a particular missed approach?",
+    "answer": "The required navigation capability, climb gradient, speed, and obstacle assumptions must all be satisfied, not only engine power.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-170",
+    "category": "ifr",
+    "question": "What should be done if the missed-approach climb gradient cannot be met at the planned weight?",
+    "answer": "Choose another authorized minima line or procedure, reduce weight, or change the plan before starting the approach. Do not discover the limitation at DA.",
+    "source": "FAA AIM, chapter 5 section 4",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-171",
+    "category": "ifr",
+    "question": "What should a pilot check when a departure has a climb gradient only to a specified altitude?",
+    "answer": "Meet the specified gradient through that altitude, then use the remaining published and cleared requirements. Do not assume the special gradient ends at an arbitrary height.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-172",
+    "category": "ifr",
+    "question": "Why can a tailwind make an obstacle departure harder despite improving groundspeed?",
+    "answer": "More distance is covered per minute, so a given climb rate produces fewer feet per nautical mile. Check the required gradient using actual groundspeed.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-173",
+    "category": "ifr",
+    "question": "What should a pilot do if a clearance assigns a departure runway different from the loaded procedure?",
+    "answer": "Reconcile the clearance, chart, performance, and navigator before takeoff. A correct procedure for another runway can be unsafe.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-174",
+    "category": "ifr",
+    "question": "Why should a departure briefing include a return-to-land option?",
+    "answer": "Low departure weather, high weight, and approach availability may prevent an immediate return. Identify a practical failure plan before entering IMC.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-175",
+    "category": "ifr",
+    "question": "What should a pilot verify when ATC assigns an altitude below a published departure restriction?",
+    "answer": "Clarify whether the clearance changes the procedure and ensure obstacle protection. Do not silently discard an unresolved restriction.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-176",
+    "category": "ifr",
+    "question": "Can a departure obstacle note about a close-in obstacle be ignored because a climb gradient is published?",
+    "answer": "No. Review all notes and account for obstacles near the departure end; a gradient alone may not address every listed exposure.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-177",
+    "category": "ifr",
+    "question": "Why should a pilot avoid head-down programming while rolling for an IFR departure?",
+    "answer": "Runway alignment, clearances, control, and traffic need attention. Stop or delay departure to complete unresolved programming.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-178",
+    "category": "ifr",
+    "question": "What should be checked before accepting a departure requiring an immediate turn?",
+    "answer": "Aircraft performance, bank and speed limits, turn altitude, navigation capability, and terrain. State unable if the clearance cannot be met safely.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-179",
+    "category": "ifr",
+    "question": "Why can an IFR clearance received on the ground still require coordination before takeoff?",
+    "answer": "Release, void-time, and clearance conditions may restrict when departure is authorized. Read the full clearance rather than assuming immediate release.",
+    "source": "FAA AIM, departure and en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-180",
+    "category": "ifr",
+    "question": "How does a departure climb-in-visual-conditions instruction change a pilot’s responsibilities?",
+    "answer": "Accept only when the specified visual conditions, terrain clearance, aircraft capability, and ATC conditions can be maintained. It is not an instruction to enter cloud below protected IFR altitudes.",
+    "source": "FAA AIM 5-2 — Climb in visual conditions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html"
+  },
+  {
+    "id": "IFR-181",
+    "category": "ifr",
+    "question": "What does cruise in an IFR altitude clearance permit?",
+    "answer": "Operation within the authorized altitude block up to the stated altitude and descent under the applicable conditions. Once reporting leaving an altitude, do not return without clearance.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-182",
+    "category": "ifr",
+    "question": "How does a block-altitude clearance differ from clearance to a single level?",
+    "answer": "It authorizes operations within the specified altitude range. Stay within its limits and comply with any additional conditions.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-183",
+    "category": "ifr",
+    "question": "What should a pilot do if an assigned hold exceeds the aircraft's usable fuel margin?",
+    "answer": "Advise ATC promptly, state the limitation, and arrange another clearance or diversion before reserves become critical.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-184",
+    "category": "ifr",
+    "question": "Why should a pilot check holding-leg units before loading a hold?",
+    "answer": "A clearance may specify time or distance, and a wrong entry changes the protected path. Confirm units, direction, and fix.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-185",
+    "category": "ifr",
+    "question": "What should a pilot do when the clearance and database hold direction disagree?",
+    "answer": "Follow the clarified ATC clearance using supported navigation and protected geometry; do not assume the database is the assigned hold.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-186",
+    "category": "ifr",
+    "question": "Why can a direct clearance across an airway change terrain considerations?",
+    "answer": "Published airway protection does not automatically extend to every off-airway direct segment. Confirm the cleared altitude is appropriate and query concerns.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-187",
+    "category": "ifr",
+    "question": "What should be done if a turn to an assigned heading would enter severe weather?",
+    "answer": "Advise ATC immediately and request or exercise the appropriate deviation authority. An assigned heading does not remove the pilot's safety responsibility.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-188",
+    "category": "ifr",
+    "question": "Why should an IFR pilot request a weather deviation early?",
+    "answer": "It preserves routing and separation options before the hazard forces an urgent turn. Specify the needed direction and distance when possible.",
+    "source": "FAA AIM, en route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-189",
+    "category": "ifr",
+    "question": "How does maintain until established constrain descent when cleared for an approach?",
+    "answer": "Keep the assigned altitude until established on the cleared published route or segment as specified, then follow the clearance and applicable published altitudes. A visible magenta line alone does not establish authorization to descend.",
+    "source": "FAA AIM 5-4-6 — Approach Clearance",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html"
+  },
+  {
+    "id": "IFR-190",
+    "category": "ifr",
+    "question": "Does an expected altitude stated in an IFR clearance authorize climbing to it when the stated time arrives?",
+    "answer": "No. An expect instruction is planning information, not a clearance to change altitude. Obtain an actual clearance unless an applicable lost-communications rule governs.",
+    "source": "FAA AIM 5-3 — En route procedures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html"
+  },
+  {
+    "id": "IFR-191",
+    "category": "ifr",
+    "question": "Why should an instrument cross-check use independent sources after a display disagreement?",
+    "answer": "Several indications can share one failed sensor. Identify source independence before voting for the majority display.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-192",
+    "category": "ifr",
+    "question": "What should a pilot do when the standby attitude source disagrees with the primary display?",
+    "answer": "Maintain control with verified references, compare independent information, and use the aircraft's failure-identification procedure rather than chasing both displays.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-193",
+    "category": "ifr",
+    "question": "Why must pitot heat status be checked before an icing exposure?",
+    "answer": "A failed or unpowered heating system can allow airspeed corruption before visible airframe icing becomes obvious. Follow the approved operating procedure.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-194",
+    "category": "ifr",
+    "question": "Why should an IFR pilot practice flying with the flight director removed?",
+    "answer": "Misleading or unavailable guidance must not eliminate basic instrument control. Practice with an instructor in an appropriate training environment.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-195",
+    "category": "ifr",
+    "question": "How can an autopilot mask deteriorating performance in icing?",
+    "answer": "It may trim or change attitude while maintaining a selected target, delaying recognition of increasing drag or reduced margins. Monitor performance and follow the icing procedure.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-196",
+    "category": "ifr",
+    "question": "What should a pilot do after an unexpected autopilot disconnect in IMC?",
+    "answer": "Take positive manual control, establish a safe attitude and power, then identify the cause and reduce workload with ATC assistance as needed.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-197",
+    "category": "ifr",
+    "question": "Why should a navigator's active leg be checked after a missed approach starts?",
+    "answer": "The displayed course may still reference the final segment or suspended sequencing. Verify the intended missed-approach path before following it.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-198",
+    "category": "ifr",
+    "question": "Why is a timer not a substitute for identifying the correct final approach fix?",
+    "answer": "Timing assumptions depend on the correct starting point and groundspeed. An early start can produce an early, unprotected descent or missed approach.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-199",
+    "category": "ifr",
+    "question": "Why should a pilot brief avionics failure before single-pilot IFR departure?",
+    "answer": "It creates a usable plan for reduced equipment, routing, and landing while workload is low, rather than improvising after the failure.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "IFR-200",
+    "category": "ifr",
+    "question": "What should an IFR pilot do if workload prevents a safe checklist or approach briefing?",
+    "answer": "Ask for delay, vectors, a hold, or another clearance while keeping control. Preserve a stable setup before committing to the next phase.",
+    "source": "FAA Instrument Flying Handbook",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_flying_handbook"
+  },
+  {
+    "id": "WX-101",
+    "category": "weather",
+    "question": "Why does an automated weather station sometimes miss a nearby thunderstorm affecting the route?",
+    "answer": "It samples a limited location and its sensors have detection limits. Combine observations with radar, satellite, advisories, and pilot reports.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-102",
+    "category": "weather",
+    "question": "How should a pilot interpret a METAR ending with a dollar sign?",
+    "answer": "It indicates the automated system needs maintenance. Assess the reported elements and obtain additional information rather than assuming every value is invalid.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-103",
+    "category": "weather",
+    "question": "What does AUTO tell you about a METAR?",
+    "answer": "The report is fully automated without human augmentation. Understand sensor coverage and limitations when evaluating nearby weather.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-104",
+    "category": "weather",
+    "question": "Why can missing weather groups in an automated report be important?",
+    "answer": "A sensor or observation element may be unavailable. An absent value is not evidence of favorable conditions.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-105",
+    "category": "weather",
+    "question": "What does CAVOK in an international observation summarize?",
+    "answer": "Specified good visibility, no significant weather, and no operationally significant cloud under the reporting criteria. It is not simply another spelling of clear skies.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-106",
+    "category": "weather",
+    "question": "What does a variable wind direction group add to a METAR?",
+    "answer": "It gives the directional range observed when the reporting criteria are met, helping identify changing crosswind exposure.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-107",
+    "category": "weather",
+    "question": "Why should a pilot check true versus magnetic reference when comparing weather wind with a runway?",
+    "answer": "Coded METAR wind uses true direction, while runway numbers generally reflect magnetic direction. Convert consistently before calculating a precise component; spoken airport wind may use a different reference.",
+    "source": "FAA-H-8083-28B — Surface observations",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-108",
+    "category": "weather",
+    "question": "What should a pilot infer from a rapid visibility drop at successive stations along the route?",
+    "answer": "The deterioration may be moving or expanding. Reassess timing and escape options instead of relying on the destination's last good report.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-109",
+    "category": "weather",
+    "question": "Why can an airport's reported ceiling be unsuitable for a nearby ridge route?",
+    "answer": "Ceilings reference the reporting airport, while terrain elevations and local cloud differ. Evaluate terrain clearance along the actual route.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-110",
+    "category": "weather",
+    "question": "How does a forecast valid time differ from its issue time?",
+    "answer": "Issue time says when the forecast was produced; valid time says when the conditions apply. Both matter to currency and flight timing.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-111",
+    "category": "weather",
+    "question": "Why should a weather briefing be refreshed after a long ground delay?",
+    "answer": "The relevant forecast period, hazards, and observations may have changed. Reevaluate departure, route, destination, and alternates for the new schedule.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-112",
+    "category": "weather",
+    "question": "What does an amended TAF signal for planning?",
+    "answer": "The forecaster has revised the forecast. Review the changed conditions and timing rather than continuing with a saved earlier version.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-113",
+    "category": "weather",
+    "question": "Why is a forecast probability not a guarantee that a hazard will stay absent?",
+    "answer": "A lower probability still permits occurrence, and consequences may be severe. Plan an acceptable escape if the event develops.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-114",
+    "category": "weather",
+    "question": "What does a surface analysis show that a single airport report cannot?",
+    "answer": "The larger pressure, frontal, and air-mass pattern helps explain weather movement and development beyond one observation point.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-115",
+    "category": "weather",
+    "question": "Why should forecast fronts not be treated as precise lines at the forecast hour?",
+    "answer": "Position and timing contain uncertainty, and hazardous weather can extend away from the boundary. Build time and route margins.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-116",
+    "category": "weather",
+    "question": "What does a trough depict on a weather analysis?",
+    "answer": "An elongated region of relatively low pressure, often associated with convergence and changing weather. Its effects depend on moisture and stability.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-117",
+    "category": "weather",
+    "question": "How can a ridge of high pressure still present flying hazards?",
+    "answer": "Stagnant air, fog, haze, inversions, or terrain winds may coexist with high pressure. Check actual visibility and vertical structure.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-118",
+    "category": "weather",
+    "question": "Why should winds aloft be checked at more than the cruise altitude?",
+    "answer": "Departure, descent, turbulence, icing escape, and diversions may use other layers. One altitude can hide a strong shear or unfavorable return wind.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-119",
+    "category": "weather",
+    "question": "What does a large temperature change with a small altitude change suggest?",
+    "answer": "A strong lapse-rate change or inversion may alter stability, cloud, icing, and wind shear. Examine the full vertical profile.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-120",
+    "category": "weather",
+    "question": "Why is wet-bulb temperature useful when assessing winter precipitation?",
+    "answer": "It represents cooling by evaporation toward saturation. A dry layer can cool as precipitation falls, changing whether rain, snow, or freezing conditions develop.",
+    "source": "FAA-H-8083-28B — Atmospheric moisture and precipitation",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-121",
+    "category": "weather",
+    "question": "How can a warm layer aloft change a winter precipitation decision?",
+    "answer": "Melting precipitation followed by a subfreezing layer can create freezing rain or ice pellets. Surface temperature alone does not establish safe conditions.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-122",
+    "category": "weather",
+    "question": "Why should icing escape plans consider terrain as well as warmer air?",
+    "answer": "A descent may enter terrain or lower cloud, and a climb may be beyond performance. Choose an escape that is both meteorologically and operationally usable.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-123",
+    "category": "weather",
+    "question": "Why can a high-altitude jet encounter engine icing with little airframe ice?",
+    "answer": "Ice crystals can affect the engine while other visible cues are limited. Follow type-specific guidance and avoid the hazardous convective environment.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-124",
+    "category": "weather",
+    "question": "Why can cold-soaked fuel support ice formation on a wing when ambient air is above freezing?",
+    "answer": "The wing skin can remain below freezing and freeze moisture. Use the approved contamination inspection and removal procedure.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-125",
+    "category": "weather",
+    "question": "Why does freezing fog deserve an aircraft contamination check?",
+    "answer": "Supercooled droplets can freeze on exposed surfaces even without snowfall. Do not equate light precipitation with a clean aircraft.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-126",
+    "category": "weather",
+    "question": "What is virga, and why is it operationally relevant?",
+    "answer": "Precipitation evaporating before reaching the surface can accompany strong downdrafts and gusty outflow. A dry surface does not imply smooth air below it.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-127",
+    "category": "weather",
+    "question": "Why can a dry microburst be difficult to recognize visually?",
+    "answer": "Little or no rain reaches the surface, although strong descending air and outflow remain. Use warnings, reports, and conservative avoidance.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-128",
+    "category": "weather",
+    "question": "Why can an outflow boundary create a hazard away from the parent storm?",
+    "answer": "It can shift and accelerate surface wind, produce turbulence, and trigger new convection. Track boundary movement as well as storm cores.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-129",
+    "category": "weather",
+    "question": "What does rapid vertical cloud growth tell a pilot watching a planned VFR route?",
+    "answer": "Convective conditions are developing. Reassess promptly before cloud, turbulence, or precipitation closes the escape options.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-130",
+    "category": "weather",
+    "question": "Why can several weak cells combine into a more hazardous line?",
+    "answer": "New development and interacting outflows can close gaps and create stronger wind or turbulence. A gap assessment must account for evolution.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-131",
+    "category": "weather",
+    "question": "Why does airborne radar show precipitation more reliably than clear-air turbulence?",
+    "answer": "Radar reflectivity depends on suitable particles. Severe motion without strong precipitation may produce little useful return.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-132",
+    "category": "weather",
+    "question": "How can radar beam height cause distant low-level precipitation to be missed?",
+    "answer": "The beam rises relative to the earth and can pass above shallow weather at long range. A weak or absent distant return does not establish that the lower flightpath is clear.",
+    "source": "FAA-H-8083-28B — Weather radar limitations",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-133",
+    "category": "weather",
+    "question": "Why can snow and dry hail appear weaker on weather radar than liquid rain?",
+    "answer": "Different particles reflect radar energy differently. Reflectivity color alone does not establish the full hazard severity.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-134",
+    "category": "weather",
+    "question": "Why is radar range selection part of strategic weather planning?",
+    "answer": "A short range can hide the larger system and escape routes; a long range can obscure local detail. Use a useful combination of views.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-135",
+    "category": "weather",
+    "question": "What should a pilot consider when satellite imagery shows cold cloud tops?",
+    "answer": "High cloud may indicate deep convection, but imagery alone does not establish turbulence, precipitation, or the safety of a gap below.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-136",
+    "category": "weather",
+    "question": "Why can infrared satellite imagery be misleading for low fog at night?",
+    "answer": "Small temperature contrast between cloud and ground can make low cloud difficult to distinguish. Use appropriate products and surface observations.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-137",
+    "category": "weather",
+    "question": "What is the value of visible satellite imagery for a daytime VFR route?",
+    "answer": "It shows cloud patterns and development, but cannot by itself give precise cloud bases or prove that the route beneath is VFR.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-138",
+    "category": "weather",
+    "question": "Why should an icing forecast be compared with recent pilot reports?",
+    "answer": "Reports provide actual sampled conditions and aircraft responses, while forecasts provide broader coverage. Consider report time, altitude, position, and aircraft type.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-139",
+    "category": "weather",
+    "question": "Does an absence of PIREPs prove that a forecast hazard did not occur?",
+    "answer": "No. Few aircraft may have sampled the area or reported. Treat lack of reports as missing evidence, not proof of safety.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-140",
+    "category": "weather",
+    "question": "Why can a light-airplane turbulence report differ from an airliner's experience?",
+    "answer": "Aircraft response depends on size, speed, configuration, and loading. Read the aircraft type and intensity description before applying the report.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-141",
+    "category": "weather",
+    "question": "What should a pilot do when actual conditions are materially worse than forecast?",
+    "answer": "Make an early safe change, obtain updated information, and report useful observations. The forecast does not justify continuing into an unsafe situation.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-142",
+    "category": "weather",
+    "question": "Why should alternate weather be monitored during flight rather than only before departure?",
+    "answer": "A backup airport can deteriorate or become unavailable. Preserve a current usable alternative and the fuel to reach it.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-143",
+    "category": "weather",
+    "question": "Why should a coastal fog forecast include wind direction and sea-surface effects?",
+    "answer": "Moisture transport and cold surfaces can sustain or move fog despite daytime heating inland.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-144",
+    "category": "weather",
+    "question": "Why can snow-covered terrain promote persistent cold and low cloud?",
+    "answer": "High reflectivity and weak surface heating can limit warming and mixing. Improvement may be slower than on nearby bare ground.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-145",
+    "category": "weather",
+    "question": "How can smoke affect a flight even when the ceiling is unlimited?",
+    "answer": "Visibility and terrain contrast can be poor, and smoke layers may conceal obstacles. Evaluate the visual environment and escape options.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-146",
+    "category": "weather",
+    "question": "Why should volcanic ash be avoided even when it resembles ordinary haze?",
+    "answer": "Ash can abrade surfaces, contaminate systems, and damage engines. Use advisories and approved avoidance procedures rather than visual identification alone.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-147",
+    "category": "weather",
+    "question": "Why are weather hazards not bounded by state or forecast-product borders?",
+    "answer": "Atmospheric systems cross administrative boundaries. Combine adjacent products and observations for the complete route.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-148",
+    "category": "weather",
+    "question": "What should a weather plan say about the latest safe diversion decision?",
+    "answer": "Identify observable triggers and fuel or terrain commitment points before the flight. A usable early option may disappear if the decision is delayed.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-149",
+    "category": "weather",
+    "question": "Why should a pilot compare forecast timing uncertainty with fuel endurance?",
+    "answer": "A forecast improvement arriving late may consume the available holding or diversion margin. Plan for a credible delay, not only the best timing.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  {
+    "id": "WX-150",
+    "category": "weather",
+    "question": "What makes a postflight weather review useful?",
+    "answer": "Compare the forecast, actual observations, and decisions to identify recurring interpretation errors and improve future planning rather than merely judging whether the flight succeeded.",
+    "source": "FAA-H-8083-28B Aviation Weather Handbook",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  }
+]

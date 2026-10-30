@@ -1,0 +1,522 @@
+[
+  {
+    "id": "EM-011",
+    "category": "emergencies",
+    "question": "Why should a pilot select a forced-landing area before attempting an engine restart?",
+    "answer": "Troubleshooting can consume the altitude needed to reach a survivable site. Establish the landing plan while maintaining control, then perform appropriate restart checks if time permits.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-012",
+    "category": "emergencies",
+    "question": "What makes the largest visible field an unsuitable forced-landing choice?",
+    "answer": "Obstacles, wires, slope, surface, approach path, or distance may make it unreachable or hazardous. Choose a reachable site with a survivable approach.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-013",
+    "category": "emergencies",
+    "question": "Why should a forced-landing pilot continually reassess the selected field?",
+    "answer": "Wind, height, sink, and newly visible obstacles can change reachability. Refine the plan early rather than making a desperate low turn at the end.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-014",
+    "category": "emergencies",
+    "question": "How should wind affect a power-off landing-site choice?",
+    "answer": "Consider drift, reach, and touchdown groundspeed as well as terrain and obstacles. A manageable into-wind site is useful only if it is reachable and survivable.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-015",
+    "category": "emergencies",
+    "question": "Why is maintaining the published glide speed important after power loss?",
+    "answer": "It preserves the intended glide performance and control margin. Flying too slowly to stretch the glide can increase sink and lead to a stall.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-016",
+    "category": "emergencies",
+    "question": "Why should a forced landing avoid an excessive attempt to reach a distant runway?",
+    "answer": "An airport beyond gliding reach is not a usable option. A controlled landing short of it may be far more survivable than stalling while trying to reach pavement.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-017",
+    "category": "emergencies",
+    "question": "How can a turn immediately after engine failure consume landing options?",
+    "answer": "Bank increases lift demand and usually sink, while changing wind and geometry. Use only a turn supported by height, speed, terrain, and the landing plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-018",
+    "category": "emergencies",
+    "question": "Why must a turnback after takeoff be evaluated before departure rather than improvised?",
+    "answer": "Actual height, reaction delay, wind, runway geometry, and aircraft performance determine feasibility. No universal altitude makes the maneuver safe.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-019",
+    "category": "emergencies",
+    "question": "What should a pre-takeoff engine-failure briefing identify?",
+    "answer": "Usable landing areas, likely flightpath, aircraft-specific immediate actions, and limits on turning back. Keep the plan simple enough to use under stress.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-020",
+    "category": "emergencies",
+    "question": "Why should an off-airport landing emphasize a controlled touchdown?",
+    "answer": "Occupant survival depends strongly on impact speed, attitude, and deceleration. Preserve control even when the surface is imperfect.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-021",
+    "category": "emergencies",
+    "question": "Why should a pilot avoid a late steep turn to align with a forced-landing field?",
+    "answer": "The low-altitude stall risk can outweigh the benefit of alignment. Favor a controlled landing using available space.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-022",
+    "category": "emergencies",
+    "question": "What should occupants be told before an anticipated emergency landing?",
+    "answer": "Give clear instructions on restraints, brace position, exits, loose items, and when to evacuate, using the aircraft's procedures and available time.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-023",
+    "category": "emergencies",
+    "question": "Why should loose cabin objects be secured before a forced landing when time permits?",
+    "answer": "They can injure occupants, obstruct controls, or block exits during deceleration. Assign simple tasks without distracting from aircraft control.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-024",
+    "category": "emergencies",
+    "question": "When should a pilot communicate the forced-landing location?",
+    "answer": "As early as workload permits, using a clear position and intentions. Transmit useful information before descending out of radio coverage, without sacrificing control.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-025",
+    "category": "emergencies",
+    "question": "Why can extending landing gear be the wrong generic answer for every forced landing?",
+    "answer": "Surface, aircraft design, and the approved procedure determine the choice. A water, soft-ground, or rough-terrain landing may require a different configuration.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-026",
+    "category": "emergencies",
+    "question": "Why must flap use during a power-off approach account for reach?",
+    "answer": "Flaps change drag and glide capability. Delay irreversible loss of range until the landing area is assured, consistent with the aircraft procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-027",
+    "category": "emergencies",
+    "question": "What should happen if the engine restarts during a forced-landing approach?",
+    "answer": "Reassess reliability, altitude, and options. A momentary restart is not proof the failure is resolved; choose a conservative landing plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-028",
+    "category": "emergencies",
+    "question": "Why should a pilot avoid repeated restart attempts with evidence of engine fire or serious damage?",
+    "answer": "Restarting may feed a fire or worsen damage. Follow the aircraft's specific shutdown and landing procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-029",
+    "category": "emergencies",
+    "question": "What is the practical concern with partial power rather than complete power loss?",
+    "answer": "Performance may be insufficient or unpredictable. Preserve a reachable landing option instead of assuming the remaining power will last.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-030",
+    "category": "emergencies",
+    "question": "How should abnormal oil pressure and rising temperature together affect a flight?",
+    "answer": "Treat the combined indications as a potentially serious engine problem, use the checklist, and plan an early landing before power deteriorates further.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-031",
+    "category": "emergencies",
+    "question": "Why should severe engine vibration prompt an early landing decision?",
+    "answer": "It may signal mechanical damage and can worsen rapidly. Maintain control, use approved power or shutdown guidance, and avoid unnecessary continued flight.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-032",
+    "category": "emergencies",
+    "question": "What is the danger of treating rough running as definitely carburetor ice?",
+    "answer": "Fuel, ignition, mechanical, and other failures can look similar. Apply the approved diagnostic sequence while preserving a landing option.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-033",
+    "category": "emergencies",
+    "question": "Why should a pilot verify fuel-tank selection during an appropriate power-loss checklist?",
+    "answer": "Fuel may be unavailable from the selected source even when total fuel remains. Use the correct selector procedure and avoid blindly moving controls.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-034",
+    "category": "emergencies",
+    "question": "Why is total fuel quantity not proof that the engine can receive fuel?",
+    "answer": "Tank selection, pump failure, blocked vents, contamination, or damaged lines can interrupt delivery. Troubleshoot only as the approved procedure directs.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-035",
+    "category": "emergencies",
+    "question": "What should a pilot do after suspecting fuel contamination in flight?",
+    "answer": "Manage engine indications, use the aircraft checklist, and choose a prompt suitable landing. Do not assume switching tanks always eliminates contamination.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-036",
+    "category": "emergencies",
+    "question": "Why is an unexplained fuel smell in the cockpit an urgent abnormal indication?",
+    "answer": "It can indicate a leak and fire risk. Use the aircraft's leak or fire procedure, avoid ignition hazards as instructed, and prepare to land.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-037",
+    "category": "emergencies",
+    "question": "Why must smoke source identification not delay immediate protection and landing planning?",
+    "answer": "A hidden fire can grow rapidly while occupants lose visibility or breathing capability. Follow immediate procedures and establish a safe landing plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-038",
+    "category": "emergencies",
+    "question": "What should happen if smoke returns after an electrical item is switched back on?",
+    "answer": "Follow the approved fire or electrical procedure and avoid repeatedly reenergizing the suspected source. A temporarily clear cockpit does not prove safety.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-039",
+    "category": "emergencies",
+    "question": "Why should a pilot know the approved extinguisher's limitations before an emergency?",
+    "answer": "Agent type, discharge duration, visibility, and breathing concerns affect its safe use. Learn the aircraft's procedure before smoke and stress reduce capacity.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-040",
+    "category": "emergencies",
+    "question": "Why can opening vents be inappropriate for some in-flight fire situations?",
+    "answer": "Airflow can feed a fire or spread smoke. Follow the aircraft-specific smoke-removal or fire procedure rather than a universal ventilation rule.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-041",
+    "category": "emergencies",
+    "question": "What should a pilot do after an in-flight fire appears extinguished?",
+    "answer": "Continue the approved response and land as the procedure requires. Hidden damage and reignition remain possible.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-042",
+    "category": "emergencies",
+    "question": "Why is a cabin door opening in flight usually managed without abrupt maneuvering?",
+    "answer": "Startle can cause a loss of control greater than the door hazard. Fly the aircraft and follow the specific door-open procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-043",
+    "category": "emergencies",
+    "question": "Why should pilots not attempt to reach outside to close an open door in flight?",
+    "answer": "It can disturb control, expose occupants, and worsen the problem. Use the approved procedure and land if needed.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-044",
+    "category": "emergencies",
+    "question": "What should a pilot do if the aircraft's controls become unusually stiff or restricted?",
+    "answer": "Maintain the safest controllable flightpath, avoid forcing a jam, use the applicable checklist, and seek a suitable landing with assistance.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-045",
+    "category": "emergencies",
+    "question": "Why should passengers be briefed not to obstruct the flight controls?",
+    "answer": "A bag, foot, or loose object can restrict control travel at a critical moment. Clear obstructions without compromising aircraft control.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-046",
+    "category": "emergencies",
+    "question": "What should a pilot do after suspecting runaway trim?",
+    "answer": "Maintain control, apply the aircraft's immediate trim-disconnect or power-isolation actions as trained, and use the approved checklist. Do not fight indefinitely without addressing the source.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-047",
+    "category": "emergencies",
+    "question": "Why must an autopilot be disconnected when the approved failure procedure requires it?",
+    "answer": "A malfunctioning system can continue commanding an unsafe attitude or trim. Positive manual control must replace unreliable automation.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-048",
+    "category": "emergencies",
+    "question": "What is the priority when an instrument indication becomes obviously implausible in VMC?",
+    "answer": "Keep visual control, compare reliable information, and use the failure procedure. Do not chase a suspect indication into an unsafe attitude.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-049",
+    "category": "emergencies",
+    "question": "Why can a landing-gear unsafe indication require more than recycling the switch?",
+    "answer": "The problem may involve mechanical damage, power, sensors, or the extension system. Use the approved checklist and alternate-extension procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-050",
+    "category": "emergencies",
+    "question": "How should a pilot prepare for a landing with uncertain gear status?",
+    "answer": "Use the aircraft checklist, request assistance, brief occupants, and select an appropriate landing location. Avoid speculative maneuvers intended to force the gear down.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-051",
+    "category": "emergencies",
+    "question": "Why should flap failure change the approach plan early?",
+    "answer": "The required speed, descent path, and landing distance may change. Use approved data and choose a runway with adequate margin.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-052",
+    "category": "emergencies",
+    "question": "What should a pilot do if a brake problem is discovered while taxiing?",
+    "answer": "Stop safely if possible and obtain assistance before takeoff. A controllable taxi defect can become a serious landing or rejected-takeoff hazard.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-053",
+    "category": "emergencies",
+    "question": "Why is asymmetric braking during rollout a directional-control problem?",
+    "answer": "Unequal deceleration can cause yaw or a ground loop. Use the aircraft's directional-control and braking procedure rather than an improvised forceful response.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-054",
+    "category": "emergencies",
+    "question": "How should a suspected tire failure affect runway handling?",
+    "answer": "Maintain directional control, avoid abrupt braking or steering, and follow the aircraft procedure. Stop where safe and request assistance rather than taxiing blindly.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-055",
+    "category": "emergencies",
+    "question": "What should a pilot do if a bird strike is followed by abnormal engine indications?",
+    "answer": "Maintain control, assess using the approved checklist, and plan a suitable landing. A visible bird strike does not establish the full damage extent.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-056",
+    "category": "emergencies",
+    "question": "Why should a windshield strike or crack prompt a conservative plan?",
+    "answer": "Visibility, structural integrity, and pressure capability may be affected. Apply the aircraft's limitations and abnormal procedure rather than touching or loading the damaged area.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-057",
+    "category": "emergencies",
+    "question": "What should a crew do if a passenger becomes incapacitated in a small airplane?",
+    "answer": "Maintain aircraft control, enlist available assistance, communicate the medical concern, and choose an appropriate diversion without attempting treatment beyond training.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-058",
+    "category": "emergencies",
+    "question": "Why should an emergency diversion consider runway length as well as distance?",
+    "answer": "Aircraft configuration, brakes, weather, terrain, and rescue capability may make a slightly farther airport the safer usable choice.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-059",
+    "category": "emergencies",
+    "question": "What should a pilot tell ATC when uncertain whether the aircraft can reach the assigned airport?",
+    "answer": "State the actual limitation and intentions promptly. Do not accept an unreachable option merely because a controller suggested it.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-060",
+    "category": "emergencies",
+    "question": "How should a pilot prioritize landing after a suspected control-cable or linkage failure if the airplane remains controllable?",
+    "answer": "Use the approved procedure and the least demanding suitable landing option. Avoid unnecessary configuration changes or maneuvers that could expose a control limit before the landing plan is ready.",
+    "source": "FAA Airplane Flying Handbook chapter 18 — Flight control malfunctions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-061",
+    "category": "emergencies",
+    "question": "How should limited altitude affect checklist execution after takeoff?",
+    "answer": "Perform only the trained time-critical actions possible while maintaining control and selecting a landing path. Avoid searching for nonessential items while height disappears.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-062",
+    "category": "emergencies",
+    "question": "Why should a pilot explicitly transfer control before another crewmember troubleshoots?",
+    "answer": "It prevents both pilots being head-down or both manipulating controls. Establish one pilot flying and clear supporting duties.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-063",
+    "category": "emergencies",
+    "question": "Why is concise emergency communication better than a long technical explanation?",
+    "answer": "ATC needs the nature of the problem, location, intentions, and immediate assistance needed. Detailed troubleshooting can wait until workload permits.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-064",
+    "category": "emergencies",
+    "question": "What should a pilot do if the assigned emergency frequency cannot be reached?",
+    "answer": "Use an available working frequency, guard, relay aircraft, or other installed communication as appropriate. Do not spend all attention on one failed channel.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-065",
+    "category": "emergencies",
+    "question": "Why should transponder emergency selection not replace a distress transmission when radio works?",
+    "answer": "The code alerts surveillance systems, but voice conveys the problem and desired assistance. Use both as appropriate to the circumstances.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-066",
+    "category": "emergencies",
+    "question": "Why must rescue personnel be told about an installed ballistic recovery system after an accident?",
+    "answer": "Unfired rockets and related components can remain hazardous. Identify the system and keep people clear until qualified responders manage it.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-067",
+    "category": "emergencies",
+    "question": "What should a pilot consider before deciding whether to use an installed aircraft parachute?",
+    "answer": "The approved envelope, remaining control, altitude, terrain, and aircraft procedure. Learn the decision criteria before flight rather than inventing them during the event.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-068",
+    "category": "emergencies",
+    "question": "Why should passengers know where and how to evacuate after landing?",
+    "answer": "The pilot may be injured or occupied. A short preflight and emergency briefing can allow prompt self-rescue when instructed.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-069",
+    "category": "emergencies",
+    "question": "Why should baggage be left behind during an urgent aircraft evacuation?",
+    "answer": "Retrieving it delays escape and can block exits or injure others. Move clear of the aircraft under the applicable procedure.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-070",
+    "category": "emergencies",
+    "question": "What should be checked before moving away from an emergency-landing site?",
+    "answer": "Immediate fire, fuel, terrain, weather, injuries, and signaling options. Move to safety without unnecessarily making rescuers' search harder.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-071",
+    "category": "emergencies",
+    "question": "Why can staying near a downed aircraft help rescuers when the location is safe?",
+    "answer": "The aircraft is larger and easier to locate than individuals. Balance that benefit against fire, weather, terrain, and other immediate threats.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-072",
+    "category": "emergencies",
+    "question": "Why should an ELT or personal locator device be checked after an emergency landing?",
+    "answer": "Impact activation is not guaranteed. Use accessible approved activation and signaling methods if safe, and communicate position by available means.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-073",
+    "category": "emergencies",
+    "question": "What should a pilot do with an activated emergency beacon after a genuine accident?",
+    "answer": "Leave it operating as appropriate until rescue coordination or the equipment procedure directs otherwise. Do not silence the best locating signal merely to save power without a plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-074",
+    "category": "emergencies",
+    "question": "Why should an injured occupant not be moved unnecessarily after a forced landing?",
+    "answer": "Movement can worsen injuries. Move only when immediate hazards or essential care require it and obtain medical assistance when possible.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "EM-075",
+    "category": "emergencies",
+    "question": "What is the value of preserving a factual post-emergency account?",
+    "answer": "It supports maintenance inspection, safety reporting, and learning. Record observed indications and actions without substituting assumptions for facts.",
+    "source": "FAA Airplane Flying Handbook, chapter 18 — Emergency Procedures",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "HF-021",
+    "category": "human-factors",
+    "question": "What is hypemic hypoxia?",
+    "answer": "Inadequate oxygen carriage by the blood, such as from anemia or carbon-monoxide exposure. Normal ambient oxygen does not guarantee adequate oxygen delivery to tissues.",
+    "source": "FAA PHAK, chapter 17, hypoxia",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-022",
+    "category": "human-factors",
+    "question": "What is stagnant hypoxia?",
+    "answer": "Inadequate blood flow delivering oxygen to tissues. Circulatory problems, cold, or acceleration forces can contribute even when oxygen content in the lungs is adequate.",
+    "source": "FAA PHAK, chapter 17, hypoxia",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-023",
+    "category": "human-factors",
+    "question": "What is histotoxic hypoxia?",
+    "answer": "Cells cannot use available oxygen effectively, for example because of certain toxic substances. Adding oxygen does not make the underlying toxic impairment safe for flight.",
+    "source": "FAA PHAK, chapter 17, hypoxia",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-024",
+    "category": "human-factors",
+    "question": "Why should a carbon-monoxide detector be treated as preventive equipment rather than a replacement for symptoms awareness?",
+    "answer": "Detector power, placement, service life, and operation matter. Treat symptoms or a warning seriously, obtain fresh air as appropriate, use the emergency procedure, and land promptly.",
+    "source": "FAA AIM 8-1-1, carbon monoxide",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-025",
+    "category": "human-factors",
+    "question": "Can the absence of an exhaust smell rule out carbon monoxide?",
+    "answer": "No. Carbon monoxide itself is colorless and odorless. An odor may warn of exhaust, but its absence does not establish safe cabin air.",
+    "source": "FAA AIM 8-1-1, carbon monoxide",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-026",
+    "category": "human-factors",
+    "question": "Why can smoking reduce a pilot’s altitude tolerance?",
+    "answer": "Carbon monoxide reduces the blood’s oxygen-carrying capacity. The resulting oxygen deficit can add to altitude effects, including impaired night vision.",
+    "source": "FAA PHAK, chapter 17, hypoxia and carbon monoxide",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-027",
+    "category": "human-factors",
+    "question": "What does time of useful consciousness describe?",
+    "answer": "The interval during an oxygen-deficient exposure when purposeful, effective action is still possible. It varies greatly and is not a dependable countdown for delaying oxygen use.",
+    "source": "FAA PHAK, chapter 17, hypoxia",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-028",
+    "category": "human-factors",
+    "question": "Why should symptoms learned in supervised hypoxia training be treated as warning cues rather than a complete diagnostic checklist?",
+    "answer": "Individual responses can vary with conditions and exposure. Act on suspected impairment promptly instead of waiting for every familiar symptom to appear.",
+    "source": "FAA CAMI, Hypoxia brochure; recognition and physiological training",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/hypoxia.pdf"
+  },
+  {
+    "id": "HF-029",
+    "category": "human-factors",
+    "question": "Why should oxygen equipment be checked for delivery rather than merely cylinder pressure?",
+    "answer": "A charged cylinder cannot help if the valve, regulator, tubing, mask, or cannula is not delivering oxygen correctly. Complete the installed system’s functional checks.",
+    "source": "FAA PHAK, chapter 7, oxygen systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-030",
+    "category": "human-factors",
+    "question": "Why does mask fit matter during an oxygen emergency?",
+    "answer": "Leakage can prevent the intended oxygen concentration from reaching the user. Adjust and verify the equipment as instructed before relying on it at altitude.",
+    "source": "FAA PHAK, chapter 7, oxygen systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-031",
+    "category": "human-factors",
+    "question": "What should a pilot verify before using an oxygen cannula instead of a mask?",
+    "answer": "That the device is approved and suitable for the planned altitude and required oxygen flow. Follow the system limitations; a cannula does not provide the same oxygen-delivery capability in every condition as a mask.",
+    "source": "FAA PHAK, chapter 7, Oxygen Systems — masks and cannulas",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-032",
+    "category": "human-factors",
+    "question": "Does living at elevation remove the need to follow aircraft oxygen requirements?",
+    "answer": "No. Acclimatization does not eliminate hypoxia risk or override operating rules. Maintain appropriate oxygen use and physiological margins.",
+    "source": "FAA AIM 8-1-1, hypoxia",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-033",
+    "category": "human-factors",
+    "question": "Why is deliberately breathing faster a poor response to suspected altitude hypoxia?",
+    "answer": "It does not replace the missing oxygen pressure and may worsen carbon-dioxide imbalance. Use oxygen and descent according to the situation and aircraft procedures.",
+    "source": "FAA CAMI, Hypoxia brochure",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/hypoxia.pdf"
+  },
+  {
+    "id": "HF-034",
+    "category": "human-factors",
+    "question": "Why should a pilot avoid assuming tingling and dizziness are only anxiety?",
+    "answer": "Hyperventilation, hypoxia, carbon monoxide, and other conditions can overlap. Maintain aircraft control, address possible oxygen or air-quality problems, and seek landing or assistance as needed.",
+    "source": "FAA AIM 8-1-1, hyperventilation and hypoxia",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-035",
+    "category": "human-factors",
+    "question": "Why can a descent cause more ear-pressure difficulty than a climb?",
+    "answer": "Increasing outside pressure requires air to enter the middle ear through the Eustachian tube, which may be blocked by congestion. Avoid flying with a condition that prevents pressure equalization.",
+    "source": "FAA AIM 8-1-2, effects of altitude",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-036",
+    "category": "human-factors",
+    "question": "Why can trapped gastrointestinal gas become uncomfortable during ascent?",
+    "answer": "Lower outside pressure allows trapped gas to expand. Pain or discomfort can distract from flying; consider symptoms and fitness rather than treating the issue as merely inconvenient.",
+    "source": "FAA PHAK, chapter 17, trapped gas",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-037",
+    "category": "human-factors",
+    "question": "Why should a new medication be evaluated on the ground before considering flight?",
+    "answer": "Unexpected sedation, vision effects, slowed responses, or other adverse effects may occur. Ground tolerance does not itself establish FAA acceptability; obtain appropriate aeromedical guidance.",
+    "source": "FAA AIM 8-1-1, medication",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-038",
+    "category": "human-factors",
+    "question": "Why is a medication’s half-life not the same as an automatic safe-to-fly interval?",
+    "answer": "Drug effects, active metabolites, dosage, underlying illness, and FAA requirements differ. Follow current FAA and AME guidance rather than making a personal clearance from half-life arithmetic.",
+    "source": "FAA Guide for Aviation Medical Examiners, pharmaceuticals",
+    "sourceUrl": "https://www.faa.gov/ame_guide/pharm"
+  },
+  {
+    "id": "HF-039",
+    "category": "human-factors",
+    "question": "Why does treating symptoms not necessarily restore fitness for flight?",
+    "answer": "The illness may still impair judgment or endurance, and the treatment may add side effects. Assess both the condition and medication before resuming flying.",
+    "source": "FAA AIM 8-1-1, illness and medication",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-040",
+    "category": "human-factors",
+    "question": "Why does adequate time in bed not guarantee restorative sleep?",
+    "answer": "Sleep quality can be degraded by interruptions, illness, environment, or sleep disorders. Persistent poor sleep or daytime sleepiness warrants medical evaluation and reconsideration of flight duties.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-041",
+    "category": "human-factors",
+    "question": "How can crossing time zones impair alertness after a seemingly adequate rest?",
+    "answer": "The body’s circadian timing may remain misaligned with the local schedule. Plan sleep and duties with that mismatch in mind rather than using local clock time alone.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-042",
+    "category": "human-factors",
+    "question": "What is sleep inertia?",
+    "answer": "Temporary grogginess and reduced performance after waking, particularly after deeper sleep. Allow recovery before demanding safety-critical tasks rather than assuming immediate alertness.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-043",
+    "category": "human-factors",
+    "question": "Why is a brief unintended lapse of awareness a serious fatigue warning?",
+    "answer": "It may indicate that alertness can no longer be sustained reliably. Stop or transfer safety-critical work appropriately and obtain rest instead of relying on willpower.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-044",
+    "category": "human-factors",
+    "question": "Why may one good night not fully reverse several nights of inadequate sleep?",
+    "answer": "Accumulated sleep loss can impair performance beyond the following morning. Plan sufficient recovery and avoid treating a single rest period as proof of restored proficiency.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-045",
+    "category": "human-factors",
+    "question": "Can caffeine substitute for the sleep needed before flying?",
+    "answer": "No. It may temporarily increase alertness but does not restore all performance lost to fatigue, and late use can interfere with later sleep.",
+    "source": "FAA CAMI, Fatigue in Aviation",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Fatigue_Aviation.pdf"
+  },
+  {
+    "id": "HF-046",
+    "category": "human-factors",
+    "question": "Why should physical exertion before a flight be considered in the fitness decision?",
+    "answer": "Heat, dehydration, and fatigue can carry into the cockpit even if the flight itself is short. Assess recovery, hydration, and alertness before accepting the workload.",
+    "source": "FAA PHAK, chapter 17, physiological factors",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-047",
+    "category": "human-factors",
+    "question": "Why is a continuous sweeping glance less effective than deliberate visual scanning?",
+    "answer": "The eye needs time to focus and detect targets. Use short, systematic sectors with pauses and refocus outside after instrument checks.",
+    "source": "FAA CAMI, Pilot Vision brochure, visual scanning",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Pilot_Vision.pdf"
+  },
+  {
+    "id": "HF-048",
+    "category": "human-factors",
+    "question": "What is the normal blind spot and how can it be managed in scanning?",
+    "answer": "The optic-nerve exit has no light-sensitive receptors. Moving the eyes and head and using overlapping scan sectors helps prevent a target from remaining hidden there.",
+    "source": "FAA PHAK, chapter 17, vision",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-049",
+    "category": "human-factors",
+    "question": "Why should head movement be part of a collision scan around a high or low wing?",
+    "answer": "Aircraft structure can hide traffic despite good eyesight. Shift viewpoint to inspect obstructed areas before turns or other maneuvers.",
+    "source": "FAA CAMI, Pilot Vision brochure; FAA PHAK chapter 17",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Pilot_Vision.pdf"
+  },
+  {
+    "id": "HF-050",
+    "category": "human-factors",
+    "question": "Why can polarized sunglasses be unsuitable with some cockpit displays?",
+    "answer": "They may reduce or distort visibility of certain screens or windscreen features. Check compatibility in the actual cockpit and use suitable eyewear.",
+    "source": "FAA CAMI, Pilot Vision brochure, sunglasses",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Pilot_Vision.pdf"
+  },
+  {
+    "id": "HF-051",
+    "category": "human-factors",
+    "question": "Why can a pilot with sharp visual acuity still have difficulty judging a nighttime approach?",
+    "answer": "Contrast, depth cues, glare, and adaptation also affect visual performance. A clear eye-chart result does not eliminate low-light operational limitations.",
+    "source": "FAA CAMI, Pilot Vision brochure",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Pilot_Vision.pdf"
+  },
+  {
+    "id": "HF-052",
+    "category": "human-factors",
+    "question": "Why should new glare, halos, or reduced contrast prompt a fitness review?",
+    "answer": "These can signal a visual problem that affects night flying even when ordinary daytime vision seems adequate. Seek professional evaluation rather than compensating by flying closer to lights.",
+    "source": "FAA CAMI, Pilot Vision brochure, vision pathophysiology",
+    "sourceUrl": "https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Pilot_Vision.pdf"
+  },
+  {
+    "id": "HF-053",
+    "category": "human-factors",
+    "question": "Why can the vestibular system disagree with reliable flight instruments?",
+    "answer": "It senses acceleration and changes of motion, not an unambiguous absolute attitude. In restricted visual conditions, use a trained instrument cross-check rather than bodily sensation alone.",
+    "source": "FAA PHAK, chapter 17, spatial disorientation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-054",
+    "category": "human-factors",
+    "question": "What should visual dimming during a high-load maneuver prompt a pilot to do?",
+    "answer": "Recognize a possible reduction in blood flow to the eyes and brain, reduce the physiological load safely, and recover within aircraft limits. Do not continue the maneuver merely because airspeed or altitude appears normal.",
+    "source": "FAA PHAK, chapter 17, Aeromedical Factors — Stagnant Hypoxia",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-055",
+    "category": "human-factors",
+    "question": "How can high cockpit noise affect performance beyond making conversation difficult?",
+    "answer": "It can increase fatigue, interfere with communication, and contribute to hearing damage. Use suitable hearing protection while preserving clear reception of required audio.",
+    "source": "FAA PHAK, chapter 17, noise and hearing",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-056",
+    "category": "human-factors",
+    "question": "Why should gradual hearing loss not be dismissed because radio volume can be increased?",
+    "answer": "Louder audio may not restore speech discrimination and can increase exposure. Obtain assessment and use appropriate protection and communication equipment.",
+    "source": "FAA PHAK, chapter 17, noise and hearing",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "HF-057",
+    "category": "human-factors",
+    "question": "Why can untreated pain make a pilot unfit even without medication?",
+    "answer": "Pain diverts attention and can reduce movement, concentration, and tolerance of workload. The absence of a sedating drug does not establish safe performance.",
+    "source": "FAA AIM 8-1-1, illness and physiological impairment",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-058",
+    "category": "human-factors",
+    "question": "What makes a headache developing in flight worth an immediate cabin-environment check?",
+    "answer": "It can be associated with hypoxia or carbon monoxide as well as other causes. Check oxygen and air-quality concerns promptly while managing the flight and landing decision.",
+    "source": "FAA AIM 8-1-1, hypoxia and carbon monoxide",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-059",
+    "category": "human-factors",
+    "question": "Why should a pilot returning after illness reassess endurance as well as symptoms?",
+    "answer": "Residual weakness, poor sleep, reduced concentration, or medication effects may remain after the main symptoms improve. Resume only when medically eligible and capable of the planned workload.",
+    "source": "FAA AIM 8-1-1, illness",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html"
+  },
+  {
+    "id": "HF-060",
+    "category": "human-factors",
+    "question": "How can acute stress change a pilot’s visual and cognitive attention?",
+    "answer": "It can narrow attention and reduce working-memory capacity. Use a deliberate scan, clear priorities, and appropriate task sharing to avoid missing other threats.",
+    "source": "FAA PHAK, chapters 2 and 17, stress and attention",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NGT-021",
+    "category": "night",
+    "question": "Why can a dirty or scratched windscreen become particularly troublesome at night?",
+    "answer": "It scatters lights and increases glare, reducing contrast and the ability to identify traffic and runway cues. Clean and inspect the windscreen before flight rather than accepting daytime visibility as proof of night suitability.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, Night Operations — Preflight Preparation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-022",
+    "category": "night",
+    "question": "Why is the landing light an incomplete obstacle-detection system at night?",
+    "answer": "Its beam and useful range are limited and it may not illuminate wires, terrain, or objects off the flightpath. Maintain planned clearance rather than flying only within the lighted patch.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night operations",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-023",
+    "category": "night",
+    "question": "How can a pilot protect night adaptation during an unexpected bright-light exposure?",
+    "answer": "Avoid staring at the source, shield vision where practical, and use the lowest effective cockpit lighting. Reassess visual capability before a demanding maneuver.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night vision",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-024",
+    "category": "night",
+    "question": "Why should moon phase and position be considered in night route planning?",
+    "answer": "They affect terrain illumination and the available visual horizon. A familiar route can look very different on a dark night with little natural light.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, preflight planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-025",
+    "category": "night",
+    "question": "Why can a night route over water require stronger instrument proficiency than one over a well-lit area?",
+    "answer": "Water may supply almost no horizon or depth cues. Plan the flight as a limited-visual-reference operation rather than assuming VFR weather supplies a visible horizon.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night orientation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-026",
+    "category": "night",
+    "question": "Why should an unlighted obstruction not be assumed absent from a night approach path?",
+    "answer": "Some hazards are unlit, lights may fail, and chart coverage has limits. Use current obstacle information and remain on a safe approach path.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-027",
+    "category": "night",
+    "question": "Why does deteriorating visibility deserve an earlier diversion decision at night?",
+    "answer": "Cloud, terrain, and precipitation can be harder to recognize visually, while escape and landing options may be fewer. Act before the visual cues needed to stay safe disappear.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-028",
+    "category": "night",
+    "question": "What can reflected runway lights on a wet surface do to landing cues?",
+    "answer": "They can distort perceived runway shape and height or obscure markings. Cross-check approach attitude and visual glidepath and avoid forcing a landing on ambiguous cues.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-029",
+    "category": "night",
+    "question": "Why should night runway identification include more than locating a line of lights?",
+    "answer": "Roads, taxiways, and nearby airports can resemble the intended runway. Verify airport identity, runway orientation, markings, lighting pattern, and navigation position.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-030",
+    "category": "night",
+    "question": "How should apparently stationary aircraft lights be treated at night?",
+    "answer": "They may indicate a collision course. Continue evaluating bearing and closure and take appropriate see-and-avoid action rather than assuming no visible motion means no threat.",
+    "source": "FAA PHAK, chapter 17, night vision and collision avoidance",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NGT-031",
+    "category": "night",
+    "question": "Why is the distance to a single isolated light difficult to judge at night?",
+    "answer": "Size, texture, and surrounding depth cues are missing. Use independent position and altitude information instead of inferring terrain clearance from the light’s apparent brightness.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, illusions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-032",
+    "category": "night",
+    "question": "Why does a night passenger briefing need to address emergency lighting and exits?",
+    "answer": "Occupants may have difficulty finding latches or equipment in darkness. Demonstrate locations and usable lights before departure rather than relying on an explanation after power is lost.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, preflight preparation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-033",
+    "category": "night",
+    "question": "Why should night taxi speed allow stopping within the clearly visible surface?",
+    "answer": "Unlit objects, pavement edges, and other traffic may appear late. Slow down, use appropriate lighting, and stop if the route cannot be positively identified.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night taxi",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-034",
+    "category": "night",
+    "question": "Why is a night flight’s weather trend more useful than a single favorable observation?",
+    "answer": "A currently clear field can deteriorate before arrival, and cloud or visibility changes may be difficult to see en route. Review the trend, forecast timing, and alternatives before committing to the route.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, preflight planning and weather",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-035",
+    "category": "night",
+    "question": "Why should a long daytime trip be reassessed before adding a nighttime return leg?",
+    "answer": "Fatigue, daylight loss, weather, airport services, and terrain visibility may change the workload substantially. Make a fresh decision rather than treating the return as the remainder of the original plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, planning; FAA CAMI fatigue guidance",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-036",
+    "category": "night",
+    "question": "Why should the destination’s lighting activation and operating hours be confirmed before a night flight?",
+    "answer": "Lighting or tower services may be unavailable, limited, or controlled on a separate frequency. A charted airport is not automatically a usable nighttime destination.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, airport planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-037",
+    "category": "night",
+    "question": "Why should a night landing clearance not prevent a go-around if runway lights become unusable?",
+    "answer": "The clearance does not restore the visual references needed for a safe landing. Go around when appropriate, tell ATC, and select a suitable alternative.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-038",
+    "category": "night",
+    "question": "Why is fuel planning especially important when night airport services are limited?",
+    "answer": "An airport may be open for landing while fuel or assistance is unavailable. Confirm services and preserve enough fuel to reach a genuinely usable alternative.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night preflight planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-039",
+    "category": "night",
+    "question": "Why should a night approach to an unfamiliar airport be stabilized farther from the runway?",
+    "answer": "Recognizing terrain, runway geometry, lighting, and distance takes more effort in darkness. Resolve configuration and navigation early so the final segment is not spent identifying the airport.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "NGT-040",
+    "category": "night",
+    "question": "What practical preparation helps a pilot resume night flying after a long gap?",
+    "answer": "Obtain appropriate refresher training, practice instrument-supported departures and go-arounds, and review lighting and local terrain. Legal recency alone does not establish readiness for a dark or unfamiliar route.",
+    "source": "FAA Airplane Flying Handbook, chapter 11, night proficiency",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  }
+]

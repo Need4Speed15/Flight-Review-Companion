@@ -1,0 +1,2482 @@
+[
+  {
+    "id": "SYS-021",
+    "category": "systems",
+    "question": "What does a piston-engine primer do during starting?",
+    "answer": "It delivers extra fuel for starting, often directly to the induction ports. Use the specified amount and lock it afterward; an unsecured primer can cause unintended fuel flow.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Starting system",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-022",
+    "category": "systems",
+    "question": "A fuel-injected piston engine has no carburetor. Is induction icing impossible?",
+    "answer": "No. Ice can obstruct an air inlet or filter. Use the approved alternate-air procedure and distinguish inlet blockage from carburetor icing.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Fuel injection and induction",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-023",
+    "category": "systems",
+    "question": "What is the purpose of an engine alternate-air inlet?",
+    "answer": "It supplies induction air when the normal inlet is blocked. Depending on the installation, alternate air may be warmer or unfiltered and can change available power.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Induction systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-024",
+    "category": "systems",
+    "question": "Why can a fuel-injected engine still be difficult to start when hot?",
+    "answer": "Heat can vaporize fuel in parts of the injection system. Apply the aircraft-specific hot-start procedure instead of repeatedly adding fuel or improvising throttle positions.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Fuel injection",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-025",
+    "category": "systems",
+    "question": "What does a turbocharger wastegate regulate?",
+    "answer": "It controls how much exhaust bypasses the turbine, thereby regulating turbocharger speed and compressor output. Pilot actions and limits depend on whether control is manual or automatic.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Turbocharging",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-026",
+    "category": "systems",
+    "question": "How does turbo-normalizing differ conceptually from turbo-supercharging?",
+    "answer": "Turbo-normalizing maintains approximately sea-level manifold pressure to altitude; other boosted systems may produce pressure above sea-level atmospheric pressure. Use the installed engine’s approved limits.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Turbocharging",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-027",
+    "category": "systems",
+    "question": "What is a turbocharged engine’s critical altitude?",
+    "answer": "The highest altitude at which the specified manifold pressure or rated power can be maintained under stated conditions. Above it, available power begins to decrease despite full permitted boost.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Turbocharging",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-028",
+    "category": "systems",
+    "question": "Why is an intercooler useful on a turbocharged piston engine?",
+    "answer": "Compression heats the induction air. Cooling that air increases its density and helps reduce engine temperature and detonation risk within the approved operating limits.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Turbocharging",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-029",
+    "category": "systems",
+    "question": "Why must a turbocharged piston pilot avoid rapid, excessive throttle advancement?",
+    "answer": "Manifold pressure can exceed limits, especially in systems without automatic protection. Move controls and monitor engine indications as specified by the POH.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Turbocharging",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-030",
+    "category": "systems",
+    "question": "What do engine cooling baffles accomplish?",
+    "answer": "They direct cooling air around the cylinders and other hot components. Missing seals or damaged baffles can produce overheating even when outside air is cool.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Cooling systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-031",
+    "category": "systems",
+    "question": "How do cowl flaps influence engine cooling and drag?",
+    "answer": "Opening them generally increases cooling airflow and drag. Set them according to the engine temperature limits and the aircraft’s climb, cruise, and descent procedures.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Cooling systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-032",
+    "category": "systems",
+    "question": "Why is exhaust-gas temperature not the same measurement as cylinder-head temperature?",
+    "answer": "EGT measures exhaust gas conditions; CHT reflects cylinder-head temperature. They serve different monitoring purposes, so a normal EGT does not establish that the cylinder is cool enough.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Engine instruments",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-033",
+    "category": "systems",
+    "question": "What effect can very cold oil have on a piston-engine lubrication system?",
+    "answer": "High viscosity can produce high indicated pressure while restricting effective circulation. Observe the POH warm-up and temperature requirements before high power; pressure alone does not establish that the engine is ready.",
+    "source": "FAA PHAK, chapter 7, Oil Systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-034",
+    "category": "systems",
+    "question": "Why can oil quantity change depending on when it is checked?",
+    "answer": "Oil can remain distributed through the engine after operation and return to the sump over time. Use the POH’s checking conditions and do not automatically fill above the approved level.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Lubrication systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-035",
+    "category": "systems",
+    "question": "What is the purpose of an oil cooler?",
+    "answer": "It transfers heat from engine oil to cooling air or another cooling medium. A blockage or airflow problem can raise oil temperature without an immediate loss of oil quantity.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Lubrication systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-036",
+    "category": "systems",
+    "question": "During a magneto check, one ignition selection produces excessive roughness. What does that mean?",
+    "answer": "The engine may have a problem in that ignition circuit, its plugs, or associated components. Use the approved diagnostic procedure; unresolved excessive roughness is not acceptable merely because both ignitions run smoothly together.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Ignition systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-037",
+    "category": "systems",
+    "question": "Why can a magneto-equipped propeller remain dangerous with the master switch off?",
+    "answer": "Magnetos generate their own ignition power. Treat the propeller as live; a defective grounding circuit or switch can permit ignition when the propeller is moved.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Ignition systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-038",
+    "category": "systems",
+    "question": "What does a broken magneto P-lead generally prevent?",
+    "answer": "It can prevent grounding that magneto to stop its ignition. The engine may continue firing despite the ignition switch position, creating a serious propeller-handling hazard.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Ignition systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-039",
+    "category": "systems",
+    "question": "Why can extended low-power ground operation foul spark plugs?",
+    "answer": "Deposits can accumulate when combustion temperatures are low, particularly with an unsuitable mixture setting. Use the approved ground-leaning and clearing procedure rather than prolonged high-power experimentation.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Ignition systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-040",
+    "category": "systems",
+    "question": "What does an impulse coupling help a magneto accomplish during starting?",
+    "answer": "It provides a stronger, appropriately delayed spark at low cranking speed. Starting-system details vary; hand-propping requires specific training and precautions.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Ignition systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-041",
+    "category": "systems",
+    "question": "Why must a starter be disengaged after the engine starts?",
+    "answer": "Continued engagement can damage the starter or its drive and may create an electrical or fire hazard. Confirm disengagement using the aircraft’s indications and checklist.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Starting system",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-042",
+    "category": "systems",
+    "question": "What is the difference between fuel exhaustion and fuel starvation?",
+    "answer": "Exhaustion means insufficient usable fuel remains; starvation means fuel is not reaching the engine even though usable fuel may still be aboard. The distinction helps identify prevention and recovery actions.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-043",
+    "category": "systems",
+    "question": "An engine loses power shortly after a tank change. What system detail deserves immediate attention?",
+    "answer": "The selected tank, selector detent, usable quantity, and any required pump operation. Maintain control and use the checklist; do not move the selector repeatedly without verifying each position.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel selectors",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-044",
+    "category": "systems",
+    "question": "Why can a blocked fuel-tank vent cause power loss?",
+    "answer": "As fuel is consumed, replacement air may be unable to enter, reducing tank pressure and restricting delivery. Tank venting is essential even when substantial fuel remains.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel vents",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-045",
+    "category": "systems",
+    "question": "What is a fuel strainer or gascolator intended to collect?",
+    "answer": "Water and sediment at a low point in the fuel system. Drain and inspect the specified sampling points using the POH, since one clean sample does not prove every tank is uncontaminated.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel contamination",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-046",
+    "category": "systems",
+    "question": "What does an accelerator pump do in a carburetor that is equipped with one?",
+    "answer": "It briefly supplies extra fuel during rapid throttle opening to prevent a temporary lean hesitation. The mechanism and starting technique are installation-specific; do not pump the throttle as a universal priming method.",
+    "source": "FAA-H-8083-32B, AMT Handbook — Powerplant, chapter 2, Fuel and Fuel Metering Systems — Accelerator Pump",
+    "sourceUrl": "https://www.faa.gov/sites/faa.gov/files/04_amtp_ch2.pdf"
+  },
+  {
+    "id": "SYS-047",
+    "category": "systems",
+    "question": "A fuel sample is uniformly clear. Does that prove it is uncontaminated aviation gasoline?",
+    "answer": "No. Clear water or the wrong fuel can be mistaken for a good sample. Check color, odor, separation, and the approved sampling method, without relying on color alone.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel quality",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-048",
+    "category": "systems",
+    "question": "Why must fuel grade be confirmed from approved aircraft information?",
+    "answer": "An unsuitable grade or fuel type can cause engine damage or failure. The familiar appearance of a filler cap, nozzle, or fuel truck is not adequate confirmation.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel grades",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-049",
+    "category": "systems",
+    "question": "How do a fuel-transfer pump and an engine-feed pump differ?",
+    "answer": "A transfer pump moves fuel between tanks; a feed or boost pump supports delivery to the engine. Their switches are not interchangeable, and an incorrect sequence can leave the engine without fuel.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel pumps",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-050",
+    "category": "systems",
+    "question": "Why does a fuel return line matter when choosing a tank?",
+    "answer": "Some systems return excess fuel to a specified tank. Incorrect selection or tank management may cause overflow, imbalance, or loss of usable fuel despite normal engine operation.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel return systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-051",
+    "category": "systems",
+    "question": "Why is unusable fuel excluded from flight-planning endurance?",
+    "answer": "It cannot be relied upon for engine operation under the conditions defining the aircraft’s approved usable quantity. Total tank capacity is therefore not the same as usable flight fuel.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel quantity",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-052",
+    "category": "systems",
+    "question": "What does gravity feed depend on besides fuel being present?",
+    "answer": "Adequate head pressure, proper venting, an unobstructed path, and approved aircraft attitude and configuration. Gravity feed does not make tank selection or vent checks unnecessary.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel delivery",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-053",
+    "category": "systems",
+    "question": "Why may an electric boost pump be needed during takeoff or landing on some piston airplanes?",
+    "answer": "It may provide backup pressure or suppress vapor formation during critical phases. Other aircraft require different use, so follow the actual pump procedure rather than a universal habit.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Fuel pumps",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-054",
+    "category": "systems",
+    "question": "Why does full fuel in one wing not necessarily make fuel available from the other wing?",
+    "answer": "Separate tanks and feed paths can isolate the supply. Understand crossfeed, selector, and transfer limitations instead of assuming fuel automatically balances or feeds both sides.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Tank arrangements",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-055",
+    "category": "systems",
+    "question": "How can a stuck-open cabin heat valve become more than a comfort problem?",
+    "answer": "Depending on the design, it can admit excessive heat or fumes. Use the aircraft procedure and treat suspected exhaust contamination as a potential carbon-monoxide hazard.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Cabin heating",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-056",
+    "category": "systems",
+    "question": "Why must cabin heater exhaust shrouds and heat exchangers remain sound?",
+    "answer": "A crack can let exhaust gases enter ventilation air. A comfortable cabin temperature does not establish that the air is safe to breathe.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Cabin heating",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-057",
+    "category": "systems",
+    "question": "What is the difference between a control trim tab and a balance tab?",
+    "answer": "A trim tab establishes a control-force equilibrium; a balance tab helps reduce the force needed to move a control surface. The installed control arrangement determines their motion and effect.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Flight controls",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-058",
+    "category": "systems",
+    "question": "What does differential aileron travel accomplish?",
+    "answer": "The upward-deflecting aileron travels farther than the downward-deflecting one, helping reduce adverse yaw. It reduces the yawing tendency but does not eliminate the need for coordinated rudder.",
+    "source": "FAA PHAK, chapter 6, Flight Controls — Differential Ailerons",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-059",
+    "category": "systems",
+    "question": "What does a full-and-correct flight-control check confirm?",
+    "answer": "Both adequate travel and correct direction. Free movement alone cannot reveal reversed connections or an incorrectly installed control system after maintenance.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Flight controls",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-060",
+    "category": "systems",
+    "question": "Why should a pilot avoid holding an electric flap motor against its travel stop?",
+    "answer": "It can overload or overheat the motor unless the system is designed to stop itself. Use the approved switch operation and confirm the actual flap position.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Flap systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-061",
+    "category": "systems",
+    "question": "What is asymmetric flap extension?",
+    "answer": "Different flap positions on the two wings, which can create a strong rolling tendency. Follow the aircraft’s response procedure and do not assume continued cycling will correct it.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Flap systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-062",
+    "category": "systems",
+    "question": "Why can a flap-position indicator disagree with the expected aerodynamic effect?",
+    "answer": "The indication may reflect a sensor, actuator, or commanded position rather than every surface’s actual condition. Compare aircraft behavior and use the abnormal procedure when indications conflict.",
+    "source": "FAA PHAK, chapter 6, Flight Controls; chapter 7, Aircraft Systems, Flap systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-063",
+    "category": "systems",
+    "question": "What does a landing-gear down indication actually need to establish?",
+    "answer": "That the gear is in the required safe position, typically down and locked. Interpret lights and warnings with the POH; a lever in DOWN is only a command.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Landing gear",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-064",
+    "category": "systems",
+    "question": "Why should an abnormal gear indication be handled before entering a rushed final approach?",
+    "answer": "Troubleshooting and emergency extension require time, altitude, fuel, and task sharing. Stabilize the flight and follow the checklist instead of repeatedly moving the selector near the ground.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Landing gear",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-065",
+    "category": "systems",
+    "question": "Can an emergency gear-extension system be assumed to allow gear retraction afterward?",
+    "answer": "No. Manual, free-fall, pneumatic, and other systems have different limitations and reset requirements. Treat the emergency-extension instructions as aircraft-specific.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Landing gear",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-066",
+    "category": "systems",
+    "question": "What is the purpose of a nosewheel shimmy damper?",
+    "answer": "It damps rapid nosewheel oscillation. Persistent shimmy may indicate tire, linkage, bearing, or damper defects and warrants maintenance evaluation.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Landing gear",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-067",
+    "category": "systems",
+    "question": "Why must wheel brakes not be used as a substitute for the correct parking and securing procedure?",
+    "answer": "Parking-brake capacity and reliability vary, and hot brakes or changing conditions can create problems. Use approved chocks, tie-downs, and parking instructions.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Brakes",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-068",
+    "category": "systems",
+    "question": "What does a spongy hydraulic brake pedal suggest?",
+    "answer": "Air, fluid loss, or another hydraulic problem may reduce effective braking. Verify against the aircraft procedure and do not depart assuming pumping the pedal is a permanent fix.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Brakes",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-069",
+    "category": "systems",
+    "question": "Why does excessive brake use during taxi deserve attention before departure?",
+    "answer": "It can create heat and wear and may indicate too much taxi power or a dragging brake. Use approved taxi technique and inspect abnormal heat, odor, or resistance.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Brakes",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-070",
+    "category": "systems",
+    "question": "How does a hydraulic accumulator help a system?",
+    "answer": "It stores pressurized fluid energy to smooth demand or provide limited reserve operation. Its capacity is finite and does not make a failed pump unimportant.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Hydraulic systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-071",
+    "category": "systems",
+    "question": "What does an aircraft electrical bus do?",
+    "answer": "It distributes electrical power to connected circuits. Different buses can have different sources and priorities, so one powered display does not prove all essential buses are energized.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-072",
+    "category": "systems",
+    "question": "Why is an essential bus useful after a generating-system failure?",
+    "answer": "It supplies selected critical loads while allowing less important loads to be removed. Which equipment remains powered depends on the installation and switch positions.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-073",
+    "category": "systems",
+    "question": "What does a voltage regulator control?",
+    "answer": "Generator or alternator output to maintain the specified electrical-system voltage. Regulator faults can produce overvoltage or inadequate charging.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-074",
+    "category": "systems",
+    "question": "Why does an overvoltage warning require the approved checklist?",
+    "answer": "Excessive voltage can damage equipment and batteries. The protective system may disconnect a generating source; do not defeat that protection or repeatedly reset it without authorization.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-075",
+    "category": "systems",
+    "question": "What is the role of an electrical contactor?",
+    "answer": "It uses a control circuit to connect or disconnect a higher-current circuit, such as battery or starter power. A switch position does not prove the contactor actually changed state.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-076",
+    "category": "systems",
+    "question": "Why can turning the master switch off fail to depower every installed device?",
+    "answer": "Some equipment has a direct battery feed or its own battery. Know independently powered ignition, emergency equipment, and avionics before assuming the airplane is electrically isolated.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-077",
+    "category": "systems",
+    "question": "Why must external power match the aircraft’s approved voltage and polarity?",
+    "answer": "A mismatch can damage electrical equipment or create a fire hazard. Use the approved connector and procedure rather than assuming any available ground supply is suitable.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical systems",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-078",
+    "category": "systems",
+    "question": "What distinguishes a fuse from a resettable circuit breaker?",
+    "answer": "Both protect against excessive current, but a fuse must be replaced after opening. Neither is an operational switch unless the aircraft design and procedures permit that use.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Circuit protection",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-079",
+    "category": "systems",
+    "question": "Why can an electrical burning odor matter before a circuit breaker trips?",
+    "answer": "Heating or arcing can develop without enough current to operate protection promptly. Recognize the symptoms and apply the smoke or electrical-fire procedure.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical faults",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-080",
+    "category": "systems",
+    "question": "Why should avionics electrical load be considered before adding portable equipment?",
+    "answer": "Converters, chargers, wiring, and outlets have ratings. An outlet that accepts a plug does not establish that the combined load is permitted or that emergency battery endurance is unchanged.",
+    "source": "FAA PHAK, chapter 7, Aircraft Systems, Electrical loads",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-081",
+    "category": "systems",
+    "question": "What does a vacuum-system suction gauge help a pilot monitor?",
+    "answer": "Whether the system is producing the suction needed by its instruments. A normal gauge does not guarantee that an individual gyro is accurate.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Vacuum instruments",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-082",
+    "category": "systems",
+    "question": "Why might only some instruments fail after a vacuum-pump failure?",
+    "answer": "Instrument power sources differ. Identify vacuum-driven and electric instruments in that aircraft and use genuinely independent indications.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Instrument power",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-083",
+    "category": "systems",
+    "question": "Why is a compass unreliable during significant bank or acceleration?",
+    "answer": "Its magnetic element is affected by dip and acceleration forces. Establish appropriate stable flight before using it to check heading.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Magnetic compass",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-084",
+    "category": "systems",
+    "question": "What does the altimeter’s barometric setting change?",
+    "answer": "The reference pressure used to display altitude. It does not change ambient pressure or correct every temperature-related difference between indicated and true altitude.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Altimeter",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-085",
+    "category": "systems",
+    "question": "Why is a vertical-speed indication normally delayed after a pitch change?",
+    "answer": "A conventional VSI relies on a calibrated pressure leak, so it takes time to stabilize. Control attitude and cross-check altitude rather than chasing the lagging needle.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Vertical speed indicator",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-086",
+    "category": "systems",
+    "question": "How does an instantaneous VSI reduce normal instrument lag?",
+    "answer": "Additional sensing responds promptly to vertical acceleration while the pressure system supplies the steady vertical-speed indication. It still needs cross-checking.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Vertical speed indicator",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-087",
+    "category": "systems",
+    "question": "Why may an alternate static source change displayed altitude and airspeed?",
+    "answer": "Cabin pressure can differ from outside static pressure. Apply the published corrections and procedure rather than assuming the alternate source is identical.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Alternate static source",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-088",
+    "category": "systems",
+    "question": "What is position error in a pitot-static installation?",
+    "answer": "Error caused by local airflow around the pressure openings. It varies with configuration and speed and is accounted for in the aircraft’s calibration information.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Pitot-static errors",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-089",
+    "category": "systems",
+    "question": "Why should a glass-panel reversion switch be practiced before an actual failure?",
+    "answer": "It may move essential information to another display, but layout and available functions can change. Familiarity reduces confusion without assuming every failure has the same reversion behavior.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Electronic flight displays",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-090",
+    "category": "systems",
+    "question": "What can an electronic display’s red X or invalid-data flag mean?",
+    "answer": "The displayed quantity is unavailable or unreliable, possibly because of a sensor, data, or power failure. Use the approved failure procedure and independent references.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — Electronic flight displays",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-091",
+    "category": "systems",
+    "question": "Why is autopilot engagement not proof that the airplane is properly trimmed?",
+    "answer": "Some systems compensate temporarily or command trim themselves, while others have limited authority. Monitor trim and control forces and follow the approved engagement checks.",
+    "source": "FAA PHAK, chapter 6, Flight Controls — autopilots, Autopilots",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-092",
+    "category": "systems",
+    "question": "What should be established before using an unfamiliar autopilot mode?",
+    "answer": "What it controls, its source and target, how capture occurs, and how to disconnect. Verify the annunciated mode and aircraft response rather than the button press alone.",
+    "source": "FAA PHAK, chapter 6, Flight Controls — autopilots, Autopilots",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-093",
+    "category": "systems",
+    "question": "Why must an autopilot minimum-use altitude be known?",
+    "answer": "Below its approved height or phase-of-flight limit, there may be insufficient recovery margin after malfunction. Approach authorization does not imply permission to use it through touchdown.",
+    "source": "FAA PHAK, chapter 6, Flight Controls — autopilots, Autopilot limitations",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-094",
+    "category": "systems",
+    "question": "A GPS shows a course but the CDI follows something else. What should be checked?",
+    "answer": "The selected navigation source, display coupling, active leg, and mode annunciation. A valid GPS route does not guarantee the indicator or autopilot is following it.",
+    "source": "FAA PHAK, chapter 8, Electronic Flight Displays; FAA AIM, chapter 1, navigation-system use",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "SYS-095",
+    "category": "systems",
+    "question": "Why should installed standby instruments be checked during preflight?",
+    "answer": "They may have separate switches, batteries, limits, or alignment needs. A standby label does not guarantee independence, readiness, or unlimited endurance.",
+    "source": "FAA PHAK, chapter 8, Flight Instruments — standby and electronic instruments",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "SYS-096",
+    "category": "systems",
+    "question": "What does a radio audio-panel transmit selection control?",
+    "answer": "Which communication radio sends the microphone signal. Receiving ATC on one radio does not guarantee the microphone is selected to transmit on it.",
+    "source": "FAA AIM 4-2-2, Radio Technique; installed audio-panel operating instructions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "SYS-097",
+    "category": "systems",
+    "question": "What does a communication radio’s squelch control do?",
+    "answer": "It suppresses background receiver noise below a selected threshold. An unsuitable setting can hide weak calls; adjust it using the radio’s operating instructions rather than assuming silence means no transmissions.",
+    "source": "FAA AIM 4-2-2, Radio Technique; installed radio operating instructions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "SYS-098",
+    "category": "systems",
+    "question": "Why can a portable traffic display omit nearby aircraft?",
+    "answer": "Coverage, equipment compatibility, antenna masking, filtering, and unequipped aircraft can all leave targets absent. Continue an outside scan and never infer empty airspace from an empty screen.",
+    "source": "FAA AIM 4-5, Surveillance Systems — traffic information limitations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html"
+  },
+  {
+    "id": "SYS-099",
+    "category": "systems",
+    "question": "What does database currency fail to prove about an installed navigation system?",
+    "answer": "That the correct database, region, active procedure, source, or aircraft approval is in use. Verify each relevant item before relying on the guidance.",
+    "source": "FAA PHAK, chapter 8, Electronic Flight Displays; FAA AIM, chapter 1, navigation-system use",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "SYS-100",
+    "category": "systems",
+    "question": "What does an autopilot preflight check help a pilot verify?",
+    "answer": "The required engagement, indications, control response, and disconnect functions under the aircraft’s approved procedure. A successful self-test does not remove the need to monitor the flightpath after engagement.",
+    "source": "FAA PHAK chapter 6, Autopilot; applicable AFM/POH autopilot supplement",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-051",
+    "category": "aerodynamics",
+    "question": "Why must stability and controllability be considered together?",
+    "answer": "A very stable airplane resists disturbances but may require larger control forces to change attitude. Controllability is the ability to command the necessary changes; neither permits operation outside the loading envelope.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Stability and control",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-052",
+    "category": "aerodynamics",
+    "question": "What do the longitudinal, lateral, and vertical axes describe?",
+    "answer": "Roll occurs about the longitudinal axis, pitch about the lateral axis, and yaw about the vertical axis. Understanding the axes helps identify which control action corrects a disturbance.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Axes of motion",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-053",
+    "category": "aerodynamics",
+    "question": "How does wing downwash affect the tailplane?",
+    "answer": "The wing changes the airflow direction reaching the tail. Changes in wing lift, flap setting, or power can therefore change tail force and the pitch trim required.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Downwash and pitching moments",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-054",
+    "category": "aerodynamics",
+    "question": "Why is washout built into some wings?",
+    "answer": "The wingtip has a lower geometric angle of attack than the root, helping the root stall first and preserving aileron effectiveness longer. It does not guarantee control in a fully developed stall.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Wing design",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-055",
+    "category": "aerodynamics",
+    "question": "How can a small amount of frost harm a wing without adding much weight?",
+    "answer": "It changes surface smoothness and airflow separation, reducing maximum lift and increasing drag. The aerodynamic penalty can be serious despite negligible added mass.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Surface contamination",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-056",
+    "category": "aerodynamics",
+    "question": "What makes airflow separation different from ordinary airflow deflection?",
+    "answer": "Separated flow no longer follows the surface smoothly, changing pressure distribution and drag. Increasing angle of attack beyond the critical value produces widespread separation and loss of useful lift.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Boundary layer",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-057",
+    "category": "aerodynamics",
+    "question": "Why can the same true airspeed require different angles of attack in different flight conditions?",
+    "answer": "Weight, load factor, air density, configuration, and required lift can change. True airspeed alone does not identify the wing’s angle of attack or stall margin.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Lift equation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-058",
+    "category": "aerodynamics",
+    "question": "What is a stall strip intended to accomplish?",
+    "answer": "It promotes predictable initial separation at a chosen wing location, improving stall behavior or warning. It is an engineered feature and must not be altered or removed casually.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Stall characteristics",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-059",
+    "category": "aerodynamics",
+    "question": "Why do some airplanes pitch differently when power is changed?",
+    "answer": "Thrust-line location, propeller slipstream, downwash, and trim affect pitching moments. Anticipate the installed aircraft’s response while setting attitude, power, and trim.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Power effects",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-060",
+    "category": "aerodynamics",
+    "question": "Why can reducing power require right-rudder pressure to be relaxed?",
+    "answer": "Propeller-induced yawing effects can decrease with power. Continue coordinating the airplane rather than retaining a fixed rudder position from the climb.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Propeller effects",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-061",
+    "category": "aerodynamics",
+    "question": "How does lowering a wing with aileron differ from stopping a yaw with rudder?",
+    "answer": "Aileron primarily changes roll; rudder primarily changes yaw. Because motion is coupled, coordinated inputs are needed, but substituting large rudder for bank can create a skid.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Control coordination",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-062",
+    "category": "aerodynamics",
+    "question": "Why can turbulence trigger a stall without a deliberate pitch increase?",
+    "answer": "A gust can abruptly change the relative wind and angle of attack or increase load factor. Maintain appropriate margins and the aircraft’s recommended turbulence technique.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Gust loading",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-063",
+    "category": "aerodynamics",
+    "question": "Why is the visual nose attitude an unreliable standalone stall indicator?",
+    "answer": "The flightpath may be climbing, descending, or turning. Angle of attack is measured relative to airflow, so the wing can stall with the nose below the horizon.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Stall recognition",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-064",
+    "category": "aerodynamics",
+    "question": "What is the purpose of practicing stalls at an adequate recovery altitude?",
+    "answer": "Recovery consumes altitude, especially with delayed recognition or an improper response. Choose a training altitude and area that permit recovery safely above applicable minimums.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Stall training",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-065",
+    "category": "aerodynamics",
+    "question": "Why should a pilot avoid fixating on the altimeter during an impending stall recovery?",
+    "answer": "Trying to prevent any altitude loss can maintain excessive angle of attack. Reduce angle of attack, manage power and coordination, and accept the altitude needed for a controlled recovery.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Stall recovery",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-066",
+    "category": "aerodynamics",
+    "question": "What is the difference between a wing dropping and a commanded turn near the stall?",
+    "answer": "A wing drop may indicate asymmetric separation rather than a normal roll response. Apply the aircraft’s stall-recovery procedure instead of treating it as ordinary bank control.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Asymmetric stall",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-067",
+    "category": "aerodynamics",
+    "question": "Why does spin training require aircraft approval and qualified instruction?",
+    "answer": "Spin behavior and recovery depend on design, loading, configuration, and technique. An aerobatic-looking airplane or prior stall practice does not establish spin authorization.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Spin limitations",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-068",
+    "category": "aerodynamics",
+    "question": "What does autorotation mean in an airplane spin?",
+    "answer": "The wings are stalled unequally, producing a self-sustaining rolling and yawing motion. Recovery requires removing the conditions sustaining the spin using the approved procedure.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Spin aerodynamics",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-069",
+    "category": "aerodynamics",
+    "question": "Why can applying excessive power during a developed spin be inappropriate?",
+    "answer": "Propeller effects and design-specific behavior can intensify rotation or complicate recovery. Follow the aircraft’s prescribed spin power setting rather than assuming more power always helps.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Spin recovery",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-070",
+    "category": "aerodynamics",
+    "question": "Why can a steep descending spiral rapidly approach structural limits?",
+    "answer": "Airspeed rises while the turn can tighten. An abrupt pullout adds substantial load; use the aircraft’s upset-recovery sequence and manage bank, power, and speed.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Spiral recovery",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-071",
+    "category": "aerodynamics",
+    "question": "What does the power-required curve explain about slow flight?",
+    "answer": "Below the speed for minimum required power, flying slower requires more power to maintain altitude. Small speed losses can produce a larger sink unless recognized and corrected.",
+    "source": "FAA Airplane Flying Handbook, chapters 4–5, Energy Management and Upset Prevention, Region of reversed command",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-072",
+    "category": "aerodynamics",
+    "question": "How does a shallow climb at low airspeed differ energetically from accelerating level flight?",
+    "answer": "Climbing increases potential energy while acceleration increases kinetic energy. Available excess power must support the chosen combination; demanding both can exceed aircraft capability.",
+    "source": "FAA Airplane Flying Handbook, chapters 4–5, Energy Management and Upset Prevention, Energy management",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-073",
+    "category": "aerodynamics",
+    "question": "What does total mechanical energy mean for an airplane?",
+    "answer": "The combination of energy from height and speed. Pitch can trade between them, while thrust adds energy and drag removes it.",
+    "source": "FAA Airplane Flying Handbook, chapters 4–5, Energy Management and Upset Prevention, Energy management",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-074",
+    "category": "aerodynamics",
+    "question": "An airplane is high and fast on final. Why is merely lowering the nose a poor correction?",
+    "answer": "It trades height into more speed and can increase the energy problem. Use approved drag and power management early or go around when stabilization cannot be achieved.",
+    "source": "FAA Airplane Flying Handbook, chapters 4–5, Energy Management and Upset Prevention, Approach energy",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-075",
+    "category": "aerodynamics",
+    "question": "Why can an airplane climb briefly after liftoff despite lacking sustainable climb performance?",
+    "answer": "It may exchange excess speed for height or benefit from ground effect. Once speed decays or ground effect ends, insufficient excess power becomes apparent.",
+    "source": "FAA Airplane Flying Handbook, chapters 4–5, Energy Management and Upset Prevention, Takeoff energy",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-076",
+    "category": "aerodynamics",
+    "question": "Why must rotation be based on the approved technique rather than trying to lift off as early as possible?",
+    "answer": "Premature rotation can add drag and leave inadequate control or stall margin. Apply the POH rotation cues and accelerate to the required climb condition.",
+    "source": "FAA Airplane Flying Handbook, chapter 6, Takeoffs and Departure Climbs, Takeoff technique",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-077",
+    "category": "aerodynamics",
+    "question": "What is the purpose of a soft-field takeoff’s early liftoff technique?",
+    "answer": "To reduce wheel drag, then accelerate in ground effect to the approved climb speed. Early liftoff is not permission to climb away below a safe speed.",
+    "source": "FAA Airplane Flying Handbook, chapter 6, Takeoffs and Departure Climbs, Soft-field takeoffs",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-078",
+    "category": "aerodynamics",
+    "question": "Why is elevator back pressure maintained appropriately during a soft-field landing rollout?",
+    "answer": "It helps keep weight off the nosewheel as speed decreases. Use the aircraft-specific technique while preserving steering and preventing an excessive pitch attitude.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Soft-Field Landings",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-079",
+    "category": "aerodynamics",
+    "question": "Why should a short-field landing be planned around a touchdown zone?",
+    "answer": "Stopping distance depends on where the airplane actually touches down at the correct speed. A long float can consume the margin even if the runway initially appeared sufficient.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Short-field landings",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-080",
+    "category": "aerodynamics",
+    "question": "How does a forward slip dissipate energy?",
+    "answer": "The cross-controlled attitude exposes more aircraft area to the airflow and increases drag. Use it only within the aircraft’s limitations and maintain an appropriate airspeed reference.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Slips",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-081",
+    "category": "aerodynamics",
+    "question": "Why can an extended slip affect some fuel systems?",
+    "answer": "Fuel can move away from an outlet or vent arrangement. Observe any slip-duration, fuel-quantity, or configuration restrictions in the POH.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Slip limitations",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-082",
+    "category": "aerodynamics",
+    "question": "What visual change helps a pilot judge the landing roundout?",
+    "answer": "Shift attention progressively toward the far end of the runway while retaining peripheral cues for height and alignment. Avoid staring at a point immediately beneath the nose.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Roundout",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-083",
+    "category": "aerodynamics",
+    "question": "Why does holding the airplane off at excess speed prolong a landing float?",
+    "answer": "The wing still produces substantial lift and kinetic energy must dissipate before touchdown. Avoid forcing it down; go around if the planned landing area is no longer achievable.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Landing energy",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-084",
+    "category": "aerodynamics",
+    "question": "Why should crosswind aileron generally increase as the airplane slows after landing?",
+    "answer": "Control effectiveness decreases with airflow. Progressively maintain the necessary into-wind correction according to the aircraft’s ground-handling technique.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Crosswind rollout",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-085",
+    "category": "aerodynamics",
+    "question": "Why does an abrupt gust loss near the ground threaten approach energy?",
+    "answer": "A sudden reduction in headwind can reduce indicated airspeed and lift before the airplane accelerates. Use approved gust procedures and retain a go-around option.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Wind changes",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-086",
+    "category": "aerodynamics",
+    "question": "What does a phugoid tendency look like?",
+    "answer": "A comparatively slow exchange between airspeed and altitude, often with modest angle-of-attack changes. Correct smoothly rather than making large chasing inputs.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Dynamic stability",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-087",
+    "category": "aerodynamics",
+    "question": "What is overbanking tendency during a steep turn?",
+    "answer": "The outer wing travels faster and can produce more lift, tending to increase bank. Apply the coordinated control needed to maintain the selected bank.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Turning flight",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-088",
+    "category": "aerodynamics",
+    "question": "Why can excessive rudder in a steep turn distort a maneuver even with altitude held?",
+    "answer": "It creates slip or skid and changes yaw, drag, and load distribution. Holding altitude alone does not demonstrate a coordinated or safe turn.",
+    "source": "FAA Airplane Flying Handbook, chapter 10, Steep Turns",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-089",
+    "category": "aerodynamics",
+    "question": "What does a clearing turn accomplish before a training maneuver?",
+    "answer": "It helps search for traffic in the area the maneuver will occupy. It supplements continuous lookout, altitude planning, and consideration of blind spots.",
+    "source": "FAA Airplane Flying Handbook, chapters 2–3, Ground Operations and Basic Flight Maneuvers — clearing and lookout",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-090",
+    "category": "aerodynamics",
+    "question": "Why should trim be used after establishing the desired flight condition?",
+    "answer": "Trim relieves sustained control force. Using it as the primary maneuver control can obscure the actual control requirement and delay a precise attitude change.",
+    "source": "FAA Airplane Flying Handbook, chapter 3, Basic Flight Maneuvers — trim",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-091",
+    "category": "aerodynamics",
+    "question": "How does a nose-heavy trim condition affect a go-around?",
+    "answer": "It can require substantial back pressure when climb attitude is selected; changing power and flap configuration may alter that requirement further. Maintain attitude control and retrim deliberately.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Go-around control forces",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-092",
+    "category": "aerodynamics",
+    "question": "Why must flap retraction during climb be coordinated with airspeed and attitude?",
+    "answer": "Reducing flap lift changes stall speed and can cause settling. Accelerate and retract according to the POH rather than retracting all flap at an arbitrary height.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Configuration transitions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-093",
+    "category": "aerodynamics",
+    "question": "Why is a normal go-around different from waiting to escape an unrecoverable landing?",
+    "answer": "An early go-around preserves speed, altitude, and runway options. Delay can leave too little energy or obstacle clearance even when full power is applied correctly.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Go-around planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-094",
+    "category": "aerodynamics",
+    "question": "What is pivotal altitude used for during eights on pylons?",
+    "answer": "It is the height at which the line of sight through the selected lateral reference appears to pivot around the pylon. It depends principally on groundspeed, so altitude adjustments are part of the maneuver.",
+    "source": "FAA Airplane Flying Handbook, chapter 10, Performance Maneuvers, Eights on pylons",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-095",
+    "category": "aerodynamics",
+    "question": "Why does wind require changing pivotal altitude during eights on pylons?",
+    "answer": "Groundspeed changes around the maneuver. Higher groundspeed requires a higher pivotal altitude and lower groundspeed a lower one; keep terrain and safety margins in the plan.",
+    "source": "FAA Airplane Flying Handbook, chapter 10, Performance Maneuvers, Eights on pylons",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-096",
+    "category": "aerodynamics",
+    "question": "What skill does a power-off accuracy approach develop beyond simply gliding to a runway?",
+    "answer": "Judging energy, wind, configuration, and pattern geometry to reach a selected touchdown area. Preserve safe speed and go around when the exercise cannot be completed safely.",
+    "source": "FAA Airplane Flying Handbook, chapter 9, Approaches and Landings, Power-off accuracy approaches",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-097",
+    "category": "aerodynamics",
+    "question": "What does a steep-spiral training maneuver teach?",
+    "answer": "Controlling a descending ground track around a point while managing airspeed, wind correction, bank, and altitude. It is a planned maneuver, not an uncontrolled spiral dive.",
+    "source": "FAA Airplane Flying Handbook, chapter 10, Performance Maneuvers, Steep spirals",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-098",
+    "category": "aerodynamics",
+    "question": "Why does a chandelle use a changing pitch-and-bank schedule?",
+    "answer": "It manages a declining airspeed while converting energy into altitude through a coordinated turn. Follow the approved training technique rather than maintaining one fixed pitch and bank.",
+    "source": "FAA Airplane Flying Handbook, chapter 10, Performance Maneuvers, Chandelles",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"
+  },
+  {
+    "id": "AD-099",
+    "category": "aerodynamics",
+    "question": "What is aerodynamic flutter and why is it dangerous?",
+    "answer": "A self-excited structural/control-surface oscillation that can grow rapidly and cause failure. Respect speed limits, control balance, and maintenance requirements; do not test a suspected flutter condition.",
+    "source": "FAA PHAK, chapter 5, Aerodynamics of Flight, Aeroelastic effects",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "AD-100",
+    "category": "aerodynamics",
+    "question": "Why can moving a control surface by hand during preflight fail to reveal every control problem?",
+    "answer": "It may not test cockpit travel, correct connection, structural loading, or an intermittent obstruction. Complete the specified cockpit and exterior checks, particularly after maintenance.",
+    "source": "FAA PHAK, chapter 6, Flight Controls, Control-system verification",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-041",
+    "category": "performance",
+    "question": "An aircraft weighs 2,000 lb and has a 160,000 lb-in total moment. Where is its CG?",
+    "answer": "At an 80-inch arm: total moment divided by total weight. Compare that arm with the approved envelope for 2,000 lb, not merely with an example loading.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, CG calculation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-042",
+    "category": "performance",
+    "question": "How should kilograms and pounds be handled on a loading worksheet?",
+    "answer": "Convert them to the worksheet’s required units before calculating moments. A consistent-looking worksheet can still be dangerously wrong if one item uses a different mass unit.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Loading units",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-043",
+    "category": "performance",
+    "question": "Why can adding baggage aft move CG beyond limits before maximum weight is reached?",
+    "answer": "Its moment depends on both weight and arm. A light load far behind the datum can have a large CG effect even with unused payload capacity.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Loading arms",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-044",
+    "category": "performance",
+    "question": "How does removing a forward passenger differ from removing the same weight of aft baggage?",
+    "answer": "Both lower total weight, but removing forward weight shifts CG aft while removing aft weight shifts it forward. Recalculate rather than assuming lighter always means safer balance.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Loading changes",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-045",
+    "category": "performance",
+    "question": "Why must loading adjustments respect seat and baggage-compartment limits as well as CG?",
+    "answer": "A legal overall CG does not prove that local floors, seats, restraints, or compartments can support the load. All applicable structural and loading limits must be met.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Local loading limits",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-046",
+    "category": "performance",
+    "question": "What must be verified before carrying removable ballast?",
+    "answer": "Its approved location, mass, attachment, and inclusion in weight and balance. Loose ballast can shift CG suddenly or become a projectile.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Ballast",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-047",
+    "category": "performance",
+    "question": "Why can fuel burn move the CG in different directions in different airplanes?",
+    "answer": "The direction depends on the fuel tank arms relative to the loaded CG. Use the actual aircraft loading information rather than a generic forward-or-aft assumption.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Fuel moments",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-048",
+    "category": "performance",
+    "question": "How can an empty-weight equipment list reveal a loading error?",
+    "answer": "It identifies what equipment was included in the recorded empty weight. Counting installed equipment again or omitting removed equipment can make the worksheet incorrect.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Equipment accounting",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-049",
+    "category": "performance",
+    "question": "Why must weighing conditions match the aircraft’s approved empty-weight definition?",
+    "answer": "Fuel, oil, equipment, and leveling conditions determine the measured result. An apparently precise scale reading is not a usable basic empty weight if the preparation was wrong.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Aircraft weighing",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-050",
+    "category": "performance",
+    "question": "What is percent mean aerodynamic chord used to express?",
+    "answer": "CG position relative to the wing’s mean aerodynamic chord. Convert using the aircraft’s published leading-edge location and chord length; inches from the datum are not automatically percent MAC.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, CG presentation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-051",
+    "category": "performance",
+    "question": "Why should a pilot check a loading-envelope graph’s axes and units?",
+    "answer": "Some plots use CG arm, moment, or index with different scales. Plotting the right numbers on the wrong kind of envelope can falsely show an acceptable loading.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Loading charts",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-052",
+    "category": "performance",
+    "question": "Why is a maximum takeoff weight not always the maximum allowable ramp weight?",
+    "answer": "Some aircraft permit additional ramp weight for fuel expected to be burned before takeoff. Use separate approved limits and actual taxi fuel, not an assumed allowance.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Weight limits",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-053",
+    "category": "performance",
+    "question": "Why does payload planning need a realistic taxi-fuel estimate?",
+    "answer": "Taxi consumes usable fuel and changes takeoff weight. An optimistic estimate can leave less flight reserve than planned even when the takeoff weight becomes legal.",
+    "source": "FAA PHAK, chapter 10, Weight and Balance, Weight and Balance and Aircraft Performance, Fuel and loading",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-054",
+    "category": "performance",
+    "question": "What is excess power used for in a climb?",
+    "answer": "The power available beyond that required to maintain the flight condition supports an increase in altitude. Drag or power losses can sharply reduce climb even if level flight is still possible.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Climb performance",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-055",
+    "category": "performance",
+    "question": "How does climb gradient differ from rate of climb?",
+    "answer": "Gradient is altitude gained per horizontal distance; rate is altitude gained per time. Obstacle clearance requires gradient, so the same vertical speed can be insufficient at a higher groundspeed.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Climb metrics",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-056",
+    "category": "performance",
+    "question": "When a POH recommends a cruise climb instead of Vy, what tradeoff is being made?",
+    "answer": "A higher climb airspeed can improve forward visibility, cooling, and distance covered while accepting less than the maximum possible climb rate. Use the approved climb schedule and ensure obstacle clearance remains adequate.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance — Climb Performance",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-057",
+    "category": "performance",
+    "question": "Why can a strong headwind improve obstacle clearance without improving the airplane’s still-air climb rate?",
+    "answer": "It reduces groundspeed, so less horizontal distance is traveled during the climb. The airplane’s aerodynamic climb capability has not increased.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Wind and climb",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-058",
+    "category": "performance",
+    "question": "Why can an obstacle departure remain unsuitable even when the POH shows a positive climb rate?",
+    "answer": "Positive climb alone may not meet the required gradient, terrain path, or maneuver margins. Compare the actual performance with the entire departure requirement.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Obstacle planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-059",
+    "category": "performance",
+    "question": "Why is extrapolating a sea-level climb figure to a high-elevation airport unsafe?",
+    "answer": "Available power, drag, true airspeed, temperature, and weight change the result. Use the appropriate approved performance data and avoid inventing a correction outside its range.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Climb data",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-060",
+    "category": "performance",
+    "question": "How does an aircraft’s climb speed usually change as weight decreases?",
+    "answer": "The optimum speed commonly decreases, but the approved weight-dependent schedule controls. A single memorized speed may not provide the best result at all weights.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Weight-dependent speeds",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-061",
+    "category": "performance",
+    "question": "Why should climb performance be assessed with the planned anti-ice or other power-consuming equipment in use?",
+    "answer": "Bleed, electrical, or mechanical demands can reduce available performance. Apply the installed equipment’s penalties and limitations when relevant.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Equipment penalties",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-062",
+    "category": "performance",
+    "question": "What makes a runway intersection takeoff a new performance decision?",
+    "answer": "It reduces available distance and may change obstacle geometry. Recalculate with the actual starting point rather than using the full runway length.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Available runway",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-063",
+    "category": "performance",
+    "question": "Why must a runway’s published declared distances be read individually?",
+    "answer": "TORA, TODA, ASDA, and LDA can differ because of clearways, stopways, displaced thresholds, or operational restrictions. Choose the distance applicable to the calculation.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Declared distances",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-064",
+    "category": "performance",
+    "question": "What is a clearway credited for in approved performance planning?",
+    "answer": "An obstacle-controlled area beyond the runway that may contribute to the available takeoff distance. It is not extra pavement for accelerating, braking, or landing.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Clearways",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-065",
+    "category": "performance",
+    "question": "What is a stopway credited for in approved performance planning?",
+    "answer": "A prepared area that may extend accelerate-stop distance for an aborted takeoff. It is not automatically usable takeoff runway or landing distance.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Stopways",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-066",
+    "category": "performance",
+    "question": "Why can takeoff technique invalidate a published short-field distance?",
+    "answer": "The chart assumes specified configuration, power application, rotation, and climb technique. A rolling departure or different flap setting may not reproduce those assumptions.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Takeoff assumptions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-067",
+    "category": "performance",
+    "question": "Why does landing-distance planning need the expected threshold-crossing height?",
+    "answer": "Extra height generally uses additional runway before touchdown. A correct approach speed alone cannot compensate for crossing the threshold substantially above the assumed height.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Landing assumptions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-068",
+    "category": "performance",
+    "question": "Why does extra approach speed increase stopping-energy demands?",
+    "answer": "Kinetic energy varies with speed squared. A modest speed increase can create a disproportionately greater energy burden and a longer float or rollout.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Landing energy",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-069",
+    "category": "performance",
+    "question": "What does a landing chart’s maximum-braking assumption require the pilot to recognize?",
+    "answer": "Actual braking technique, tire condition, surface friction, and system operation may differ. Plan a margin rather than assuming routine braking will reproduce the demonstration.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Braking assumptions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-070",
+    "category": "performance",
+    "question": "Why can a downhill landing be worse than its visual appearance suggests?",
+    "answer": "Gravity assists the airplane’s motion during rollout and the runway may appear flatter or longer from the approach. Use approved slope data and preserve stopping margin.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Landing slope",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-071",
+    "category": "performance",
+    "question": "What can standing water do besides reducing tire friction?",
+    "answer": "It can create hydroplaning and drag effects that change acceleration, control, and stopping performance. Use condition-specific data and limits rather than a simple wet-pavement assumption.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Contaminated runway effects",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-072",
+    "category": "performance",
+    "question": "Why is a maximum demonstrated crosswind figure not automatically a universal limitation?",
+    "answer": "It records a demonstrated condition unless the aircraft documentation makes it a limit. Apply actual limitations, runway condition, aircraft capability, and pilot proficiency.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Crosswind data",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-073",
+    "category": "performance",
+    "question": "How should a forecast wind near a runway-performance limit affect planning?",
+    "answer": "Allow for uncertainty, gusts, direction changes, and updated observations. A calculation that is legal only at the most favorable wind leaves little practical margin.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Wind margins",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-074",
+    "category": "performance",
+    "question": "Why does range planning need climb and descent fuel rather than only cruise consumption?",
+    "answer": "Those phases have different power, time, distance, and fuel use. Ignoring them can overstate endurance and destination reserve.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Trip fuel",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "PF-075",
+    "category": "performance",
+    "question": "Why can an economy cruise setting be unsuitable when fuel is becoming critical into a headwind?",
+    "answer": "The best still-air setting may not maximize ground distance in that wind. Use approved guidance and reassess a reachable landing option before reserve becomes an emergency.",
+    "source": "FAA PHAK, chapter 11, Aircraft Performance, Weight and Balance and Aircraft Performance, Range in wind",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-021",
+    "category": "navigation",
+    "question": "Why must a latitude-longitude entry’s format be checked before pressing enter?",
+    "answer": "Degrees/minutes/seconds, degrees/decimal minutes, and decimal degrees are different formats. A misplaced decimal or wrong hemisphere can produce a plausible-looking point far from the intended location.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Coordinates",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-022",
+    "category": "navigation",
+    "question": "How can a pilot cross-check a manually entered coordinate?",
+    "answer": "Compare hemisphere, degrees, minutes, plotted position, bearing, and distance with independent chart information. Do not use the same mistyped coordinate as its own verification.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Coordinate verification",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-023",
+    "category": "navigation",
+    "question": "What is the practical relationship between one minute of latitude and distance?",
+    "answer": "One minute of latitude is approximately one nautical mile. This helps estimate distance on a chart, but longitude spacing changes with latitude.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Chart distance",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-024",
+    "category": "navigation",
+    "question": "Why should a chart’s latitude scale be used carefully when estimating distance?",
+    "answer": "Chart projection and location matter. Use the chart’s published scale or an appropriate local latitude scale, not a distant longitude scale that may produce a different result.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Chart scales",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-025",
+    "category": "navigation",
+    "question": "Why must statute and nautical miles be distinguished in navigation calculations?",
+    "answer": "A statute mile is shorter than a nautical mile. Mixing distances with groundspeed in knots produces incorrect time and fuel estimates.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Units",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-026",
+    "category": "navigation",
+    "question": "What date problem can arise when comparing a late-evening local flight with UTC information?",
+    "answer": "UTC may already be on the next calendar date. Verify both date and time when reading validity periods or filing flight-plan information.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, UTC",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-027",
+    "category": "navigation",
+    "question": "Why should a cross-country navigation log show leg-by-leg rather than only total fuel?",
+    "answer": "It exposes where fuel is expected to be consumed and supports checkpoint comparison, diversion decisions, and reserve monitoring before the destination is reached.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Navigation log",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-028",
+    "category": "navigation",
+    "question": "What does a planned time checkpoint reveal that GPS distance alone may miss?",
+    "answer": "Whether actual progress and fuel use match the plan. Distance can appear correct while a stronger headwind progressively erodes the remaining reserve.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Progress monitoring",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-029",
+    "category": "navigation",
+    "question": "Why are checkpoints immediately before an airspace boundary especially useful?",
+    "answer": "They provide a recognizable decision point for confirming position, clearance or communication, altitude, and the route around the boundary if entry is unavailable.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Checkpoint placement",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-030",
+    "category": "navigation",
+    "question": "Why should an urban landmark be verified by its surrounding pattern?",
+    "answer": "Similar roads, lakes, stadiums, and towns can be confused. Match the feature’s position relative to several other landmarks before treating it as a fix.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Pilotage",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-031",
+    "category": "navigation",
+    "question": "What is a navigation fix based on two independent lines of position?",
+    "answer": "A position determined by intersecting two bearings, radials, or other independent references. Favor a useful crossing angle rather than nearly parallel lines.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Position fixing",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-032",
+    "category": "navigation",
+    "question": "Why are nearly parallel position lines a weak fix?",
+    "answer": "Small bearing errors can move the intersection a long distance. Use another reference or more favorable geometry before accepting a precise location.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Fix geometry",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-033",
+    "category": "navigation",
+    "question": "What should a pilot do when the expected landmark is not found at the planned time?",
+    "answer": "Maintain control, check heading, time, chart orientation, and nearby features, and reassess position early. Do not force an uncertain landmark to fit the plan.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Lost-position prevention",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-034",
+    "category": "navigation",
+    "question": "How can a prominent linear feature serve as a visual navigation handrail?",
+    "answer": "A verified river, coastline, road, or railway can help maintain position along a route. Follow a safe planned track and cross-check junctions; the feature may bend into terrain, weather, or airspace that the flight must avoid.",
+    "source": "FAA PHAK, chapter 16, Navigation — Pilotage",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-035",
+    "category": "navigation",
+    "question": "How can haze alter the usefulness of a planned checkpoint?",
+    "answer": "It can hide distant detail or make similar landmarks appear alike. Choose closer, more distinctive references and retain a diversion option rather than descending into unsafe terrain clearance.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Visual navigation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-036",
+    "category": "navigation",
+    "question": "Why should a pilot plan a turn point before reaching a complicated junction?",
+    "answer": "It provides time to verify the correct feature, select the new heading, and scan for hazards. Last-second chart interpretation increases overshoot and cockpit workload.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Route transitions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-037",
+    "category": "navigation",
+    "question": "What is a practical way to avoid cumulative chart-orientation errors?",
+    "answer": "Relate the chart to the aircraft’s actual direction of travel and periodically confirm north and major landmarks. Reorient deliberately after turns or display-mode changes.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Chart orientation",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-038",
+    "category": "navigation",
+    "question": "Why does a return flight require a fresh wind and fuel calculation?",
+    "answer": "The outbound tailwind can become a return headwind, and weather, loading, daylight, and airspace conditions may change. Reversing the heading does not simply reverse elapsed time.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Return planning",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-039",
+    "category": "navigation",
+    "question": "What should be checked before using an airport listed as a diversion option?",
+    "answer": "Current availability, weather, runway dimensions and condition, services, approach access, and aircraft suitability. A nearby symbol does not prove a usable landing option.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Diversions",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-040",
+    "category": "navigation",
+    "question": "Why is a checkpoint over open water or featureless terrain a poor sole visual reference?",
+    "answer": "There may be no reliable feature to confirm. Use independent navigation, more conservative position uncertainty, and an appropriate route rather than inventing visual precision.",
+    "source": "FAA PHAK, chapter 16, Navigation, Navigation; FAA AIM, chapter 1, Route robustness",
+    "sourceUrl": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"
+  },
+  {
+    "id": "NAV-041",
+    "category": "navigation",
+    "question": "What does a VOR radial describe?",
+    "answer": "A magnetic bearing outward from the station. The aircraft can be on that radial while flying toward, away from, or across the station.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR radials",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-042",
+    "category": "navigation",
+    "question": "An airplane is north of a VOR. Which radial is it approximately on?",
+    "answer": "The 360 radial, regardless of its heading. A southerly heading toward the station is not the same as being on the 180 radial.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-043",
+    "category": "navigation",
+    "question": "Why must a VOR be positively identified before relying on its guidance?",
+    "answer": "The selected frequency alone does not establish the correct or serviceable station. Check the identification and disregard guidance from a facility reported unusable.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, NAVAID identification",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-044",
+    "category": "navigation",
+    "question": "What does a VOR TO/FROM indication compare?",
+    "answer": "The selected course with the aircraft’s position relative to the station. It does not tell the pilot whether the nose is currently pointed toward or away from the station.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR indication",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-045",
+    "category": "navigation",
+    "question": "How can reverse sensing occur when manually tracking a VOR?",
+    "answer": "An inappropriate selected course can make CDI deflection appear opposite to the intended correction. Set the desired course with the proper TO/FROM sense and verify geometry before following it.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR course selection",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-046",
+    "category": "navigation",
+    "question": "Why does a centered VOR CDI not by itself show that the desired route is being flown?",
+    "answer": "The selected course or station may be wrong, and a centered needle can occur on either side of the station. Verify station, course, TO/FROM sense, position, and clearance.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR cross-check",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-047",
+    "category": "navigation",
+    "question": "Why should large VOR needle swings near station passage not be chased?",
+    "answer": "Angular sensitivity increases and indications can become unstable close to or over the facility. Maintain a planned heading and use the expected station-passage indications.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, VOR tracking",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-048",
+    "category": "navigation",
+    "question": "What does VOR line-of-sight coverage mean for a low-altitude route?",
+    "answer": "Terrain and the horizon can block signals even within a seemingly short distance. Confirm usable coverage rather than assuming every tuned station is available.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, NAVAID coverage",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-049",
+    "category": "navigation",
+    "question": "Why does a charted NAVAID service volume matter?",
+    "answer": "It defines expected signal coverage under stated conditions. A signal received outside that volume may not have the same assured performance or interference protection.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Service volumes",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-050",
+    "category": "navigation",
+    "question": "Why should an unflagged electronic bearing not override a NAVAID outage notice?",
+    "answer": "Erroneous guidance can appear believable during a transmitter failure or maintenance condition. Follow the outage information and use an authorized alternative.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, NAVAID outages",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-051",
+    "category": "navigation",
+    "question": "What is DME groundspeed most accurate at showing?",
+    "answer": "The rate of change of slant distance to the station. It approximates aircraft groundspeed when flying directly toward or away, but can be misleading on crossing or orbiting tracks.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, DME indications",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-052",
+    "category": "navigation",
+    "question": "Why can DME time-to-station be misleading while flying abeam a station?",
+    "answer": "Distance may be changing very slowly even though the airplane is moving quickly. The computed time is based on distance closure, not the time along the intended route.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, DME interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-053",
+    "category": "navigation",
+    "question": "What does an ADF relative bearing reference?",
+    "answer": "The angle from the aircraft’s nose to the station. Combine it with heading to determine bearing, recognizing compass and ADF errors.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, ADF",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-054",
+    "category": "navigation",
+    "question": "Why does homing to an NDB differ from tracking a course to it?",
+    "answer": "Homing keeps the needle near the nose and can produce a curved path in wind. Tracking uses a wind-corrected heading to maintain the desired ground course.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, ADF tracking",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-055",
+    "category": "navigation",
+    "question": "Why can lightning or precipitation static make an ADF misleading?",
+    "answer": "The receiver can respond to interference rather than the intended beacon. Monitor identification and cross-check position with other references.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, ADF limitations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-056",
+    "category": "navigation",
+    "question": "What makes a VOR cross-radial a useful route checkpoint?",
+    "answer": "It provides an independent geographic crossing indication when the stations and geometry are appropriate. Plan the correct radial and recognize that reception and tolerances limit precision.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Cross-radial fixes",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-057",
+    "category": "navigation",
+    "question": "How can a bearing to a known station help resolve a suspected GPS position error?",
+    "answer": "It provides an independent line of position. Compare the observed bearing and other available information with the displayed GPS location instead of using GPS-derived bearings on both sides of the check.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Independent verification",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-058",
+    "category": "navigation",
+    "question": "Why is the OBS course different from aircraft heading?",
+    "answer": "OBS selects a reference course; heading is the direction the airplane points. Wind correction means a correct intercept or tracking heading often differs from the selected course.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Course versus heading",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-059",
+    "category": "navigation",
+    "question": "What should be verified when switching a navigation receiver to its standby frequency?",
+    "answer": "That the intended frequency became active, the station identifies correctly, and the indicator or audio panel is using that receiver. The standby window itself supplies no navigation guidance.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Receiver operation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-060",
+    "category": "navigation",
+    "question": "Why can two navigation displays agree yet share the same underlying error?",
+    "answer": "They may use the same receiver, antenna, position source, or database. Independence concerns data sources as well as the number of screens.",
+    "source": "FAA AIM 1-1, Navigation Aids, Navigation; FAA AIM, chapter 1, Common-source errors",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html"
+  },
+  {
+    "id": "NAV-061",
+    "category": "navigation",
+    "question": "How do GPS bearing-to-waypoint and desired track differ?",
+    "answer": "Bearing points from present position to the waypoint; desired track is the planned leg’s course. Steering directly to the bearing can abandon the planned route.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, GPS navigation fields",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-062",
+    "category": "navigation",
+    "question": "What does cross-track error show?",
+    "answer": "Lateral displacement from the active course line. It does not directly show heading error or whether the remaining route is safe.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, GPS cross-track error",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-063",
+    "category": "navigation",
+    "question": "Why should the active leg be verified after changing a flight plan?",
+    "answer": "The receiver may navigate to a different fix or sequence than intended. Check the map, course, distance, and active waypoint before following new guidance.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Flight-plan activation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-064",
+    "category": "navigation",
+    "question": "What is the difference between editing a stored flight plan and activating it?",
+    "answer": "Editing changes route data; activation tells the navigator which route or leg to use. Confirm the active guidance rather than assuming an edited plan is automatically being flown.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Flight-plan management",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-065",
+    "category": "navigation",
+    "question": "Why must identical waypoint names in different regions be treated cautiously?",
+    "answer": "The chosen database entry may be far from the intended destination. Verify identifier, location, bearing, and distance before activation.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Waypoint selection",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-066",
+    "category": "navigation",
+    "question": "What should be checked when a nearest-airport list omits an expected airport?",
+    "answer": "Database coverage, filters, runway criteria, airport status, and current position. Nearest lists can be configured to exclude otherwise nearby airports.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Nearest functions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-067",
+    "category": "navigation",
+    "question": "Why is a GPS direct distance not the complete distance-to-go for fuel planning?",
+    "answer": "It may exclude required routing, maneuvering, weather avoidance, approach, and diversion distance. Use a realistic flight path and reserve rather than a straight-line number alone.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Distance planning",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-068",
+    "category": "navigation",
+    "question": "What should a pilot verify before following an advisory GPS vertical profile VFR?",
+    "answer": "Terrain, obstacles, airspace, weather, altimeter reference, and the aircraft’s limitations. A computed descent path is not an obstacle-clearance authorization.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Advisory vertical navigation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-069",
+    "category": "navigation",
+    "question": "Why can a GPS estimated arrival time change sharply after a turn?",
+    "answer": "The new leg can have a different wind component or speed. GPS prediction depends on its assumptions; compare the revised estimate with the fuel plan.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, ETA prediction",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-070",
+    "category": "navigation",
+    "question": "What hazard can a moving-map scale change introduce?",
+    "answer": "Important terrain, airspace, or route details may disappear or become generalized. Select a useful scale and consult the underlying chart information.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Map scales",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-071",
+    "category": "navigation",
+    "question": "Why should an electronic route be inspected beyond the currently displayed map window?",
+    "answer": "A hidden later segment can cross hazards or contain an unintended waypoint. Review the entire plan at appropriate scales before departure and after major edits.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Route review",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-072",
+    "category": "navigation",
+    "question": "How can an off-airport user waypoint create a navigation hazard?",
+    "answer": "Coordinates may be inaccurate, lack obstacle information, or use a misleading label. Independently verify its position and purpose before treating it like a published fix.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, User waypoints",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-073",
+    "category": "navigation",
+    "question": "What does a GPS loss-of-integrity warning require the pilot to reassess?",
+    "answer": "Whether that guidance remains suitable for the intended operation. Follow the equipment instructions, advise ATC when relevant, and use another approved navigation method or change the plan.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Integrity alerts",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-074",
+    "category": "navigation",
+    "question": "Why should a GPS groundspeed not be substituted for indicated airspeed during aircraft control?",
+    "answer": "Groundspeed includes wind effects and does not measure aerodynamic stall margin or structural airspeed limits. Use the approved flight instruments and procedures.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Speed references",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "NAV-075",
+    "category": "navigation",
+    "question": "Why is a terrain display not a substitute for a safe VFR route and visibility?",
+    "answer": "Terrain databases have coverage, accuracy, update, and display limitations. Maintain visual terrain clearance and appropriate planning margins instead of navigating into obscuration on a map alone.",
+    "source": "FAA AIM 1-1-17, GPS; 1-2, RNAV system operation, Navigation; FAA AIM, chapter 1, Terrain displays",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html"
+  },
+  {
+    "id": "COM-021",
+    "category": "communications",
+    "question": "What does an instruction to squawk a code require?",
+    "answer": "Set that assigned transponder code and retain the required operating mode. It is not a clearance to enter airspace or change flightpath.",
+    "source": "FAA AIM 4-1-19, Transponder Operation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_1.html"
+  },
+  {
+    "id": "COM-022",
+    "category": "communications",
+    "question": "What does IDENT ask the pilot to do?",
+    "answer": "Briefly activate the transponder’s identification function when requested. Do not change the assigned code or use IDENT as an ordinary acknowledgment.",
+    "source": "FAA AIM 4-1-19, Transponder Operation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_1.html"
+  },
+  {
+    "id": "COM-023",
+    "category": "communications",
+    "question": "How does squawk standby differ from stop altitude squawk?",
+    "answer": "Standby suspends replies; stop altitude squawk disables altitude reporting while retaining other replies as directed. Use the installed controls correctly and clarify an ambiguous request.",
+    "source": "FAA AIM 4-1-19, Transponder Operation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_1.html"
+  },
+  {
+    "id": "COM-024",
+    "category": "communications",
+    "question": "Why should an assigned heading be read as individual digits?",
+    "answer": "Standard digit pronunciation reduces confusion with similar numbers. Include the direction of turn and call sign when reading back a heading instruction.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Numbers",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-025",
+    "category": "communications",
+    "question": "What should a pilot do after reading back the wrong altitude and hearing no correction?",
+    "answer": "Correct the readback promptly and obtain confirmation if uncertain. Silence is not reliable proof that an erroneous readback became the clearance.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Readback errors",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-026",
+    "category": "communications",
+    "question": "How should a long or complex clearance be handled if it cannot be copied reliably?",
+    "answer": "Request a slower repeat or the unclear portion, write it down, and confirm it before acting. Do not accept a clearance based on fragments.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Clearance copying",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-027",
+    "category": "communications",
+    "question": "What does verify ask for in an ATC exchange?",
+    "answer": "Confirmation that the stated information or instruction is correct. Respond with the actual information and resolve any discrepancy rather than giving a vague acknowledgment.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Glossary: verify",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-028",
+    "category": "communications",
+    "question": "What does negative mean in aviation radio communication?",
+    "answer": "No, permission not granted, or the stated information is incorrect, depending on context. If the consequence is unclear, request clarification.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Glossary: negative",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-029",
+    "category": "communications",
+    "question": "Why should the word takeoff be reserved carefully in runway communications?",
+    "answer": "It distinguishes an actual takeoff clearance from other departure-related discussion. Clear phraseology helps prevent a pilot from mistaking a route or timing instruction for permission to roll.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Runway phraseology",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-030",
+    "category": "communications",
+    "question": "Does a departure frequency issued during taxi authorize takeoff?",
+    "answer": "No. It supplies a frequency for later contact. A separate takeoff clearance is required at an operating tower.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Clearance meaning",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-031",
+    "category": "communications",
+    "question": "What should a pilot do if a takeoff clearance is heard while still unsure of runway identity?",
+    "answer": "Remain clear or stop safely and verify the runway and clearance. Resolve the uncertainty before beginning the takeoff roll.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Runway verification",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-032",
+    "category": "communications",
+    "question": "Why does contact a new frequency differ from monitor it?",
+    "answer": "Contact normally requires an initial call; monitor generally means listen and await the facility’s call. Follow the instruction and clarify if a response is needed.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Frequency changes",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-033",
+    "category": "communications",
+    "question": "What should happen if communication cannot be established after a frequency handoff?",
+    "answer": "Recheck the frequency and radio selection, then return to the previous facility or use another appropriate means. Do not continue indefinitely assuming the handoff succeeded.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Handoff failures",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-034",
+    "category": "communications",
+    "question": "Why should the full facility name be used on an initial call?",
+    "answer": "It identifies which station is being addressed, particularly on shared or remotely served frequencies. Calling only an aircraft identifier can leave both parties unsure of the intended recipient.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Initial contact",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-035",
+    "category": "communications",
+    "question": "What information helps ATC respond quickly to a request for immediate assistance?",
+    "answer": "Aircraft identity, position, altitude, nature of the problem, intentions, and the assistance needed. Supply fuel and persons aboard when requested or operationally useful.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Emergency communication",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-036",
+    "category": "communications",
+    "question": "How should a pilot report fuel status when priority is actually required?",
+    "answer": "Plainly declare the emergency and state the fuel problem. A minimum-fuel advisory alone does not request emergency handling.",
+    "source": "FAA AIM 5-5, Minimum Fuel Advisory; Pilot/Controller Glossary",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_5.html"
+  },
+  {
+    "id": "COM-037",
+    "category": "communications",
+    "question": "What does minimum fuel tell ATC?",
+    "answer": "The flight cannot accept undue delay upon reaching the destination. It is an advisory, not an emergency declaration or automatic priority request.",
+    "source": "FAA AIM 5-5, Minimum Fuel Advisory; Pilot/Controller Glossary",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_5.html"
+  },
+  {
+    "id": "COM-038",
+    "category": "communications",
+    "question": "Why must a pilot promptly tell ATC that assigned traffic was lost from sight?",
+    "answer": "A controller may have based instructions or separation on the reported visual contact. State the loss and obtain revised instructions rather than continuing a visual plan blindly.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Visual contact",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-039",
+    "category": "communications",
+    "question": "What does following traffic mean during a landing sequence?",
+    "answer": "Identify the assigned aircraft and maintain the instructed sequence while preserving safe spacing. Ask for help if identification or wake spacing is uncertain.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Sequencing",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-040",
+    "category": "communications",
+    "question": "How should a pilot respond to an instruction to extend downwind when fuel or glide options are becoming limiting?",
+    "answer": "State unable or request a specific alternative early. Do not accept an extension that places the aircraft in an unsafe position.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Traffic-pattern instructions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-041",
+    "category": "communications",
+    "question": "Does a controller’s traffic description prove the other aircraft is at the reported position now?",
+    "answer": "No. Reports and surveillance data can have delays or uncertainty. Scan a useful area around the called position and never maneuver solely toward an unverified target.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Traffic advisories",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-042",
+    "category": "communications",
+    "question": "Why should a student pilot identify as student on an initial ATC call?",
+    "answer": "It helps controllers tailor assistance and avoid assuming experience the pilot does not yet have. It does not remove the pilot’s responsibility to state uncertainty or limitations.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Student pilots",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-043",
+    "category": "communications",
+    "question": "Why can transmitting immediately after keying a microphone lose the first part of a call?",
+    "answer": "Some systems need a brief moment to activate. Use normal technique, speak clearly, and verify that the intended facility and call sign were received.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Microphone technique",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-044",
+    "category": "communications",
+    "question": "What should a pilot check before concluding that a quiet frequency means radio failure?",
+    "answer": "Volume, audio-panel selection, active frequency, headset connections, transmit selection, and expected coverage. A quiet sector can also be normal.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Radio troubleshooting",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-045",
+    "category": "communications",
+    "question": "Why can one blocked transmission be dangerous even if both crews spoke correctly?",
+    "answer": "Simultaneous calls may prevent the controller or pilots from hearing a clearance or warning. Verify any partially heard safety-critical instruction.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Blocked calls",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-046",
+    "category": "communications",
+    "question": "What does read back mean when ATC specifically requests it?",
+    "answer": "Repeat the specified message or instruction so the controller can verify reception. A roger or wilco response does not supply the requested verification.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Glossary: read back",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-047",
+    "category": "communications",
+    "question": "Why should nonstandard abbreviations be avoided when reporting a fix?",
+    "answer": "They can sound like another location or identifier. Use the published name and phonetic spelling when needed, particularly with similar-sounding fixes.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Fix identification",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-048",
+    "category": "communications",
+    "question": "How should a pilot communicate a request that standard phraseology does not express clearly?",
+    "answer": "Use plain, concise language. Accurate mutual understanding takes priority over forcing an unfamiliar situation into an inappropriate standard phrase.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Plain language",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-049",
+    "category": "communications",
+    "question": "Why should unnecessary radio troubleshooting be deferred during an immediate aircraft-control problem?",
+    "answer": "Flying the aircraft has priority. Stabilize and manage essential actions, then use remaining capacity or another crewmember for communications.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Workload management",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-050",
+    "category": "communications",
+    "question": "What does an ATC instruction to expedite require the pilot to consider?",
+    "answer": "Respond promptly within safe aircraft limits. If the requested rate or maneuver cannot be achieved safely, say unable and provide the practical alternative.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Glossary: expedite",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-051",
+    "category": "communications",
+    "question": "Why must a pilot correct an incorrect aircraft type or position given by ATC?",
+    "answer": "The controller may be using it for sequencing, performance expectations, or identification. Correct the error before it leads to an unsuitable instruction.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Information accuracy",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-052",
+    "category": "communications",
+    "question": "Can a request to report ready be treated as takeoff clearance?",
+    "answer": "No. It asks for a status report. Remain clear of the runway as required until an explicit entry or takeoff clearance is issued.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Readiness reports",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-053",
+    "category": "communications",
+    "question": "What should a pilot do after hearing a radio instruction that conflicts with a previous restriction?",
+    "answer": "Clarify the conflict before acting when safety permits. Do not silently choose the interpretation that is most convenient.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Conflicting instructions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-054",
+    "category": "communications",
+    "question": "Why should a pilot avoid leaving a busy frequency just to obtain routine information without advising ATC?",
+    "answer": "ATC may need an immediate response or issue a safety-critical instruction. Request a brief frequency change or use a second radio when appropriate.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Frequency monitoring",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-055",
+    "category": "communications",
+    "question": "How should a pilot report a short-final go-around?",
+    "answer": "State the aircraft identification and going around when workload permits, then follow or clarify ATC instructions while flying the safe go-around. Do not wait for permission to reject an unsafe landing.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Go-around reports",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-056",
+    "category": "communications",
+    "question": "What does unable to accept LAHSO communicate?",
+    "answer": "The pilot is declining a land-and-hold-short clearance. Advise ATC early so another clearance can be arranged; acceptance requires suitable aircraft, performance, conditions, and proficiency.",
+    "source": "FAA AIM 4-3-11, Pilot Responsibilities When Conducting Land and Hold Short Operations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "COM-057",
+    "category": "communications",
+    "question": "What should a pilot report if a landing clearance cannot be complied with after acceptance?",
+    "answer": "Inform ATC immediately and state the problem and intentions. Safety takes priority, and ATC needs to protect other traffic.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Landing clearance changes",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-058",
+    "category": "communications",
+    "question": "Why must a pilot request clarification of an unfamiliar local reporting point?",
+    "answer": "Guessing can give ATC a false traffic picture or place the aircraft on the wrong route. Ask for location or an alternative instruction before proceeding.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Local knowledge",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-059",
+    "category": "communications",
+    "question": "How should a pilot communicate turbulence that prevents accurate altitude holding?",
+    "answer": "Tell ATC promptly, describe the condition and altitude difficulty, and request an appropriate clearance or assistance. Avoid silently exceeding clearances while trying to appear precise.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Turbulence reports",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "COM-060",
+    "category": "communications",
+    "question": "Why should a radio call give the actual limitation rather than just not comfortable?",
+    "answer": "A concrete limitation—such as unable to maintain the requested speed—helps ATC offer a workable alternative. State the necessary safety constraint clearly without lengthy explanation.",
+    "source": "FAA AIM 4-2, Radio Communications; Pilot/Controller Glossary, Radio Communications; Pilot/Controller Glossary, Operational limitations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_2.html"
+  },
+  {
+    "id": "AS-051",
+    "category": "airspace",
+    "question": "What does a minus sign before a Class D charted ceiling indicate?",
+    "answer": "The ceiling altitude is excluded from that Class D area. Read the boxed altitude and any applicable chart notes rather than assuming the top is included.",
+    "source": "FAA AIM, 3-2, Class D chart depiction",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-052",
+    "category": "airspace",
+    "question": "Does flying exactly at a Class B shelf floor keep an aircraft below the shelf?",
+    "answer": "No. Plan a clear altitude margin below the floor if remaining outside. Include altimeter accuracy, turbulence, terrain clearance, and the actual charted boundary.",
+    "source": "FAA AIM, 3-2, Class B boundaries",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-053",
+    "category": "airspace",
+    "question": "Why must charted MSL airspace altitudes not be confused with AGL?",
+    "answer": "An MSL floor is referenced to sea level, while terrain elevation changes underneath it. Subtracting airport elevation once is not a reliable AGL value throughout a route.",
+    "source": "FAA AIM, 3-2, Altitude references",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-054",
+    "category": "airspace",
+    "question": "Why should a VFR route under a shelf include a lateral alternative?",
+    "answer": "Clouds, terrain, or altimeter uncertainty may remove the planned vertical gap. A lateral route can preserve legal weather and terrain clearance without an unintended airspace entry.",
+    "source": "FAA AIM, 3-2, Airspace planning",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-055",
+    "category": "airspace",
+    "question": "Does every operating control tower necessarily have a Class D surface area?",
+    "answer": "No. Some towers operate where suitable weather reporting for a controlled surface area is unavailable. Check the charted airspace and communicate with the operating tower.",
+    "source": "FAA AIM, 3-2, AIM 4-3-2",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-056",
+    "category": "airspace",
+    "question": "Is the usual Class C outer area itself additional Class C airspace?",
+    "answer": "No. It is a nonregulatory service area associated with the Class C facility. Participation and services there do not change the underlying airspace class.",
+    "source": "FAA AIM, 3-2, Class C services",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-057",
+    "category": "airspace",
+    "question": "What should be checked when a sectional shows stacked Class B altitude numbers?",
+    "answer": "The numbers identify that sector’s ceiling and floor in hundreds of feet MSL. Follow the boundary lines carefully so an adjacent sector’s floor is not applied to the wrong location.",
+    "source": "FAA AIM, 3-2, Class B chart reading",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-058",
+    "category": "airspace",
+    "question": "Why must approach-control contact not be assumed to satisfy every tower instruction?",
+    "answer": "Services, frequencies, and clearances have distinct purposes. Follow the handoff and operating requirements for the actual airport and airspace.",
+    "source": "FAA AIM, 3-2, Terminal communications",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-059",
+    "category": "airspace",
+    "question": "What does a dashed magenta airport boundary normally depict on a sectional?",
+    "answer": "A Class E surface area. It differs from the shaded magenta transition-area vignette, where Class E begins above the surface.",
+    "source": "FAA AIM, 3-2, Class E chart depiction",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-060",
+    "category": "airspace",
+    "question": "What does a dashed blue boundary normally depict on a sectional?",
+    "answer": "A Class D surface area. Read the associated altitude, hours, and airport information; the line alone does not establish that the tower is open now.",
+    "source": "FAA AIM, 3-2, Class D chart depiction",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-061",
+    "category": "airspace",
+    "question": "Why should an airport’s radio communication outlet information be checked before relying on Flight Service contact?",
+    "answer": "Some outlets use different transmit and receive arrangements or limited coverage. Read the published frequencies and instructions rather than assuming one frequency provides both directions.",
+    "source": "FAA AIM, 4-3, Radio outlets",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-062",
+    "category": "airspace",
+    "question": "Can a UNICOM operator issue an ATC landing clearance?",
+    "answer": "No. UNICOM provides advisory services, not air traffic control. At a non-towered airport, pilots coordinate and follow applicable rules without treating advice as a clearance.",
+    "source": "FAA AIM, 4-3, UNICOM",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-063",
+    "category": "airspace",
+    "question": "How does a CTAF differ from the service name UNICOM?",
+    "answer": "CTAF is the frequency used for airport traffic advisories; UNICOM is an advisory service that may operate on that frequency. A CTAF can also be a tower frequency when the tower is closed.",
+    "source": "FAA AIM, 4-3, Advisory frequencies",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-064",
+    "category": "airspace",
+    "question": "Why should a destination’s automated weather frequency be checked before arrival?",
+    "answer": "It may differ from CTAF, use a telephone or voice outlet, or have limited reporting capabilities. Plan how to obtain current conditions without losing essential communications.",
+    "source": "FAA AIM, 4-3, Airport weather information",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-065",
+    "category": "airspace",
+    "question": "What does prior-permission-required airport status mean for trip planning?",
+    "answer": "Obtain the specified permission before using the airport. A charted runway and suitable weather do not establish public access or permission to land.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-066",
+    "category": "airspace",
+    "question": "Why is a charted fuel symbol insufficient for a fuel-critical diversion?",
+    "answer": "Fuel type, hours, payment arrangements, outages, or staffing may change. Confirm availability when practical and preserve another viable option.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-067",
+    "category": "airspace",
+    "question": "A familiar airport’s runway is closed by NOTAM. Does a clear-looking runway make it usable?",
+    "answer": "No. Verify the closure and any authorized exceptions. Physical appearance or lack of visible work does not cancel a published closure.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-068",
+    "category": "airspace",
+    "question": "Why do airport construction NOTAMs deserve a diagram review?",
+    "answer": "Construction may change taxi routes, runway access, markings, lighting, or available distances. Brief the current configuration instead of relying on memory.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-069",
+    "category": "airspace",
+    "question": "What is an airport hot spot?",
+    "answer": "A location with a history or potential risk of collision or runway incursion requiring heightened attention. Study its specific geometry and instructions before taxi.",
+    "source": "FAA AIM, 4-3, Hot spots",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-070",
+    "category": "airspace",
+    "question": "Why should airport-diagram orientation be compared with the actual aircraft position before taxi?",
+    "answer": "A correctly read diagram can still be followed from the wrong starting point. Confirm ramp exit, compass direction, taxiway identification, and the intended first turn.",
+    "source": "FAA AIM, 4-3, Airport diagrams",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-071",
+    "category": "airspace",
+    "question": "What is the purpose of an ILS critical-area holding position?",
+    "answer": "It protects sensitive ILS signal areas from interference by aircraft or vehicles. Hold there when instructed or required, even though it may be farther from the runway than the normal holding position.",
+    "source": "FAA AIM, 2-3, ILS critical-area markings",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-072",
+    "category": "airspace",
+    "question": "What can a runway-approach holding-position sign protect?",
+    "answer": "The approach or departure airspace of a runway, which can be affected by an aircraft on a taxiway. Comply with the applicable hold instruction rather than assuming no runway crossing means no restriction.",
+    "source": "FAA AIM, 2-3, Approach holding positions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-073",
+    "category": "airspace",
+    "question": "What do runway distance-remaining signs display?",
+    "answer": "The runway remaining in thousands of feet. Use them for awareness, but apply the aircraft’s planned performance and reject criteria rather than improvising a new high-speed decision.",
+    "source": "FAA AIM, 2-3, Distance-remaining signs",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-074",
+    "category": "airspace",
+    "question": "What does a transverse white threshold bar identify?",
+    "answer": "The beginning of the runway portion available for landing in that direction, including a displaced threshold when applicable. Verify the usable landing distance.",
+    "source": "FAA AIM, 2-3, Threshold markings",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-075",
+    "category": "airspace",
+    "question": "Are painted runway aiming-point blocks a command to touch down exactly on them?",
+    "answer": "No. They are visual aiming references. Actual touchdown follows the flare and must remain within the aircraft’s safe, planned landing area.",
+    "source": "FAA AIM, 2-3, Aiming points",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-076",
+    "category": "airspace",
+    "question": "Why must a taxiway centerline leading onto a runway not be treated as an entry authorization?",
+    "answer": "It is alignment guidance only. Required runway-entry or crossing clearance still applies, regardless of where the painted line leads.",
+    "source": "FAA AIM, 2-3, Taxiway markings",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-077",
+    "category": "airspace",
+    "question": "What do dashed lines alongside a taxiway centerline near a runway help signal?",
+    "answer": "An enhanced centerline warns of an upcoming runway holding position. Prepare to identify the runway and stop at the required marking.",
+    "source": "FAA AIM, 2-3, Enhanced taxiway centerlines",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-078",
+    "category": "airspace",
+    "question": "What are airport surface geographic-position markings used for?",
+    "answer": "They identify specific surface locations, often supporting low-visibility taxi procedures. Use the current airport diagram and clearance to determine their operational significance.",
+    "source": "FAA AIM, 2-3, Geographic-position markings",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-079",
+    "category": "airspace",
+    "question": "How should a runway marked with closure Xs be treated?",
+    "answer": "As closed to the indicated use. Confirm airport status and NOTAMs, and do not interpret the markings as optional advice because the pavement looks usable.",
+    "source": "FAA AIM, 2-3, Closed surfaces",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html"
+  },
+  {
+    "id": "AS-080",
+    "category": "airspace",
+    "question": "What runway distance matters when deciding whether to accept a land-and-hold-short clearance?",
+    "answer": "The available landing distance to the designated hold-short point, not the full runway length. Verify the published distance and that aircraft performance, conditions, and proficiency permit stopping within it.",
+    "source": "FAA AIM 4-3-11, Pilot Responsibilities When Conducting Land and Hold Short Operations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html"
+  },
+  {
+    "id": "AS-081",
+    "category": "airspace",
+    "question": "Do extinguished runway status lights mean a pilot has permission to enter or take off?",
+    "answer": "No. They provide an independent warning system, not an ATC clearance. Absence of red lights does not replace the required clearance and visual checks.",
+    "source": "FAA AIM, 2-1, Runway status lights",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-082",
+    "category": "airspace",
+    "question": "What should a pilot do if a red stop bar conflicts with an ATC taxi clearance?",
+    "answer": "Stop and resolve the discrepancy with ATC before proceeding. Do not assume the clearance silently authorizes crossing an illuminated stop bar.",
+    "source": "FAA AIM, 2-1, Stop bars",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-083",
+    "category": "airspace",
+    "question": "What do flashing yellow runway guard lights warn of?",
+    "answer": "A runway holding position is nearby. They improve conspicuity but do not authorize entry or replace signs, markings, and clearances.",
+    "source": "FAA AIM, 2-1, Runway guard lights",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-084",
+    "category": "airspace",
+    "question": "What is the purpose of runway end identifier lights?",
+    "answer": "They help identify the approach end of a runway using synchronized flashing lights. They do not provide lateral or vertical instrument guidance.",
+    "source": "FAA AIM, 2-1, REIL",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-085",
+    "category": "airspace",
+    "question": "What does the transition toward red runway-centerline lights tell a landing pilot?",
+    "answer": "The runway end is approaching. Recognize the color progression as a distance cue while maintaining directional control and the required deceleration.",
+    "source": "FAA AIM, 2-1, Runway centerline lighting",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-086",
+    "category": "airspace",
+    "question": "Why can taxiway centerline lighting change color near protected runway areas?",
+    "answer": "Alternating green and yellow identifies specified protected segments. Interpret it with the airport diagram and holding requirements rather than treating all green-looking lights as unrestricted taxi guidance.",
+    "source": "FAA AIM, 2-1, Taxiway lighting",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-087",
+    "category": "airspace",
+    "question": "What should a pilot verify before keying the microphone to activate airport lighting?",
+    "answer": "The published lighting-control frequency, activation method, availability, and any shared-frequency effects. Confirm the desired runway actually illuminates before relying on it.",
+    "source": "FAA AIM, 2-1, Pilot-controlled lighting",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-088",
+    "category": "airspace",
+    "question": "Does an operating airport beacon during daylight establish that the field is IFR?",
+    "answer": "No. It may indicate lower conditions at some controlled airports, but beacon operation is not a weather report. Obtain current observations and determine the applicable rules.",
+    "source": "FAA AIM, 2-1, Airport beacons",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-089",
+    "category": "airspace",
+    "question": "What does a civil land-airport rotating beacon normally show?",
+    "answer": "Alternating white and green flashes. Use it to help locate the airport, then confirm identity and runway alignment with other references.",
+    "source": "FAA AIM, 2-1, Airport identification",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-090",
+    "category": "airspace",
+    "question": "Why should visual glidepath indications not be followed while far off the runway centerline?",
+    "answer": "Their obstacle-protection coverage has lateral and distance limits. Establish the required visual alignment and check published restrictions before descending on the indication.",
+    "source": "FAA AIM, 2-1, Visual glidepath coverage",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-091",
+    "category": "airspace",
+    "question": "What can the Chart Supplement tell a pilot about a displaced or restricted visual glidepath?",
+    "answer": "It may describe offsets, limited coverage, unusual angles, or obstructions. Familiar red-and-white indications do not guarantee a standard installation.",
+    "source": "FAA AIM, 2-1, Visual aid limitations",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html"
+  },
+  {
+    "id": "AS-092",
+    "category": "airspace",
+    "question": "How does an airport elevation differ from an obstacle height marked AGL?",
+    "answer": "Airport elevation is referenced to mean sea level; AGL height is above local ground. Compare values only after accounting for their reference and location.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-093",
+    "category": "airspace",
+    "question": "Why can an obstacle’s charted MSL elevation matter more than its AGL height along a route?",
+    "answer": "It identifies the obstacle’s top relative to the aircraft’s altitude reference. A short structure on high terrain can be higher MSL than a tall tower on low terrain.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-094",
+    "category": "airspace",
+    "question": "Why should airport runway lengths be confirmed from detailed information rather than estimated from the sectional symbol?",
+    "answer": "A symbol gives an overview and may not show declared distances, closures, slope, or actual usable runway. Use current detailed airport data for performance decisions.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-095",
+    "category": "airspace",
+    "question": "What is the practical difference between airport ownership and public-use status?",
+    "answer": "A privately owned airport can be public use, and ownership alone does not determine access. Check published use restrictions and permission requirements.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-096",
+    "category": "airspace",
+    "question": "Why should an airport’s traffic-pattern altitude be obtained instead of assumed?",
+    "answer": "Published altitudes can vary with aircraft category and local requirements. Use the applicable airport information and maintain separation from other pattern flows.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-097",
+    "category": "airspace",
+    "question": "Why are noise-abatement procedures part of arrival planning?",
+    "answer": "They may affect runway choice, routes, or operating practices. Review them in advance while preserving regulatory compliance, aircraft limitations, and safety.",
+    "source": "FAA Chart Supplement, airport data and local procedures; FAA PHAK chapter 16, chart interpretation",
+    "sourceUrl": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/"
+  },
+  {
+    "id": "AS-098",
+    "category": "airspace",
+    "question": "Why must a stadium or event-related flight restriction be checked separately from permanent charted airspace?",
+    "answer": "Temporary restrictions may apply without appearing as a permanent sectional boundary. Review current applicable restrictions and their exact area, time, altitude, and exceptions.",
+    "source": "FAA AIM, 3-5, Temporary restrictions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html"
+  },
+  {
+    "id": "AS-099",
+    "category": "airspace",
+    "question": "Does receiving flight following automatically authorize entry into every controlled-airspace area along the route?",
+    "answer": "No. The pilot still must meet each area’s clearance or communication requirements. Verify the authorization before crossing a boundary.",
+    "source": "FAA AIM, 3-2, Airspace transitions",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  },
+  {
+    "id": "AS-100",
+    "category": "airspace",
+    "question": "How should a pilot handle a charted airspace boundary whose position cannot be determined confidently?",
+    "answer": "Remain clearly outside with suitable altitude and lateral margins, identify the position using reliable references, or obtain the required authorization. Do not use display precision to conceal uncertainty.",
+    "source": "FAA AIM, 3-2, Boundary uncertainty",
+    "sourceUrl": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html"
+  }
+]

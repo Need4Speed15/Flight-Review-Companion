@@ -1,0 +1,17 @@
+[
+  {
+    "score": 0.62,
+    "ids": [
+      "PD-004",
+      "PD-005"
+    ],
+    "q": [
+      "What is the basic recent-experience rule for carrying passengers by day?",
+      "What extra landing requirement applies to carrying passengers at night?"
+    ],
+    "a": [
+      "Within the preceding 90 days, make at least three takeoffs and three landings as sole manipulator in the same category and class, and type if required. Tailwheel landings must be to a full stop.",
+      "Within the preceding 90 days, make three takeoffs and three landings to a full stop during the period from 1 hour after sunset to 1 hour before sunrise, in the same category and class and type if required."
+    ]
+  }
+]

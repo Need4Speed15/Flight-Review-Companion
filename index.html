@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#07131d">
+  <meta name="description" content="Practice aviation knowledge with 2,245 sourced flashcards: U.S. flight review, IFR, airline operations, weather, aircraft systems, and worked scenarios.">
+  <title>Flight Review Companion</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <div class="shell">
+    <header class="topbar">
+      <button class="brand" id="homeButton" type="button" aria-label="Return to topics">
+        <img class="brand-mark" src="assets/brand/level-flight.svg" width="38" height="38" alt="" aria-hidden="true">
+        <span><b>Flight Review</b><small>Companion</small></span>
+      </button>
+      <div class="top-actions">
+        <span class="review-date">Library updated <time datetime="2026-10-29">Oct 29, 2026</time></span>
+        <button class="quiet-button" id="backupButton" type="button">Study backup</button>
+        <button class="quiet-button" id="inboxButton" type="button" hidden>Report inbox</button>
+        <button class="quiet-button" id="sourcesButton" type="button">Sources &amp; about</button>
+      </div>
+    </header>
+
+    <p id="profileNotice" class="help-copy" role="status">Loading your study profile…</p>
+    <main id="main" tabindex="-1">
+      <section id="topicsView" class="view topics-view" aria-labelledby="pageTitle">
+        <div class="resume-banner" id="resumeBanner" hidden>
+          <div><span class="label">Pick up where you left off</span><strong id="resumeSummary"></strong></div>
+          <button class="primary-button" id="resumeButton" type="button">Resume session →</button>
+        </div>
+        <section class="learning-panel" aria-labelledby="learningTitle">
+          <div class="section-heading"><h2 id="learningTitle">Today’s review</h2><button id="syncButton" type="button" class="quiet-button">Sync &amp; backup</button></div>
+          <p class="help-copy">Build recall over time. Ratings stay with each card across sessions.</p>
+          <div id="learningStats" class="learning-stats" role="status"></div>
+          <div class="learning-actions"><button id="dueButton" class="primary-button" type="button">Study due cards</button><button id="weakButton" class="secondary-button" type="button">Practice difficult cards</button><button id="newCardsButton" class="secondary-button" type="button">Try 20 new cards</button></div>
+          <details class="schedule-help"><summary>How review timing works</summary><p>“Review again” brings a card back in 10 minutes. Successful recalls on separate days extend the interval to 1, 3, 7, 14, then 30 days. Repeated ratings in one day do not increase the interval. These are self-ratings, not evidence of proficiency.</p></details>
+        </section>
+        <details id="introDetails" class="intro-details" open><summary>Getting started &amp; starter mixes</summary>
+        <div class="intro-grid">
+          <div>
+            <p class="eyebrow"><span aria-hidden="true"></span> Preflight your knowledge</p>
+            <h1 id="pageTitle">Your next flight.<br><em>Better prepared.</em></h1>
+          </div>
+          <div class="intro-copy">
+            <p>Build knowledge you can use in the cockpit. Practice U.S. flight-review essentials, IFR, and professional operations with source-linked questions.</p>
+            <p class="disclaimer-short"><strong>Study aid only.</strong> Your instructor, current rules, and the specific aircraft’s documents always control.</p>
+          </div>
+        </div>
+
+        <section class="getting-started" aria-labelledby="gettingStartedTitle">
+          <div class="section-heading"><h2 id="gettingStartedTitle">A focused place to start</h2><span id="librarySummary"></span></div>
+          <p class="help-copy">Choose a starter mix, adjust the quantities, then study. Explain each answer before revealing it; use “Review again” for anything you cannot apply yet.</p>
+          <div class="starter-grid">
+            <button class="starter-card" id="starterVfr" type="button"><span class="label">20 questions</span><strong>Flight review warm-up <span aria-hidden="true">↗</span></strong><span>Rules, weather, aircraft readiness &amp; decisions</span></button>
+            <button class="starter-card" id="starterIfr" type="button"><span class="label">25 questions</span><strong>IFR refresher <span aria-hidden="true">↗</span></strong><span>Procedures, weather &amp; communications</span></button>
+            <button class="starter-card" id="starterAirline" type="button"><span class="label">25 questions</span><strong>Airline operations <span aria-hidden="true">↗</span></strong><span>Part 121, ramp safety &amp; dangerous goods</span></button>
+          </div>
+
+        </section>
+
+        </details>
+          <form id="librarySearchForm" class="library-search" role="search">
+            <label for="librarySearch">Find something in the whole library</label>
+            <div class="search-row"><input id="librarySearch" type="search" placeholder="Try alternate, icing, or a card ID" autocomplete="off"><button class="secondary-button" type="submit">Search all cards</button></div>
+          </form>
+        <div class="selection-bar">
+          <div>
+            <span class="label">Study plan</span>
+            <strong id="selectionSummary" role="status">No topics selected</strong>
+          </div>
+          <div class="selection-actions">
+            <button class="text-button" id="selectAllButton" type="button">Select all</button>
+            <button class="text-button" id="clearButton" type="button">Clear</button>
+            <button class="secondary-button" id="customStudyButton" type="button">Custom Study</button>
+            <button class="secondary-button" id="inspectButton" type="button" disabled>Inspect 0 cards</button>
+            <button class="primary-button" id="startButton" type="button" disabled>Study 0 cards <span aria-hidden="true">→</span></button>
+            <button class="secondary-button" id="bookmarksButton" type="button" disabled><span aria-hidden="true">☆</span> Study bookmarks <span id="bookmarkCount">0</span></button>
+            <button class="secondary-button flag-review-button" id="flagsButton" type="button" disabled><span aria-hidden="true">⚑</span> Review flags <span id="flagCount">0</span></button>
+          </div>
+        </div>
+
+        <div class="library-heading"><h2>Build your own study plan</h2><p class="help-copy">Select one or more topics below. Inspect lets you scan questions and sources before studying.</p></div>
+        <div class="library-filters"><label for="topicGroup">Topic group<select id="topicGroup"><option value="all">All groups</option><option value="foundation">Flight review foundations</option><option value="ifr">Instrument / IFR</option><option value="professional">Professional operations</option><option value="aircraft">Aircraft specific</option><option value="practice">Practical scenarios</option></select></label><label for="topicSearch">Find a topic<input id="topicSearch" type="search" placeholder="Weather, aircraft systems…"></label><span id="topicFilterStatus" role="status"></span></div>
+        <div class="session-options"><label for="studyOrder">Order<select id="studyOrder"><option value="shuffle">Shuffle</option><option value="ordered">In order</option></select></label><label for="studyLimit">Session size<select id="studyLimit"><option value="20">20 cards</option><option value="10">10 cards</option><option value="50">50 cards</option><option value="all">All selected cards</option></select></label><label for="studySubtopic">Focus<select id="studySubtopic" class="subtopic-select"><option value="all">All subtopics</option></select></label></div>
+        <p class="help-copy">Order, size, and focus apply to topic and bookmark sessions. Group filtering hides topics without clearing your selections.</p>
+        <fieldset class="topic-fieldset">
+          <legend class="sr-only">Choose study topics</legend>
+          <div id="categoryGrid" class="category-grid"></div>
+        </fieldset>
+      </section>
+
+      <section id="customView" class="view custom-view" hidden aria-labelledby="customTitle">
+        <div class="custom-header">
+          <button class="back-button" id="customBackButton" type="button"><span aria-hidden="true">←</span> Topics</button>
+          <div class="custom-context">
+            <span>Build a focused session</span>
+            <strong id="customTotal">0 cards selected</strong>
+          </div>
+        </div>
+        <div class="custom-intro">
+          <div>
+            <p class="eyebrow"><span aria-hidden="true"></span> Choose your mix</p>
+            <h2 id="customTitle">Custom Study</h2>
+          </div>
+          <p>Enter how many questions you want from each category. Your session will draw that many at random, without repeating a card.</p>
+        </div>
+        <div class="saved-mixes"><label for="mixName">Save this mix<input id="mixName" maxlength="60" placeholder="My weekly IFR review"></label><button id="saveMixButton" class="secondary-button" type="button">Save mix</button><label for="savedMix">Your saved mixes<select id="savedMix"><option value="">Choose a mix</option></select></label><button id="loadMixButton" class="secondary-button" type="button">Load</button><button id="deleteMixButton" class="text-button" type="button">Remove mix</button><p id="mixStatus" role="status"></p></div>
+        <form id="customStudyForm" novalidate>
+          <div class="custom-panel">
+            <div class="custom-panel-heading" aria-hidden="true">
+              <span>Category</span>
+              <span>Available</span>
+              <span>Questions</span>
+            </div>
+            <div id="customCategoryList" class="custom-category-list"></div>
+          </div>
+          <p id="customError" class="custom-error" role="alert" hidden>Use a whole number from 0 through the maximum shown for each category.</p>
+          <div class="custom-actions">
+            <button class="text-button" id="clearCustomButton" type="button">Clear quantities</button>
+            <button class="primary-button" id="startCustomButton" type="submit" disabled>Study 0 cards <span aria-hidden="true">→</span></button>
+          </div>
+        </form>
+      </section>
+
+      <section id="inspectView" class="view inspect-view" hidden aria-labelledby="inspectTitle">
+        <div class="inspect-header">
+          <button class="back-button" id="inspectBackButton" type="button"><span aria-hidden="true">←</span> Topics</button>
+          <div class="inspect-context">
+            <span id="inspectScopeLabel">Selected topics</span>
+            <strong id="inspectSummary">0 questions</strong>
+          </div>
+        </div>
+        <div class="inspect-intro">
+          <div>
+            <p class="eyebrow"><span aria-hidden="true"></span> Quick scan</p>
+            <h2 id="inspectTitle">Inspect questions</h2>
+          </div>
+          <p>Scan questions and sources, bookmark useful cards, or flag a card to check or suggest a correction.</p>
+        </div>
+        <div class="inspect-actions">
+          <span id="inspectFlagSummary">0 cards flagged for removal</span>
+          <button class="secondary-button" id="flagVisibleButton" type="button"><span aria-hidden="true">⚑</span> Flag all visible</button>
+        </div>
+        <div id="bulkUndo" class="undo-notice" hidden><span id="bulkUndoText"></span><button id="undoFlagsButton" class="text-button" type="button">Undo</button></div>
+        <div class="inspect-search">
+          <div class="inspect-filters"><label for="inspectScope">Search in <select id="inspectScope"><option value="selected">Selected topics</option><option value="all">Whole library</option></select></label><label for="inspectFilter">Show <select id="inspectFilter"><option value="all">All cards</option><option value="bookmarked">Bookmarked cards</option><option value="flagged">Flagged cards</option></select></label></div>
+          <label for="inspectSubtopic">Focus <select id="inspectSubtopic" class="subtopic-select"><option value="all">All subtopics</option></select></label><label for="inspectSearch">Find a card</label>
+          <div class="search-row"><input id="inspectSearch" type="search" placeholder="Search questions, answers, or card IDs" autocomplete="off"><button id="clearSearchButton" class="secondary-button" type="button">Clear search</button></div>
+          <p id="inspectResults" role="status"></p>
+        </div>
+        <p id="inspectEmpty" class="flags-empty" hidden>No matching cards. Try another term or clear the search.</p>
+        <div id="inspectList" class="inspect-list"></div>
+      </section>
+
+      <section id="flagsView" class="view flags-view" hidden aria-labelledby="flagsTitle">
+        <div class="inspect-header">
+          <button class="back-button" id="flagsBackButton" type="button"><span aria-hidden="true">←</span> Topics</button>
+          <div class="inspect-context">
+            <span>Saved on this device</span>
+            <strong id="flagsSummary">0 cards flagged</strong>
+          </div>
+        </div>
+        <div class="inspect-intro flags-intro">
+          <div>
+            <p class="eyebrow"><span aria-hidden="true"></span> Your review list</p>
+            <h2 id="flagsTitle">Review flags</h2>
+          </div>
+          <p>Flags are private study notes (synced only if you enable it). Use them for questions to verify, corrections, or removal suggestions. Use a card’s “Suggest a correction” button to send feedback to the site owner. Flagging alone sends nothing.</p>
+        </div>
+        <div class="flags-actions">
+          <button class="primary-button" id="copyFlagIdsButton" type="button">Copy flagged IDs</button>
+          <button class="secondary-button" id="copyFlagReportButton" type="button">Copy review report</button>
+          <button class="secondary-button danger-button" id="clearFlagsButton" type="button">Clear all flags</button>
+        </div>
+        <p id="flagsEmpty" class="flags-empty" hidden>No cards are flagged for review.</p>
+        <p id="flagCopyStatus" role="status"></p>
+        <div id="flagReportFallback" hidden><label for="flagReportText">Copy your report manually</label><textarea id="flagReportText" rows="8" readonly></textarea></div>
+        <div id="flagsList" class="inspect-list"></div>
+      </section>
+
+      <section id="studyView" class="view study-view" hidden aria-labelledby="studyHeading">
+        <div class="study-header">
+          <button class="back-button" id="backButton" type="button"><span aria-hidden="true">←</span> Topics</button>
+          <div class="study-context">
+            <span id="studySetLabel">Selected topics</span>
+            <strong id="positionLabel">1 / 1</strong>
+          </div>
+        </div>
+
+        <h2 id="studyHeading" class="sr-only">Study session</h2>
+        <p id="aircraftNotice" class="aircraft-notice" hidden>Aircraft-specific reference: CTLS cards use the archived 2009 Rev. 8 AOI. Confirm every limit and procedure against the current documents for your aircraft.</p>
+        <div class="card-stage">
+          <article class="flashcard" id="flashcard" aria-label="Study card">
+            <div class="card-face card-front">
+              <span class="card-topline"><span id="frontCategory"></span><span id="frontId"></span></span>
+              <span class="prompt-label">Question</span>
+              <span class="card-copy" id="questionText"></span><figure id="practiceFigure" class="practice-figure" hidden><img id="practiceImage" alt=""><figcaption>Illustrative training example. Not for operational use.</figcaption></figure>
+              <button id="cardRevealButton" class="card-reveal" type="button">Reveal answer <span aria-hidden="true">↻</span></button>
+            </div>
+            <div class="card-face card-back" hidden>
+              <span class="card-topline"><span id="backCategory"></span><span id="backId"></span></span>
+              <span class="prompt-label answer-label">Answer</span>
+              <span class="card-copy answer-copy" id="answerText"></span>
+              <span class="source-line" id="sourceLine"></span><span id="sourceReview" class="source-review"></span>
+            </div>
+          </article>
+        </div>
+
+        <div class="review-rating" aria-label="Rate your recall">
+          <span id="reviewProgress" role="status"></span>
+          <div><button id="againButton" class="secondary-button" type="button" disabled>↻ Review again</button><button id="knownButton" class="secondary-button" type="button" disabled>✓ Know it</button></div>
+        </div>
+
+        <div class="study-controls" aria-label="Study controls">
+          <button id="prevButton" type="button"><span aria-hidden="true">←</span> Previous</button>
+          <button id="flipButton" class="primary-button" type="button">Reveal answer</button>
+          <button id="bookmarkButton" type="button" aria-pressed="false"><span aria-hidden="true">☆</span> Bookmark</button>
+          <button id="flagButton" class="flag-button" type="button" aria-pressed="false"><span aria-hidden="true">⚑</span> Flag for review</button>
+          <button id="nextButton" type="button">Next <span aria-hidden="true">→</span></button>
+        </div>
+        <div class="card-secondary-actions"><button id="shareCardButton" class="text-button" type="button">Copy card link</button><button id="reportCardButton" class="text-button" type="button">Suggest a correction</button><span id="shareStatus" role="status"></span></div>
+        <p class="shortcut-note">Keyboard: <kbd>←</kbd><kbd>→</kbd> navigate · <kbd>B</kbd> bookmark · <kbd>F</kbd> flag · <kbd>Space</kbd> reveal. Progress saves on this device.</p>
+      </section>
+
+      <section id="completeView" class="view complete-view" hidden aria-labelledby="completeTitle">
+        <div class="completion-ring" aria-hidden="true"><span>✓</span></div>
+        <p class="eyebrow"><span aria-hidden="true"></span> Session complete</p>
+        <h2 id="completeTitle">Session finished.</h2>
+        <p id="completeSummary">You reached the end of this study set.</p>
+        <div class="completion-actions">
+          <button class="primary-button" id="restartButton" type="button">Restart this set</button>
+          <button class="secondary-button" id="reviewAgainButton" type="button">Study review-again cards</button>
+          <button class="secondary-button" id="unseenButton" type="button">Study unrevealed cards</button>
+          <button class="secondary-button" id="completeBookmarksButton" type="button">Study bookmarks</button>
+          <button class="text-button" id="chooseTopicsButton" type="button">Choose topics</button>
+        </div>
+      </section>
+      <div id="liveStatus" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+      <p id="saveNotice" class="save-notice" role="status" hidden>Saving is unavailable in this browser. Export a study backup before leaving to keep your progress.</p>
+    </main>
+
+    <footer>
+      <p>Educational study aid only. Verify against current FAA regulations and publications, the aircraft’s current operating documents, supplements and placards, and a qualified flight instructor.</p>
+      <p>Study locally or enable optional account sync. Backups remain available. Independent study resource; not affiliated with or approved by the FAA or an aircraft manufacturer.</p>
+    </footer>
+  </div>
+
+  <dialog id="sourcesDialog" aria-labelledby="sourcesTitle">
+    <div class="dialog-header">
+      <div><p class="eyebrow"><span aria-hidden="true"></span> Audit trail</p><h2 id="sourcesTitle">Sources &amp; about</h2></div>
+      <button id="closeSourcesButton" class="icon-button" type="button" aria-label="Close sources">×</button>
+    </div>
+    <div class="dialog-body">
+      <h3>How to use this library</h3>
+      <p>These concise questions support recall and discussion, primarily under U.S. rules. Try explaining a scenario in your own words, then check the linked source. “Know it” is a self-rating, not proof of proficiency. A starter mix is a sample, not a complete syllabus.</p>
+      <h3>Sources and scope</h3>
+      <p>Source links open in a new tab. Regulations, authorizations, and aircraft procedures can change. The library update date records an editorial release, not a guarantee that every linked source or answer was revalidated that day. Regional, operator, and aircraft-specific guidance is not universal.</p>
+      <p>CTLS cards use the archived manufacturer AOI, AF 043 00005 Rev. 8 (2009). Aircraft serial-number applicability and current supplements have not been verified. Use your current aircraft documents, supplements, and placards for actual operation.</p>
+      <h3>Your study data</h3>
+      <p>Study data saves in this browser. Optional account sync sends your session, recall history, bookmarks, flags, and saved mixes to storage tied to your signed-in account. It stays separate from other learners. Sync is off until enabled on this device. Turning it off stops syncing but keeps the saved cloud copy. Clearing browser data can erase unsynced progress. The hosting service handles any sign-in and its own service data; source links lead to external websites.</p>
+      <h3>Found a questionable card?</h3>
+      <p>Use “Suggest a correction” on a card to send the card ID and your explanation to the owner’s report inbox. Sign-in is required. You can also keep private review flags or copy a report. Flagging alone does not notify anyone.</p>
+      <div id="sourcesList" class="sources-list"></div>
+      <aside class="caution-note"><strong>Two different events:</strong> a flight review under § 61.56 does not itself restore instrument currency or satisfy an IPC. IFR cards here are supplemental.</aside>
+    </div>
+  </dialog>
+
+  <dialog id="backupDialog" aria-labelledby="backupTitle">
+    <div class="dialog-header"><div><p class="eyebrow">Take your progress with you</p><h2 id="backupTitle">Study backup</h2></div><button id="closeBackupButton" class="icon-button" type="button" aria-label="Close study backup">×</button></div>
+    <div class="dialog-body">
+      <p>Progress saves in this browser. Optional account sync is available through Sync & backup.</p>
+      <p>Export a backup and transfer the file to your phone or computer. Import merges bookmarks, flags, learning history, and saved mixes. Your session and study selections are replaced only if you check the restore option.</p>
+      <button id="exportBackupButton" class="primary-button" type="button">↓ Export study backup</button>
+      <div class="backup-import"><label for="importBackupInput">Import a study backup</label><input id="importBackupInput" type="file" accept=".json,application/json"></div>
+      <div id="backupPreview" class="backup-preview" hidden><p id="backupPreviewSummary"></p><label><input id="restoreBackupSession" type="checkbox"> Also replace my saved session and study selections</label><div class="dialog-actions"><button id="confirmBackupImport" class="primary-button" type="button">Import backup</button><button id="cancelBackupImport" class="secondary-button" type="button">Cancel</button></div></div>
+      <p id="backupStatus" role="status"></p>
+    </div>
+  </dialog>
+
+  <dialog id="newSessionDialog" aria-labelledby="newSessionTitle">
+    <div class="dialog-header"><h2 id="newSessionTitle">Start a new session?</h2></div>
+    <div class="dialog-body"><p id="newSessionSummary"></p><p>Your bookmarks and flags stay saved. Export a backup first if you want to keep the current session for later.</p><div class="dialog-actions"><button id="confirmNewSession" class="primary-button" type="button">Start new session</button><button id="cancelNewSession" class="secondary-button" type="button">Keep current session</button><button id="backupBeforeNewSession" class="text-button" type="button">Export current session</button></div></div>
+  </dialog>
+
+  <dialog id="syncDialog" aria-labelledby="syncTitle"><div class="dialog-header"><h2 id="syncTitle">Sync &amp; backup</h2><button id="closeSyncButton" class="icon-button" aria-label="Close sync" type="button">×</button></div><div class="dialog-body"><p id="syncIdentity">Checking account…</p><p>Optional sync saves your study history, bookmarks, flags, mixes, and current session to your account. Enable it on each device. Your latest session is shared across devices; it is separate from other people’s data.</p><p id="syncStatus" role="status"></p><a id="syncSignIn" href="/signin-with-chatgpt?return_to=/" target="_top" hidden>Sign in to sync</a><div class="dialog-actions"><button id="enableSyncButton" class="primary-button" type="button">Enable sync on this device</button><button id="syncNowButton" class="secondary-button" type="button">Sync now</button><button id="disableSyncButton" class="text-button" type="button">Turn off sync here</button><button id="syncBackupButton" class="secondary-button" type="button">Export / import backup</button></div><p class="help-copy">Turning sync off leaves your cloud copy intact. Offline changes will sync when you reconnect with sync enabled.</p></div></dialog>
+  <dialog id="reportDialog" aria-labelledby="reportTitle"><div class="dialog-header"><h2 id="reportTitle">Suggest a correction</h2><button id="closeReportButton" class="icon-button" aria-label="Close correction report" type="button">×</button></div><form id="reportForm" class="dialog-body"><p id="reportCardSummary"></p><label for="reportConcern">What needs correcting?</label><textarea id="reportConcern" rows="5" minlength="10" maxlength="4000" required placeholder="Explain the issue and include a current reference if you have one."></textarea><p class="help-copy">This sends the card ID and your explanation to the site owner. Include no private medical or flight information.</p><p id="reportStatus" role="status"></p><a id="reportSignIn" href="/signin-with-chatgpt?return_to=/" target="_top" hidden>Sign in to send feedback</a><button id="submitReportButton" class="primary-button" type="submit">Send correction report</button></form></dialog>
+  <dialog id="inboxDialog" aria-labelledby="inboxTitle"><div class="dialog-header"><h2 id="inboxTitle">Correction reports</h2><button id="closeInboxButton" class="icon-button" aria-label="Close report inbox" type="button">×</button></div><div class="dialog-body"><p id="inboxStatus" role="status"></p><div id="inboxList"></div></div></dialog>
+  <noscript><p class="save-notice">JavaScript is required to load and study the flashcards. Enable it, then reload this page.</p></noscript>
+
+  <script src="cards.js"></script>
+  <script src="source-enhancements.js"></script>
+  <script src="study-store.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

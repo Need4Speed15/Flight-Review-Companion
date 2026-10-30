@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+<title id="title">Fictional LNAV stepdown profile</title><desc id="desc">Training-only schematic, not a navigation chart. Aircraft one mile before STEP. Minimum 1300 feet MSL before STEP; after STEP, MDA 900 feet MSL toward MAP. Advisory guidance cannot cancel the restriction.</desc>
+<rect width="720" height="390" rx="20" fill="#102738"/><g font-family="Arial,sans-serif"><text x="28" y="38" fill="#80d2cc" font-size="15" font-weight="700">TRAINING ONLY · FICTIONAL LNAV · NOT FOR NAVIGATION</text>
+<text x="28" y="77" fill="#c5d2dc" font-size="20">Simplified profile · not to scale · altitudes MSL</text>
+<path d="M50 207H420V290H660" stroke="#80d2cc" stroke-width="5" fill="none"/><path d="M420 110V323M640 200V323" stroke="#697f8e" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="45" y="193" fill="#fff" font-size="24">1,300 ft minimum</text><text x="438" y="278" fill="#fff" font-size="24">900 ft MDA</text>
+<path d="M200 134h55m0 0-15-10m15 10-15 10" fill="none" stroke="#fff" stroke-width="5"/><text x="48" y="116" fill="#fff" font-size="20">You: 1 NM before STEP</text>
+<g fill="#fff" font-size="22"><text x="392" y="350">STEP</text><text x="615" y="350">MAP</text></g><text x="28" y="377" fill="#c5d2dc" font-size="16">Only the altitude relationship is shown; this is not a complete procedure.</text></g></svg>
