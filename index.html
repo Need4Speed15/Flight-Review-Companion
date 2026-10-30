@@ -18,79 +18,84 @@
         <span><b>Flight Review</b><small>Companion</small></span>
       </button>
       <div class="top-actions">
-        <span class="review-date">Library updated <time datetime="2026-10-29">Oct 29, 2026</time></span>
-        <button class="quiet-button" id="backupButton" type="button">Study backup</button>
-        <button class="quiet-button" id="inboxButton" type="button" hidden>Report inbox</button>
-        <button class="quiet-button" id="sourcesButton" type="button">Sources &amp; about</button>
+        <details id="toolsMenu" class="tools-menu">
+          <summary>Study tools</summary>
+          <div class="tools-popover">
+            <form id="librarySearchForm" class="library-search" role="search">
+              <label for="librarySearch">Find a card</label>
+              <div class="search-row"><input id="librarySearch" type="search" placeholder="Question, keyword, or card ID" autocomplete="off"><button class="secondary-button" type="submit">Search</button></div>
+            </form>
+            <div class="tools-links">
+              <button class="quiet-button" id="bookmarksButton" type="button" disabled><span aria-hidden="true">☆</span> Study bookmarks <span id="bookmarkCount">0</span></button>
+              <button class="quiet-button" id="flagsButton" type="button" disabled><span aria-hidden="true">⚑</span> Review flags <span id="flagCount">0</span></button>
+              <button class="quiet-button" id="syncButton" type="button">Sync &amp; backup</button>
+              <button class="quiet-button" id="backupButton" type="button">Export / import backup</button>
+              <button class="quiet-button" id="inboxButton" type="button" hidden>Report inbox</button>
+              <button class="quiet-button" id="sourcesButton" type="button">Sources &amp; about</button>
+            </div>
+            <span class="review-date">Library updated <time datetime="2026-10-29">Oct 29, 2026</time></span>
+          </div>
+        </details>
       </div>
     </header>
 
     <p id="profileNotice" class="help-copy" role="status">Loading your study profile…</p>
     <main id="main" tabindex="-1">
       <section id="topicsView" class="view topics-view" aria-labelledby="pageTitle">
+        <div class="home-intro">
+          <div><h1 id="pageTitle">What will you review today?</h1><p>Choose your topics and start a focused study session.</p></div>
+          <span id="librarySummary"></span>
+        </div>
         <div class="resume-banner" id="resumeBanner" hidden>
-          <div><span class="label">Pick up where you left off</span><strong id="resumeSummary"></strong></div>
+          <div><span class="label">Continue studying</span><strong id="resumeSummary"></strong></div>
           <button class="primary-button" id="resumeButton" type="button">Resume session →</button>
         </div>
-        <section class="learning-panel" aria-labelledby="learningTitle">
-          <div class="section-heading"><h2 id="learningTitle">Today’s review</h2><button id="syncButton" type="button" class="quiet-button">Sync &amp; backup</button></div>
-          <p class="help-copy">Build recall over time. Ratings stay with each card across sessions.</p>
-          <div id="learningStats" class="learning-stats" role="status"></div>
-          <div class="learning-actions"><button id="dueButton" class="primary-button" type="button">Study due cards</button><button id="weakButton" class="secondary-button" type="button">Practice difficult cards</button><button id="newCardsButton" class="secondary-button" type="button">Try 20 new cards</button></div>
-          <details class="schedule-help"><summary>How review timing works</summary><p>“Review again” brings a card back in 10 minutes. Successful recalls on separate days extend the interval to 1, 3, 7, 14, then 30 days. Repeated ratings in one day do not increase the interval. These are self-ratings, not evidence of proficiency.</p></details>
-        </section>
-        <details id="introDetails" class="intro-details" open><summary>Getting started &amp; starter mixes</summary>
-        <div class="intro-grid">
-          <div>
-            <p class="eyebrow"><span aria-hidden="true"></span> Preflight your knowledge</p>
-            <h1 id="pageTitle">Your next flight.<br><em>Better prepared.</em></h1>
-          </div>
-          <div class="intro-copy">
-            <p>Build knowledge you can use in the cockpit. Practice U.S. flight-review essentials, IFR, and professional operations with source-linked questions.</p>
-            <p class="disclaimer-short"><strong>Study aid only.</strong> Your instructor, current rules, and the specific aircraft’s documents always control.</p>
-          </div>
+        <div class="home-disclosures">
+          <details id="introDetails" class="intro-details">
+            <summary>Need a starting point?</summary>
+            <section class="getting-started" aria-labelledby="gettingStartedTitle">
+              <h2 id="gettingStartedTitle" class="sr-only">Starter mixes</h2>
+              <p class="help-copy">Choose a mix, adjust the quantities, and start.</p>
+              <div class="starter-grid">
+                <button class="starter-card" id="starterVfr" type="button"><span class="label">20 cards</span><strong>Flight review warm-up <span aria-hidden="true">↗</span></strong></button>
+                <button class="starter-card" id="starterIfr" type="button"><span class="label">25 cards</span><strong>IFR refresher <span aria-hidden="true">↗</span></strong></button>
+                <button class="starter-card" id="starterAirline" type="button"><span class="label">25 cards</span><strong>Airline operations <span aria-hidden="true">↗</span></strong></button>
+              </div>
+            </section>
+          </details>
+          <details id="reviewDetails" class="review-details">
+            <summary>Review queue <span id="reviewQueueSummary"></span></summary>
+            <section class="learning-panel" aria-labelledby="learningTitle">
+              <h2 id="learningTitle" class="sr-only">Your review queue</h2>
+              <div id="learningStats" class="learning-stats" role="status"></div>
+              <div class="learning-actions"><button id="dueButton" class="primary-button" type="button">Study due cards</button><button id="weakButton" class="secondary-button" type="button">Practice difficult cards</button><button id="newCardsButton" class="secondary-button" type="button">Try 20 new cards</button></div>
+              <details class="schedule-help"><summary>How review timing works</summary><p>“Review again” brings a card back in 10 minutes. Successful recalls on separate days extend the interval to 1, 3, 7, 14, then 30 days. Repeated ratings in one day do not increase the interval. These are self-ratings, not evidence of proficiency.</p></details>
+            </section>
+          </details>
         </div>
-
-        <section class="getting-started" aria-labelledby="gettingStartedTitle">
-          <div class="section-heading"><h2 id="gettingStartedTitle">A focused place to start</h2><span id="librarySummary"></span></div>
-          <p class="help-copy">Choose a starter mix, adjust the quantities, then study. Explain each answer before revealing it; use “Review again” for anything you cannot apply yet.</p>
-          <div class="starter-grid">
-            <button class="starter-card" id="starterVfr" type="button"><span class="label">20 questions</span><strong>Flight review warm-up <span aria-hidden="true">↗</span></strong><span>Rules, weather, aircraft readiness &amp; decisions</span></button>
-            <button class="starter-card" id="starterIfr" type="button"><span class="label">25 questions</span><strong>IFR refresher <span aria-hidden="true">↗</span></strong><span>Procedures, weather &amp; communications</span></button>
-            <button class="starter-card" id="starterAirline" type="button"><span class="label">25 questions</span><strong>Airline operations <span aria-hidden="true">↗</span></strong><span>Part 121, ramp safety &amp; dangerous goods</span></button>
-          </div>
-
-        </section>
-
-        </details>
-          <form id="librarySearchForm" class="library-search" role="search">
-            <label for="librarySearch">Find something in the whole library</label>
-            <div class="search-row"><input id="librarySearch" type="search" placeholder="Try alternate, icing, or a card ID" autocomplete="off"><button class="secondary-button" type="submit">Search all cards</button></div>
-          </form>
+        <div class="library-filters">
+          <label for="topicGroup">Topic group<select id="topicGroup"><option value="all">All groups</option><option value="foundation">Flight review foundations</option><option value="ifr">Instrument / IFR</option><option value="professional">Professional operations</option><option value="aircraft">Aircraft specific</option><option value="practice">Practical scenarios</option></select></label>
+          <label for="topicSearch">Find a topic<input id="topicSearch" type="search" placeholder="Weather, aircraft systems…"></label>
+          <span id="topicFilterStatus" role="status"></span>
+        </div>
+        <div class="topic-utilities">
+          <div><button class="text-button" id="selectAllButton" type="button">Select all</button><button class="text-button" id="clearButton" type="button">Clear</button></div>
+          <details id="sessionOptions" class="session-settings">
+            <summary>Session options <span id="sessionOptionsState"></span></summary>
+            <div class="session-options"><label for="studyOrder">Order<select id="studyOrder"><option value="shuffle">Shuffle</option><option value="ordered">In order</option></select></label><label for="studyLimit">Session size<select id="studyLimit"><option value="20">20 cards</option><option value="10">10 cards</option><option value="50">50 cards</option><option value="all">All selected cards</option></select></label><label for="studySubtopic">Focus<select id="studySubtopic" class="subtopic-select"><option value="all">All subtopics</option></select></label></div>
+            <p class="help-copy">Applies to topic and bookmark sessions. Custom Study uses your chosen quantities.</p>
+          </details>
+        </div>
         <div class="selection-bar">
-          <div>
-            <span class="label">Study plan</span>
-            <strong id="selectionSummary" role="status">No topics selected</strong>
-          </div>
+          <div><strong id="selectionSummary" role="status">Select a topic to begin</strong></div>
           <div class="selection-actions">
-            <button class="text-button" id="selectAllButton" type="button">Select all</button>
-            <button class="text-button" id="clearButton" type="button">Clear</button>
-            <button class="secondary-button" id="customStudyButton" type="button">Custom Study</button>
+            <button class="text-button" id="customStudyButton" type="button">Custom Study</button>
             <button class="secondary-button" id="inspectButton" type="button" disabled>Inspect 0 cards</button>
             <button class="primary-button" id="startButton" type="button" disabled>Study 0 cards <span aria-hidden="true">→</span></button>
-            <button class="secondary-button" id="bookmarksButton" type="button" disabled><span aria-hidden="true">☆</span> Study bookmarks <span id="bookmarkCount">0</span></button>
-            <button class="secondary-button flag-review-button" id="flagsButton" type="button" disabled><span aria-hidden="true">⚑</span> Review flags <span id="flagCount">0</span></button>
           </div>
         </div>
-
-        <div class="library-heading"><h2>Build your own study plan</h2><p class="help-copy">Select one or more topics below. Inspect lets you scan questions and sources before studying.</p></div>
-        <div class="library-filters"><label for="topicGroup">Topic group<select id="topicGroup"><option value="all">All groups</option><option value="foundation">Flight review foundations</option><option value="ifr">Instrument / IFR</option><option value="professional">Professional operations</option><option value="aircraft">Aircraft specific</option><option value="practice">Practical scenarios</option></select></label><label for="topicSearch">Find a topic<input id="topicSearch" type="search" placeholder="Weather, aircraft systems…"></label><span id="topicFilterStatus" role="status"></span></div>
-        <div class="session-options"><label for="studyOrder">Order<select id="studyOrder"><option value="shuffle">Shuffle</option><option value="ordered">In order</option></select></label><label for="studyLimit">Session size<select id="studyLimit"><option value="20">20 cards</option><option value="10">10 cards</option><option value="50">50 cards</option><option value="all">All selected cards</option></select></label><label for="studySubtopic">Focus<select id="studySubtopic" class="subtopic-select"><option value="all">All subtopics</option></select></label></div>
-        <p class="help-copy">Order, size, and focus apply to topic and bookmark sessions. Group filtering hides topics without clearing your selections.</p>
-        <fieldset class="topic-fieldset">
-          <legend class="sr-only">Choose study topics</legend>
-          <div id="categoryGrid" class="category-grid"></div>
-        </fieldset>
+        <fieldset class="topic-fieldset"><legend class="sr-only">Choose study topics</legend><div id="categoryGrid" class="category-grid"></div></fieldset>
+        <p class="home-study-note">Study aid only. Check current sources and your aircraft’s operating documents.</p>
       </section>
 
       <section id="customView" class="view custom-view" hidden aria-labelledby="customTitle">

@@ -23,6 +23,7 @@
   let identity = null, syncBusy = false, syncTimer = null, syncAgain = false;
   let reportCardId = null;
   let restoringInspect = false;
+  let toolsDialogReturn = false;
   let introState = $('introDetails').open;
 
   function writeSaved(key, value) {
@@ -38,7 +39,7 @@
       const n = Number(input.value);
       if (Number.isInteger(n) && n >= 0 && n <= Number(input.max)) custom[input.dataset.category] = n;
     });
-    return { selected: [...state.selected], custom, order: $('studyOrder').value, limit: $('studyLimit').value, subtopic: $('studySubtopic').value, introOpen: $('introDetails').open }; 
+    return { selected: [...state.selected], custom, order: $('studyOrder').value, limit: $('studyLimit').value, subtopic: $('studySubtopic').value, introOpenCompact: $('introDetails').open };
   }
   function refreshResume() {
     $('resumeBanner').hidden = !state.session.length;
@@ -59,7 +60,7 @@
     $('studyOrder').value = preferences.order === 'ordered' ? 'ordered' : 'shuffle';
     $('studyLimit').value = ['10','20','50','all'].includes(preferences.limit) ? preferences.limit : '20';
     $('studySubtopic').value = SUBTOPICS.some(t=>t.id===preferences.subtopic) ? preferences.subtopic : 'all';
-    $('introDetails').open = preferences.introOpen !== false;
+    $('introDetails').open = preferences.introOpenCompact === true;
     introState = $('introDetails').open;
     state.selected = new Set((Array.isArray(preferences.selected) ? preferences.selected : []).filter(id => categories.some(c => c.id === id)));
     document.querySelectorAll('.category-card input').forEach(input => { input.checked = state.selected.has(input.value); });
@@ -334,7 +335,12 @@
   function updateSelection() {
     const selectedCards = selectedPool();
     document.body.classList.toggle('has-selection', selectedCards.length > 0);
-    $('selectionSummary').textContent = state.selected.size ? `${state.selected.size} topic${state.selected.size === 1 ? '' : 's'} · ${selectedCards.length} cards` : 'No topics selected';
+    $('selectionSummary').textContent = state.selected.size ? `${state.selected.size} topic${state.selected.size === 1 ? '' : 's'} · ${selectedCards.length} cards` : 'Select a topic to begin';
+    const options=[];
+    if($('studyLimit').value!=='20')options.push($('studyLimit').value==='all'?'all cards':$('studyLimit').value+' cards');
+    if($('studyOrder').value==='ordered')options.push('in order');
+    if($('studySubtopic').value!=='all')options.push('focus on');
+    $('sessionOptionsState').textContent=options.length?'· '+options.join(' · '):'';
     $('inspectButton').disabled = selectedCards.length === 0;
     $('inspectButton').textContent = 'Inspect ' + selectedCards.length + ' cards';
     $('startButton').disabled = selectedCards.length === 0;
@@ -787,7 +793,8 @@
     $('learningStats').textContent=`${stats.reviewed.toLocaleString()} practiced · ${stats.due.toLocaleString()} due · ${stats.unseen.toLocaleString()} new`;
     $('dueButton').disabled=stats.due===0; $('dueButton').textContent=`Review ${Math.min(stats.due,20)} due cards`;
     $('weakButton').disabled=stats.again===0; $('newCardsButton').disabled=stats.unseen===0;
-    document.querySelectorAll('[data-category-progress]').forEach(n=>{ const c=stats.categories[n.dataset.categoryProgress]; n.textContent=c?`${c.reviewed} / ${c.total} practiced · ${c.due} due`:''; });
+    $('reviewQueueSummary').textContent=stats.reviewed?`· ${stats.due} due`:'';
+    document.querySelectorAll('[data-category-progress]').forEach(n=>{ const c=stats.categories[n.dataset.categoryProgress]; n.hidden=!c?.reviewed; n.textContent=c?`${c.reviewed} / ${c.total} practiced · ${c.due} due`:''; });
     if(store.getError()) $('saveNotice').hidden=false;
   }
   function startLearning(kind) {
@@ -944,6 +951,9 @@
     await loadPage();
   }
   function installEnhancements(){
+    document.addEventListener('click',event=>{const menu=$('toolsMenu');if(menu.open&&menu.contains(event.target)&&event.target.closest('button')&&document.querySelector('dialog[open]'))toolsDialogReturn=true;if(!menu.contains(event.target)||event.target.closest('button'))menu.open=false;});
+    document.addEventListener('keydown',event=>{if(event.key==='Escape'&&$('toolsMenu').open){$('toolsMenu').open=false;$('toolsMenu').querySelector('summary').focus();}});
+    document.addEventListener('close',()=>{if(toolsDialogReturn&&!document.querySelector('dialog[open]')){toolsDialogReturn=false;$('toolsMenu').querySelector('summary').focus();}},true);
     document.querySelectorAll('.subtopic-select').forEach(select=>{SUBTOPICS.slice(1).forEach(t=>select.append(new Option(t.name,t.id)));});
     $('topicGroup').addEventListener('change',filterTopics);$('topicSearch').addEventListener('input',filterTopics);
     ['studyOrder','studyLimit','studySubtopic'].forEach(id=>$(id).addEventListener('change',()=>{updateSelection();saveProgress();}));
@@ -1011,7 +1021,7 @@
   $('closeSourcesButton').addEventListener('click', () => $('sourcesDialog').close());
   $('sourcesDialog').addEventListener('click', event => { if (event.target === $('sourcesDialog')) $('sourcesDialog').close(); });
   document.addEventListener('keydown', event => {
-    if (views.study.hidden || document.querySelector('dialog[open]') || /INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName) || document.activeElement.isContentEditable || event.altKey || event.ctrlKey || event.metaKey) return;
+    if (views.study.hidden || $('toolsMenu').open || document.querySelector('dialog[open]') || /INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName) || document.activeElement.isContentEditable || event.altKey || event.ctrlKey || event.metaKey) return;
     if (event.key === ' ' || event.key === 'Enter') { if (document.activeElement.closest('button,a,summary')) return; event.preventDefault(); flip(); }
     else if (event.key === 'ArrowLeft') { event.preventDefault(); previous(); } else if (event.key === 'ArrowRight') { event.preventDefault(); next(); } else if (event.key.toLowerCase() === 'b') toggleBookmark(); else if (event.key.toLowerCase() === 'f') toggleFlag();
   });

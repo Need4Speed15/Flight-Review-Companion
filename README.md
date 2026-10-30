@@ -6,6 +6,8 @@ The same study interface supports opening `index.html` as a local file and runni
 
 ## Study features
 
+The homepage starts with topic selection and a compact study bar. Starter mixes and the review queue expand on demand; Session options holds order, size, and focus settings. The header's Study tools menu contains whole-library card search, bookmarks, flags, sync, backups, sources, and the owner's report inbox. A saved session appears as a compact Resume banner, and untouched topics omit empty progress counters.
+
 - Browse topic groups, search categories, and select one or more topics. Inspect lists matching questions with search, subtopic, bookmark, and flag filters.
 - Choose shuffled or ordered study, a session size, and a subtopic focus. Custom Study draws a requested number of random cards from each category; named mixes save those quantities for reuse.
 - Resume the current session, reveal answers, bookmark or flag a card, and rate recall with Know it or Review again. Session replacement asks before discarding an unfinished set.
