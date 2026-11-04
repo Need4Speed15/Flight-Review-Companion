@@ -2,7 +2,8 @@ const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),asse
 const root=path.join(__dirname,'..'),out=path.join(root,'dist','pages');
 const html=fs.readFileSync(path.join(out,'index.html'),'utf8');
 assert(html.includes('window.FLIGHT_REVIEW_HOSTING={mode:"static"}'));
-assert(html.indexOf('window.FLIGHT_REVIEW_HOSTING')<html.indexOf('src="script.js"'));
+assert(html.indexOf('window.FLIGHT_REVIEW_HOSTING')<html.search(/src="script\.js(?:\?[^\"]*)?"/));
+for(const file of ['script.js','styles.css','aircraft-cards.js'])assert(html.includes(file+'?v='),'Changed public assets need cache versions: '+file);
 assert(html.includes('This GitHub Pages edition has no account sync.'));
 assert(!fs.existsSync(path.join(out,'.openai')));
 assert(!fs.existsSync(path.join(out,'server')));

@@ -6,6 +6,7 @@
 - Grouped all five aircraft categories, including the existing CTLS, into an aircraft-specific homepage section.
 - Identified archived handbook editions and variant applicability in category descriptions, study notices, and source links.
 - Preserved existing card IDs and study records; the library now has 2,495 cards in 29 categories.
+- Versioned public JavaScript and stylesheet URLs by content so returning browsers receive a consistent library and layout after updates.
 
 ## v1.1.0 — interface cleanup
 
