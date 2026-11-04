@@ -9,6 +9,8 @@ const {FLIGHT_REVIEW_CARDS:cards,FLIGHT_REVIEW_CATEGORIES:categories}=ctx.window
 assert.equal(JSON.stringify(cards.slice(0,oldIds.length)),before,'Existing cards must remain intact');
 assert.equal(cards.length,2650);assert.equal(categories.length,29);
 const aircraft=categories.filter(c=>c.aircraft);assert.equal(aircraft.length,5);
+assert.equal(categories.find(c=>c.id==='ctls').name,'Flight Design CTLS LSA — Rotax 912 ULS');
+assert.equal(cards.filter(c=>c.category==='ctls').length,75);
 assert.deepEqual(Array.from(aircraft,c=>c.id).sort(),['cessna-150m','cessna-172s','ctls','king-air-200','piper-archer-ii']);
 const expected={'cessna-172s':90,'cessna-150m':75,'piper-archer-ii':90,'king-air-200':150};
 const normalized=s=>s.normalize('NFKD').toLowerCase().replace(/[^a-z0-9]/g,'');

@@ -18,8 +18,9 @@ window.FLIGHT_REVIEW_CARDS.push(...cards);
 window.FLIGHT_REVIEW_SOURCES.push(...${JSON.stringify(sources,null,2)});
 const ctls=window.FLIGHT_REVIEW_CATEGORIES.find(c=>c.id==='ctls');
 if(ctls){
-  ctls.description='Archived AOI AF 043 00005, Rev. 8 (2009). Handbook-derived CTLS limits, systems, performance, controls and aircraft-specific cautions.';
-  ctls.aircraft={model:'Flight Design CTLS',edition:'AOI AF 043 00005 · Rev. 8 (2009)',scope:'Archived AOI; confirm serial-number applicability, current supplements, installed equipment and placards.'};
+  ctls.name='Flight Design CTLS LSA — Rotax 912 ULS';
+  ctls.description='CTLS LSA with carbureted Rotax 912 ULS. Archived AOI AF 043 00005, Rev. 8 (2009); excludes CTLSi and CTSW configurations.';
+  ctls.aircraft={model:'Flight Design CTLS LSA — Rotax 912 ULS',edition:'AOI AF 043 00005 · Rev. 8 (2009)',scope:'Archived CTLS LSA reference, not the CTLSi or CTSW. Confirm serial-number applicability, current supplements, installed equipment and placards.'};
 }
 window.FLIGHT_REVIEW_AIRCRAFT_LIBRARY=Object.freeze({date:'2026-11-03',addedCards:cards.length,counts:${JSON.stringify(counts)}});
 })();

@@ -2,6 +2,8 @@
 
 ## Practical aircraft scenarios — November 3, 2026
 
+- Clarified the existing CTLS deck as Flight Design CTLS LSA with Rotax 912 ULS, referencing the archived 2009 AOI and distinguishing CTLSi/CTSW configurations.
+
 - Added 155 original practical scenarios, bringing the Cessna 150M to 75, Cessna 172S to 90, Archer II to 90, and King Air 200/200C to 150 cards.
 - Expanded failure recognition, procedure selection, and worked fuel, loading, and performance planning with handbook page citations on every addition.
 - Preserved the original 250 aircraft cards and their IDs. The full library now has 2,650 cards across 29 categories.
