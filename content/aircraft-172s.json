@@ -1,0 +1,782 @@
+[
+  {
+    "id": "C172S-001",
+    "category": "cessna-172s",
+    "question": "What engine and rated power does this conventional-panel Cessna 172S POH specify?",
+    "answer": "A fuel-injected Lycoming IO-360-L2A rated at 180 horsepower at 2700 RPM. It is a normally aspirated, air-cooled, four-cylinder engine; these specifications should not be transferred to a different 172 model.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §1, p. 1-4",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=20",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-002",
+    "category": "cessna-172s",
+    "question": "Does this Cessna 172S have a separate propeller RPM control?",
+    "answer": "No. This handbook specifies a fixed-pitch, two-blade propeller. There is no constant-speed propeller lever; RPM varies with engine power and flight conditions.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-23, Propeller",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=193",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-003",
+    "category": "cessna-172s",
+    "question": "What happens if this Cessna 172S induction-air filter becomes blocked?",
+    "answer": "Engine suction opens a spring-loaded alternate-air door, admitting unfiltered air from inside the lower cowling. The POH estimates about a 10% power loss at full throttle with that door open.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-22, Air Induction System",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=192",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-004",
+    "category": "cessna-172s",
+    "question": "Why is BOTH the normal ignition-switch position in this Cessna 172S?",
+    "answer": "Its two engine-driven magnetos normally fire both spark plugs in each cylinder for more complete combustion. The individual R and L positions are for magneto checks and emergency use.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-22, Ignition and Starter System",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=192",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-005",
+    "category": "cessna-172s",
+    "question": "Which aviation gasoline grades does this Cessna 172S handbook approve?",
+    "answer": "100LL avgas, colored blue, or grade 100 avgas, colored green. A different fuel requires its own applicable approval; this POH does not authorize ordinary automotive gasoline.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Fuel Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-006",
+    "category": "cessna-172s",
+    "question": "How much of a full fuel load is usable in this Cessna 172S?",
+    "answer": "53 U.S. gallons are usable out of 56 total. Each tank holds 28 gallons total, including 1.5 gallons unusable, so flight planning must use usable fuel.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Fuel Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-007",
+    "category": "cessna-172s",
+    "question": "How much usable fuel is aboard this Cessna 172S when both tanks are filled to the filler tabs?",
+    "answer": "17.5 U.S. gallons usable per tank, or 35 gallons usable total. The tabs provide a reduced-fuel loading option when cabin payload would otherwise make the airplane too heavy.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-26, Reduced Tank Capacity",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=196",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-008",
+    "category": "cessna-172s",
+    "question": "Which fuel-selector position is required for takeoff and landing in this Cessna 172S?",
+    "answer": "BOTH. The systems section also calls for BOTH during climb. Recheck the selector during the before-takeoff and before-landing checks rather than leaving it on a tank used in cruise.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Additional Fuel Limitations; also §7, p. 7-26",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-009",
+    "category": "cessna-172s",
+    "question": "When may this Cessna 172S be operated with only LEFT or RIGHT selected?",
+    "answer": "Single-tank operation is limited to level flight; the systems description reserves it for cruising flight. Return to BOTH for takeoff, climb, and landing.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Additional Fuel Limitations; also §7, p. 7-26",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-010",
+    "category": "cessna-172s",
+    "question": "What extra fuel-management restriction applies to prolonged slips or skids in this Cessna 172S?",
+    "answer": "With one-quarter tank or less, prolonged uncoordinated flight is prohibited on LEFT or RIGHT. The POH also limits a slip or skid with one tank dry to 30 seconds; BOTH does not remove that one-tank-dry limitation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Additional Fuel Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-011",
+    "category": "cessna-172s",
+    "question": "Why must the fuel vents be checked during this Cessna 172S preflight?",
+    "answer": "Blocked venting can progressively reduce fuel flow and eventually stop the engine. This system uses an interconnecting tank vent, an overboard vent near the left wing strut, and vented filler caps.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-26, Fuel Venting",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=196",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-012",
+    "category": "cessna-172s",
+    "question": "Does a LOW FUEL annunciation in this Cessna 172S always prove that the tank is nearly empty?",
+    "answer": "No. It can indicate low fuel or a failed quantity transmitter. A transmitter failure drives the associated gauge below zero to OFF. Treat the warning seriously and assess the fuel situation; the light is not a dependable endurance calculation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-25, Fuel Indicating",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=195",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-013",
+    "category": "cessna-172s",
+    "question": "Can the fuel gauges in this Cessna 172S be trusted during a slip, and is fuel below the zero mark usable?",
+    "answer": "The POH says not to rely on accurate gauge readings during slips, skids, or unusual attitudes. At the zero indication, approximately 1.5 gallons remain in that tank as unusable fuel; do not count it toward endurance.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-25, Fuel Indicating; also §2, p. 2-11",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=195",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-014",
+    "category": "cessna-172s",
+    "question": "Why is selecting BOTH not the complete fuel-control check before starting this Cessna 172S?",
+    "answer": "The selector and fuel shutoff are separate controls. The before-start checklist requires BOTH and the fuel shutoff fully pushed in to ON; the selector alone does not open a closed shutoff valve.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-11, Before Starting Engine",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-015",
+    "category": "cessna-172s",
+    "question": "What oil quantity does this Cessna 172S POH require before operation?",
+    "answer": "Do not operate with less than 5 quarts indicated on the dipstick. For extended flight, fill to 8 quarts. Check both the quantity and that the dipstick/filler cap is secure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-10; also §7, p. 7-21",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=94",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-016",
+    "category": "cessna-172s",
+    "question": "What are the normal-category ramp, takeoff, and landing weight limits for this Cessna 172S?",
+    "answer": "Maximum ramp weight is 2558 lb; maximum takeoff and landing weights are each 2550 lb. Any weight used for taxi fuel must actually be burned before takeoff, and the loading must also satisfy the CG limits.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-7, Weight Limits",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-017",
+    "category": "cessna-172s",
+    "question": "What loading changes are needed to use the utility category in this Cessna 172S?",
+    "answer": "Maximum takeoff and landing weight is 2200 lb, the rear seat must be unoccupied, and the baggage compartment must be empty. The separate utility CG envelope must also be met; being below 2200 lb alone is insufficient.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-7, Weight Limits; utility CG on p. 2-8",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-018",
+    "category": "cessna-172s",
+    "question": "May this Cessna 172S carry 120 lb in baggage area 1 plus another 50 lb in area 2?",
+    "answer": "No. Area 1 is limited to 120 lb and area 2 to 50 lb, but the combined baggage limit is 120 lb. All three limits, and the airplane weight and CG limits, must be met.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-7, Weight Limits",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-019",
+    "category": "cessna-172s",
+    "question": "At 2550 lb, is a 39-inch CG acceptable in the normal-category Cessna 172S described by this POH?",
+    "answer": "No. At 2550 lb the forward CG limit is 41.0 inches aft of datum, so 39 inches is too far forward. A legal total weight does not establish a legal loading.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-7, Center of Gravity Limits",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-020",
+    "category": "cessna-172s",
+    "question": "Can the standard empty weight in this Cessna 172S handbook replace the airplane's actual weight-and-balance record?",
+    "answer": "No. Section 6 provides sample forms for reference and directs the pilot to the weight, arm, moment, and equipment information for the specific airplane. Use that airplane's current records, accounting for equipment changes, rather than a generic standard empty weight.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §6, p. 6-3, Introduction",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=147",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-021",
+    "category": "cessna-172s",
+    "question": "How does maneuvering speed change as this Cessna 172S gets lighter?",
+    "answer": "In the normal category, VA is 105 KIAS at 2550 lb, 98 KIAS at 2200 lb, and 90 KIAS at 1900 lb. Use the value for the operating weight; do not keep using the heaviest-weight value after burning fuel.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-4, Figure 2-1, Airspeed Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-022",
+    "category": "cessna-172s",
+    "question": "What flap-extension speeds apply to this Cessna 172S?",
+    "answer": "The maximum is 110 KIAS with 10° flaps and 85 KIAS for flap settings beyond 10° through 30°. The higher limit for the first 10° does not permit selecting additional flap above 85 KIAS.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-4, Figure 2-1, Airspeed Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-023",
+    "category": "cessna-172s",
+    "question": "How should the yellow airspeed arc be treated in this Cessna 172S?",
+    "answer": "Maximum structural cruising speed, VNO, is 129 KIAS. Above that, fly only in smooth air and with caution. Never-exceed speed, VNE, is 163 KIAS; it is an absolute upper limit, not a target.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-4, Figure 2-1, Airspeed Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-024",
+    "category": "cessna-172s",
+    "question": "Is flight into known icing approved for this Cessna 172S?",
+    "answer": "No. This handbook prohibits flight into known icing. Pitot heat and cabin heat do not change that airframe limitation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-10, Kinds of Operation Limits",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=54",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-025",
+    "category": "cessna-172s",
+    "question": "What flap settings are approved for takeoff versus landing in this Cessna 172S?",
+    "answer": "Takeoff is limited to 0°–10°; landing permits 0°–30°. The availability of a 30° flap position does not make it an approved takeoff setting.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Flap Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-026",
+    "category": "cessna-172s",
+    "question": "What operates the stall-warning horn in this Cessna 172S?",
+    "answer": "It is pneumatic: pressure at an inlet in the left wing leading edge draws air through a horn. The POH describes a warning about 5–10 knots above the stall. Check that inlet for blockage during preflight.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-46, Stall Warning System; preflight on p. 4-11",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=220",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-027",
+    "category": "cessna-172s",
+    "question": "Which flight instruments depend on the vacuum system in this conventional-panel Cessna 172S?",
+    "answer": "The attitude indicator and directional indicator use vacuum-driven gyros. Two engine-driven vacuum pumps feed a common system with check valves, allowing one pump to support the system if the other fails.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-43, Vacuum System and Instruments",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=217",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-028",
+    "category": "cessna-172s",
+    "question": "Does a normal vacuum-gauge reading rule out a vacuum-pump failure in this Cessna 172S?",
+    "answer": "No. One pump can maintain the common system while the other fails. Check the separate L VAC and VAC R annunciations as well as the gauge; the normal desired gauge range is 4.5–5.5 inHg.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-45, Vacuum Gage and Low Vacuum Annunciation",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=219",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-029",
+    "category": "cessna-172s",
+    "question": "What is the purpose of the alternate static-source valve in this Cessna 172S?",
+    "answer": "If the external static source is suspected blocked, the valve supplies cabin static pressure to the altimeter, airspeed indicator, and VSI. Cabin pressure can differ from outside pressure, so use the POH alternate-static corrections and specified cabin configuration.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-41, Pitot-Static System and Instruments",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=215",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-030",
+    "category": "cessna-172s",
+    "question": "What electrical-system ratings identify this conventional-panel Cessna 172S?",
+    "answer": "It has a 28-volt DC system, a 24-volt battery, and a belt-driven 60-amp alternator. Those ratings describe this handbook configuration; installed equipment and later avionics versions require their own applicable information.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-29, Electrical System",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=201",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-031",
+    "category": "cessna-172s",
+    "question": "What does a negative ammeter indication mean in this Cessna 172S?",
+    "answer": "The battery is supplying current to the electrical system rather than receiving charge. This is a battery charge/discharge meter, not an indication of total alternator output; a sustained discharge calls for the applicable electrical-failure procedure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-34, Ammeter",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=208",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-032",
+    "category": "cessna-172s",
+    "question": "Why must the avionics master be OFF during engine start in this Cessna 172S?",
+    "answer": "The POH warns that starting with it on may damage avionics. The systems section also calls for avionics OFF before switching the master on or off and before connecting external power.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-11, Before Starting Engine; also §7, p. 7-34",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-033",
+    "category": "cessna-172s",
+    "question": "When must fuel samples be taken in this Cessna 172S, and what if contamination persists?",
+    "answer": "Sample the required sump locations before each flight and after each refueling, checking for water, sediment, and correct fuel grade. If repeated samples still contain contamination, do not fly; have qualified maintenance correct it.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, pp. 4-9–4-10, Preflight Inspection",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=94",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-034",
+    "category": "cessna-172s",
+    "question": "Which seat and flight-control checks deserve a deliberate pause before takeoff in this Cessna 172S?",
+    "answer": "Confirm seats and belts are secure and the controls move freely in the correct direction. The before-start check also requires the seats locked and the inertia-reel locking checked; a seat merely feeling comfortable is insufficient.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-15, Before Takeoff; seat locking on p. 4-11",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=99",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-035",
+    "category": "cessna-172s",
+    "question": "What magneto RPM-drop limits apply at the 1800-RPM run-up in this Cessna 172S?",
+    "answer": "The drop must not exceed 150 RPM on either magneto, and the difference between drops must not exceed 50 RPM. Do not substitute limits from another Cessna model or a different engine installation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-15, Before Takeoff",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=99",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-036",
+    "category": "cessna-172s",
+    "question": "What full-throttle static RPM range does this Cessna 172S POH specify?",
+    "answer": "2300–2400 RPM. It is the specified static range for this fixed-pitch propeller installation; it is not the same as the engine's 2700-RPM maximum operating limit.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-5, Powerplant Limitations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-037",
+    "category": "cessna-172s",
+    "question": "How does this Cessna 172S POH change takeoff mixture technique above 3000 feet?",
+    "answer": "It calls for leaning to obtain maximum RPM rather than automatically leaving the mixture full rich. The takeoff-performance chart likewise requires leaning above 3000 feet to achieve its stated performance.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-15, Normal Takeoff; also §5, p. 5-14",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=99",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-038",
+    "category": "cessna-172s",
+    "question": "What nosewheel-lift and climb speeds does this Cessna 172S normal-takeoff checklist give?",
+    "answer": "Lift the nosewheel at 55 KIAS, then climb at 70–80 KIAS. These are the normal-takeoff checklist values, not the distinct short-field obstacle-clearance procedure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-15, Normal Takeoff",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=99",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-039",
+    "category": "cessna-172s",
+    "question": "What flap setting and obstacle-clearance speed does this Cessna 172S use for a short-field takeoff?",
+    "answer": "Use 10° flaps and 56 KIAS until obstacles are cleared, following the complete short-field procedure. The published distances assume full power before brake release.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-16, Short Field Takeoff; chart conditions on p. 5-14",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=100",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-040",
+    "category": "cessna-172s",
+    "question": "After a short-field takeoff, when does this Cessna 172S checklist call for flap retraction?",
+    "answer": "After reaching 60 KIAS, retract the flaps slowly. First satisfy the obstacle-clearance segment; an abrupt retraction immediately after liftoff is not the published technique.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-16, Short Field Takeoff",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=100",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-041",
+    "category": "cessna-172s",
+    "question": "What normal landing approach-speed ranges does this Cessna 172S POH give?",
+    "answer": "65–75 KIAS with flaps up, or 60–70 KIAS with flaps down. Use the complete procedure and the speed appropriate to the actual configuration and conditions.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-17, Normal Landing",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=101",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-042",
+    "category": "cessna-172s",
+    "question": "What final configuration and speed underlie this Cessna 172S short-field landing technique?",
+    "answer": "30° flaps and 61 KIAS until the flare. The POH short-field landing technique differs from simply flying somewhere within the normal approach-speed range.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-17, Short Field Landing",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=101",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-043",
+    "category": "cessna-172s",
+    "question": "Why should all landing flap not be retracted at once during a go-around in this Cessna 172S?",
+    "answer": "The balked-landing procedure stages retraction: initially to 20° with full power and 60 KIAS, then 10° until obstacles are clear. Full retraction comes after reaching a safe altitude and 65 KIAS. Use the complete checklist.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-17, Balked Landing",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=101",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-044",
+    "category": "cessna-172s",
+    "question": "Is the 15-knot demonstrated crosswind in this Cessna 172S POH a mandatory operating limit?",
+    "answer": "No. The POH explicitly labels 15 knots as demonstrated, not a limitation. It does not establish a safe crosswind for every pilot, runway, or gust condition; choose an appropriate operating margin.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-13, Figure 5-4, Crosswind Components",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=133",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-045",
+    "category": "cessna-172s",
+    "question": "Why is a particular cruise RPM not enough by itself to establish percent power in this Cessna 172S?",
+    "answer": "Cruise power depends on the operating conditions as well as RPM, so use the POH cruise-performance table. The normal-procedures section recommends no more than 75% power; it does not identify every RPM in its 2100–2700 range as the same power.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-16, Cruise; performance tables in §5",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=100",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-046",
+    "category": "cessna-172s",
+    "question": "Which control stops fuel delivery during normal shutdown of this Cessna 172S?",
+    "answer": "The mixture is pulled fully to IDLE CUTOFF. The shutdown checklist subsequently turns ignition and master OFF; the master switch is not the normal means of stopping this magneto-ignition engine.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-17, Securing Airplane; ignition description on p. 7-22",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=101",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-047",
+    "category": "cessna-172s",
+    "question": "What initial airspeed does this Cessna 172S in-flight engine-restart checklist specify?",
+    "answer": "68 KIAS. That is the initial speed in the restart checklist; the immediate-after-takeoff and forced-landing checklists give different configuration-specific speeds. Maintain aircraft control and use the applicable complete emergency procedure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-5, Engine Failure During Flight",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=65",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-048",
+    "category": "cessna-172s",
+    "question": "What airspeeds and landing direction does this Cessna 172S POH specify for engine failure immediately after takeoff?",
+    "answer": "70 KIAS with flaps up or 65 KIAS with flaps down, and land straight ahead. Establish the appropriate airspeed immediately and follow the complete emergency checklist.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-4, Engine Failure Immediately After Takeoff",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=64",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-049",
+    "category": "cessna-172s",
+    "question": "What does a sudden fuel-flow reduction followed by power loss suggest in this Cessna 172S when usable fuel is available?",
+    "answer": "An engine-driven fuel-pump failure is possible. The POH calls for the auxiliary fuel pump ON to restore fuel flow, then terminating the flight as soon as practical and having the pump repaired. Use the complete applicable emergency checklist.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-20, Engine-Driven Fuel Pump Failure",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=80",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-050",
+    "category": "cessna-172s",
+    "question": "How should total oil-pressure loss accompanied by rising oil temperature be interpreted in this Cessna 172S?",
+    "answer": "It suggests impending engine failure. The POH calls for reducing power and selecting a suitable forced-landing field, using only the power needed to reach it. Do not treat the combination as merely an instrument fault.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-21, Low Oil Pressure",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-051",
+    "category": "cessna-172s",
+    "question": "What powers the electrical system if the alternator goes offline in this Cessna 172S?",
+    "answer": "The battery supplies the remaining load, so endurance depends on battery condition and what is left switched on. An illuminated low-voltage warning with sustained discharge requires the applicable checklist and prompt flight planning; it does not mean normal electrical endurance remains.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-35, Low Voltage Annunciation",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=209",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-052",
+    "category": "cessna-172s",
+    "question": "What operating assumptions must match before using this Cessna 172S short-field takeoff-distance chart?",
+    "answer": "The chart assumes 10° flaps, full throttle before brake release, a paved level dry runway, and zero wind before corrections. Use the correct weight, pressure altitude, and temperature; a rolling takeoff or poor surface can invalidate the chart comparison.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-14, Figure 5-5, Short Field Takeoff Distance",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=134",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-053",
+    "category": "cessna-172s",
+    "question": "What wind corrections does this Cessna 172S short-field takeoff chart prescribe?",
+    "answer": "Decrease the published distances 10% for each 9 knots of headwind. For a tailwind up to 10 knots, increase them 10% for each 2 knots. Do not extend that tailwind rule beyond its stated range.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-14, Figure 5-5, note 3",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=134",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-054",
+    "category": "cessna-172s",
+    "question": "For this Cessna 172S, how is the dry-grass takeoff correction applied to a 1000-foot ground roll and 1700-foot obstacle distance?",
+    "answer": "The chart says to add 15% of the ground-roll figure to the distances. Here that is 150 feet, producing 1150 feet of ground roll and 1850 feet to clear 50 feet. It is not a 15% increase applied separately to the 1700-foot figure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-14, Figure 5-5, dry-grass note",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=134",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-055",
+    "category": "cessna-172s",
+    "question": "At 2550 lb, 2000-foot pressure altitude, and 30°C, what does this Cessna 172S short-field chart show on a paved level dry runway with no wind?",
+    "answer": "1285 feet of ground roll and 2190 feet to clear a 50-foot obstacle, with the chart's specified technique. Compare the obstacle distance when obstacle clearance is required; ground roll alone does not answer that question.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-14, Figure 5-5, 2550-lb table",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=134",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-056",
+    "category": "cessna-172s",
+    "question": "How does this Cessna 172S POH correct climb-planning figures for above-standard temperature?",
+    "answer": "Increase time, fuel, and distance to climb by 10% for each 10°C above standard. For example, 20°C above standard requires a 20% increase, not use of the uncorrected standard-day climb figures.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-6, Fuel Required sample problem",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=126",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-057",
+    "category": "cessna-172s",
+    "question": "Why is cruise fuel flow multiplied by total trip time an incomplete fuel plan for this Cessna 172S?",
+    "answer": "The POH planning example accounts separately for start/taxi/takeoff, climb, cruise, and reserve, then checks actual groundspeed en route. Its example reserve is a planning assumption, not a substitute for the reserve requirements and margin applicable to the flight.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-7, Fuel Required sample problem",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=127",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-058",
+    "category": "cessna-172s",
+    "question": "If actual conditions fall between entries, what conservative chart-reading method does this Cessna 172S POH describe for takeoff planning?",
+    "answer": "Read the next higher weight, altitude, and temperature entries to establish conservative distances. Do not round toward easier conditions just because that makes the runway comparison look better.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-4, Takeoff sample problem",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=124",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-059",
+    "category": "cessna-172s",
+    "question": "Does this Cessna 172S have a pilot-operated cowl-flap control for engine cooling?",
+    "answer": "No. Ram air enters the cowling and baffles direct it around the engine before it exits below the aft cowling. The POH specifies no manual cowl-flap control, and the preflight requires the cooling inlets clear.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-23, Cooling System; preflight on p. 4-10",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=193",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-060",
+    "category": "cessna-172s",
+    "question": "Should a warm engine receive the normal cold-engine prime before starting this Cessna 172S?",
+    "answer": "No. The normal-start checklist says to omit the priming procedure if the engine is warm. Excess fuel can complicate starting; use the warm or flooded-engine instructions in the applicable POH rather than automatically repeating a cold-start prime.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-12, Starting Engine (With Battery)",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=96",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  }
+]

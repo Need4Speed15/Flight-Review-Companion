@@ -1,0 +1,84 @@
+Piper Archer II PA-28-181 flashcard research and verification
+Reviewed: 2026-11-03
+Deliverable: 60 original study cards, ARCH2-001 through ARCH2-060
+Category key: piper-archer-ii
+Suggested display name: Piper Archer II — PA-28-181 (VB-1120)
+
+Primary manufacturer-authored source
+Piper Aircraft Corporation, Pilot's Operating Handbook and FAA Approved
+Airplane Flight Manual, Archer II PA-28-181, Report VB-1120.
+Original issue/approval date: July 2, 1979.
+Public archived mirror:
+https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf
+286 PDF pages. Each card's #page= link uses the PDF's 1-based page number;
+the source label separately names the handbook's printed page number.
+
+Scope and limitations
+This is a revised archived copy, not an unamended first edition. The title
+identifies serial 28-8390087, registration OE-KBS. The publisher's warning
+limits operational use to the applicable airplane and requires current
+revisions. Its core pages carry different revision dates. These cards are
+model/edition-specific study material, not proof that any other PA-28-181
+has identical approved limits, instruments, equipment, or procedures.
+
+The archive also contains aircraft-specific weight-and-balance changes and
+later fuel, Garmin G5, GNS 430W, and GFC 500 supplements. Those approvals,
+STCs, and that airplane's actual empty weight were not generalized into the
+deck. No Archer III, Archer TX, diesel conversion, or fuel-injected procedure
+was substituted for this carbureted Archer II basic handbook.
+
+Sections checked directly in the handbook
+- §1.1: operational applicability and pilot responsibilities.
+- §§1.3–1.7: engine, fixed-pitch propeller, and listed aviation fuel.
+- §§2.3–2.21: airspeeds, indicator arcs, weights, CG applicability,
+  maneuver restrictions, operating approval, and usable fuel.
+- §§3.9–3.31: takeoff/in-flight power loss, glide, fire distinction,
+  oil/fuel pressure, temperature, electrical failure, open door, carburetor
+  icing/roughness. Emergency cards summarize recognition and priorities;
+  they do not reproduce a full emergency checklist.
+- §§4.19–4.33: ground check, takeoff, climb, cruise, approach/landing,
+  and shutdown.
+- §5.3 and §5.7 Figure 5-35: unfactored chart assumptions and paved,
+  level, dry landing runway. Figure 5-35 was also rendered for visual
+  verification of the chart's stated conditions and printed page 5-28.
+- §6.1: current individual-aircraft empty weight/CG and loading.
+- §§7.7–7.29: gear, brakes, controls, fuel, electrics, vacuum/instrument
+  power, pitot-static, cabin heat, restraint, baggage, and stall warning.
+
+Important numerical facts checked against the PDF
+- VNE 154 KIAS; VNO 125 KIAS; VFE 102 KIAS.
+- VA 113 KIAS at 2,550 lb and 89 KIAS at 1,634 lb; interpolate linearly.
+- White arc 49–102 KIAS.
+- Normal maximum ramp/flight weight 2,558/2,550 lb; utility maximum
+  flight weight 2,130 lb. Baggage 200 lb normal / zero utility.
+- Fuel 50 US gallons total / 48 usable; 24 usable per tank; bottom of
+  filler-neck tab indicates 17 usable gallons per tank.
+- Basic electrical system 14 V / 60 A alternator and 12 V battery.
+- Manual flap positions 10, 25, 40 degrees.
+- Magneto run-up 2,000 RPM; maximum drop 175 RPM; maximum differential
+  50 RPM; no more than 10 seconds on one magneto.
+- Gross-weight climb speeds: best rate 76 KIAS / best angle 64 KIAS;
+  recommended en route climb 87 KIAS.
+- Normal rotation range 48–53 KIAS varies with weight. Short/soft-field
+  procedure uses 25-degree flaps; full procedure remains necessary.
+- Approach about 75 KIAS initial / 66 KIAS final with flaps extended.
+- Power-off best-glide entry 76 KIAS, optional air conditioner off.
+
+Ambiguities deliberately avoided
+This copy's §§1.3/2.7 distinguish a five-minute 180-BHP/2,700-RPM takeoff
+rating and a 178-BHP/2,650-RPM continuous rating. Those values differ from
+many generic Archer summaries, so no unqualified continuous-RPM card was
+created. Oil-pressure maximum markings also vary (90 or 100 psi); no
+universal maximum was asserted. No universal battery endurance, crosswind
+limit, empty weight, fuel-STC approval, or avionics capability was invented.
+
+Source rejected as incomplete
+https://amsflightschool.com/wp-content/uploads/archer-ii-poh-28-8190265.pdf
+The accessible file had only 16 pages of front matter; it was not used for
+operating values or procedures.
+
+Quality checks
+60 cards; unique IDs and exact question text; every card names Archer II
+and PA-28-181; every answer has a handbook section/printed-page citation,
+direct PDF page URL, edition, review date, and limited-applicability status.
+Wording is original and focuses on practical knowledge and application.

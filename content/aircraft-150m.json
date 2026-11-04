@@ -1,0 +1,652 @@
+[
+  {
+    "id": "C150M-001",
+    "category": "cessna-150m",
+    "question": "What engine and maximum power does the 1976 Cessna 150M POH describe?",
+    "answer": "A carbureted Continental O-200-A: four opposed, air-cooled cylinders, rated at 100 brake horsepower at 2,750 RPM. Confirm the engine actually installed in the airplane.",
+    "source": "1976 Cessna 150M POH, Sections 2 and 7, pp. 2-4 and 7-16",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=10",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-002",
+    "category": "cessna-150m",
+    "question": "Does the 1976 Cessna 150M have a propeller RPM lever?",
+    "answer": "The described installation has a fixed-pitch propeller, so there is no separate propeller RPM control. The throttle controls power; RPM also changes with airspeed and loading.",
+    "source": "1976 Cessna 150M POH, Section 1, p. 1-3; Section 7, p. 7-16",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=5",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-003",
+    "category": "cessna-150m",
+    "question": "How much fuel can you plan to use in a 1976 Cessna 150M with standard tanks?",
+    "answer": "22.5 U.S. gallons usable out of 26 gallons total. Each standard tank holds 13 gallons total; do not count the combined 3.5 gallons of unusable fuel as endurance.",
+    "source": "1976 Cessna 150M POH, Sections 1 and 2, pp. 1-4 and 2-7",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=6",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-004",
+    "category": "cessna-150m",
+    "question": "How does fuel capacity change with the optional long-range tanks in the 1976 Cessna 150M?",
+    "answer": "Long-range tanks hold 38 U.S. gallons total, of which 35 gallons are usable. Each tank holds 19 gallons total. Verify which tanks the airplane has before planning range or payload.",
+    "source": "1976 Cessna 150M POH, Sections 1 and 2, pp. 1-4 and 2-7",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=6",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-005",
+    "category": "cessna-150m",
+    "question": "Can you select only the left or right tank in the standard 1976 Cessna 150M fuel system?",
+    "answer": "No. Both wing tanks feed by gravity through an ON/OFF fuel shutoff valve, then the fuel strainer and carburetor. The described valve does not provide LEFT and RIGHT selection.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-20 through 7-22, Figure 7-6",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=62",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-006",
+    "category": "cessna-150m",
+    "question": "Why is the fuel vent part of the 1976 Cessna 150M preflight inspection?",
+    "answer": "A blocked vent can progressively restrict fuel flow until the engine stops. The described system connects the tanks for venting, uses an overboard vent near the left wing strut, and has a vented right filler cap.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-22",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-007",
+    "category": "cessna-150m",
+    "question": "Can the fuel gauges in the 1976 Cessna 150M be trusted during a prolonged slip?",
+    "answer": "Not for an accurate quantity reading. The POH warns that slips, skids and unusual attitudes affect the float-type indications. Establish fuel quantity visually before flight and track consumption rather than treating a maneuvering indication as precise.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-22; Section 4, pp. 4-4 and 4-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-008",
+    "category": "cessna-150m",
+    "question": "When should fuel samples be checked in the 1976 Cessna 150M?",
+    "answer": "Before the first flight of the day and after each refueling, sample the wing-tank sumps and fuel strainer for water, sediment and correct fuel. If contamination appears, investigate and continue the specified draining checks until the fuel is clear.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-22; Section 4, pp. 4-4 and 4-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-009",
+    "category": "cessna-150m",
+    "question": "Why does the 1976 Cessna 150M POH call for re-topping tanks after refueling?",
+    "answer": "Fuel can cross-feed between the tanks while they are being filled. Recheck and re-top if maximum capacity is needed; the first apparently full tank may no longer be full after fuel redistributes.",
+    "source": "1976 Cessna 150M POH, Section 1, p. 1-4; Section 2, p. 2-7",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=6",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-010",
+    "category": "cessna-150m",
+    "question": "What oil quantity guidance does the 1976 Cessna 150M POH give for preflight?",
+    "answer": "Do not operate with less than 4 U.S. quarts. The POH recommends 5 quarts for normal flights under 3 hours and a 6-quart dipstick indication for extended flight. A full-flow filter adds a quart to total system capacity; it does not change the dipstick target.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-17 and 7-18",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=61",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-011",
+    "category": "cessna-150m",
+    "question": "What if oil pressure fails to appear after starting the 1976 Cessna 150M?",
+    "answer": "Stop the engine and investigate if pressure does not register within 30 seconds in summer, or about twice that time in very cold weather. Continuing to run without pressure can damage the engine.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-11, Starting Engine",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=26",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-012",
+    "category": "cessna-150m",
+    "question": "How does maneuvering speed change with weight in the 1976 Cessna 150M?",
+    "answer": "The POH lists VA as 97 KIAS at 1,600 lb, 93 KIAS at 1,450 lb and 88 KIAS at 1,300 lb. Use the lower speed appropriate to a lighter airplane; the 1,600-lb value is not a universal target.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-3, Figure 2-1",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=9",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-013",
+    "category": "cessna-150m",
+    "question": "What flap speed limit should you use for the 1976 Cessna 150M?",
+    "answer": "VFE is 85 KIAS. This edition separately lists 89 KCAS; those are different airspeed quantities, not interchangeable indicated-speed limits. The normal procedures call for flap extension below 85 KIAS.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-3, Figure 2-1; Section 4, p. 4-9",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=9",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-014",
+    "category": "cessna-150m",
+    "question": "What do the upper green-arc boundary and red line mean in the 1976 Cessna 150M?",
+    "answer": "VNO is 107 KIAS: above it, operate only in smooth air and with caution. VNE is 141 KIAS and must not be exceeded. These are indicated speeds; the table gives a different calibrated value for VNO.",
+    "source": "1976 Cessna 150M POH, Section 2, pp. 2-3 and 2-4, Figures 2-1 and 2-2",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=9",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-015",
+    "category": "cessna-150m",
+    "question": "What are the maximum takeoff and landing weights for the 1976 Cessna 150M?",
+    "answer": "Both are 1,600 lb in the cited POH. Having seats or tank capacity available does not mean the airplane can carry full fuel, occupants and baggage at the same time.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-5, Weight Limits",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=10",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-016",
+    "category": "cessna-150m",
+    "question": "Can you put 120 lb in each baggage area of the 1976 Cessna 150M?",
+    "answer": "No. Area 1 permits up to 120 lb, Area 2 up to 40 lb, and their combined limit is 120 lb. The resulting weight and center of gravity must also remain within limits.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-5, Weight Limits",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=10",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-017",
+    "category": "cessna-150m",
+    "question": "Is being below 1,600 lb enough to prove a 1976 Cessna 150M loading is acceptable?",
+    "answer": "No. Calculate loaded weight and moment, then check the center-of-gravity envelope too. Seat position and baggage placement affect moment; use actual load positions when they differ from the handbook sample.",
+    "source": "1976 Cessna 150M POH, Section 6, pp. 6-4 and 6-5; Section 2, p. 2-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=44",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-018",
+    "category": "cessna-150m",
+    "question": "Why not routinely use 10 degrees of flap for every 1976 Cessna 150M takeoff?",
+    "answer": "The POH specifies flaps up for normal and obstacle-clearance takeoffs. Ten degrees can shorten the ground run on a soft or rough field, but the stated ground-run advantage is lost by 50 feet. Choose a technique for the actual runway and obstacle problem.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-14, Flap Settings",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=28",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-019",
+    "category": "cessna-150m",
+    "question": "What speeds does the 1976 Cessna 150M normal takeoff checklist use?",
+    "answer": "With flaps up, lift the nosewheel at 50 KIAS and use a normal climb-out speed of 60-70 KIAS. These are the normal-procedure targets, not a substitute for the separate maximum-performance takeoff technique.",
+    "source": "1976 Cessna 150M POH, Section 4, pp. 4-7 and 4-3",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=24",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-020",
+    "category": "cessna-150m",
+    "question": "What is the 50-foot obstacle speed for a maximum-performance takeoff in the 1976 Cessna 150M?",
+    "answer": "60 KIAS with flaps up, using the POH maximum-performance technique. Do not replace that target with the lower best-angle climb speed when using the published takeoff-distance chart.",
+    "source": "1976 Cessna 150M POH, Section 4, pp. 4-3 and 4-8; Section 5, Figure 5-4",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=22",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-021",
+    "category": "cessna-150m",
+    "question": "Does best-rate climb speed stay constant as the 1976 Cessna 150M climbs?",
+    "answer": "No. The POH lists 68 KIAS at sea level and 62 KIAS at 10,000 feet, with flaps up. Use the climb table for intermediate conditions; the best rate also falls substantially with altitude and temperature.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-3; Section 5, p. 5-12, Figure 5-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=22",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-022",
+    "category": "cessna-150m",
+    "question": "What best-angle climb speed is listed for the 1976 Cessna 150M?",
+    "answer": "56 KIAS, flaps up, from sea level through 10,000 feet in the normal-operation speed table. This is distinct from the 60-KIAS target at 50 feet in the maximum-performance takeoff procedure.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-3, Speeds for Normal Operation",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=22",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-023",
+    "category": "cessna-150m",
+    "question": "Why should you avoid retracting all the flaps at once during a go-around in the 1976 Cessna 150M?",
+    "answer": "The POH calls for full power and cold carburetor heat, an initial reduction to 20 degrees of flap, and 55 KIAS during the transition. It then calls for gradual retraction. Abruptly removing all flap lift near the ground can undermine the climb.",
+    "source": "1976 Cessna 150M POH, Section 4, pp. 4-9 and 4-20, Balked Landing",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=25",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-024",
+    "category": "cessna-150m",
+    "question": "How do normal and short-field full-flap approach speeds compare in the 1976 Cessna 150M?",
+    "answer": "With 40 degrees of flap, the normal range is 50-60 KIAS and the short-field target is 52 KIAS. The table bases these values on 1,600 lb and permits their use at lower weights; use the complete landing procedure for the situation.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-3, Speeds for Normal Operation",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=22",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-025",
+    "category": "cessna-150m",
+    "question": "Is the 13-knot demonstrated crosswind in the 1976 Cessna 150M a certified operating limit?",
+    "answer": "No. The POH lists 13 knots demonstrated for takeoff and landing and defines demonstrated crosswind as a demonstrated capability rather than a limitation. Actual aircraft condition, runway conditions and pilot proficiency still govern the decision.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-3; Section 1, p. 1-7",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=22",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-026",
+    "category": "cessna-150m",
+    "question": "Why does the 1976 Cessna 150M POH discourage unnecessary carburetor heat during ground operation?",
+    "answer": "Heated induction air bypasses the air filter. The POH normally calls for cold carburetor heat on the ground, except when needed to address icing, to reduce ingestion of dust and other material.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-11; Section 7, p. 7-19",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=26",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-027",
+    "category": "cessna-150m",
+    "question": "What magneto-check limits are given for the 1976 Cessna 150M?",
+    "answer": "At 1,700 RPM, the drop must not exceed 150 RPM on either magneto, and the difference between the two drops must not exceed 75 RPM. Both the individual drops and their difference matter.",
+    "source": "1976 Cessna 150M POH, Section 4, pp. 4-7 and 4-13, Magneto Check",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=24",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-028",
+    "category": "cessna-150m",
+    "question": "Is no RPM drop on a magneto check automatically good in the 1976 Cessna 150M?",
+    "answer": "No. The POH says an absent drop can indicate a faulty ground connection on one side of the ignition system or incorrect magneto timing. Investigate the abnormal check instead of treating it as better performance.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-13, Magneto Check",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=27",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-029",
+    "category": "cessna-150m",
+    "question": "What should rough running or sluggish acceleration early in a 1976 Cessna 150M takeoff roll prompt?",
+    "answer": "Discontinue the takeoff and find the cause. The POH specifically identifies rough engine operation and sluggish acceleration as reasons to stop early rather than continue into a low-altitude performance problem.",
+    "source": "1976 Cessna 150M POH, Section 4, pp. 4-13 and 4-14, Power Check",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=28",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-030",
+    "category": "cessna-150m",
+    "question": "What mixture preparation does the 1976 Cessna 150M POH specify for a takeoff above 5,000 feet field elevation?",
+    "answer": "Before takeoff, lean for maximum RPM during a full-throttle static run-up. Leaving an excessively rich mixture at a high-elevation field can prevent the engine from developing the power expected by the takeoff procedure.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-14; Section 5, p. 5-11, Figure 5-4 note 2",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=28",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-031",
+    "category": "cessna-150m",
+    "question": "What can a gradual unexplained RPM loss followed by roughness mean in the 1976 Cessna 150M?",
+    "answer": "Carburetor icing is a possibility. The emergency discussion calls for full carburetor heat and full throttle until smooth operation returns, followed by the specified readjustments. Expect the melting process to take time; use the aircraft checklist.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-13, Carburetor Icing",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=19",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-032",
+    "category": "cessna-150m",
+    "question": "Why may the mixture need adjustment when carburetor heat is used continuously in 1976 Cessna 150M cruise?",
+    "answer": "Heated air enriches the fuel-air mixture. The POH calls for readjusting the mixture if continuous heat is necessary in cruise, rather than assuming the previous cold-air mixture setting remains suitable.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-17, Cruise",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=29",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-033",
+    "category": "cessna-150m",
+    "question": "Would switching off the electrical master alone normally stop the 1976 Cessna 150M engine?",
+    "answer": "No. Its two engine-driven magnetos supply ignition independently of the main electrical system. Engine ignition has its own switch, so a master-off condition does not make the propeller safe to handle.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-18 and 7-23",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=61",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-034",
+    "category": "cessna-150m",
+    "question": "What electrical supply is described for the 1976 Cessna 150M?",
+    "answer": "A 14-volt DC system supplied by an engine-driven 60-amp alternator, with a 12-volt, 25-amp-hour battery. These are the cited original installation ratings; confirm modifications in the actual airplane.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-23, Electrical System",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-035",
+    "category": "cessna-150m",
+    "question": "What does a sustained discharge indication mean on the 1976 Cessna 150M ammeter?",
+    "answer": "The battery is supplying current because alternator output is absent or insufficient for the load. Battery endurance is finite; use the electrical-malfunction checklist, reduce nonessential demand and plan to terminate the flight as the POH directs.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-23 through 7-25; Section 3, p. 3-8",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=64",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-036",
+    "category": "cessna-150m",
+    "question": "Why can the HIGH VOLTAGE light in the 1976 Cessna 150M be accompanied by a loss of charging?",
+    "answer": "The over-voltage sensor removes alternator field current to protect the system, leaving the battery to supply electrical loads. If the light returns after the POH reset, the POH calls for terminating the flight as soon as practical.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-25; Section 3, p. 3-8",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=64",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-037",
+    "category": "cessna-150m",
+    "question": "Which original gyro instruments become suspect after low vacuum in the 1976 Cessna 150M?",
+    "answer": "The vacuum-driven attitude and directional indicators, if installed. Desired suction is 4.6-5.4 inches of mercury; the POH says indications should not be considered reliable below that range. Verify the actual panel, since later installations may differ.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-30 and 7-31",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=67",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-038",
+    "category": "cessna-150m",
+    "question": "Which instruments share the external static source in the 1976 Cessna 150M?",
+    "answer": "The airspeed indicator, altimeter and rate-of-climb indicator. A static-source problem can therefore affect several instruments at once; the pitot tube alone supplies ram pressure to the airspeed indicator.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-29, Pitot-Static System and Instruments",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=66",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-039",
+    "category": "cessna-150m",
+    "question": "Does the original 1976 Cessna 150M stall-warning horn depend on battery power?",
+    "answer": "No. It is pneumatic: airflow through an inlet in the left wing leading edge operates a horn. The POH preflight check uses suction through a clean cloth over the inlet to confirm that the horn sounds.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-32, Stall Warning System",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=68",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-040",
+    "category": "cessna-150m",
+    "question": "How is the 1976 Cessna 150M steered while taxiing?",
+    "answer": "Rudder pedals steer the nosewheel through a spring-loaded linkage; differential braking can tighten the turn. Use brakes sparingly and avoid forcing the nose gear beyond its towing limits during ground handling.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-8 and 7-9, Ground Control",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=56",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-041",
+    "category": "cessna-150m",
+    "question": "How does the 1976 Cessna 150M flap switch behave differently in DOWN and UP?",
+    "answer": "Extension requires holding the spring-loaded switch DOWN. UP has a detent and continues retraction without being held; intermittent selection allows gradual retraction. Watch the mechanical position indicator and return the switch to center after retraction.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-9, Wing Flap System",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=56",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-042",
+    "category": "cessna-150m",
+    "question": "How do you secure the manual primer after use in the 1976 Cessna 150M?",
+    "answer": "Push it fully in and rotate the knob until it is locked and cannot be pulled out. The POH includes IN and LOCKED in its checks; simply pushing the plunger inward does not prove it is secured.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-19, Carburetor and Priming System; Section 3, p. 3-4",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=61",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-043",
+    "category": "cessna-150m",
+    "question": "What configuration and speed underlie the 1976 Cessna 150M maximum-glide chart?",
+    "answer": "60 KIAS, flaps up and a windmilling propeller, with zero wind for the charted ground distance. Wind, configuration and terrain affect where you can actually reach; do not assume a still-air chart guarantees runway range.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-9, Figure 3-1",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=17",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-044",
+    "category": "cessna-150m",
+    "question": "Does installing pitot heat make the 1976 Cessna 150M approved for known icing?",
+    "answer": "No. The limitations prohibit flight into known icing conditions. Pitot heat protects the pitot system; it does not turn the airplane into an ice-protected aircraft or remove that prohibition.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-7; Section 7, p. 7-29",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=11",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-045",
+    "category": "cessna-150m",
+    "question": "What assumptions should you check before using a 1976 Cessna 150M takeoff-distance number?",
+    "answer": "The chart assumes flaps up, full throttle before brake release, a paved level dry runway, zero wind and the specified maximum-performance technique. Use the correct pressure altitude and temperature, then apply the stated corrections and appropriate planning margin.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-11, Figure 5-4; pp. 5-3 and 5-4",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=37",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-046",
+    "category": "cessna-150m",
+    "question": "Can you use the paved-runway takeoff distance unchanged on dry grass in the 1976 Cessna 150M?",
+    "answer": "No. The takeoff chart calls for increasing the distances by 15% of the ground-roll figure for dry grass. This is an addition based on ground roll, including when correcting the total distance over a 50-foot obstacle; it is not a wet- or soft-field guarantee.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-11, Figure 5-4 note 5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=37",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-047",
+    "category": "cessna-150m",
+    "question": "Where should you get the empty weight and moment for loading a particular 1976 Cessna 150M?",
+    "answer": "Use that airplane's current weight-and-balance records and installed-equipment information. The POH sample and advertised standard empty weights are examples, not substitutes for the airplane as presently equipped.",
+    "source": "1976 Cessna 150M POH, Section 6, pp. 6-3 through 6-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=43",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-048",
+    "category": "cessna-150m",
+    "question": "What additional fuel allowance is required when using the 1976 Cessna 150M time/fuel/distance-to-climb chart?",
+    "answer": "Add 0.8 U.S. gallon for engine start, taxi and takeoff. The chart also calls for increasing climb time, fuel and distance by 10% for each 8 degrees C above standard temperature. Plan cruise, reserves and actual operating conditions separately.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-13, Figure 5-6 notes 1-3",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=38",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-049",
+    "category": "cessna-150m",
+    "question": "What must be checked after adjusting a seat in the 1976 Cessna 150M?",
+    "answer": "Release the adjustment control and verify the seat has locked in place. The POH explicitly calls for this check; a seat that slides during takeoff can interfere with both control reach and control inputs.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-10 and 7-11, Seats",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=57",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-050",
+    "category": "cessna-150m",
+    "question": "What does the 1976 Cessna 150M POH emphasize after an engine failure just after takeoff?",
+    "answer": "Promptly lower the nose to preserve airspeed and establish a glide. In most cases, plan a landing generally ahead, changing direction only as needed for obstacles; the POH warns that a return turn usually lacks sufficient altitude and airspeed. Brief suitable options before takeoff.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-9, Engine Failure amplified procedures",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=17",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  }
+]

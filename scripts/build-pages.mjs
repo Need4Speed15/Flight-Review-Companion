@@ -11,7 +11,7 @@ html=html.replace(/<p>Study data saves in this browser\. Optional account sync[\
 html=html.replace(/<p>Use “Suggest a correction”[\s\S]*?<\/p>/,'<p>“Suggest correction on GitHub” opens a new public issue with the card and source already filled in. A GitHub account is required to submit an issue. Include no private medical or flight information. Private review flags stay in your browser and notify nobody.</p>');
 html=html.replace('Progress saves in this browser. Optional account sync is available through Sync & backup.','Progress saves in this browser. Export a backup for safekeeping or to transfer it to another device.');
 writeFileSync(path.join(out,'index.html'),html);
-for(const file of ['cards.js','source-enhancements.js','study-store.js','script.js','styles.css','favicon.svg']){
+for(const file of ['cards.js','source-enhancements.js','aircraft-cards.js','study-store.js','script.js','styles.css','favicon.svg']){
  if(!existsSync(path.join(root,file)))throw Error('Missing public asset: '+file);
  copyFileSync(path.join(root,file),path.join(out,file));
 }

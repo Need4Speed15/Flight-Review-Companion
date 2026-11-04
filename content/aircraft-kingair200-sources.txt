@@ -1,0 +1,13 @@
+Super King Air 200/200C handbook research — November 3, 2026
+
+Primary document: manufacturer-authored POH and FAA-approved AFM, P/N 101-590010-127, original October 1978, Revision A13 January 2002, including inserted 1997 temporary changes.
+Public reference mirror: https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf
+369 PDF pages. The scan is image-based; relevant sections were rendered and read with OCR assistance. Critical airspeed, weight, and icing-limit tables were visually checked against the scan. No manual file is redistributed in the site or repository.
+
+Title-page applicability: BB-2; BB-6–733; BB-735–792; BB-794–828; BB-830–853; BB-871–873; BB-892, 893, 895, 912; BL-1–36. Original PT6A-41 configuration only. Not B200, 250, 260, 350; no blanket applicability to modified aircraft, later engine/propeller/gear systems, or current operator approvals.
+
+80 original cards, KA200-001–080, category king-air-200. Each card names the model, carries the exact edition and actual research date, and links to a specific PDF page. Coverage: engine/control indications, propellers and autofeather, rudder boost/trim, ice protection and icing exit decisions, limits with KIAS/KCAS and serial distinctions, weight/CG/loading, main/auxiliary fuel and crossfeed, electrical supply/failure recognition, electromechanical landing gear, pressurization, oxygen configuration, doors/cargo, and takeoff planning.
+
+PDF mapping: 2 title; 30=1-8; 42=2-3; 44=TC2 beta prohibition; 47=2-6; 48=2-7; 49=2-8; 51=2-10; 52=2-11; 53=2-12; 55=2-12B; 56=2-13; 82=3-9; 110=4-18A; 112=4-19; 119=5-4; 120=5-5; 283=7-5; 292=7-14; 295=7-17; 296=7-18; 299=7-21; 300=7-22; 304=7-26; 305=7-27; 306=7-28; 308=7-30; 309=7-31; 311=7-33; 312=7-34; 313=7-35; 315=7-37; 317=7-39; 318=7-40; 322=7-44; 324=7-46.
+
+Editorial controls: no copied full checklists, no simulator manuals, no unqualified B200 performance. Calibrated overhead placard speeds are distinguished from indicated-speed table entries. Early/later VMO/MMO and cabin-pressure markings are qualified by serial/modification. Deliberately omitted the archived boot-inflation accumulation threshold rather than teaching it as current universal icing guidance. Optional Part 25-style performance data are distinguished from certification and operating-rule compliance. Current aircraft documents, ADs, modifications and supplements must be checked before actual operation.

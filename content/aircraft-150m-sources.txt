@@ -1,0 +1,38 @@
+Cessna 150M aircraft-category research and verification
+Reviewed: 2026-11-03
+Output: 50 original practical study cards, IDs C150M-001 through C150M-050.
+
+PRIMARY SOURCE
+1976 Cessna Model 150M Pilot's Operating Handbook, manufacturer-authored scanned reprint hosted by AeroElectric:
+https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf
+Reprint identifier shown in the front matter: D1055-13-RAND-5000-5/77.
+The reprint states that it incorporates supplement D1055S113, dated 8/75, concerning the restraint system for serial 15077380 and on.
+The source is a third-party mirror of the Cessna-authored handbook, not a manufacturer-hosted current aircraft-specific manual.
+
+APPLICABILITY
+This category is specifically 1976 Cessna 150M with the original Continental O-200-A and fixed-pitch propeller configuration described in this edition. It is not a category for every Cessna 150, the Cessna 152, engine conversions or every avionics installation. Actual aircraft limitations, placards, current POH/AFM, supplements, modifications, equipment and weight-and-balance records control. Historical handbook facts are not proof of applicability to a particular tail number.
+
+METHOD
+Downloaded the 98-page primary scan into ignored .sites-runtime; read the actual handbook text and inspected the scan images for the airspeed limits, normal operation speed table, fuel capacities, loading limits, maximum-glide diagram, and time/fuel/distance-to-climb notes. The scan often combines two printed pages on one PDF page. Card citations give printed page/figure references and sourceUrl anchors use one-based PDF page numbers.
+The OCR contains misread letters and merged columns, so the scanned tables, rather than OCR alone, controlled speed and capacity transcription. Questions and answers use original explanatory wording and selected facts, not reproduced full checklists.
+
+SIGNIFICANT CHECKS
+- The 1976 tables distinguish KIAS and KCAS. Cards use indicated knot values explicitly. Examples: VFE 85 KIAS versus 89 KCAS; VNO 107 KIAS versus 104 KCAS; VA 97/93/88 KIAS at 1600/1450/1300 lb. Do not substitute mph figures from other years or models.
+- Standard tanks: 26 U.S. gallons total / 22.5 usable. Long-range: 38 total / 35 usable. Separate cards name the tank configuration. Capacity facts were checked visually on printed p. 1-4.
+- Engine maximum 100 BHP at 2750 RPM, maximum takeoff and landing weight 1600 lb, baggage Area 1 max 120 lb / Area 2 max 40 lb / combined max 120 lb, and CG requirements were checked against Section 2.
+- Normal takeoff nosewheel-lift target 50 KIAS is kept distinct from maximum-performance chart liftoff data. The 50-foot obstacle target is 60 KIAS; Vx is separately 56 KIAS.
+- Best glide is 60 KIAS with flaps up and windmilling propeller; power-off landing approach speeds are different and are not substituted for the maximum-glide chart.
+- Demonstrated crosswind 13 knots is described as demonstrated capability, not a certification operating limitation.
+- Oil sump/dipstick quantities are distinguished from additional oil in an optional full-flow filter.
+- Dry-grass takeoff correction adds 15% of ground roll to the charted distance; no extrapolated wet/soft-field guarantee is offered.
+- The handbook's 0.8-gallon start/taxi/takeoff allowance and climb-temperature correction were checked visually on printed p. 5-13.
+- No modern fuel approval, current regulatory rule or broad serial applicability was inferred from this historical manual. Fuel-grade trivia and detailed historical avionics procedures were intentionally omitted.
+
+CONTENT QUALITY
+The 50 cards cover useful limitations, normal operations, fuel/oil planning, systems recognition, emergency priorities, loading and chart interpretation. Repeated safety principles shared by all airplanes are made model-specific through the cited installation, limitation or procedure. Distinct cards are not reverse phrasings of the same question. The two fuel-capacity cards intentionally distinguish mutually exclusive standard and optional long-range installations.
+
+UNCERTAINTIES / LIMITS
+This is not a revision-controlled manual assigned to the user's airplane, and complete amendment status cannot be established from a public scan. Installed avionics, vacuum instruments, alternators, fuel systems, engines and restraint configurations may have changed. The cards explicitly qualify original installations when relevant. They are study aids rather than operational checklists; emergency excerpts deliberately do not attempt to replace complete current procedures.
+
+VALIDATION
+JSON parsed successfully. Exactly 50 cards; unique IDs and unique normalized question text; every card names the 1976 Cessna 150M, has a page-specific primary source link, and includes edition, review date and applicability verification metadata. Manual semantic review found no duplicate question intents within this batch.

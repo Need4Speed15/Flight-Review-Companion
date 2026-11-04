@@ -1,0 +1,118 @@
+Cessna 172S handbook research and card review
+Reviewed: 2026-11-03
+Category key: cessna-172s
+Cards: 60 (C172S-001 through C172S-060)
+
+PRIMARY HANDBOOK
+Cessna Model 172S Pilot's Operating Handbook and FAA Approved Airplane
+Flight Manual. Original issue July 8, 1998; Revision 5 July 19, 2004;
+publication 172SPHUS05. Publication page states serial numbers 172S8001
+and on. The mirrored airplane-specific copy is for N552SP / 172S9404.
+This is the conventional-panel handbook, not a Garmin G1000 handbook.
+
+Manufacturer-authored handbook hosted by a flight-operator mirror:
+https://www.efcokc.com/planes/552SPPOH.pdf
+384 PDF pages. Source anchors use 1-based PDF page numbers, which differ
+from the chapter-page numbers printed on the handbook pages.
+Downloaded copy SHA-256:
+54D2529B9931A9F80A450044C9F3B377F78637182328D8DBCE7A4E6A064D4845
+
+METHOD AND SCOPE
+Read the primary PDF sections directly; answers were not derived from
+third-party aircraft summaries. Text extraction was checked against page
+renderings for the airspeed limits (PDF 48 / printed 2-4) and the dense
+takeoff-performance table (PDF 134 / printed 5-14). In particular, OCR
+misreads some 9s as I and the engine name as 10-360-L24; the cards use
+the actual Lycoming IO-360-L2A designation and 9-knot headwind increment.
+
+Each card names Cessna 172S, provides a specific printed section/page,
+links to its primary PDF page, and carries the exact edition and review
+date. Questions and explanations are original, concise study material.
+They do not reproduce complete operating or emergency checklists.
+The set covers configuration, fuel and oil, loading/CG, useful airspeed
+limits, instrument/electrical systems, preflight and normal procedures,
+recognition of selected emergencies, and applied performance planning.
+
+IMPORTANT APPLICABILITY LIMIT
+The 2004 revision is the edition inspected, not a claim that this is the
+latest handbook or current approved information for every 172S. Individual
+serial numbers, supplements, modifications, avionics installations, and
+current airplane records can change applicability. Later 172S G1000 and
+other 172 variants must not inherit the conventional-panel vacuum,
+electrical, procedures, or equipment assumptions. The actual aircraft's
+current approved POH/AFM, supplements, placards and weight/balance records
+remain the operating authority. The publicly mirrored PDF is linked for
+fact-checking; the PDF is not added to the site's tracked content.
+
+CHECKED PAGE MAP (1-based PDF page -> printed handbook page)
+5 -> publication v: edition, revision, serial applicability
+20 -> 1-4: engine, rated power and propeller
+23 -> 1-7: standard airplane weights and baggage context
+48 -> 2-4: VA, VFE, VNO, VNE
+49 -> 2-5: powerplant limits and static RPM
+51 -> 2-7: normal/utility weights, baggage, normal CG
+52 -> 2-8: utility CG
+54 -> 2-10: known-icing prohibition
+55 -> 2-11: fuel grades, usable fuel, selector restrictions, flap ranges
+64 -> 3-4: engine failure immediately after takeoff
+65 -> 3-5: engine restart, emergency landing without power
+80 -> 3-20: engine-driven fuel-pump failure
+81 -> 3-21: low oil pressure
+93-95 -> 4-9 through 4-11: preflight contamination, oil, seat locks,
+avionics and fuel-control checks
+96 -> 4-12: warm-start priming note
+99 -> 4-15: run-up, normal takeoff
+100 -> 4-16: short-field takeoff, climb, cruise
+101 -> 4-17: normal/short-field landing, balked landing, shutdown
+124 -> 5-4: conservative takeoff-table rounding
+126-127 -> 5-6 through 5-7: climb temperature correction and fuel planning
+133 -> 5-13: demonstrated crosswind explicitly not a limitation
+134 -> 5-14: short-field takeoff chart, wind and dry-grass corrections
+147 -> 6-3: airplane-specific weight-and-balance information
+191 -> 7-21: oil quantity
+192 -> 7-22: magnetos and automatic alternate induction air
+193 -> 7-23: cooling, fixed-pitch propeller, fuel system
+195 -> 7-25: fuel indications, unusable fuel, transmitter failure
+196 -> 7-26: venting, filler tabs, selector use
+201 -> 7-29: electrical ratings
+208 -> 7-34: avionics master and ammeter
+209 -> 7-35: low voltage and battery discharge after alternator loss
+215 -> 7-41: pitot/static and alternate cabin static source
+217 -> 7-43: dual vacuum pumps and vacuum-driven gyros
+219 -> 7-45: gauge normal range and individual pump annunciations
+220 -> 7-46: pneumatic stall warning
+
+NUMERIC AND APPLICATION CHECKS
+- 180 hp / 2700 RPM; fixed-pitch propeller; static range 2300-2400 RPM.
+- 56 gallons total / 53 usable; tabs 17.5 usable per tank.
+- 5-quart minimum; 8 quarts for extended flight.
+- Normal ramp 2558 lb, takeoff/landing 2550 lb; utility takeoff/landing
+  2200 lb with rear seat unoccupied and baggage empty.
+- Baggage limits 120 lb area 1, 50 lb area 2, 120 lb combined.
+- At 2550 lb normal forward CG is 41.0 inches: the 39-inch example fails.
+- VA 105/98/90 KIAS at 2550/2200/1900 lb. VFE 110 at 10 degrees,
+  85 beyond 10 through 30 degrees. VNO 129; VNE 163 KIAS.
+- Run-up at 1800 RPM: maximum magneto drop 150, differential 50 RPM.
+  These differ from familiar limits on some other Cessna installations.
+- Short-field takeoff 10 degrees / 56 KIAS over obstacle; slow retraction
+  after 60 KIAS. Short-field landing 30 degrees / 61 KIAS until flare.
+- The 68-KIAS restart speed is distinguished from 70-up/65-down KIAS
+  immediate-after-takeoff and forced-landing checklist values.
+- 15-knot demonstrated crosswind is expressly not a limitation.
+- Takeoff chart: 2550 lb, 2000-foot pressure altitude, 30 C: 1285-foot
+  ground roll / 2190 feet over 50 feet, subject to chart conditions.
+- Wind correction is minus 10% per 9 knots headwind; plus 10% per 2
+  knots tailwind up to 10 knots. Both rules are in note 3.
+- Dry-grass correction adds 15% of the ground-roll figure to both
+  distances; example 1000/1700 becomes 1150/1850 feet.
+- Above-standard climb correction applies to time, fuel AND distance.
+- The fuel-planning example's reserve is not described as a universal
+  regulatory fuel minimum.
+
+VALIDATION
+Passed JSON parse, exact requested schema, exactly 60 cards, sequential
+unique IDs, 60 normalized unique questions, model name in every question,
+category key check, review-date check, and valid manufacturer-page anchors
+within the downloaded 384-page PDF. Internal topical review found no
+simple reworded duplicates. Site-wide integration and UI testing are the
+parent task's responsibility.

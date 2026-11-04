@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#07131d">
-  <meta name="description" content="Practice aviation knowledge with 2,245 sourced flashcards: U.S. flight review, IFR, airline operations, weather, aircraft systems, and worked scenarios.">
+  <meta name="description" content="Practice aviation knowledge with 2,495 sourced flashcards: U.S. flight review, IFR, airline operations, weather, model-specific aircraft study, and worked scenarios.">
   <title>Flight Review Companion</title>
   <link rel="icon" type="image/svg+xml" href="assets/brand/flight-path.svg">
   <link rel="stylesheet" href="styles.css">
@@ -33,7 +33,7 @@
               <button class="quiet-button" id="inboxButton" type="button" hidden>Report inbox</button>
               <button class="quiet-button" id="sourcesButton" type="button">Sources &amp; about</button>
             </div>
-            <span class="review-date">Library updated <time datetime="2026-10-29">Oct 29, 2026</time></span>
+            <span class="review-date">Library updated <time datetime="2026-11-03">Nov 3, 2026</time></span>
           </div>
         </details>
       </div>
@@ -95,6 +95,11 @@
           </div>
         </div>
         <fieldset class="topic-fieldset"><legend class="sr-only">Choose study topics</legend><div id="categoryGrid" class="category-grid"></div></fieldset>
+        <section id="aircraftSection" class="aircraft-section" aria-labelledby="aircraftSectionTitle">
+          <div class="section-heading"><h2 id="aircraftSectionTitle">Aircraft-specific study</h2><span id="aircraftSummary"></span></div>
+          <p class="help-copy">Choose the exact model you want to review. Each category identifies its handbook edition; your aircraft’s current documents and supplements control.</p>
+          <fieldset class="topic-fieldset"><legend class="sr-only">Choose aircraft-specific study topics</legend><div id="aircraftCategoryGrid" class="category-grid"></div></fieldset>
+        </section>
         <p class="home-study-note">Study aid only. Check current sources and your aircraft’s operating documents.</p>
       </section>
 
@@ -197,7 +202,7 @@
         </div>
 
         <h2 id="studyHeading" class="sr-only">Study session</h2>
-        <p id="aircraftNotice" class="aircraft-notice" hidden>Aircraft-specific reference: CTLS cards use the archived 2009 Rev. 8 AOI. Confirm every limit and procedure against the current documents for your aircraft.</p>
+        <p id="aircraftNotice" class="aircraft-notice" hidden>Aircraft-specific reference: confirm the model, handbook edition, current supplements, equipment and placards for your aircraft.</p>
         <div class="card-stage">
           <article class="flashcard" id="flashcard" aria-label="Study card">
             <div class="card-face card-front">
@@ -264,7 +269,7 @@
       <p>These concise questions support recall and discussion, primarily under U.S. rules. Try explaining a scenario in your own words, then check the linked source. “Know it” is a self-rating, not proof of proficiency. A starter mix is a sample, not a complete syllabus.</p>
       <h3>Sources and scope</h3>
       <p>Source links open in a new tab. Regulations, authorizations, and aircraft procedures can change. The library update date records an editorial release, not a guarantee that every linked source or answer was revalidated that day. Regional, operator, and aircraft-specific guidance is not universal.</p>
-      <p>CTLS cards use the archived manufacturer AOI, AF 043 00005 Rev. 8 (2009). Aircraft serial-number applicability and current supplements have not been verified. Use your current aircraft documents, supplements, and placards for actual operation.</p>
+      <p>Aircraft categories identify their exact model and archived handbook edition. The 172S uses a conventional panel; the 150M is the 1976 model; the Archer is an Archer II PA-28-181; the King Air is the original PT6A-41-powered 200/200C. CTLS cards use AOI AF 043 00005 Rev. 8 (2009). These references do not establish applicability to an individual aircraft. Use its current operating documents, supplements, equipment list and placards for actual operation.</p>
       <h3>Your study data</h3>
       <p>Study data saves in this browser. Optional account sync sends your session, recall history, bookmarks, flags, and saved mixes to storage tied to your signed-in account. It stays separate from other learners. Sync is off until enabled on this device. Turning it off stops syncing but keeps the saved cloud copy. Clearing browser data can erase unsynced progress. The hosting service handles any sign-in and its own service data; source links lead to external websites.</p>
       <h3>Found a questionable card?</h3>
@@ -298,6 +303,7 @@
 
   <script src="cards.js"></script>
   <script src="source-enhancements.js"></script>
+  <script src="aircraft-cards.js"></script>
   <script src="study-store.js"></script>
   <script src="script.js"></script>
 </body>

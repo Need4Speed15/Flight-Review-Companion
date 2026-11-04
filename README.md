@@ -2,7 +2,7 @@
 
 **[Open the public study website](https://need4speed15.github.io/Flight-Review-Companion/)** · Version **v1.1.0**
 
-A flashcard library for U.S. flight-review preparation, IFR refreshers, and professional operations, with **2,245 cards in 25 categories**. It combines 2,235 reference cards with ten illustrated Practical Scenarios for interpreting weather, airport signs, loading, fuel, performance, and approach constraints. Part 121 Ops has 250 cards and Instrument / IFR Refresher has 200.
+A flashcard library for U.S. flight-review preparation, IFR refreshers, and professional operations, with **2,495 cards in 29 categories**. It combines a 2,235-card base, ten illustrated Practical Scenarios, and 250 new aircraft-handbook cards. Part 121 Ops has 250 cards and Instrument / IFR Refresher has 200.
 
 The public website runs on GitHub Pages without requiring an account. It saves study data in the visitor's browser and offers backup export/import. Card corrections open GitHub Issues. The retained private ChatGPT Sites edition has the optional account-sync and report-inbox backend.
 
@@ -24,6 +24,7 @@ Progress is specific to a browser and website address. To move progress from the
 The homepage starts with topic selection and a compact study bar. Starter mixes and the review queue expand on demand; Session options holds order, size, and focus settings. The header's Study tools menu contains whole-library card search, bookmarks, flags, sync, backups, sources, and the owner's report inbox. A saved session appears as a compact Resume banner, and untouched topics omit empty progress counters.
 
 - Browse topic groups, search categories, and select one or more topics. Inspect lists matching questions with search, subtopic, bookmark, and flag filters.
+- Find every model-specific category in the Aircraft-specific study section, including the existing Flight Design CTLS. New decks cover the conventional-panel Cessna 172S (60), 1976 Cessna 150M (50), Piper Archer II PA-28-181 (60), and PT6A-41-powered Super King Air 200/200C (80). Category descriptions and study notices identify handbook editions and applicability.
 - Choose shuffled or ordered study, a session size, and a subtopic focus. Custom Study draws a requested number of random cards from each category; named mixes save those quantities for reuse.
 - Resume the current session, reveal answers, bookmark or flag a card, and rate recall with Know it or Review again. Session replacement asks before discarding an unfinished set.
 - Recall history persists between sessions. The dashboard offers due cards, cards needing more practice, and unseen cards, with category progress. These self-ratings guide review; they do not establish pilot proficiency.
@@ -62,6 +63,7 @@ The build runs `scripts/prepare-library.mjs` to copy study assets into `public/`
 | `study-store.js` | Browser-local record persistence, review scheduling, validation, and merging. |
 | `cards.js` | The 2,235-card base library, categories, and reference directory. |
 | `source-enhancements.js` | Post-content overlay: more specific citations, source metadata, and ten Practical Scenarios. |
+| `aircraft-cards.js` | Generated overlay with four model-specific categories, 250 handbook-linked cards, and aircraft applicability metadata. |
 | `assets/practice/` | Ten original SVG training illustrations, each with accessible descriptions. |
 | `content/` | Expansion and revision inputs, category targets, research notes, content generation, and study/store tests. |
 | `app/`, `server/` | Hosted page route, authenticated APIs, server logic, and API tests. |
@@ -71,13 +73,13 @@ The build runs `scripts/prepare-library.mjs` to copy study assets into `public/`
 | `worker/`, `lib/`, framework configuration | Sites hosting, authentication, and framework integration. |
 | `favicon.svg` | Site icon. |
 
-The browser loads `cards.js`, then `source-enhancements.js`, then the store and application code. Keep that order: the overlay augments the existing content globals before the interface reads them.
+The browser loads `cards.js`, then `source-enhancements.js`, then `aircraft-cards.js`, then the store and application code. Keep that order: the overlays augment the existing content globals before the interface reads them.
 
 ## References and review metadata
 
 The source overlay improves **737 existing links** to eCFR sections, AIM sections, FAA handbook chapters, or a specific handbook directory. It preserves the original citation labels and previous URLs. This makes fact-checking easier; changing a link does not establish that its answer has been newly audited.
 
-All existing cards have `reviewedAt: null` with an explicit indication that an individual answer review date was not recorded. The ten newly authored examples have an actual review date of October 29, 2026. Their metadata distinguishes primary-reference checks from arithmetic checks with an FAA chapter reference. Known publication editions are identified; unknown editions remain unrecorded. See [source-enhancements-notes.md](content/source-enhancements-notes.md) for the exact scope, source mapping, and calculation checks.
+The base cards have `reviewedAt: null` with an explicit indication that an individual answer review date was not recorded. The ten practical examples were checked October 29, 2026; the 250 new aircraft cards were checked November 3, 2026 against the cited archived manufacturer-authored handbooks. Their exact PDF page links, edition metadata, and research notes are retained. That check does not establish applicability to a current individual aircraft. See [source-enhancements-notes.md](content/source-enhancements-notes.md) and `content/aircraft-*-sources.txt` for scope and source mapping.
 
 Each card has a stable `id`, `category`, `question`, `answer`, `source`, and `sourceUrl`. Optional fields are:
 
@@ -85,7 +87,7 @@ Each card has a stable `id`, `category`, `question`, `answer`, `source`, and `so
 - `sourceMetadata` containing `edition`, `reviewedAt`, `verificationStatus`, and, when applicable, `linkUpdatedAt`.
 - `sourceOriginalUrl` and `additionalSourceLinks` to retain prior references and other cited sections.
 
-Training diagrams, example reports, and supplied numerical data are fictional and labeled accordingly. The Flight Design CTLS category uses an archived AOI; the actual aircraft's current documents and applicability control. Carrier operations specifications, approved manuals, performance data, and training determine actual airline procedures and limits.
+Training diagrams, example reports, and supplied numerical data are fictional and labeled accordingly. Aircraft categories use archived manufacturer manuals: CTLS AOI Rev. 8 (2009), 172S 172SPHUS05 Rev. 5 (2004), 1976 150M D1055-13, Archer II VB-1120 (1979 original with revised pages), and King Air 200/200C 101-590010-127 Rev. A13 (2002). The actual aircraft's current documents and applicability control. Linked manuals are public reference copies, not redistributed files or a claim of manufacturer endorsement. Carrier operations specifications, approved manuals, performance data, and training determine actual airline procedures and limits.
 
 ## Content maintenance
 
@@ -93,7 +95,9 @@ Maintain expansion cards in `content/expansion-*.json`, revisions in `content/re
 
 Keep practice cards and source-resolution rules in `source-enhancements.js`. Preserve stable IDs when revising content so bookmarks and learning records continue to refer to the same question. Change category targets and count assertions deliberately when adding or removing cards.
 
-For factual changes, check current eCFR text for regulations and primary FAA or manufacturer material for guidance. Verify CTLS facts against the applicable aircraft's current AOI/POH, supplements, weight-and-balance record, equipment list, and placards. Record what was actually checked and its date; never infer individual review dates from a project-wide audit. Update visible release information when releasing content.
+Maintain the aircraft expansion in `content/aircraft-{172s,150m,archer2,kingair200}.json` and `content/aircraft-categories.json`. Run `node content/build-aircraft.cjs` to validate counts, IDs, normalized question uniqueness, citations and metadata, then regenerate `aircraft-cards.js`. Run `node content/test-aircraft.cjs` to verify that the original library remains unchanged and the overlay is safe to load twice. The base generator remains separate and does not overwrite the aircraft overlay.
+
+For factual changes, check current eCFR text for regulations and primary FAA or manufacturer material for guidance. Verify aircraft facts against the applicable aircraft's current AOI/POH/AFM, supplements, weight-and-balance record, equipment list, and placards. Record what was actually checked and its date; never infer individual review dates from a project-wide audit. Update visible release information when releasing content.
 
 Earlier research and review scope are documented in [CONTENT-AUDIT.md](CONTENT-AUDIT.md), [CONTENT-EXPANSION-2026-10-29.md](CONTENT-EXPANSION-2026-10-29.md), and [WEBSITE-REVIEW-2026-10-29.md](WEBSITE-REVIEW-2026-10-29.md).
 
@@ -104,10 +108,12 @@ Run the appropriate checks after changes:
 ```sh
 node --check cards.js
 node --check source-enhancements.js
+node --check aircraft-cards.js
 node --check study-store.js
 node --check script.js
 node content/test-store.cjs
 node content/test-study.cjs
+node content/test-aircraft.cjs
 node server/test-api.mjs
 npm run build
 ```

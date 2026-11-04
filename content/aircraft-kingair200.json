@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "KA200-001",
+    "category": "king-air-200",
+    "question": "Does a King Air 200 engine-fire warning mean an engine extinguisher system is installed?",
+    "answer": "No. The basic fire-detection system and the optional extinguishing system are distinct. Verify the installation and preflight tests. Where fitted, each engine’s extinguisher is a one-shot system; follow the complete engine-fire procedure rather than assuming repeated discharges are available.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-30",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=308",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-002",
+    "category": "king-air-200",
+    "question": "What does “free turbine” mean for the King Air 200’s PT6A-41?",
+    "answer": "The gas generator and propeller-driving power turbine have separate shafts. Gas flow transfers energy between them; gas-generator speed (Ng) and propeller speed (Np) are separate indications. Each engine is rated at 850 shaft horsepower.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §1, p. 1-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=30",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-003",
+    "category": "king-air-200",
+    "question": "What do the King Air 200’s power levers control in normal flight?",
+    "answer": "They command engine power through the fuel control’s gas-generator governor. Monitor torque and ITT rather than treating lever position as a guaranteed power setting.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-26",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=304",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-004",
+    "category": "king-air-200",
+    "question": "What do the King Air 200’s propeller levers control?",
+    "answer": "They select RPM through the primary propeller governors; moving a lever into the feather detent dumps governing oil so the blades move toward feather. The normal governing range in this handbook is 1600–2000 RPM.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-26",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=304",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-005",
+    "category": "king-air-200",
+    "question": "Which functions do the King Air 200’s condition levers select?",
+    "answer": "Fuel cutoff, low idle and high idle. They control fuel cutoff and the minimum gas-generator idle setting; they are not piston-engine mixture controls.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-26",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=304",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-006",
+    "category": "king-air-200",
+    "question": "How do ITT, torque, Ng and Np help you monitor a King Air 200 engine?",
+    "answer": "ITT shows gas temperature between turbine sections; torque shows load applied to the propeller; Ng shows gas-generator speed as a percentage; Np shows propeller RPM. Observe all applicable limits—one acceptable indication does not make an exceedance of another acceptable.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-26",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=304",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-007",
+    "category": "king-air-200",
+    "question": "Besides lubrication, what jobs does engine oil perform on the King Air 200?",
+    "answer": "It cools the engine and operates the propeller pitch-change and torquemeter systems. An oil-system problem can therefore affect more than bearing lubrication.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-27",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=305",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-008",
+    "category": "king-air-200",
+    "question": "What does a CHIP DETECT annunciation mean on the King Air 200?",
+    "answer": "The magnetic detector in the affected engine’s nose gearbox has detected contamination in the oil. The handbook identifies this as a possible warning of impending engine failure; use the applicable abnormal procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-27",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=305",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-009",
+    "category": "king-air-200",
+    "question": "What starter duty cycle does this King Air 200 handbook specify?",
+    "answer": "Up to 40 seconds on, then 60 seconds off; repeat once with the same pause. After a third 40-second attempt, allow 30 minutes off. Do not keep cranking past the prescribed cooling limits.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-010",
+    "category": "king-air-200",
+    "question": "May you lift the King Air 200 power levers over the flight-idle stop in flight?",
+    "answer": "No. The temporary change prohibits lifting them in flight or moving them below flight idle. Entering beta can cause a severe nose-down pitch and descent. Beta and reverse are ground-use ranges.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, temporary change 101-590010-127TC2",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=44",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-011",
+    "category": "king-air-200",
+    "question": "What moves the King Air 200 propeller toward feather when governing oil is released?",
+    "answer": "Centrifugal counterweights assisted by the feathering spring move the blades toward high pitch and feather. Governor-boosted oil pressure moves them toward low pitch and reverse.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-31",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=309",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-012",
+    "category": "king-air-200",
+    "question": "What backs up the primary propeller governor on the King Air 200?",
+    "answer": "A separate overspeed governor limits propeller speed if the primary governor calls for excessive RPM. A power-turbine fuel-topping governor provides another protective layer by reducing fuel flow. These protections do not authorize an overspeed or replace the AFM procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-31",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=309",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-013",
+    "category": "king-air-200",
+    "question": "When should the King Air 200 propeller synchrophaser be off?",
+    "answer": "For takeoff and landing. It is an in-flight aid that matches the right propeller to the left within limited authority; PROP SYNC ON warns if it is on with the gear extended. Set the propellers close manually before using it.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-27",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=305",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-014",
+    "category": "king-air-200",
+    "question": "Does selecting ARM alone fully arm the King Air 200 autofeather system?",
+    "answer": "No. Both power levers must also be advanced beyond the arming position described as above 90% Ng. Both green AUTOFEATHER lights confirm full arming. Retarding either power lever below that position makes the system inoperative.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-31",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=309",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-015",
+    "category": "king-air-200",
+    "question": "What happens to the other King Air 200 engine’s autofeather channel when one engine triggers feathering?",
+    "answer": "The system dumps propeller oil on the affected side and disarms the other engine’s autofeather channel. It is intended for takeoff and landing and is turned off when establishing cruise climb under this handbook.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-31",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=309",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-016",
+    "category": "king-air-200",
+    "question": "Does King Air 200 rudder boost eliminate the need to control yaw after an engine failure?",
+    "answer": "No. Pneumatic servos assist the pilot against asymmetric thrust by sensing a difference in engine bleed-air pressures. The pilot still controls direction and applies the needed trim.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=283",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-017",
+    "category": "king-air-200",
+    "question": "How can bleed-air switch selection affect King Air 200 rudder boost?",
+    "answer": "Moving either or both bleed-air switches to INSTR & ENVIR OFF disengages rudder boost. Consider that loss of assistance when following a procedure that isolates bleed air.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=283",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-018",
+    "category": "king-air-200",
+    "question": "What should the split electric-trim switch test demonstrate on a King Air 200 equipped with electric trim?",
+    "answer": "Neither individual switch element alone, nor two elements moved in opposite directions, should operate trim. A paired movement in the same direction should operate it. Check both control-wheel installations as specified.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=283",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-019",
+    "category": "king-air-200",
+    "question": "What altitude restriction follows a King Air 200 yaw-damper failure?",
+    "answer": "The yaw damper is required above 17,000 feet; with it inoperative, maximum operating altitude is 17,000 feet in this handbook. It should be deactivated for takeoff and landing. Its controls depend on whether an autopilot is installed, so use the applicable supplement.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-46; §2, p. 2-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=324",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-020",
+    "category": "king-air-200",
+    "question": "How do the King Air 200’s ice vanes protect the engines?",
+    "answer": "They change the inlet airflow path so heavier moisture particles continue out the bypass instead of entering the engine inlet. A green ICE VANE EXT light indicates extension; an amber ICE VANE light indicates failure to attain the selected position.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-28",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=306",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-021",
+    "category": "king-air-200",
+    "question": "When must King Air 200 ice vanes be extended under the cited limitations?",
+    "answer": "At +5°C or below whenever flight free of visible moisture cannot be assured. They must be retracted for takeoff and flight above +15°C. Engine icing can occur without visible airframe ice.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=53",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-022",
+    "category": "king-air-200",
+    "question": "After using a King Air 200 ice-vane manual extension handle, may you return to electric operation in flight?",
+    "answer": "No. The override remains engaged even if the handle is pushed back in. Do not attempt electrical extension or retraction until the override linkage has been properly reset on the ground.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-28; §2, p. 2-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=306",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-023",
+    "category": "king-air-200",
+    "question": "Why can King Air 200 torque fall when the ice vanes extend?",
+    "answer": "Inlet separation changes engine airflow. The handbook uses a torque drop as an operating check; power may be adjusted to regain torque only while observing ITT and other limits. Use performance data for the actual vane configuration.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-19",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=112",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-024",
+    "category": "king-air-200",
+    "question": "Why use King Air 200 reverse carefully on loose or unimproved surfaces?",
+    "answer": "Reversed airflow can erode the propellers and throw dust that obscures visibility. Also avoid moving the levers into reverse with the engines stopped, because the handbook warns of reversing-system damage.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-26",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=304",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-025",
+    "category": "king-air-200",
+    "question": "What airspeed and flap restrictions apply to sustained King Air 200 icing flight in this handbook?",
+    "answer": "The minimum sustained icing-flight airspeed is 140 knots. Sustained icing flight with flaps extended is prohibited except for approach and landing. These are limits, not assurance that staying in severe icing is safe.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=53",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-026",
+    "category": "king-air-200",
+    "question": "Which King Air 200 ice patterns require leaving the icing conditions?",
+    "answer": "Unusually extensive ice, ice on the upper wing aft of protected areas, or ice extending farther aft than usual on nacelles or spinners can indicate conditions beyond certification. Request priority handling for a route or altitude change to exit.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-027",
+    "category": "king-air-200",
+    "question": "When is King Air 200 autopilot use prohibited in icing under the cited limitations?",
+    "answer": "When the listed severe-icing visual cues appear, or when unusual lateral trim requirements or autopilot trim warnings occur in icing. The autopilot can mask handling cues; follow the exit and abnormal procedures.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-028",
+    "category": "king-air-200",
+    "question": "What must be operative before King Air 200 flight into icing at night?",
+    "answer": "All icing-detection lights. The cited severe-icing limitation explicitly overrides MMEL relief for those lights.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-12B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-029",
+    "category": "king-air-200",
+    "question": "Does deicing a King Air 200 earlier guarantee it is ready for takeoff?",
+    "answer": "No. Verify that it remains free of prohibited frozen contamination before takeoff. Ice, frost or snow lying on top of deicing/anti-icing fluid is still adhering contamination, not a clean-airplane condition.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18A",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=110",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-030",
+    "category": "king-air-200",
+    "question": "May you operate King Air 200 propeller deice with the propellers stopped?",
+    "answer": "No. The handbook specifically prohibits operating electrothermal propeller deice when the propellers are static.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-19",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=112",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-031",
+    "category": "king-air-200",
+    "question": "What are the King Air 200 flap speed limits in indicated airspeed?",
+    "answer": "For this basic handbook, approach flaps are limited to 200 KIAS and full-down flaps to 146 KIAS. The table also lists calibrated speeds; do not confuse the 144-KCAS full-flap value with 146 KIAS or copy another model’s limits.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-3",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=42",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-032",
+    "category": "king-air-200",
+    "question": "How do King Air 200 gear-extension and gear-retraction speed limits differ in KIAS?",
+    "answer": "Maximum extension and extended speed are 181 KIAS; maximum retraction speed is 163 KIAS. The corresponding calibrated values are 182 and 164 KCAS. Observe the actual aircraft’s approved markings and supplements.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-3",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=42",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-033",
+    "category": "king-air-200",
+    "question": "Why is a single VMO/MMO pair insufficient for every King Air 200 in this manual?",
+    "answer": "Serial and modification status determine the pair. Unmodified BB-2 through BB-198 use 269 KIAS/.48 Mach; BB-199 and later, BL-1 and later, and the specified modified earlier aircraft use 259 KIAS/.52 Mach. In each case use whichever limit is reached first.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-3",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=42",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-034",
+    "category": "king-air-200",
+    "question": "What weight qualification accompanies the King Air 200 maneuvering speed in this handbook?",
+    "answer": "The listed VA is 181 KIAS at 12,500 pounds. Do not assume that value applies at a lower weight, or that VA permits repeated, combined or unrestricted control inputs. The table prohibits full or abrupt control movements above it.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-3",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=42",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-035",
+    "category": "king-air-200",
+    "question": "What basic ramp, takeoff and landing weights does this King Air 200 handbook list?",
+    "answer": "Maximum ramp weight is 12,590 pounds; maximum takeoff and landing weights are 12,500 pounds. Part 135 takeoff weight is additionally limited by the enroute-weight graph. Performance, CG and supplements may impose lower limits.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-036",
+    "category": "king-air-200",
+    "question": "A King Air 200 weighs 12,000 pounds with 1,500 pounds of usable fuel. Is checking takeoff weight enough?",
+    "answer": "No. Zero-fuel weight is 10,500 pounds, which exceeds this handbook’s 10,400-pound maximum zero-fuel weight, even though total weight is below 12,500. Reduce nonfuel load; adding fuel cannot fix a zero-fuel-weight exceedance.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-037",
+    "category": "king-air-200",
+    "question": "Why must King Air 200 CG be checked against weight rather than a single forward limit?",
+    "answer": "The forward CG boundary changes with weight: 185.0 inches at 12,500 pounds, varying linearly to 181.0 inches at 11,279 pounds and below. The aft limit is 196.4 inches. Use the applicable loading data and check relevant fuel-burn conditions.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=52",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-038",
+    "category": "king-air-200",
+    "question": "How does the aft fold-up-seat installation change the King Air 200 baggage limit?",
+    "answer": "The baggage-compartment limit is 370 pounds when equipped with fold-up seats, versus 410 pounds without them. Staying under that compartment limit does not replace total-weight, CG and restraint checks.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-039",
+    "category": "king-air-200",
+    "question": "May you use King Air 200 crossfeed simply to balance fuel with both engines operating?",
+    "answer": "No. This handbook permits crossfeeding only when one engine is inoperative. Do not import a balancing procedure from another King Air variant.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-040",
+    "category": "king-air-200",
+    "question": "In what order should King Air 200 main and auxiliary tanks be fueled?",
+    "answer": "Do not put fuel into the auxiliary tanks unless the main tanks are full. Confirm tank configuration and use the actual aircraft’s servicing instructions.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-041",
+    "category": "king-air-200",
+    "question": "What main-tank fuel indication prevents King Air 200 takeoff?",
+    "answer": "Do not take off if either main-tank indication is in the yellow arc or indicates less than 265 pounds. Verify main rather than auxiliary quantity; adequate total fuel alone does not satisfy this limitation.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-042",
+    "category": "king-air-200",
+    "question": "What fuel-imbalance limit does this King Air 200 handbook specify?",
+    "answer": "Maximum allowable imbalance between the wing fuel systems is 1,000 pounds. A structural limit is not a recommended target imbalance; plan and monitor fuel use within all applicable procedures.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-043",
+    "category": "king-air-200",
+    "question": "Do the King Air 200 fuel gauges show gallons or pounds, and what does their selector change?",
+    "answer": "They indicate pounds. The MAIN/AUXILIARY selector chooses which tank system the two side gauges display. Check the selected system before interpreting an apparent shortage or planning takeoff.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-35",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=313",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-044",
+    "category": "king-air-200",
+    "question": "How is King Air 200 auxiliary fuel normally used?",
+    "answer": "A motive-flow jet pump automatically transfers it into the nacelle tank. Auxiliary fuel is used first while the nacelle tank is maintained full; after auxiliary depletion, main-wing fuel feeds into the nacelle by gravity.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-045",
+    "category": "king-air-200",
+    "question": "What does a King Air 200 NO TRANSFER light with fuel remaining in the auxiliary tank suggest?",
+    "answer": "The system is not sensing the expected transfer motive-flow pressure. Use the auxiliary-transfer abnormal procedure; a manual OVERRIDE is provided. Do not assume auxiliary fuel is reaching the engine merely because the quantity gauge shows it aboard.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33–34",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-046",
+    "category": "king-air-200",
+    "question": "How does failure of the King Air 200 high-pressure fuel pump differ from failure of its primary boost pump?",
+    "answer": "The high-pressure engine-driven pump’s failure causes an immediate flameout. A primary low-pressure boost-pump failure instead calls for the standby boost pump and checking that FUEL PRESS extinguishes. They are different pumps and failures.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-047",
+    "category": "king-air-200",
+    "question": "What jobs does the King Air 200 standby boost pump perform?",
+    "answer": "It backs up the primary boost pump, supports the specified hot-aviation-gasoline operations, and supplies fuel during crossfeed. It is electrically driven in the nacelle tank.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-048",
+    "category": "king-air-200",
+    "question": "How does an inoperative King Air 200 standby boost pump affect crossfeed?",
+    "answer": "Fuel cannot be crossfed from the side with the inoperative standby pump. An allowance for takeoff with one standby pump inoperative does not preserve crossfeed capability from both sides.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-8; §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=49",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-049",
+    "category": "king-air-200",
+    "question": "Why check both King Air 200 standby-pump switches OFF at shutdown even with the battery master off?",
+    "answer": "The pumps also have a hot-battery-bus power supply. They can run with the master off and discharge the battery.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-050",
+    "category": "king-air-200",
+    "question": "Is approved aviation gasoline an unrestricted substitute for turbine fuel in the King Air 200?",
+    "answer": "No. It is an emergency fuel subject to a 150-hour limit between engine overhauls and additional altitude, standby-pump and crossfeed restrictions. Record its use and follow the full limitations; ordinary Jet A operating assumptions are insufficient.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-7",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-051",
+    "category": "king-air-200",
+    "question": "Does a King Air 200 fuel-filter bypass make contaminated fuel harmless?",
+    "answer": "No. The bypass can preserve fuel flow if a firewall filter blocks or ices, but filtration is then bypassed. It is a flow-protection feature, not permission to accept contaminated fuel.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-33",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=311",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-052",
+    "category": "king-air-200",
+    "question": "What should be sampled during King Air 200 preflight fuel checks?",
+    "answer": "The tank, pump and filter sumps—not just a single convenient drain. The basic installation has five sump drains and one filter drain per wing; use the handbook locations and check for contamination.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-34",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=312",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-053",
+    "category": "king-air-200",
+    "question": "What supplies the King Air 200’s normal DC electrical system?",
+    "answer": "A nominal 28-volt DC system supplied by a battery and two engine-driven starter/generators. The interconnected buses distribute power; the hot battery bus can power selected equipment with the battery master off.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-35",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=313",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-054",
+    "category": "king-air-200",
+    "question": "Why can a King Air 200 inverter failure affect engine indications as well as avionics?",
+    "answer": "The selected inverter supplies AC avionics power and 26-volt AC for the torquemeters; early serials also use it for fuel-flow indicators. Check the applicable instruments and use the inverter-failure procedure rather than assuming a DC generator failed.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-35",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=313",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-055",
+    "category": "king-air-200",
+    "question": "What does a DC GEN light require you to consider on the King Air 200?",
+    "answer": "The affected generator is off line. Follow the serial-specific reset procedure; if it will not reset, leave it off and manage load on the remaining generator within its limit. A second generator is not an unlimited electrical reserve.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=82",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-056",
+    "category": "king-air-200",
+    "question": "Does the King Air 200 generator’s full rated sustained load apply at every flight altitude?",
+    "answer": "No. The handbook allows 1.00 load through 31,000 feet and 0.88 above that altitude. Ground operation has separate load and minimum-Ng restrictions.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-6",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=47",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-057",
+    "category": "king-air-200",
+    "question": "Why is a King Air 200 BATTERY CHG light in flight significant?",
+    "answer": "Excessive charge current can indicate battery overheating or a battery/detector malfunction. Use the battery-condition procedure and landing guidance; do not dismiss it as a normal post-start recharge indication.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-37",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=315",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-058",
+    "category": "king-air-200",
+    "question": "Why should the King Air 200 battery master be ON before applying external power?",
+    "answer": "The battery helps absorb voltage transients that could damage electrical equipment. Later serials also require it on for the external-power relay to close. Verify the correct external source and polarity using the aircraft procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-37",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=315",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-059",
+    "category": "king-air-200",
+    "question": "Should you routinely reset a tripped King Air 200 circuit breaker in flight?",
+    "answer": "No. The handbook says not to reset a nonessential circuit. For an essential circuit it permits a reset, but if the breaker trips again, do not reset it again. Identify the circuit and follow the applicable procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=82",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-060",
+    "category": "king-air-200",
+    "question": "What is the King Air 200 procedure’s rule for a tripped bus-feeder circuit breaker?",
+    "answer": "Do not reset it in flight; the handbook identifies it as an indication of a short. Determine affected equipment from the power-distribution schematic.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=82",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-061",
+    "category": "king-air-200",
+    "question": "Is the basic King Air 200 landing gear hydraulically or electrically actuated?",
+    "answer": "This handbook describes a 28-volt motor driving mechanical shafts/chains and actuators. Do not substitute a later-model hydraulic-gear procedure; identify the system actually installed.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-17",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=295",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-062",
+    "category": "king-air-200",
+    "question": "What do the King Air 200’s three green gear lights and red handle lights indicate?",
+    "answer": "Individual green lights indicate the corresponding gears down. Red handle lights indicate transit or an unlocked condition and also illuminate with gear-warning activation. Confirm the full down-and-locked indication rather than relying on handle position alone.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-17",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=295",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-063",
+    "category": "king-air-200",
+    "question": "When should pumping stop during King Air 200 manual gear extension?",
+    "answer": "When the GEAR DOWN lights illuminate. Excessive pumping can damage the drive mechanism and bind the clutch. Use the complete manual-extension procedure and its prerequisites.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-18",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=296",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-064",
+    "category": "king-air-200",
+    "question": "After an actual King Air 200 emergency gear extension, should you stow the pump handle or reset gear controls on the ground?",
+    "answer": "No. The handbook warns against stowing the handle, moving gear controls, or resetting switches/breakers until the airplane is on jacks, because an unresolved gear-up circuit fault could retract the gear. The separate practice-extension procedure is different.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-18",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=296",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-065",
+    "category": "king-air-200",
+    "question": "What protection does the King Air 200 flap system have against unequal flap movement?",
+    "answer": "A safety mechanism removes electrical power if a malfunction causes a flap to move sufficiently out of phase with the others. Do not assume this protection guarantees symmetric flaps after every malfunction; use the abnormal procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-17",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=295",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-066",
+    "category": "king-air-200",
+    "question": "What does the King Air 200 APPROACH flap detent select?",
+    "answer": "40% flaps. Travel between UP and APPROACH cannot be stopped at an intermediate setting through normal selection; intermediate positions are available between APPROACH and DOWN using the specified switch technique.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-17",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=295",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-067",
+    "category": "king-air-200",
+    "question": "What supplies and regulates King Air 200 cabin pressurization?",
+    "answer": "Engine compressor bleed air, mixed with ambient air, flows into the cabin. The controller modulates the outflow valve to regulate escape of air; pressurization depends on both inflow and controlled outflow.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-39",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=317",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-068",
+    "category": "king-air-200",
+    "question": "Which King Air 200 instruments show what the cabin is actually doing?",
+    "answer": "The cabin altimeter, cabin vertical-speed indicator and differential-pressure indication. The controller’s selected altitude is a command, not confirmation of the achieved cabin altitude or rate.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-40",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=318",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-069",
+    "category": "king-air-200",
+    "question": "What does selecting DUMP do to King Air 200 cabin pressure?",
+    "answer": "It holds the safety valve open so the cabin depressurizes or remains unpressurized. At altitude this can create an immediate oxygen requirement; use the relevant abnormal procedure and oxygen equipment.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-40",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=318",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-070",
+    "category": "king-air-200",
+    "question": "Why check King Air 200 serial number before memorizing its cabin differential-pressure red arc?",
+    "answer": "The instrument-marking table distinguishes aircraft before BB-195 (6.0 psi) from BB-195 and later and BL-1 and later (6.1 psi). The section also lists a 6.1-psi maximum cabin differential; apply the specific aircraft’s approved limits and markings.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-10; §2, p. 2-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=51",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-071",
+    "category": "king-air-200",
+    "question": "Does the King Air 200 ALT WARN light refer to aircraft flight altitude?",
+    "answer": "No. It warns of cabin altitude above about 12,500 feet. Treat it as a pressurization/oxygen warning and follow the appropriate procedure; it is not an altitude-clearance reminder.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-14; §7, p. 7-40",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=292",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-072",
+    "category": "king-air-200",
+    "question": "How is the King Air 200 cabin controller prepared for landing in this handbook?",
+    "answer": "Select a cabin altitude approximately 500 feet above landing-field pressure altitude and an appropriate cabin descent rate. Manage descent so the cabin reaches that value before the aircraft catches up, allowing pressure to equalize before touchdown.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-40",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=318",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-073",
+    "category": "king-air-200",
+    "question": "How do ENVIR OFF and INSTR & ENVIR OFF differ on a King Air 200 bleed-air switch?",
+    "answer": "ENVIR OFF shuts off environmental airflow while retaining pneumatic instrument air. INSTR & ENVIR OFF closes both paths. Identify the required position carefully when isolating a problem.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-44",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=322",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-074",
+    "category": "king-air-200",
+    "question": "Can you assume every King Air 200 has automatic drop-down passenger oxygen masks?",
+    "answer": "No. The handbook describes a manual plug-in system and an auto-deployment installation, with different equipment and use. Identify the installed system, check supply and mask availability, and brief passengers accordingly.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-44–45",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=322",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-075",
+    "category": "king-air-200",
+    "question": "How are King Air 200 diluter-demand crew masks counted in the oxygen-duration calculation when set to 100%?",
+    "answer": "For the cited duration chart, each mask in 100% mode counts as two masks at the chart’s 3.7-standard-liters-per-minute basis. Use the actual cylinder pressure, number of users and installed-system chart.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-44",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=322",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-076",
+    "category": "king-air-200",
+    "question": "If the King Air 200 cabin-door caution appears in flight, should someone try the door handle?",
+    "answer": "No. Do not unlock or test the door in flight. The handbook calls for considering altitude, depressurizing the cabin and keeping occupants seated and belted; check door security after a full-stop landing and depressurization. This page describes the 200 airstair door.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-21",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=299",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-077",
+    "category": "king-air-200",
+    "question": "Where is the King Air 200 emergency exit, and why check its lock before flight?",
+    "answer": "It is the removable plug-type door on the right side of the forward passenger cabin. Its key lock should be unlocked before flight so rescuers can remove it from outside; use the door placards and passenger briefing.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-22",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=300",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-078",
+    "category": "king-air-200",
+    "question": "What King Air 200 cargo requirements go beyond staying within weight and balance?",
+    "answer": "Cargo must use an approved restraint system and leave free access to exits and emergency exits. A legal total weight and CG do not make loose cargo or an obstructed escape route acceptable.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=56",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-079",
+    "category": "king-air-200",
+    "question": "Does being below 12,500 pounds guarantee a King Air 200 can climb after an engine failure at liftoff?",
+    "answer": "No. Evaluate the chart for positive one-engine-inoperative climb at liftoff for the actual weight, flap setting and conditions. The structural weight limit alone does not establish a positive climb or obstacle clearance.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-4",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=119",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-080",
+    "category": "king-air-200",
+    "question": "When using the King Air 200 handbook’s optional FAR 25-style takeoff planning, which constraints must be considered together?",
+    "answer": "One-engine-inoperative climb, accelerate-stop field length, accelerate-go field length and the flight path past known obstacles. Use the most limiting result and all chart assumptions, including an armed, operative autofeather system. These optional data do not make the airplane a Part 25-certified transport or replace operating rules.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=120",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  }
+]

@@ -207,8 +207,9 @@
   }
 
   function renderCategories() {
-    const grid = $('categoryGrid');
     [...categories].sort((a,b)=>GROUPS.indexOf(groupOf(a.id))-GROUPS.indexOf(groupOf(b.id))).forEach((category, index) => {
+      const aircraft=groupOf(category.id)==='aircraft';
+      const grid=$(aircraft?'aircraftCategoryGrid':'categoryGrid');
       const count = cards.filter(card => card.category === category.id).length;
       const label = document.createElement('label');
       label.className = 'category-card'; label.dataset.category=category.id; label.dataset.group=groupOf(category.id);
@@ -220,7 +221,7 @@
       const description = document.createElement('p'); description.textContent = category.description;
       const meta = document.createElement('span'); meta.className = 'category-meta';
       const countNode = document.createElement('span'); countNode.textContent = `${count} cards`;
-      const type = document.createElement('span'); type.textContent = category.id === 'ctls' ? 'Aircraft-specific' : category.supplemental ? 'Specialist' : 'Foundation'; if (category.supplemental || category.id === 'ctls') type.className = 'supplemental';
+      const type = document.createElement('span'); type.textContent = aircraft ? 'Aircraft-specific' : category.supplemental ? 'Specialist' : 'Foundation'; if (category.supplemental || aircraft) type.className = 'supplemental';
       const progress=document.createElement('span'); progress.className='category-progress'; progress.dataset.categoryProgress=category.id; label.append(progress);
       meta.append(countNode, type); label.append(input, number, title, description, meta); grid.append(label);
     });
@@ -636,7 +637,9 @@
     if (card.sourceUrl) { const link = document.createElement('a'); link.href = card.sourceUrl; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.textContent = card.source; sourceLine.append('Source: ', link); }
     else { sourceLine.textContent = `Source: ${card.source}`; }
     $('positionLabel').textContent = `${state.index + 1} / ${state.session.length}`;
-    $('aircraftNotice').hidden = card.category !== 'ctls';
+    const aircraft=category.aircraft;
+    $('aircraftNotice').hidden = !aircraft;
+    if(aircraft)$('aircraftNotice').textContent=`${aircraft.model} · ${aircraft.edition}. ${aircraft.scope} Study reference only; verify limits and procedures in your aircraft’s current documents.`;
     $('studySetLabel').textContent = ({bookmarks:'Bookmarked cards',custom:'Custom study',review:'Focused review',due:'Due for review',weak:'Difficult cards',new:'New cards'})[state.mode] || 'Selected topics';
     renderBookmarkState(card);
     renderFlagState(card);
@@ -783,7 +786,7 @@
     {id:'ifr-currency',name:'IFR · currency & equipment',category:'ifr',pattern:/currency|recent experience|IPC\b|inspection|equipment|VOR check/i},
     {id:'wx-reports',name:'Weather · reports & forecasts',category:'weather',pattern:/METAR|TAF\b|PIREP|forecast|SIGMET|AIRMET|report/i},
     {id:'wx-hazards',name:'Weather · hazards',category:'weather',pattern:/icing|turbulence|thunderstorm|wind shear|microburst|fog|front|hazard/i}];
-  function groupOf(id) { return id==='ctls'?'aircraft':id==='practical-scenarios'?'practice':id==='ifr'?'ifr':['part-121','part-135','international-oceanic','turboprop','ground-ramp','dangerous-goods'].includes(id)?'professional':'foundation'; }
+  function groupOf(id) { return (categoryById.get(id)?.aircraft||id==='ctls')?'aircraft':id==='practical-scenarios'?'practice':id==='ifr'?'ifr':['part-121','part-135','international-oceanic','turboprop','ground-ramp','dangerous-goods'].includes(id)?'professional':'foundation'; }
   function matchesSubtopic(card,id) { const t=SUBTOPICS.find(t=>t.id===id); return !t || id==='all' || card.category===t.category && t.pattern.test(card.question+' '+card.answer); }
   function selectedPool() { return cards.filter(c=>state.selected.has(c.category)&&matchesSubtopic(c,$('studySubtopic').value)); }
   function sessionLimit(total) { return $('studyLimit').value==='all'?total:Math.min(total,Number($('studyLimit').value)||20); }
@@ -809,6 +812,9 @@
     const group=$('topicGroup').value,q=$('topicSearch').value.toLowerCase().trim(); let shown=0;
     document.querySelectorAll('.category-card').forEach(el=>{ const cat=categoryById.get(el.dataset.category); el.hidden=!(group==='all'||el.dataset.group===group)||!(`${cat.name} ${cat.description}`.toLowerCase().includes(q)); if(!el.hidden)shown++; });
     $('topicFilterStatus').textContent=`${shown} of ${categories.length} topics shown`;
+    const aircraftCards=[...$('aircraftCategoryGrid').querySelectorAll('.category-card')].filter(el=>!el.hidden);
+    $('aircraftSection').hidden=aircraftCards.length===0;
+    $('aircraftSummary').textContent=`${aircraftCards.length} aircraft categories`;
   }
   function renderSavedMixes() {
     const current=$('savedMix').value; $('savedMix').textContent=''; const empty=new Option('Choose a mix',''); $('savedMix').append(empty);

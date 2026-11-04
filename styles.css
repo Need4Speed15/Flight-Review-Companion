@@ -503,6 +503,12 @@ body { min-width: 300px; }
 .topics-view .category-meta { margin-top: auto; font-size: .7rem; color: var(--sky-strong); }
 .topics-view .category-progress { margin-top: .55rem; padding-top: .5rem; font-size: .7rem; }
 .home-study-note { color: var(--muted); font-size: .75rem; line-height: 1.5; margin-top: 1.2rem; }
+.aircraft-section { margin-top: 2.3rem; padding-top: 1.4rem; border-top: 1px solid var(--line-strong); }
+.aircraft-section .section-heading h2 { font-size: 1.5rem; }
+#aircraftSummary { font-size: .8rem; color: var(--muted); }
+.aircraft-section > .help-copy { max-width: 800px; margin: .6rem 0 1rem; }
+.topics-view .aircraft-section .category-card p { -webkit-line-clamp: unset; }
+.topics-view .aircraft-section .category-card { min-height: 185px; }
 .topics-view .resume-banner { padding: .85rem 1rem; margin-bottom: 1rem; }
 .topics-view .resume-banner > div { min-width: 0; }
 @media (max-width: 900px) {
