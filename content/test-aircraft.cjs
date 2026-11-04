@@ -7,10 +7,10 @@ const before=JSON.stringify(ctx.window.FLIGHT_REVIEW_CARDS),oldIds=ctx.window.FL
 run('aircraft-cards.js');
 const {FLIGHT_REVIEW_CARDS:cards,FLIGHT_REVIEW_CATEGORIES:categories}=ctx.window;
 assert.equal(JSON.stringify(cards.slice(0,oldIds.length)),before,'Existing cards must remain intact');
-assert.equal(cards.length,2495);assert.equal(categories.length,29);
+assert.equal(cards.length,2650);assert.equal(categories.length,29);
 const aircraft=categories.filter(c=>c.aircraft);assert.equal(aircraft.length,5);
 assert.deepEqual(Array.from(aircraft,c=>c.id).sort(),['cessna-150m','cessna-172s','ctls','king-air-200','piper-archer-ii']);
-const expected={'cessna-172s':60,'cessna-150m':50,'piper-archer-ii':60,'king-air-200':80};
+const expected={'cessna-172s':90,'cessna-150m':75,'piper-archer-ii':90,'king-air-200':150};
 const normalized=s=>s.normalize('NFKD').toLowerCase().replace(/[^a-z0-9]/g,'');
 assert.equal(new Set(cards.map(c=>c.id)).size,cards.length);
 assert.equal(new Set(cards.map(c=>normalized(c.question))).size,cards.length);
@@ -22,4 +22,4 @@ for(const [id,n] of Object.entries(expected)){
 const stable=JSON.stringify({cards,categories});run('aircraft-cards.js');assert.equal(JSON.stringify({cards,categories}),stable,'Overlay must be idempotent');
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 assert(html.includes('id="aircraftCategoryGrid"'));assert(html.indexOf('src="aircraft-cards.js"')>html.indexOf('src="source-enhancements.js"'));assert(html.indexOf('src="aircraft-cards.js"')<html.indexOf('src="script.js"'));
-console.log('PASS: 250 new aircraft cards, five model-specific categories, preserved original cards, unique questions/IDs, page citations and repeat-load safety.');
+console.log('PASS: 405 handbook cards across four new decks, five model-specific categories, preserved base cards, unique questions/IDs, page citations and repeat-load safety.');

@@ -116,3 +116,101 @@ category key check, review-date check, and valid manufacturer-page anchors
 within the downloaded 384-page PDF. Internal topical review found no
 simple reworded duplicates. Site-wide integration and UI testing are the
 parent task's responsibility.
+
+EXPANSION REVIEW: 60 TO 90 CARDS (2026-11-03)
+Appended C172S-061 through C172S-090. The original 60 card objects and
+their source metadata were preserved unchanged. This expansion uses the
+same handbook, edition, serial/equipment applicability, and review date.
+Total for cessna-172s is now 90 cards.
+
+The added material targets practical gaps rather than alternate wordings
+of existing cards: post-start oil pressure, starter cooling, ground
+leaning, an abnormal no-drop magneto result, a loaded alternator check,
+rough takeoff-roll acceleration, soft-field acceleration, climb cooling,
+edition-specific EGT leaning, hot fuel vapor, fuel imbalance and refueling,
+selected fire decisions, icing landing configuration, a flat main tire,
+one failed brake, excessive charge versus low-RPM low voltage, accidental
+door opening, crosswind configuration, steep slips with substantial flap,
+flaps-up and grass landing planning, climb-table subtraction, cruise fuel
+arithmetic, alternate-static calibration, banked stall speeds, and
+passenger-restraint fit.
+
+ADDITIONAL CHECKED PAGES (PDF -> printed page / application)
+55 -> 2-11: wings-level refueling with LEFT or RIGHT selected
+67 -> 3-7: initial cranking during a start fire and later damage inspection
+68 -> 3-8: do not reset a faulty circuit breaker after an electrical fire
+69 -> 3-9: flaps retracted following an inadvertent icing encounter
+70 -> 3-10: good main wheel first with a flat main tire
+71 -> 3-11: excessive charge; low-voltage indication during low-RPM taxi
+76 -> 3-16: no engine restart after completing the in-flight fire procedure
+104 -> 4-20: post-start oil pressure; recommended starter duty cycle
+105 -> 4-21: ground leaning, including a wait after the run-up
+107 -> 4-23: absent magneto RPM drop; momentary electrical-load test
+108 -> 4-24: discontinue a rough or sluggish takeoff roll
+109 -> 4-25: soft-field acceleration; en route climb speed/cooling tradeoff
+111 -> 4-27: recommended-lean EGT and this edition's leaning instructions
+113 -> 4-29: hot-ground fuel-vapor recognition and verification before takeoff
+116 -> 4-32: avoid steep slips with flap greater than 20 degrees
+117 -> 4-33: strong-crosswind minimum flap and wing-low technique
+130 -> 5-10: alternate-static calibration and required cabin configuration
+132 -> 5-12: power-off stall speeds at 2550 lb, including 60-degree bank
+138 -> 5-18: cumulative time, fuel and distance-to-climb table
+140 -> 5-20: cruise table, 8000 feet / standard temperature / 2600 RPM
+143 -> 5-23/5-24 (combined printed footer): landing table notes 3 and 4
+185 -> 7-15: integrated restraint retractor fit check
+188 -> 7-18: accidental cabin-door opening and approximately 75-KIAS setup
+196 -> 7-26: uneven fuel use and correcting a heavy wing in level cruise
+201 -> 7-29: controlling direction with one weak brake
+
+EXPANSION NUMERIC CHECKS
+- Oil pressure must begin to show within 30 seconds in summer or about
+  one minute in very cold weather; otherwise stop and investigate.
+- Starter: 10 seconds cranking / 20 seconds cooling, three cycles, then
+  10 minutes cooling. A further unsuccessful set calls for investigation.
+- Ground leaning starts at 1200 RPM, then suitable idle/taxi RPM, normally
+  800-1000; this is not the takeoff mixture setting.
+- At or below 75% level-cruise power, recommended lean is 50 F rich of
+  peak. This specific edition permits peak for best economy and expressly
+  prohibits continuous lean-of-peak operation. This is NOT generalized to
+  other engine approvals, modifications, or current aircraft handbooks.
+- Landing with flaps up: approach +9 KIAS, distances +35%. Example:
+  1455 x 1.35 = 1964.25 feet, rounded upward to approximately 1965.
+- Dry-grass landing correction is 45% of ground roll, unlike the takeoff
+  chart's 15%. With 650/1455-foot base figures, add 292.5 to both, giving
+  942.5/1747.5 feet, rounded upward to 943/1748. No wet-grass approval or
+  universal surface correction is implied.
+- Standard-day climb 2000 to 8000 feet at 2550 lb: subtract cumulative
+  entries, yielding 11 minutes, 2.2 gallons, 15 NM in zero wind. The
+  separate start/taxi/takeoff allowance remains 1.4 gallons.
+- Cruise 8000-foot pressure altitude / standard day / 2600 RPM / 2550 lb /
+  recommended lean: 68% power, 119 KTAS, 9.4 GPH; two cruise hours uses
+  18.8 gallons, excluding other phases and reserve.
+- Alternate static, flaps up: 70 KIAS corresponds to 68 KCAS under the
+  stated table conditions (windows/ventilators closed; heater, cabin air
+  and defroster maximum).
+- Power-off stall at 2550 lb, flaps up: about 48 KIAS wings level versus
+  68 KIAS at 60-degree bank, for both CG extremes tabulated.
+- With the integrated harness properly snug/low and retracted, at most
+  one additional inch of lap belt should pull from the retractor.
+
+EXPANSION DEDUPLICATION AND VALIDATION
+Reviewed all existing 60 questions before selecting gaps, and searched
+the current cards.js library and expansion content for relevant generic
+overlap. The generic brake-diagnosis and vapor-lock cards remain distinct:
+the additions ask the 172S-specific control response and hot-ground
+procedure application. Existing takeoff grass correction and new landing
+grass correction deliberately teach different manufacturer corrections.
+The closest wording pairs were manually reviewed and address distinct
+flight phases, failures, tables, or decisions.
+
+Passed JSON parsing, exact schema, 90 unique normalized questions, IDs
+C172S-001 through C172S-090 in order, explicit model in every question,
+category/review metadata checks, Unicode integrity, and new source-page
+anchors checked against the downloaded manufacturer-authored handbook.
+The original 60 objects have the same canonical SHA-256 before/after:
+cd1116f61f647ecc43fc3f2d8b339eab4aeea7df73fd657894124907e77ba032
+
+The cards summarize recognition and selected decisions; they do not
+replace full fire, icing, electrical, or other emergency procedures.
+No other project content, UI, Git, or publication changes were made by
+this bounded expansion task.

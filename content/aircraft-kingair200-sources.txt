@@ -11,3 +11,24 @@ Title-page applicability: BB-2; BB-6–733; BB-735–792; BB-794–828; BB-830�
 PDF mapping: 2 title; 30=1-8; 42=2-3; 44=TC2 beta prohibition; 47=2-6; 48=2-7; 49=2-8; 51=2-10; 52=2-11; 53=2-12; 55=2-12B; 56=2-13; 82=3-9; 110=4-18A; 112=4-19; 119=5-4; 120=5-5; 283=7-5; 292=7-14; 295=7-17; 296=7-18; 299=7-21; 300=7-22; 304=7-26; 305=7-27; 306=7-28; 308=7-30; 309=7-31; 311=7-33; 312=7-34; 313=7-35; 315=7-37; 317=7-39; 318=7-40; 322=7-44; 324=7-46.
 
 Editorial controls: no copied full checklists, no simulator manuals, no unqualified B200 performance. Calibrated overhead placard speeds are distinguished from indicated-speed table entries. Early/later VMO/MMO and cabin-pressure markings are qualified by serial/modification. Deliberately omitted the archived boot-inflation accumulation threshold rather than teaching it as current universal icing guidance. Optional Part 25-style performance data are distinguished from certification and operating-rule compliance. Current aircraft documents, ADs, modifications and supplements must be checked before actual operation.
+
+PRACTICAL SCENARIO EXPANSION — November 3, 2026
+Appended KA200-081–150, bringing this deck to 150. All first 80 objects and IDs were preserved exactly. Each addition names King Air 200 and retains the cited PT6A-41 handbook applicability; none generalizes B200 or later-model procedures.
+
+Coverage added: asymmetric-reverse risk, interrupted autofeather, control below VMCA, second-engine flameout/restart decisions, air-start conditions/load management, single-engine landing configuration, distinct low-oil-pressure bands, runaway trim and rudder boost, gear extension without electrical lights, loss/excess of pressurization, oxygen deployment failures, duct overheat, bleed-line failure annunciation behavior, prop-deice backup indication, blocked static source recognition, cracked transparencies, windshield heat/electrical faults, failed starts and ground accessory loading, external-power prerequisites, takeoff/descent engine monitoring, shutdown monitoring, oxygen use/duration, pneumatic redundancy, residual icing effects, cold-weather ground operations, fuel additives, propeller overspeed, torque/RPM combinations, securing and boarding, original-instrument interference, air-conditioning interlock, electrical current-limiter check, and worked flight/loading plans.
+
+Additional PDF mapping checked: 75=3-4; 76=3-5; 77=3-6; 78=windshield electrical-fault TC1; 80=3-7; 81=3-8; 83=3-10; 84=3-11; 85=3-12; 86=3-13; 87=3-14; 89=3-16; 97=4-6; 98=4-7; 99=4-8; 101=4-10; 102=4-11; 104=4-13; 110=4-18A; 111=4-18B; 112=4-19; 119=5-4; 123=5-8; 124=5-9; 125=5-10; 126=5-11; 237=6-9; 240=6-12; 295=7-17; 296=7-18; 299=7-21; 309=7-31; 320=7-42; 323=7-45; 324=7-46; 326=7-48; 329=7-51. Key engine-limit, windshield-damage, external-power, starting and station-arm pages were also inspected visually to resolve OCR/table ambiguity.
+
+Arithmetic checks, with newly supplied values explicitly described as training/hypothetical:
+- Oxygen duration: 100 minutes full-bottle chart value x 0.60 usable capacity = 60 minutes. Actual duration requires the installed-system chart and proper mask/user count.
+- Approximate pressure altitude: 5000 + (29.92 - 29.62) x 1000 = 5300 feet.
+- Cumulative climb-fuel difference: 300 - 40 = 260 pounds, not the full cumulative 300.
+- Cruise fuel: 180/240 hours x (270 x 2) lb/hr = 405 pounds. Separate engine flows must be summed.
+- Full plan: 90 + 230 + 900 + 130 + 350 = 1700 pounds; 1610 is short by 90. Reserve is an exercise assumption, not a statement of applicable regulations.
+- Handbook landing-weight example: 12590 - 1653 = 10937 pounds; total burn already includes ground use.
+- Cruise segment: 600 - 70 - 60 = 470 NM, excluding separately modeled climb/descent distances.
+- Groundspeed revision: 400/250 x 500 = 800 pounds versus 400/200 x 500 = 1000 pounds.
+- Added baggage: (12000 x 193 + 100 x 325)/12100 = 194.0909 inches. A computed CG alone does not establish compliance with all limits.
+- Moved occupant: 200 x (250 - 129)/12000 = 2.0167 inches aft, unchanged total weight. Actual seating/configuration must match the station table.
+
+Editorial comparison reviewed the closest new/old and new/new question pairs using model-stripped text similarity and manual review. Shared-system questions were retained only for distinct symptoms, constraints, procedures or computations: for example, normal gear indications versus the electrical-failure exception, pressure limits versus an overpressure response, or initial CG versus changing a load's station. Replaced a simple generator-limit arithmetic repeat with the distinct current-limiter voltage-check failure. Original full checklist text is not reproduced. Where only selected recognition/decision elements are taught, the complete aircraft procedure remains necessary.

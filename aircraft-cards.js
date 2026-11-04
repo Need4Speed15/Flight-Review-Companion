@@ -829,6 +829,396 @@ const cards=[
     }
   },
   {
+    "id": "C172S-061",
+    "category": "cessna-172s",
+    "question": "After starting this Cessna 172S, the oil-pressure gauge has not begun to move. How long should you wait before stopping the engine?",
+    "answer": "The POH says to stop and investigate if pressure has not begun to show within 30 seconds in summer, or approximately one minute in very cold weather. Continuing to run without pressure can seriously damage the engine.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-20, Starting Engine",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=104",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-062",
+    "category": "cessna-172s",
+    "question": "After three unsuccessful 10-second starting attempts in this Cessna 172S, is another immediate attempt appropriate?",
+    "answer": "No. The recommended cycle allows 10 seconds cranking followed by 20 seconds cooling, for three attempts, then a 10-minute cooling period. After one more set of three cycles, investigate the cause if it still will not start.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-20, Recommended Starter Duty Cycle",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=104",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-063",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S will wait several minutes after run-up before taking off. What mixture practice does the POH recommend during the wait?",
+    "answer": "Re-lean for ground operation: with the engine running smoothly, use 1200 RPM to find maximum RPM with the mixture, then reduce to an appropriate taxi/idle setting, normally 800–1000 RPM. Apply the takeoff checklist mixture setting when ready to depart.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-21, Leaning for Ground Operations",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=105",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-064",
+    "category": "cessna-172s",
+    "question": "During this Cessna 172S magneto check, selecting one magneto causes no RPM drop at all. Is that automatically a good result?",
+    "answer": "No. The POH identifies no drop as a possible faulty ignition-system ground or incorrect advanced magneto timing. Have the abnormal result investigated rather than assuming it shows an exceptionally healthy ignition system.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-23, Magneto Check",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=107",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-065",
+    "category": "cessna-172s",
+    "question": "Before a night flight in this Cessna 172S, how can you positively check alternator response rather than just observe an unloaded electrical system?",
+    "answer": "At the 1800-RPM run-up, the POH describes briefly applying an electrical load, such as the landing light for 3–5 seconds or the wing flaps. With proper alternator/control-unit operation, the ammeter remains within a needle width of its initial reading.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-23, Alternator Check",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=107",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-066",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S begins its takeoff roll with rough running or sluggish acceleration. Should reaching a familiar airspeed later be the plan?",
+    "answer": "No. The POH calls either symptom good cause to discontinue the takeoff. Investigate the engine's full-power operation before another attempt; do not continue merely hoping acceleration will improve.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-24, Takeoff—Power Check",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=108",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-067",
+    "category": "cessna-172s",
+    "question": "After lifting this Cessna 172S off a soft field with no obstacle ahead, should you immediately hold a steep climb?",
+    "answer": "The POH calls for leveling off immediately to accelerate to a higher climb speed. Its soft-field technique uses 10° flaps and liftoff as soon as practical; clearing the soft surface does not mean the airplane is ready for a steep climb.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-25, Wing Flap Settings—Soft/Rough Field Takeoff",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=109",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-068",
+    "category": "cessna-172s",
+    "question": "For an unobstructed en route climb in this Cessna 172S, why might you choose more speed than the maximum-rate-of-climb value?",
+    "answer": "The POH recommends normal climbs 5–10 knots faster than best-rate speed for a useful combination of climb performance, visibility, and engine cooling. Climbs slower than best-rate speed should be brief because cooling is reduced.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-25, Enroute Climb",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=109",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-069",
+    "category": "cessna-172s",
+    "question": "You want the published recommended-lean cruise figures in this Cessna 172S at or below 75% power. What EGT setting does this edition specify?",
+    "answer": "50°F rich of peak EGT. This edition lists peak EGT for best economy and prohibits continuous lean-of-peak operation. Recheck the actual airplane's current POH and engine approvals; this is the cited conventional-panel handbook's instruction.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-27, Leaning With an EGT Indicator / Figure 4-4",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=111",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-070",
+    "category": "cessna-172s",
+    "question": "On a hot day this Cessna 172S has fluctuating idle RPM and fuel flow. What handbook problem should you consider before departing?",
+    "answer": "Fuel vapor formation, aggravated by warm fuel and low flow at idle. The POH fuel-vapor procedure uses higher RPM to purge vapor and cool the fuel system, then verifies normal idle and smooth full-throttle operation before takeoff. Use that complete procedure and resolve the abnormal running before departure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-29, Fuel Vapor Procedures",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=113",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-071",
+    "category": "cessna-172s",
+    "question": "In level cruise on BOTH, this Cessna 172S develops a heavier wing as fuel is used unevenly. Does that alone establish a fuel-system failure?",
+    "answer": "No. The POH says unequal flow can occur if the wings are not exactly level. In level cruise, selecting the tank in the heavy wing can gradually correct the imbalance. Do not assume the other tank will provide equal flying time; fuel can move between nearly full tanks.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-26, Fuel Selector Valve",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=196",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-072",
+    "category": "cessna-172s",
+    "question": "Should this Cessna 172S remain on BOTH while refueling to maximize tank capacity?",
+    "answer": "The POH instead specifies LEFT or RIGHT, with the airplane wings level in its normal ground attitude, to minimize crossfeeding and ensure maximum capacity. This is a refueling setting; reselect BOTH for takeoff and landing.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §2, p. 2-11, Fuel Limitations—Refueling Note",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-073",
+    "category": "cessna-172s",
+    "question": "A fire occurs while starting this Cessna 172S on the ground. What is the POH's initial action, and does a successful start clear the airplane for flight?",
+    "answer": "Initially continue cranking to draw flames and accumulated fuel into the engine. Even if it starts, the procedure calls for shutdown after the specified running period and inspection for damage. Follow the complete fire checklist, including its failed-start branch, before any further operation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-7, Fires During Start on Ground",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=67",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-074",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S engine fire goes out after the in-flight fire checklist is completed. Should you attempt a restart?",
+    "answer": "No. The amplified fire procedure explicitly says not to restart; execute a forced landing after completing the fire checklist. Extinguishing the fire does not establish that the engine or fuel system is safe to operate.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-16, Fires",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-075",
+    "category": "cessna-172s",
+    "question": "After extinguishing an electrical fire in this Cessna 172S, should you reset a tripped circuit breaker while restoring needed electrical power?",
+    "answer": "No. The electrical-fire checklist says to check for the faulty circuit and not reset its breaker. If power is essential to reach a suitable landing area, the checklist restores equipment selectively to identify the fault. Use the complete procedure and keep the faulty circuit isolated.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-8, Electrical Fire in Flight",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=68",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-076",
+    "category": "cessna-172s",
+    "question": "After an inadvertent icing encounter in this Cessna 172S, should normal full-flap landing technique be assumed safe?",
+    "answer": "No. The icing checklist calls for leaving flaps retracted because severe tail ice can reduce elevator effectiveness when flap extension changes the wing wake. Escape icing and plan a landing promptly, accounting for a higher stall speed and longer roll. Use the complete icing procedure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-9, Inadvertent Icing Encounter",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=69",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-077",
+    "category": "cessna-172s",
+    "question": "If this Cessna 172S must land with a flat main tire, which main wheel should touch first?",
+    "answer": "The good main wheel. The POH calls for holding the airplane off the flat tire as long as possible with aileron control and maintaining direction using the good wheel's brake as required. Use the complete flat-main-tire procedure.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-10, Landing With a Flat Main Tire",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=70",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-078",
+    "category": "cessna-172s",
+    "question": "One brake becomes weak during this Cessna 172S landing roll. What control strategy does the systems section describe?",
+    "answer": "Use the working brake sparingly and apply opposite rudder as needed to counter its turning effect. The defect requires immediate attention; the technique is for handling the malfunction, not continuing normal operation with a known brake fault.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-29, Brake System",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=201",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-079",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S ammeter suddenly shows a full-scale charge. Should the alternator remain on to replenish the battery?",
+    "answer": "No. The excessive-charge checklist calls for alternator OFF, nonessential electrical equipment OFF, and terminating the flight as soon as practical. A full-scale charging indication is a malfunction condition, not a request for more charging time.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-11, Ammeter Shows Excessive Rate of Charge",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=71",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-080",
+    "category": "cessna-172s",
+    "question": "During low-RPM taxi in this Cessna 172S, VOLTS illuminates but goes out at higher RPM. Must the master be cycled to reset the alternator?",
+    "answer": "No. The POH notes that electrical load at low taxi RPM can cause this indication, and the master need not be recycled when it clears at higher RPM. A warning that persists or returns in flight requires the applicable malfunction checklist.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §3, p. 3-11, Low Voltage Annunciator—Low-RPM Note",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=71",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-081",
+    "category": "cessna-172s",
+    "question": "A cabin door opens accidentally in this Cessna 172S. What should you establish before trying to close it?",
+    "answer": "Keep control and trim the airplane at approximately 75 KIAS. The POH then describes pushing the door slightly outward before closing and locking it firmly; the opening alone does not require a landing. Do not let handling the door displace flying the airplane.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-18, Entrance Doors and Cabin Windows",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=188",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-082",
+    "category": "cessna-172s",
+    "question": "For a strong-crosswind landing in this Cessna 172S, should full flaps always be the default?",
+    "answer": "Use the minimum flap setting that the available field length requires. The POH says the wing-low drift-correction method gives the best control. The chosen configuration must still provide adequate landing distance and suit the conditions and pilot's capability.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-33, Crosswind Landing",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=117",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-083",
+    "category": "cessna-172s",
+    "question": "You are high on approach in this Cessna 172S with 30° flaps. Does the normal-landing discussion recommend a steep forward slip?",
+    "answer": "It says to avoid steep slips with flap settings greater than 20° because elevator oscillation may occur for some combinations of airspeed, sideslip angle, and CG. Reassess the approach rather than relying on that configuration to salvage it.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §4, p. 4-32, Normal Landing",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=116",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-084",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S must land with flaps stuck up. How does its short-field landing-chart note change the plan?",
+    "answer": "The note calls for an approach 9 KIAS faster and distances 35% longer than the chart's full-flap figures. For a 1455-foot chart obstacle distance, that is about 1965 feet before any further conditions or operating margin are considered. Use the actual applicable chart conditions.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, Figure 5-11, pp. 5-23/5-24, note 4",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=143",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-085",
+    "category": "cessna-172s",
+    "question": "This Cessna 172S landing chart gives 650 feet ground roll and 1455 feet over 50 feet. What does its dry-grass correction add?",
+    "answer": "Add 45% of the ground-roll figure, or 292.5 feet, to each distance: approximately 943 feet ground roll and 1748 feet over 50 feet, rounded upward. The landing correction is distinct from the takeoff chart's dry-grass correction and applies only to the stated surface conditions.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, Figure 5-11, pp. 5-23/5-24, note 3",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=143",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-086",
+    "category": "cessna-172s",
+    "question": "At 2550 lb on a standard day, how do you use this Cessna 172S climb chart for a climb from 2000 to 8000 feet pressure altitude?",
+    "answer": "Subtract the 2000-foot cumulative figures from the 8000-foot figures: 14−3 = 11 minutes, 3.0−0.8 = 2.2 gallons, and 19−4 = 15 NM in zero wind. The separate start/taxi/takeoff allowance is 1.4 gallons. Apply the chart's technique and any required temperature correction.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-18, Figure 5-7, Time, Fuel and Distance to Climb",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=138",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-087",
+    "category": "cessna-172s",
+    "question": "For two hours of cruise at 8000 feet pressure altitude, standard temperature and 2600 RPM, how much cruise fuel does this Cessna 172S table predict?",
+    "answer": "At 2550 lb and the recommended lean mixture, the table gives 9.4 GPH, so two hours uses 18.8 gallons. That row also gives 119 KTAS and 68% power. Add other flight phases and reserve separately; these figures are not a total-trip fuel allowance.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-20, Figure 5-8, Cruise Performance",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=140",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-088",
+    "category": "cessna-172s",
+    "question": "Using alternate static in this Cessna 172S, what does 70 KIAS with flaps up represent in the calibration table?",
+    "answer": "68 KCAS, under that table's conditions. It requires windows and ventilators closed, with cabin heater, cabin air, and defroster at maximum. Match the specified cabin configuration before applying the correction; an indicated speed is not automatically the calibrated speed.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-10, Figure 5-1, Alternate Static Source",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=130",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-089",
+    "category": "cessna-172s",
+    "question": "At 2550 lb with flaps up, why is 60 KIAS not a safe stall-speed assumption for a steep turn in this Cessna 172S?",
+    "answer": "The power-off chart gives about 48 KIAS wings level but 68 KIAS at 60° bank, at both listed CG extremes. Stall speed rises with the maneuver's loading; the low wings-level figure does not remain valid in a steep, altitude-maintaining turn.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §5, p. 5-12, Figure 5-3, Stall Speeds",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=132",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C172S-090",
+    "category": "cessna-172s",
+    "question": "In this Cessna 172S, a passenger's lap belt is latched, snug and low, but two more inches can still be pulled from its retractor. Does that pass the POH fit check?",
+    "answer": "No. After the belt retracts properly, no more than one additional inch should pull out. The POH identifies greater travel as an occupant too small for the installed restraint and requires proper restraint before the seat is occupied for operation.",
+    "source": "Cessna Model 172S POH/FAA AFM (1998 original, Rev. 5 July 2004), §7, p. 7-15, Integrated Seat Belt/Shoulder Harness",
+    "sourceUrl": "https://www.efcokc.com/planes/552SPPOH.pdf#page=185",
+    "sourceMetadata": {
+      "edition": "Cessna Model 172S conventional-panel POH/FAA AFM, original July 8, 1998; Revision 5, July 19, 2004 (172SPHUS05), serial 172S8001 and on, subject to equipment and supplements",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
     "id": "C150M-001",
     "category": "cessna-150m",
     "question": "What engine and maximum power does the 1976 Cessna 150M POH describe?",
@@ -1472,6 +1862,331 @@ const cards=[
     "answer": "Promptly lower the nose to preserve airspeed and establish a glide. In most cases, plan a landing generally ahead, changing direction only as needed for obstacles; the POH warns that a return turn usually lacks sufficient altitude and airspeed. Brief suitable options before takeoff.",
     "source": "1976 Cessna 150M POH, Section 3, p. 3-9, Engine Failure amplified procedures",
     "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=17",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-051",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M has a current basic empty weight of 1,150 lb and occupants totaling 360 lb. Can it carry full standard usable fuel before adding baggage?",
+    "answer": "No. At the POH planning density of 6 lb per U.S. gallon, 22.5 usable gallons weigh 135 lb: 1,150 + 360 + 135 = 1,645 lb, already 45 lb above the 1,600-lb limit. Rework payload and fuel while preserving adequate reserves, then check CG.",
+    "source": "1976 Cessna 150M POH, Section 6, p. 6-9, Figure 6-6; Section 2, p. 2-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=46",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-052",
+    "category": "cessna-150m",
+    "question": "Your 1976 Cessna 150M weighs exactly 1,600 lb, but its calculated CG is 32.5 inches aft of the firewall. Is that loading acceptable?",
+    "answer": "No. At 1,600 lb the forward limit is 32.9 inches aft of the firewall, so 32.5 inches is too far forward. Meeting the weight limit does not cure an out-of-envelope CG; revise the actual loading and recalculate.",
+    "source": "1976 Cessna 150M POH, Section 2, p. 2-5, Center of Gravity Limits",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=10",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-053",
+    "category": "cessna-150m",
+    "question": "In a 1976 Cessna 150M with full standard usable fuel, planned start/taxi/takeoff, climb and cruise burns are 0.8, 1.7 and 16.0 U.S. gallons. What remains, and what should you monitor?",
+    "answer": "The planned burn is 18.5 gallons, leaving 4.0 of the initial 22.5 usable gallons. That is a fuel amount, not automatically an adequate time reserve. Recheck actual groundspeed, fuel use and destination conditions, and divert or refuel before the intended reserve is eroded.",
+    "source": "1976 Cessna 150M POH, Section 5, pp. 5-6 and 5-7, Fuel Required sample problem",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=35",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-054",
+    "category": "cessna-150m",
+    "question": "For a 1976 Cessna 150M takeoff at 1,500 feet pressure altitude and 28 degrees C, how does the POH sample conservatively select a chart row?",
+    "answer": "It uses the next higher entries: 2,000 feet and 30 degrees C. At 1,600 lb, with the chart technique on a paved level dry runway and zero wind, that gives 990 feet ground roll and 1,865 feet over a 50-foot obstacle, before other corrections and planning margin.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-4, Takeoff sample; p. 5-11, Figure 5-4",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=34",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-055",
+    "category": "cessna-150m",
+    "question": "For a 1976 Cessna 150M, does a 4-knot tailwind require the same percentage correction as a 4-knot headwind?",
+    "answer": "No. The takeoff chart adds 10% for each 2 knots of tailwind, up to 10 knots: a 4-knot tailwind adds 20%. Its headwind benefit is only 10% per 9 knots. Apply the correct chart rule rather than assuming equal benefits and penalties.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-11, Figure 5-4 note 3",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=37",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-056",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M will land at 1,600 lb, sea-level pressure altitude and 20 degrees C on dry level grass with zero wind. Does a 1,250-foot runway satisfy the charted distance over a 50-foot obstacle?",
+    "answer": "No. The paved-runway figures are 445 feet ground roll and 1,090 feet total. The dry-grass addition is 45% of ground roll, about 200 feet, making total distance about 1,290 feet before any extra margin. Do not use the smaller takeoff grass correction for landing.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-19, Figure 5-10 and note 3",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=41",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-057",
+    "category": "cessna-150m",
+    "question": "At 6,000 feet pressure altitude and 40 degrees C, can a 1,600-lb 1976 Cessna 150M be planned using its sea-level climb rate?",
+    "answer": "No. The rate-of-climb table gives about 310 ft/min at 64 KIAS, flaps up and full throttle for those conditions. Evaluate terrain, downdrafts and escape options against that reduced capability; the table value itself is not a guaranteed terrain-clearance margin.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-12, Figure 5-5",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=38",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-058",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M range chart says it includes 45 minutes of reserve. Does that mean 45 minutes at the cruise power you selected?",
+    "answer": "No. The chart reserves 2.6 U.S. gallons, based on 45 minutes at 45% brake horsepower. A higher power setting can consume that fuel faster. Calculate the reserve needed for the actual operation instead of treating the chart caption as a universal reserve guarantee.",
+    "source": "1976 Cessna 150M POH, Section 5, p. 5-15, Figure 5-8 note 2",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=39",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-059",
+    "category": "cessna-150m",
+    "question": "During a 1976 Cessna 150M start, weak intermittent firing is followed by black exhaust smoke. Should you automatically add more primer?",
+    "answer": "No. The POH identifies that pattern as overpriming or flooding. Use its flooded-start procedure to clear excess fuel and repeat the start without additional priming, while observing starter limits and fire precautions in the applicable aircraft instructions.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-11, Starting Engine",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=26",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-060",
+    "category": "cessna-150m",
+    "question": "Repeated very cold starts in a 1976 Cessna 150M produce weaker firing instead of a start. What does the POH say to consider before trying again?",
+    "answer": "Frosted spark plugs. If the first attempts fail or firing diminishes, the POH calls for preheat before another attempt. Repeated pumping can also leave raw fuel in the intake and create a backfire/fire hazard; do not simply keep adding fuel.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-21, Cold Weather Operation",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=31",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-061",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M develops slight cruise roughness consistent with plug fouling. What is the POH approach if normal cruise leaning does not clear it?",
+    "answer": "The POH allows checking whether a richer mixture gives smoother operation. If the trouble persists, proceed to the nearest airport for repairs, normally on BOTH magnetos unless extreme roughness requires a single ignition position. Persistent roughness is not a reason to continue the original trip.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-13, Spark Plug Fouling",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=19",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-062",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M suddenly misfires on BOTH magnetos but runs smoothly on one magneto. Does that justify continuing the cross-country as planned?",
+    "answer": "No. The POH treats sudden roughness or misfiring as possible magneto trouble. If satisfactory operation on BOTH cannot be restored with the prescribed adjustments, use the good magneto and proceed to the nearest airport for repairs.",
+    "source": "1976 Cessna 150M POH, Section 3, pp. 3-13 and 3-14, Magneto Malfunction",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=20",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-063",
+    "category": "cessna-150m",
+    "question": "In a 1976 Cessna 150M, oil pressure falls to zero while oil temperature rises. Should you assume the pressure gauge alone failed?",
+    "answer": "No. The POH warns that engine failure may be imminent. Reduce power immediately, select a suitable forced-landing area and use only the power needed to reach the intended touchdown point. This is more urgent than an isolated low-pressure indication with normal temperature.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-14, Low Oil Pressure",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=20",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-064",
+    "category": "cessna-150m",
+    "question": "After an electrical fire appears extinguished in a 1976 Cessna 150M, should you reset tripped breakers to restore everything at once?",
+    "answer": "No. The electrical-fire procedure says to check for the faulty circuit without resetting its breaker. If electrical power is necessary, restore equipment selectively, with a delay between items, as the checklist directs; reintroducing the fault can restart the fire.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-6, Electrical Fire in Flight",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=16",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-065",
+    "category": "cessna-150m",
+    "question": "During an engine fire in flight in a 1976 Cessna 150M, should you automatically use the normal 60-KIAS maximum-glide target?",
+    "answer": "No. The engine-fire checklist initially specifies 85 KIAS and provides further airflow guidance if the fire persists. Follow that emergency procedure to isolate fuel and electrical sources and execute a forced landing; the best-range glide chart is not the engine-fire procedure.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-6, Engine Fire in Flight; p. 3-9, Figure 3-1",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=16",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-066",
+    "category": "cessna-150m",
+    "question": "A cabin door opens after takeoff in a 1976 Cessna 150M. Should the pilot immediately make an abrupt turn or reach across to close it?",
+    "answer": "No. Keep flying and stabilize the airplane first. The POH says an accidentally opened door by itself does not require landing and describes closing it from a trimmed condition at about 65 knots. Handle it only when aircraft control and workload permit.",
+    "source": "1976 Cessna 150M POH, Section 7, p. 7-15, Entrance Doors and Cabin Windows",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=59",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-067",
+    "category": "cessna-150m",
+    "question": "During the landing roll in a 1976 Cessna 150M, one brake becomes weak. Why is stamping on the good brake a poor response?",
+    "answer": "It can create a strong turning tendency. The POH calls for using the good brake sparingly with opposite rudder as required to counter it. Preserve directional control and have the brake fault corrected before further flight.",
+    "source": "1976 Cessna 150M POH, Section 7, pp. 7-22 and 7-23, Brake System",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-068",
+    "category": "cessna-150m",
+    "question": "The right main tire is known to be flat before landing a 1976 Cessna 150M. Which wheel should touch first?",
+    "answer": "The good left main tire. The POH calls for banking toward the good tire, maintaining nose-high attitude and keeping weight off the flat tire as long as possible, with rudder to keep straight. Use the complete flat-tire landing procedure.",
+    "source": "1976 Cessna 150M POH, Section 3, pp. 3-7 and 3-8, Landing With a Flat Main Tire",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=16",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-069",
+    "category": "cessna-150m",
+    "question": "If normal elevator control is lost in a 1976 Cessna 150M but trim and power remain available, what approach-control concept does its POH describe?",
+    "answer": "Use elevator trim and throttle to establish an approximately 55-KIAS condition with 20 degrees of flap, then control the approach glide angle with power rather than repeatedly changing trim. The POH has separate flare instructions; this is an emergency technique, not a substitute for a complete briefing.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-10, Landing Without Elevator Control",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=18",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-070",
+    "category": "cessna-150m",
+    "question": "After an inadvertent icing encounter in a 1976 Cessna 150M, should you plan the normal 40-degree-flap, 52-KIAS short-field approach?",
+    "answer": "No. The icing procedure calls for leaving flaps retracted because ice on the horizontal tail can make the flap-induced airflow change dangerous. It gives 65-75 KIAS depending on ice accumulation. Escape icing and land using the emergency guidance; those instructions do not authorize planned flight in known icing.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-7, Inadvertent Icing Encounter",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=16",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-071",
+    "category": "cessna-150m",
+    "question": "A 1976 Cessna 150M is within its weight and CG limits but has 15 lb of baggage aboard. Is that enough to approve an intentional spin lesson?",
+    "answer": "No. The POH does not approve spins with baggage or an occupied child seat, even if overall loading is otherwise acceptable. Remove prohibited loading and meet all aircraft, instruction and operating requirements before any intentional spin training.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-17, Spins",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=29",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-072",
+    "category": "cessna-150m",
+    "question": "For a 1976 Cessna 150M departing loose gravel, can you assume the full-throttle-before-brake-release takeoff chart applies unchanged to a rolling power application?",
+    "answer": "No. To limit propeller damage, the POH advises slowly advancing power so the airplane starts moving before high RPM develops. That differs from the chart technique, which uses full throttle before brake release. Do not assume the same published distance; reassess runway suitability and margin.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-14, Power Check; Section 5, p. 5-11, Figure 5-4 conditions",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=28",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-073",
+    "category": "cessna-150m",
+    "question": "In a spiral dive in a 1976 Cessna 150M, why is an immediate hard pull on the control wheel the wrong first correction?",
+    "answer": "The POH first reduces power and stops the turn with coordinated controls, then calls for a cautious pitch recovery toward 70 KIAS. Pulling hard while still banked can impose excessive loads and tighten the maneuver; distinguish this recovery from the separate spin procedure.",
+    "source": "1976 Cessna 150M POH, Section 3, p. 3-12, Recovery From a Spiral Dive",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=19",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-074",
+    "category": "cessna-150m",
+    "question": "A long runway is available in a strong crosswind for a 1976 Cessna 150M. Must you use all 40 degrees of landing flap?",
+    "answer": "No. The POH recommends the minimum flap setting required for the field length in a strong crosswind. Choose the configuration and corresponding approach speed together, while checking landing distance and maintaining drift and directional control.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-20, Crosswind Landing; p. 4-3, approach speeds",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=31",
+    "sourceMetadata": {
+      "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "C150M-075",
+    "category": "cessna-150m",
+    "question": "Before a night flight in the 1976 Cessna 150M, how can the POH alternator check reveal more than an unloaded ammeter glance?",
+    "answer": "At the 1,700-RPM run-up, briefly add electrical load with the landing light for 3-5 seconds or operate the flaps. The POH says the ammeter should remain within a needle width of zero if alternator and regulator operation is normal. Investigate an abnormal response before relying on them at night.",
+    "source": "1976 Cessna 150M POH, Section 4, p. 4-13, Alternator Check",
+    "sourceUrl": "https://www.aeroelectric.com/Reference_Docs/Cessna/cessna-poh/Cessna_150_C150M-1976.pdf#page=27",
     "sourceMetadata": {
       "edition": "1976 Cessna Model 150M Pilot's Operating Handbook, reprint D1055-13-RAND-5000-5/77",
       "reviewedAt": "2026-11-03",
@@ -2252,6 +2967,396 @@ const cards=[
     "answer": "Use the individual airplane’s current basic empty weight and center of gravity, including equipment changes. Add occupants, usable fuel, and baggage, then check both weight and CG limits; a sample loading or another Archer’s records are insufficient.",
     "source": "Piper Archer II PA-28-181 POH VB-1120, §6.1, printed pp.6-1–6-2",
     "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=120",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-061",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) fuel gauges look adequate, but a visual tank check shows less fuel than expected. Which information should control the departure decision?",
+    "answer": "Resolve the discrepancy before departure and plan from a verified usable quantity. The preflight requires both a gauge check and a visual check of each tank’s supply and fuel color; a reassuring gauge reading does not replace looking in the tanks.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.9, printed p.4-10",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=75",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-062",
+    "category": "piper-archer-ii",
+    "question": "After refueling an Archer II (PA-28-181), is one fuel-strainer sample with the selector left on one tank the complete POH contamination check?",
+    "answer": "No. The amplified preflight calls for draining both tank sumps first, then the strainer with each tank selected in turn. Examine the collected fuel and confirm that each drain closes without leaking. This check is required after refueling as well as before the day’s first flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.9, printed p.4-11",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-063",
+    "category": "piper-archer-ii",
+    "question": "During a cold start, the Archer II (PA-28-181) engine has not fired after 5–10 seconds. Should the pilot simply keep the starter engaged?",
+    "answer": "No. The handbook directs disengaging the starter, priming, and repeating the starting procedure. Reassess the engine’s condition and use the applicable starting procedure instead of prolonged continuous cranking.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(a), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-064",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) engine is flooded. Why would continuing a rich-mixture start with the electric fuel pump on be the wrong approach?",
+    "answer": "It continues supplying fuel when the flooded-start procedure instead calls for the pump off, mixture at idle cut-off, and throttle open during cranking. Once the engine fires, mixture and throttle must be adjusted promptly. Use the complete flooded-start procedure for the installed airplane.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(c), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-065",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) starts successfully using optional Piper External Power, but shows no alternator output afterward. Is that enough to depart?",
+    "answer": "No. A successful external-power start does not establish that the charging system works. After disconnecting the external supply and selecting the master on, the handbook requires an alternator-output check and specifically rules out flight with no output indication.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(d), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-066",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) has completed its normal warm-up time, but the engine skips or oil pressure drops when the throttle is opened. Is elapsed warm-up time enough for takeoff?",
+    "answer": "No. The warm-up guidance makes satisfactory throttle response and oil pressure part of readiness for takeoff. Investigate the abnormal response before departing; waiting a prescribed number of minutes alone does not make an engine ready.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.15, printed p.4-14",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=79",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-067",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) rolls normally out of parking, but its initial taxi brake check is ineffective. Should the pilot continue to run-up to investigate there?",
+    "answer": "No. Stop safely and resolve the problem before continuing. The POH calls for testing the brakes after moving only a few feet and checking steering with gentle turns, so a defect is discovered before normal taxi speeds or confined areas increase the risk.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.17, printed p.4-15",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=80",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-068",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) develops an induction fire during an overprimed start. Should the pilot keep priming to help it start?",
+    "answer": "No. Use the engine-fire-during-start procedure, which attempts to draw the fire into the engine rather than add fuel. If it persists beyond a few seconds, external extinguishing action is needed; the procedure calls for fuel shutoff and idle cut-off when using external extinguishing means.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.7, printed p.3-9",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-069",
+    "category": "piper-archer-ii",
+    "question": "After the Archer II (PA-28-181) rough-engine checks, the engine runs satisfactorily on one magneto but not on BOTH. Does that justify continuing the planned trip?",
+    "answer": "No. The handbook directs proceeding on the satisfactory magneto at reduced power, with mixture full rich, to the first available airport. A usable magneto can support a landing decision; it does not resolve the ignition fault.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.31, printed p.3-16",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=62",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-070",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) pilot selects only a little carburetor heat to remove suspected ice while limiting power loss. What is the POH concern?",
+    "answer": "Partial heat can melt some ice and allow it to refreeze farther into the intake. The handbook calls for full heat when removing carburetor ice, then full cold after the ice has cleared, using the complete icing/roughness procedure.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.31 note, printed p.3-17",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-071",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) ammeter reads 60 A although the known load is about 30 A. Why is “the alternator is rated for 60 A” an incomplete explanation?",
+    "answer": "The overload procedure uses output more than 20 A above the known load, not simply output above the alternator rating. A low battery or fault may be drawing the extra current. Follow the overload procedure for the actual BAT/ALT switch arrangement; interlocked and independent switches have different instructions.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.24, printed p.3-14",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=60",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-072",
+    "category": "piper-archer-ii",
+    "question": "After switching the Archer II (PA-28-181) master off for an electrical problem, can the pilot still rely on its normal stall-warning horn?",
+    "answer": "No. The handbook states that the stall-warning system is inoperative with the master off. Maintain appropriate airspeed and angle-of-attack awareness without waiting for an electrical warning that is no longer available.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.37 note, printed p.4-21",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=86",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-073",
+    "category": "piper-archer-ii",
+    "question": "An air-conditioned Archer II (PA-28-181) has its A/C switch on before takeoff. Is the full-throttle automatic cutout a substitute for selecting A/C off?",
+    "answer": "No. The before-takeoff procedure explicitly requires A/C off for normal takeoff performance. Full throttle normally disengages the compressor and retracts the condenser scoop, but that automatic feature does not replace the required switch selection. The A/C DOOR OPEN light refers to that condenser scoop.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.21, printed p.4-16; §7.33, printed p.7-22",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-074",
+    "category": "piper-archer-ii",
+    "question": "For an Archer II (PA-28-181) landing in a strong crosswind, must the pilot use the same full-flap configuration as a normal short landing?",
+    "answer": "No. The POH says that higher approach speeds with partial or no flaps may be desirable in strong crosswinds. Select a technique suited to wind, loading, and runway conditions, and reassess the landing distance rather than assuming the short-landing configuration is always best.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.31, printed p.4-20",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-075",
+    "category": "piper-archer-ii",
+    "question": "After touchdown during an Archer II (PA-28-181) short landing, how does the POH improve braking effectiveness?",
+    "answer": "It describes raising the flaps and applying aft control pressure to put more weight on the main wheels while braking. Keep directional control and positively identify the flap control; this is a ground-roll technique, not permission to retract flaps prematurely in flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.31, printed p.4-20",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-076",
+    "category": "piper-archer-ii",
+    "question": "During a prolonged power-off descent in the Archer II (PA-28-181), why should the pilot periodically check throttle response?",
+    "answer": "The handbook calls for briefly opening and closing the throttle about every 30 seconds to clear the engine and verify response. It also calls for full carburetor heat before reducing power if icing is suspected, with mixture adjusted as required.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.29, printed p.4-19",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=84",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-077",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) cruise plan uses the best-power chart, but the pilot leans an optional EGT installation to peak EGT. Do those assumptions match?",
+    "answer": "No. In this handbook, peak EGT is the best-economy reference; best power uses 100°F rich of peak. Use the chart and mixture procedure that match, within the permitted power/altitude conditions and current engine guidance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.27, printed p.4-18; §5.7, Figures 5-21–5-23",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-078",
+    "category": "piper-archer-ii",
+    "question": "While leaning the Archer II (PA-28-181) using optional EGT, the engine becomes rough before the gauge reaches a clear peak. Should the pilot keep leaning to force a higher indication?",
+    "answer": "No. The handbook uses the EGT at the onset of roughness as the peak reference in that situation. Apply the selected approved mixture procedure from that reference instead of accepting rough operation merely to find a numerical peak.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.27, printed p.4-18",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-079",
+    "category": "piper-archer-ii",
+    "question": "In the Archer II (PA-28-181) planning example, cruise uses 19.5 gal, climb 1 gal, and descent 1 gal. Is 19.5 gal the trip fuel, and how much weight is actually burned?",
+    "answer": "No. Add the segments: 21.5 US gal, or 129 lb using the handbook’s 6 lb/gal planning value. That is the example’s airborne trip burn; separately include ground use and the fuel reserve needed for the actual flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(g), printed p.5-7",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-080",
+    "category": "piper-archer-ii",
+    "question": "For an Archer II (PA-28-181) departing an elevated airport, the climb chart gives 11.5 min to cruise conditions and 3 min to departure-field conditions. What is the climb time for this departure?",
+    "answer": "8.5 minutes: subtract the departure-field value from the cruise-altitude value. The POH applies this same endpoint subtraction to climb distance and fuel; using the full sea-level-to-cruise amount would misstate this climb segment.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(c), printed p.5-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=93",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-081",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) route is 314 NM, with 11.5 NM allocated to climb and 20.5 NM to descent. How much distance should be assigned to cruise?",
+    "answer": "282 NM: 314 − 11.5 − 20.5. The POH plans climb, cruise, and descent separately; treating the entire route as cruise and then adding complete climb/descent segments would double-count distance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(d)–(e), printed p.5-6",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=94",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-082",
+    "category": "piper-archer-ii",
+    "question": "For a hypothetical Archer II (PA-28-181) cruise segment of 282 NM at 110 KTAS and 7.6 GPH, what does a steady 20-kt headwind do to the cruise fuel estimate?",
+    "answer": "Groundspeed becomes 90 kt. The segment takes about 3.13 hours and uses about 23.8 gal, instead of about 19.5 gal in still air. These are illustrative steady-condition calculations, excluding climb, descent, ground fuel, and reserve; use actual forecast winds and verified performance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(e), printed pp.5-6–5-7; §5.5(b) note, printed p.5-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-083",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) pilot checks only landing ground roll for a runway with a 50-ft obstacle at the approach end. What performance comparison is missing?",
+    "answer": "Use the landing distance over a 50-ft barrier, not just the ground roll after touchdown. VB-1120 provides separate landing-performance and ground-roll charts; compare the applicable total distance and technique with the available runway and add an operating margin.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.7, Figures 5-35–5-37, printed pp.5-28–5-29",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=116",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-084",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) would weigh 2,300 lb at takeoff before adding usable fuel. Using 6 lb/gal, can it take off with all 48 usable gallons?",
+    "answer": "No. Full usable fuel adds 288 lb, making 2,588 lb. The 2,550-lb normal-category limit leaves 250 lb, or about 41.7 usable gallons by weight alone. CG, performance, fuel reserve, and any other applicable limits may require a different loading or flight plan.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §2.11, printed p.2-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-085",
+    "category": "piper-archer-ii",
+    "question": "A hypothetical Archer II (PA-28-181) loading totals 2,400 lb and 219,000 lb-in of moment. How is its CG found, and what is the next check?",
+    "answer": "Divide moment by weight: 219,000 ÷ 2,400 = 91.25 inches aft of datum. Then plot that CG with the 2,400-lb weight in the applicable category envelope; a moment calculation alone does not establish an acceptable loading.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7(a)–(e), printed p.6-9",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-086",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) weighs 2,400 lb at a 91.0-in CG. A 150-lb passenger plans to move from the 80.5-in front-seat station to the 118.1-in rear-seat station. Is the unchanged total weight enough to approve the move?",
+    "answer": "No. The move adds 150 × (118.1 − 80.5) = 5,640 lb-in of moment, moving CG aft by 2.35 in to 93.35 in. That exceeds this handbook’s 93.0-in normal-category aft limit. Use actual loading data and approved seating arrangements before changing the plan.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §2.13, printed p.2-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-087",
+    "category": "piper-archer-ii",
+    "question": "A hypothetical Archer II (PA-28-181) starts at 2,400 lb with 219,000 lb-in of moment and burns 20 gal from the standard 95-in fuel station. What happens to its CG?",
+    "answer": "Using 6 lb/gal, remove 120 lb and 11,400 lb-in. The new CG is 207,600 ÷ 2,280 ≈ 91.05 in, moving forward from 91.25 in. Fuel burn changes both weight and CG; verify the loading stays inside the envelope throughout flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §4.41, printed p.4-22",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-088",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) departs at 2,400 lb and its planned airborne fuel burn is 129 lb. Which weight belongs in the destination landing-performance calculation?",
+    "answer": "The predicted landing weight is 2,271 lb, provided the planned burn occurs and no other weight changes intervene. Use that landing weight with destination conditions, and update the calculation if actual fuel use or the destination changes.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(a)–(b), printed pp.5-3–5-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=92",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-089",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) normal-category loading is 2,400 lb at an 85.0-in CG. Is it acceptable just because 85 in lies between the handbook’s overall 82- and 93-in extremes?",
+    "answer": "No. The forward limit depends on weight. Interpolating from 82.0 in at 2,050 lb to 88.6 in at 2,550 lb gives about 86.62 in at 2,400 lb. An 85.0-in CG is too far forward even though total weight is below maximum.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §2.13, printed p.2-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=38",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-090",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) will be left outdoors overnight. Does setting its parking brake complete the POH parking precautions?",
+    "answer": "No. The parking guidance also includes securing the control wheel with the belt, retracting the flaps, chocking the wheels, and securing the wing and tail tie-downs. Use the available approved tie-down points and appropriate precautions for the expected conditions.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.5 parking checklist, printed p.4-9; §4.35, printed pp.4-20–4-21",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=74",
     "sourceMetadata": {
       "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
       "reviewedAt": "2026-11-03",
@@ -3297,6 +4402,916 @@ const cards=[
       "reviewedAt": "2026-11-03",
       "verificationStatus": "Handbook section checked; applicability limited to cited edition"
     }
+  },
+  {
+    "id": "KA200-081",
+    "category": "king-air-200",
+    "question": "A King Air 200 engine fails during the takeoff roll on a slick runway. What extra risk accompanies single-engine reverse?",
+    "answer": "Asymmetric reverse can make directional control harder when traction is reduced. Use the ground-roll engine-failure procedure and its braking/reverse guidance; do not assume maximum reverse on the remaining engine is harmless on every surface.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-4",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=75",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-082",
+    "category": "king-air-200",
+    "question": "Just after King Air 200 liftoff, autofeather is still stopping the failed propeller. Why avoid immediately pulling that engine’s power lever back?",
+    "answer": "Retarding it too soon deactivates the autofeather circuit and can interrupt automatic feathering. The after-liftoff procedure says to wait until the propeller has completely stopped rotating when relying on autofeather. Keep flying the airplane and follow the complete procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-4",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=75",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-083",
+    "category": "king-air-200",
+    "question": "A King Air 200 loses an engine below minimum control speed and begins to yaw despite rudder. Why can demanding full power worsen the problem?",
+    "answer": "The operating engine’s thrust can exceed available directional control. The handbook calls for reducing its power as needed to maintain control and lowering the nose to accelerate above minimum control speed before readjusting power and securing the failed engine.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-4",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=75",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-084",
+    "category": "king-air-200",
+    "question": "The second King Air 200 engine flames out. Why is immediately feathering its propeller not the handbook’s first step?",
+    "answer": "The second-engine flameout procedure initially says not to feather and directs an air start. The propeller will not unfeather without the engine operating. Before configuring for the maximum-range glide with both propellers feathered, determine that restart procedures are ineffective.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-5; §3, p. 3-7",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-085",
+    "category": "king-air-200",
+    "question": "After a King Air 200 engine shuts down, should a pilot attempt an air start simply because sufficient altitude remains?",
+    "answer": "First determine why the engine failed. A restart attempt may be inappropriate after fire, mechanical damage or another unresolved failure. Apply the handbook’s air-start conditions and procedures only after assessing the cause; altitude alone does not establish that restarting is suitable.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-086",
+    "category": "king-air-200",
+    "question": "A King Air 200 is at 19,000 feet and 135 KIAS. Does that meet this handbook’s windmilling air-start envelope without starter assistance?",
+    "answer": "No. That procedure requires at least 140 knots and an altitude below 20,000 feet. Being below the altitude ceiling alone is insufficient. Establish the required conditions and use the complete applicable air-start procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-6",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=77",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-087",
+    "category": "king-air-200",
+    "question": "Why does a King Air 200 starter-assisted air start require attention to the engine that is still running?",
+    "answer": "Starting adds electrical demand to the operating engine. The handbook calls for reducing electrical load and, if conditions permit, lowering the operating engine’s ITT to 700°C or less to reduce the chance of an ITT exceedance. Monitor both engines during the attempt.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-5",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-088",
+    "category": "king-air-200",
+    "question": "On a King Air 200 single-engine approach, why delay selecting full flaps until a go-around is no longer an option?",
+    "answer": "Full landing configuration adds drag at a time when climb performance is limited. The handbook stages approach flaps/gear when the field can be reached, then full flaps when there is no possibility of a go-around. Plan the configuration and landing decision together.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-089",
+    "category": "king-air-200",
+    "question": "A King Air 200 engine shows 75 psi oil pressure while producing 1,800 ft-lb of torque. Is that an acceptable setting for continuing the flight under this handbook?",
+    "answer": "No. The 60–85 psi band is tolerated only to complete the flight at a reduced setting not exceeding 1,100 ft-lb. Apply the low-oil-pressure procedure and plan the landing; the engine still producing power does not make its current setting acceptable.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-090",
+    "category": "king-air-200",
+    "question": "King Air 200 oil pressure falls below 60 psi. Why is simply reducing to a convenient cruise setting inadequate?",
+    "answer": "The handbook identifies pressure below 60 psi as unsafe. Its procedure requires either shutting the engine down or landing as soon as possible using the minimum power required to sustain flight. Assess the situation and use the complete procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-091",
+    "category": "king-air-200",
+    "question": "King Air 200 electric trim runs without a command. After controlling attitude and disconnecting it, should you cycle it back on to see whether it has cleared?",
+    "answer": "No. The procedure calls for full second-level control-wheel disconnect, manual retrimming and the pedestal ELEV TAB switch OFF. Do not reactivate electric trim until the cause has been determined. A successful reset would not establish that the fault is fixed.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-092",
+    "category": "king-air-200",
+    "question": "A King Air 200 rudder pedal is being driven even though engine power is nearly equal. What does that suggest?",
+    "answer": "Unscheduled rudder-boost activation indicates a system failure rather than normal assistance for asymmetric power. The procedure first turns rudder boost OFF. If it persists, use the listed trim and bleed-air isolation guidance; the approach isolation step is tied to landing being assured and affects other pneumatic systems.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-093",
+    "category": "king-air-200",
+    "question": "During a King Air 200 emergency gear extension, an electrical failure prevents the three green lights from working. Does the usual instruction to stop at three greens mean you cannot extend the gear?",
+    "answer": "No. The emergency procedure contains a specific exception: continue pumping until sufficient resistance is felt to ensure down-and-locked gear, even though the drive may be damaged. Use the complete procedure; distinguish absent electrical indication from normal illuminated confirmation.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-094",
+    "category": "king-air-200",
+    "question": "At high altitude, King Air 200 cabin altitude begins rising rapidly. Should troubleshooting the controller come before protecting the occupants?",
+    "answer": "No. For loss of pressurization at high altitude, the handbook directs oxygen use and descent as required. Protect crew performance and address the altitude exposure while using the applicable procedure; controller troubleshooting must not delay those priorities.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=84",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-095",
+    "category": "king-air-200",
+    "question": "The King Air 200 cabin differential enters the red arc while cabin altitude remains low. Is that the same problem as loss of pressurization?",
+    "answer": "No. It is excessive differential pressure. The handbook first calls for selecting a higher cabin-altitude setting; if it persists, use the listed bleed-air isolation and depressurization sequence. It places DUMP after the cabin has depressurized in that sequence.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=84",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-096",
+    "category": "king-air-200",
+    "question": "On a King Air 200 with automatic passenger oxygen, ALT WARN appears but PASS OXY ON does not. What backup is provided?",
+    "answer": "The passenger manual-override control deploys the masks when automatic deployment has not occurred. Apply the oxygen/pressurization procedure, verify oxygen availability and address the cabin-altitude problem. The first-aid mask is manually deployed separately.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=84",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-097",
+    "category": "king-air-200",
+    "question": "King Air 200 DUCT OVERTEMP remains on after selecting a lower cabin temperature. Is that a reason to keep increasing heat to improve airflow?",
+    "answer": "No. Follow the duct-overtemperature procedure: it increases ventilation and cabin airflow, with manual temperature decrease if the condition persists. More heat is not the corrective action for an overheated environmental duct.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-098",
+    "category": "king-air-200",
+    "question": "After a King Air 200 BL AIR FAIL warning, the affected bleed-air valve is closed as directed, but the warning stays on. Does that alone prove the isolation failed?",
+    "answer": "No. The handbook says this warning will not extinguish after valve closure. It can indicate a ruptured bleed-air line aft of the firewall; isolate the affected side as directed and monitor engine instruments rather than reopening it merely to clear the light.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-12",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-099",
+    "category": "king-air-200",
+    "question": "A King Air 200’s automatic prop-deice ammeter stays at zero with AUTO selected. If the manual backup is used, where should its operation be monitored?",
+    "answer": "The zero-current automatic-system condition calls for the applicable backup procedure. Manual operation is monitored on the airplane loadmeters; the automatic deice ammeter does not indicate manual-system current. Use the serial-specific manual installation procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=86",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-100",
+    "category": "king-air-200",
+    "question": "After exposure to freezing moisture, a King Air 200 pilot’s VSI responds sluggishly and altitude indications seem abnormal. What source problem should be considered?",
+    "answer": "Partially obstructed normal static ports. The handbook provides an alternate static source and associated airspeed/altimeter corrections. A sustained indication change on selecting alternate can help identify obstruction; cross-check the instruments and use the complete procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-14",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=87",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-101",
+    "category": "king-air-200",
+    "question": "A King Air 200 windshield cracks in flight but remains in place. Does retained structural integrity permit continuing with normal altitude and pressurization settings?",
+    "answer": "No. The procedure calls for 25,000 feet or below if possible, 2.0–4.6 psi cabin differential in cruise/descent, and depressurization before touchdown. Address visibility and loose-glass hazards and consult the postflight limitations. Retained structural integrity does not waive these restrictions.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-16; §2, p. 2-12A",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=89",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-102",
+    "category": "king-air-200",
+    "question": "A King Air 200 cabin side window cracks. Can you apply the cracked-windshield differential-pressure allowance instead?",
+    "answer": "No. The side-window procedure requires depressurizing the cabin, with descent and oxygen as required. The continued-flight limitation prohibits pressurized flight with a cracked side window. Identify which transparency is damaged before selecting a procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, p. 3-16; §2, p. 2-12A",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=89",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-103",
+    "category": "king-air-200",
+    "question": "King Air 200 windshield HI heat is selected during icing. Should you expect a larger heated viewing area than with NORMAL?",
+    "answer": "No. NORMAL heats the major portion of the windshield; HI provides more intense heat over a smaller area. Use the correct setting for the conditions and monitor visibility rather than assuming the whole windshield receives stronger heat.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-46–48",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=324",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-104",
+    "category": "king-air-200",
+    "question": "During a dry-ramp King Air 200 preflight, is cycling the windshield wipers on dry glass an appropriate routine check?",
+    "answer": "No. The systems description permits ground or flight operation but says not to use the wipers on dry glass. Inspect them and follow the applicable check without damaging the transparency through dry wiping.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-51",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=329",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-105",
+    "category": "king-air-200",
+    "question": "A King Air 200 develops an electrical-overheat smell and smoke at the lower inboard windshield corner. Which specific fault does the handbook highlight?",
+    "answer": "A possible windshield-heat electrical-terminal overheat. The temporary-change procedure calls for windshield heat OFF, then the electrical-smoke/fire procedure if smoke or fire continues. Use its restrictions before restoring any heat; do not treat it as ordinary condensation.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §3, temporary change 101-590010-127TC1",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-106",
+    "category": "king-air-200",
+    "question": "During King Air 200 start, ten seconds pass after LOW IDLE is selected with no ITT rise. Should more fuel be introduced to force light-off?",
+    "answer": "No. The handbook directs the condition lever to CUT-OFF, allows 60 seconds for fuel to drain and the starter to cool, and then uses the engine-clearing procedure. Observe starter limits and investigate the unsuccessful start.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=99",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-107",
+    "category": "king-air-200",
+    "question": "On a hot, high ramp, a King Air 200’s ITT rises abnormally as Ng falls under generator and air-conditioning load. What should be considered before advancing the condition lever?",
+    "answer": "The handbook calls for the affected generator—and the right-engine air-conditioning compressor if applicable—to be turned off before attempting to accelerate the engine. Reduce the excessive accessory load and use the starting/ground-operation procedure rather than adding power blindly.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-7",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=98",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-108",
+    "category": "king-air-200",
+    "question": "The King Air 200 battery reads 19 volts. May external power be connected simply to overcome its weak starting performance?",
+    "answer": "No. The cited procedure requires an installed battery indicating at least 20 volts before connecting external power. Recharge or replace the battery as directed; an external source does not waive that prerequisite.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-6",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=97",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-109",
+    "category": "king-air-200",
+    "question": "Both King Air 200 engines have started using external power. Should the generators be brought on line while the external source is still connected?",
+    "answer": "The handbook says to keep the generators OFF until external power is disconnected. Follow the complete external-power sequence and verify disconnection; avoid combining sources in a way the procedure does not authorize.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-6",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=97",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-110",
+    "category": "king-air-200",
+    "question": "A King Air 200’s takeoff torque and ITT were acceptable while stationary. Why must they still be watched as the airplane accelerates?",
+    "answer": "Increasing airspeed can increase torque and ITT. A satisfactory static setting does not guarantee that the engines remain within limits throughout the roll and climb; keep monitoring and adjust within the applicable procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=101",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-111",
+    "category": "king-air-200",
+    "question": "During a high-altitude King Air 200 descent, power is greatly reduced and cabin altitude starts departing from schedule. What operating note is relevant?",
+    "answer": "The handbook notes that approximately 75% Ng is needed to maintain the pressurization schedule during descent. Check actual cabin indications, engine power and controller settings; coordinate descent and power instead of assuming any idle setting provides adequate inflow.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=102",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-112",
+    "category": "king-air-200",
+    "question": "In the cited conventional King Air 200 installation, what propeller setting could contribute to unexpected ILS glide-slope interference on approach?",
+    "answer": "The handbook cautions against propeller operation in the 1750–1850 RPM range because of possible glide-slope interference. Cross-check guidance and use the aircraft’s applicable equipment supplements and approach procedure; do not assume every indication change is a path deviation.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=102",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-113",
+    "category": "king-air-200",
+    "question": "After a short King Air 200 taxi-in, is immediate fuel cutoff the complete normal shutdown technique?",
+    "answer": "The handbook first calls for ITT stabilized at its minimum temperature for one minute. Use the full securing checklist, including battery condition and equipment settings; taxi-in alone does not demonstrate that the specified stabilization has occurred.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=104",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-114",
+    "category": "king-air-200",
+    "question": "During King Air 200 shutdown, ITT indicates sustained combustion after fuel cutoff. Should that be ignored as normal turbine cooling?",
+    "answer": "No. Monitor ITT and use the engine-clearing procedure immediately if sustained combustion is observed. Also verify free compressor deceleration. The normal shutdown procedure does not use the firewall fuel valves as routine engine-stop controls.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=104",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-115",
+    "category": "king-air-200",
+    "question": "A King Air 200 training calculation gives 100 minutes of full-bottle oxygen duration for the correct installation and user count. The usable-capacity graph shows 60%. What duration remains?",
+    "answer": "60 minutes: 100 × 0.60. Use the graph’s percent of usable capacity, not an assumed linear fraction of pressure, and use the correct mask/user count. These supplied training values are not actual dispatch data or an allowance to delay descent.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=104",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-116",
+    "category": "king-air-200",
+    "question": "Smoke enters a King Air 200 cockpit equipped with diluter-demand masks. Why does leaving a crew mask at NORMAL fail to provide the same protection as 100%?",
+    "answer": "NORMAL mixes cabin air with oxygen, so it can draw contaminated air into the mask. The handbook specifies 100% for smoke or fumes. Use the smoke procedure and verify mask operation; oxygen use does not extinguish the source.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-45",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=323",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-117",
+    "category": "king-air-200",
+    "question": "A King Air 200 passenger’s oxygen mask has dropped from its dispenser. Is dropping alone enough to start flow through that mask?",
+    "answer": "No. Pulling the mask down removes the lanyard valve pin and starts its flow. Include that action in the passenger briefing and verify use; an open dispenser door alone is not evidence that the passenger is receiving oxygen.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-45",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=323",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-118",
+    "category": "king-air-200",
+    "question": "On a King Air 200 with automatic oxygen, could masks deploy yet provide no useful supply if the primary oxygen control was left pushed in?",
+    "answer": "Yes. The supply-bottle shutoff must be open and the bottle must contain oxygen. The handbook says the PULL ON/SYS READY control pushed in makes no supply available anywhere. Complete the installed-system preflight rather than relying only on automatic deployment.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-45",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=323",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-119",
+    "category": "king-air-200",
+    "question": "One King Air 200 engine fails, yet the remaining engine and bleed-air path are healthy. Must surface-deice pressure and pneumatic instrument vacuum both disappear?",
+    "answer": "No. One engine can supply sufficient bleed air for those systems; check valves prevent reverse flow toward the failed side. Monitor actual pressure and suction and follow the single-engine procedure. Loss of both supplies suggests more than the expected loss of one engine.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-46",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=324",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-120",
+    "category": "king-air-200",
+    "question": "During King Air 200 icing flight, the surface-deice SINGLE cycle fails. Does that establish that no boot inflation is available?",
+    "answer": "No. The cited procedure provides a MANUAL cycle as backup and notes that either engine can supply the needed pressure. Use the applicable failure procedure, verify actual inflation and pursue an icing exit if protection is inadequate.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-19",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=112",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-121",
+    "category": "king-air-200",
+    "question": "After cycling King Air 200 deicing boots, can normal clean-wing stall cues and climb performance be assumed restored?",
+    "answer": "No. Residual ice and ice on unprotected areas can still reduce speed and climb performance and increase stall speed. The handbook warns that the aural stall warning may be inaccurate in that condition; preserve margin and address the icing exposure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=111",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-122",
+    "category": "king-air-200",
+    "question": "A King Air 200 is below its applicable VMO but windshield icing is reducing visibility. Is VMO the only relevant speed boundary?",
+    "answer": "No. This handbook calls for 226 knots or below with windshield icing and lists that speed for effective windshield anti-icing. Check the icing procedure and visibility as well as the general operating-speed limit.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18B; §4, p. 4-3",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=111",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-123",
+    "category": "king-air-200",
+    "question": "A King Air 200’s brakes are frozen to the ramp. Is an oily deicing product an acceptable shortcut to free them?",
+    "answer": "No. The cold-weather procedure prohibits solutions containing a lubricant such as oil because they reduce brake effectiveness. Verify the tires and brakes are free using approved methods before taxiing.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18A",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=110",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-124",
+    "category": "king-air-200",
+    "question": "Why keep King Air 200 flaps retracted while taxiing through snow or slush?",
+    "answer": "The handbook calls for retraction to avoid throwing contamination into the flap mechanisms and to reduce flap-surface damage. Avoid deep snow/slush when possible; a successful initial brake check does not prevent later freezing.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18A",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=110",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-125",
+    "category": "king-air-200",
+    "question": "After King Air 200 operation in freezing moisture, why might chocking be preferable to leaving the parking brake set?",
+    "answer": "The cold-weather securing guidance advises avoiding the parking brake if possible to reduce freezing risk, using proper chocking to prevent movement. Choose securing methods for the surface and weather rather than applying the warm-weather habit automatically.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-18B",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=111",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-126",
+    "category": "king-air-200",
+    "question": "The King Air 200 enters air colder than −40°C while ice protection is being considered. What boot restriction must be checked?",
+    "answer": "The cited handbook prohibits surface-deice boot operation below −40°C because it can permanently damage the boots. Apply the limitation and plan an appropriate route/altitude response; installed ice protection has operating-temperature boundaries.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-19",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=112",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-127",
+    "category": "king-air-200",
+    "question": "During King Air 200 refueling, should concentrated fuel anti-icing additive be poured directly against the tank interior before fuel is added?",
+    "answer": "No. It must be properly blended into the flowing fuel using the approved procedure and concentration. Concentrate can deteriorate fuel cells and damage coatings. Confirm whether the supplier has already blended additive before adding more.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-7",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-128",
+    "category": "king-air-200",
+    "question": "For a cold King Air 200 flight, is the presence of an oil-to-fuel heater alone proof that fuel-control icing cannot occur?",
+    "answer": "No. The limitations provide an oil-temperature versus fuel-temperature/OAT planning graph to identify conditions requiring approved anti-icing additive. Use that graph and the specified fuel/additive procedure; the heater does not remove the planning requirement.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-7",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=48",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-129",
+    "category": "king-air-200",
+    "question": "A King Air 200 propeller remains at 2,100 RPM after a transient has passed. Is that acceptable because it is below the five-second 2,200-RPM limit?",
+    "answer": "No. Sustained speeds above 2,080 RPM are unapproved in this handbook and indicate failure of both primary and secondary governing protection. A short-duration transient limit cannot justify a sustained overspeed. Use the applicable procedure.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=50",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-130",
+    "category": "king-air-200",
+    "question": "A King Air 200 propeller is at 1,400 RPM while torque is 1,800 ft-lb. Can the 2,230-ft-lb normal torque ceiling justify that combination?",
+    "answer": "No. The cited footnote limits torque to 1,100 ft-lb below 1,600 propeller RPM. The higher torque limit applies within the specified 1,600–2,000 RPM range. Check the complete operating-limit table rather than applying its largest number to every RPM.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §2, p. 2-5, torque-limit footnote",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=46",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-131",
+    "category": "king-air-200",
+    "question": "With a King Air 200 parked in wind and engine oil pressure at zero, what propeller protection should be considered?",
+    "answer": "Use the provided propeller tie-down boots as directed to prevent windmilling at zero oil pressure. Include propeller securing in the parked-aircraft checks rather than assuming an engine that is shut down cannot have a rotating propeller.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-31",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=309",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-132",
+    "category": "king-air-200",
+    "question": "On an applicable BB-350 King Air 200 with approach flaps and gear not down, is the absence of a gear horn above 140 knots proof of down-and-locked gear?",
+    "answer": "No. For BB-324–BB-452 the horn in that configuration is conditioned on airspeed below 140 knots, while the handle warning lights can already be on. Verify the green down indications and use the serial-specific warning description.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-18, BB-324–BB-452",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=296",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-133",
+    "category": "king-air-200",
+    "question": "When King Air 200 flap extension produces a nose-up tendency, should that automatically be diagnosed as an electric-trim runaway?",
+    "answer": "No. The handbook describes a nose-up attitude effect from lowering flaps, with nose-down trim needed to maintain attitude. Cross-check actual trim-wheel motion and control forces; distinguish a normal configuration effect from uncommanded trim operation.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-17",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=295",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-134",
+    "category": "king-air-200",
+    "question": "Two passengers begin using the King Air 200 airstair at the same time. What loading precaution applies?",
+    "answer": "The handbook’s airstair caution permits only one person on the stairway at a time. Control boarding as well as securing the door; a correctly latched door in flight does not address stair loading on the ramp.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-21",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=299",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-135",
+    "category": "king-air-200",
+    "question": "A King Air 200 magnetic compass behaves erratically when windshield heat is switched on. What installation effect should be considered before accepting it as a real turn?",
+    "answer": "The handbook notes possible compass interference while windshield heat is used. Cross-check independent heading/turn indications and the applicable equipment guidance rather than steering from the disturbed compass alone.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-48",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=326",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-136",
+    "category": "king-air-200",
+    "question": "King Air 200 air conditioning stops cooling on the ground and AIR CND Ng LOW appears with the right engine below 60% Ng. Must the refrigerant system have failed?",
+    "answer": "No. The right-engine speed interlock disengages the compressor below its required speed. Check engine RPM and the environmental procedure before assuming a refrigerant fault, while observing engine and electrical ground-operation limits.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §7, p. 7-42",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=320",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-137",
+    "category": "king-air-200",
+    "question": "During the King Air 200 pre-start voltage check, a volt/loadmeter shows no voltage when its test switch is pressed. Should an otherwise normal-looking panel justify ignoring it?",
+    "answer": "No. The checklist identifies no voltage at that check as an indication that a current limiter is out. Investigate the electrical supply/distribution condition using the applicable procedure; other normal indications do not establish that every bus connection is intact.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §4, p. 4-6",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=97",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-138",
+    "category": "king-air-200",
+    "question": "For King Air 200 performance planning, a training airport is at 5,000 feet with an altimeter setting of 29.62 inHg. What approximate pressure altitude enters the charts?",
+    "answer": "5,300 feet: 29.92 − 29.62 = 0.30 inHg, giving about 300 feet above field elevation using the handbook’s 1,000-feet-per-inHg method. Temperature is a separate chart input; field elevation alone would understate the pressure altitude.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-4",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=119",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-139",
+    "category": "king-air-200",
+    "question": "A King Air 200 training climb chart gives cumulative fuel of 40 lb at departure altitude and 300 lb at cruise altitude. Is 300 lb the climb-segment fuel?",
+    "answer": "No. Subtract the departure-altitude value: 300 − 40 = 260 lb for that climb segment. The handbook planning example uses this difference method for cumulative climb time, fuel and distance. The supplied readings are training inputs, not a chart lookup for a real flight.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-8",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=123",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-140",
+    "category": "king-air-200",
+    "question": "A King Air 200 training leg is 180 NM at 240-knot groundspeed, with fuel flow of 270 lb/hr per engine. How much cruise fuel does that leg use?",
+    "answer": "405 lb: 180 ÷ 240 = 0.75 hour, and 0.75 × (270 × 2) = 405. Use total fuel flow for both engines. The figures are supplied training inputs and exclude climb, descent, ground use and reserves.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=124",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-141",
+    "category": "king-air-200",
+    "question": "For a King Air 200 training plan, ground/start use is 90 lb, climb 230 lb, cruise 900 lb, descent 130 lb and planned reserve 350 lb. Is 1,610 lb sufficient?",
+    "answer": "No. The components total 1,700 lb, a 90-lb shortage. The handbook’s planning method separately includes ground/start/takeoff use, climb, cruise, descent and reserve. The supplied reserve is an exercise assumption, not a regulatory determination or complete dispatch plan.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=125",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-142",
+    "category": "king-air-200",
+    "question": "A King Air 200 training plan starts at 12,590 lb ramp weight and predicts 1,653 lb fuel burn including taxi. What is predicted landing weight, and should taxi burn be subtracted again?",
+    "answer": "10,937 lb: 12,590 − 1,653. Do not subtract taxi fuel twice when it is already included in total trip burn. This arithmetic follows the handbook example; separately check actual takeoff, landing, zero-fuel and CG limits.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-10",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=125",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-143",
+    "category": "king-air-200",
+    "question": "A King Air 200 training route is 600 NM, with 70 NM covered in climb and 60 NM in descent. Should cruise fuel be calculated for all 600 NM as well?",
+    "answer": "No. The cruise segment is 470 NM after subtracting climb and descent distance. Include those phases’ separately calculated time and fuel; otherwise the route is counted twice. Use actual phase-specific performance and winds for a real plan.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-8–9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=123",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-144",
+    "category": "king-air-200",
+    "question": "In a King Air 200 training plan, a 400-NM cruise leg uses 500 lb/hr total. Groundspeed falls from 250 to 200 knots. What happens to the cruise-fuel estimate?",
+    "answer": "It rises from 800 to 1,000 lb: time changes from 1.6 to 2.0 hours. Reassess the remaining fuel, destination and reserve margin using updated groundspeed. These supplied constant-flow values illustrate the handbook method; actual altitude/power changes also affect flow.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=124",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-145",
+    "category": "king-air-200",
+    "question": "A King Air 200 performance result was read with ice vanes retracted, but they will be extended. Can regaining indicated torque alone validate the original result?",
+    "answer": "No. Apply the particular chart’s ice-vane note. The handbook uses chart-specific higher-temperature entries or percentage adjustments and says the effect is approximate and condition-dependent. Restoring torque does not automatically restore every published performance parameter.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=126",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-146",
+    "category": "king-air-200",
+    "question": "While reading a King Air 200 multi-scale performance graph, may you bypass its reference line and draw straight to the desired weight?",
+    "answer": "No. Follow the example’s stated sequence, project to each reference line first and then follow the guide lines. Bypassing a reference line can yield an apparently precise but incorrect result. Check the chart’s associated conditions too.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=126",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-147",
+    "category": "king-air-200",
+    "question": "A King Air 200 landing estimate was read from the WITHOUT PROPELLER REVERSING chart. Must reverse be assumed available to achieve that chart’s stated distance?",
+    "answer": "No. That chart is explicitly without reverse, under its other specified conditions and technique. Keep it distinct from the separate WITH REVERSING chart; do not mix the shorter result from one with the assumptions of the other.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §5, p. 5-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=126",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-148",
+    "category": "king-air-200",
+    "question": "For King Air 200 loading practice, an airplane weighs 12,000 lb at a 193.0-inch CG. Add 100 lb of baggage at the handbook’s F.S.325 station. What is the new CG?",
+    "answer": "About 194.09 inches: [(12,000 × 193.0) + (100 × 325)] ÷ 12,100. The baggage moves CG aft. These supplied starting values are hypothetical; use the actual configuration’s station and check the complete weight/CG envelope and other limits before calling a loading acceptable.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §6, p. 6-12; §2, p. 2-11",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=240",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-149",
+    "category": "king-air-200",
+    "question": "In King Air 200 loading practice, a 200-lb occupant moves from an approved F.S.129 station to F.S.250 in a 12,000-lb airplane. How much does CG change?",
+    "answer": "About 2.02 inches aft: 200 × (250 − 129) ÷ 12,000. Total weight stays the same but moment changes. The stations come from the handbook tables; verify the actual seat installation and recompute loading rather than treating an unchanged passenger count as unchanged CG.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §6, p. 6-9",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=237",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; supplied training arithmetic checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "KA200-150",
+    "category": "king-air-200",
+    "question": "A King Air 200 loading sheet includes passengers, fuel and baggage but omits charts and supplies placed in cabinets after weighing. Is the empty-weight entry enough to cover them?",
+    "answer": "No. The handbook explicitly requires cabinet-content weights and moments in loading computations. Determine what is already included in the aircraft’s current empty-weight record and add variable contents once at their correct stations; do not silently omit or double-count them.",
+    "source": "Beech Super King Air 200/200C POH/FAA AFM 101-590010-127, Rev. A13 January 2002, §6, p. 6-12–13",
+    "sourceUrl": "https://executiveflighttraining.com/wp-content/uploads/2024/09/King-Air-200-POH.pdf#page=240",
+    "sourceMetadata": {
+      "edition": "Super King Air 200/200C POH/AFM 101-590010-127, original October 1978, Rev. A13 January 2002; PT6A-41 configuration and title-page serial applicability; includes inserted temporary changes",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; original practical scenario; applicability limited to cited edition"
+    }
   }
 ];
 window.FLIGHT_REVIEW_CATEGORIES.push(...categories);
@@ -3328,5 +5343,5 @@ if(ctls){
   ctls.description='Archived AOI AF 043 00005, Rev. 8 (2009). Handbook-derived CTLS limits, systems, performance, controls and aircraft-specific cautions.';
   ctls.aircraft={model:'Flight Design CTLS',edition:'AOI AF 043 00005 · Rev. 8 (2009)',scope:'Archived AOI; confirm serial-number applicability, current supplements, installed equipment and placards.'};
 }
-window.FLIGHT_REVIEW_AIRCRAFT_LIBRARY=Object.freeze({date:'2026-11-03',addedCards:cards.length,counts:{"cessna-172s":60,"cessna-150m":50,"piper-archer-ii":60,"king-air-200":80}});
+window.FLIGHT_REVIEW_AIRCRAFT_LIBRARY=Object.freeze({date:'2026-11-03',addedCards:cards.length,counts:{"cessna-172s":90,"cessna-150m":75,"piper-archer-ii":90,"king-air-200":150}});
 })();

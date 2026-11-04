@@ -2,7 +2,7 @@
 
 **[Open the public study website](https://need4speed15.github.io/Flight-Review-Companion/)** · Version **v1.1.0**
 
-A flashcard library for U.S. flight-review preparation, IFR refreshers, and professional operations, with **2,495 cards in 29 categories**. It combines a 2,235-card base, ten illustrated Practical Scenarios, and 250 new aircraft-handbook cards. Part 121 Ops has 250 cards and Instrument / IFR Refresher has 200.
+A flashcard library for U.S. flight-review preparation, IFR refreshers, and professional operations, with **2,650 cards in 29 categories**. It combines a 2,235-card base, ten illustrated Practical Scenarios, and 405 aircraft-handbook cards. Part 121 Ops has 250 cards and Instrument / IFR Refresher has 200.
 
 The public website runs on GitHub Pages without requiring an account. It saves study data in the visitor's browser and offers backup export/import. Card corrections open GitHub Issues. The retained private ChatGPT Sites edition has the optional account-sync and report-inbox backend.
 
@@ -24,7 +24,7 @@ Progress is specific to a browser and website address. To move progress from the
 The homepage starts with topic selection and a compact study bar. Starter mixes and the review queue expand on demand; Session options holds order, size, and focus settings. The header's Study tools menu contains whole-library card search, bookmarks, flags, sync, backups, sources, and the owner's report inbox. A saved session appears as a compact Resume banner, and untouched topics omit empty progress counters.
 
 - Browse topic groups, search categories, and select one or more topics. Inspect lists matching questions with search, subtopic, bookmark, and flag filters.
-- Find every model-specific category in the Aircraft-specific study section, including the existing Flight Design CTLS. New decks cover the conventional-panel Cessna 172S (60), 1976 Cessna 150M (50), Piper Archer II PA-28-181 (60), and PT6A-41-powered Super King Air 200/200C (80). Category descriptions and study notices identify handbook editions and applicability.
+- Find every model-specific category in the Aircraft-specific study section, including the existing Flight Design CTLS. Decks cover the conventional-panel Cessna 172S (90), 1976 Cessna 150M (75), Piper Archer II PA-28-181 (90), and PT6A-41-powered Super King Air 200/200C (150). Category descriptions and study notices identify handbook editions and applicability. The aircraft decks include practical failure-recognition, procedure-selection, and worked planning scenarios with direct handbook-page references.
 - Choose shuffled or ordered study, a session size, and a subtopic focus. Custom Study draws a requested number of random cards from each category; named mixes save those quantities for reuse.
 - Resume the current session, reveal answers, bookmark or flag a card, and rate recall with Know it or Review again. Session replacement asks before discarding an unfinished set.
 - Recall history persists between sessions. The dashboard offers due cards, cards needing more practice, and unseen cards, with category progress. These self-ratings guide review; they do not establish pilot proficiency.
@@ -63,7 +63,7 @@ The build runs `scripts/prepare-library.mjs` to copy study assets into `public/`
 | `study-store.js` | Browser-local record persistence, review scheduling, validation, and merging. |
 | `cards.js` | The 2,235-card base library, categories, and reference directory. |
 | `source-enhancements.js` | Post-content overlay: more specific citations, source metadata, and ten Practical Scenarios. |
-| `aircraft-cards.js` | Generated overlay with four model-specific categories, 250 handbook-linked cards, and aircraft applicability metadata. |
+| `aircraft-cards.js` | Generated overlay with four model-specific categories, 405 handbook-linked cards, and aircraft applicability metadata. |
 | `assets/practice/` | Ten original SVG training illustrations, each with accessible descriptions. |
 | `content/` | Expansion and revision inputs, category targets, research notes, content generation, and study/store tests. |
 | `app/`, `server/` | Hosted page route, authenticated APIs, server logic, and API tests. |
@@ -79,7 +79,7 @@ The browser loads `cards.js`, then `source-enhancements.js`, then `aircraft-card
 
 The source overlay improves **737 existing links** to eCFR sections, AIM sections, FAA handbook chapters, or a specific handbook directory. It preserves the original citation labels and previous URLs. This makes fact-checking easier; changing a link does not establish that its answer has been newly audited.
 
-The base cards have `reviewedAt: null` with an explicit indication that an individual answer review date was not recorded. The ten practical examples were checked October 29, 2026; the 250 new aircraft cards were checked November 3, 2026 against the cited archived manufacturer-authored handbooks. Their exact PDF page links, edition metadata, and research notes are retained. That check does not establish applicability to a current individual aircraft. See [source-enhancements-notes.md](content/source-enhancements-notes.md) and `content/aircraft-*-sources.txt` for scope and source mapping.
+The base cards have `reviewedAt: null` with an explicit indication that an individual answer review date was not recorded. The ten practical examples were checked October 29, 2026; the 405 aircraft cards were checked November 3, 2026 against the cited archived manufacturer-authored handbooks. Their exact PDF page links, edition metadata, and research notes are retained. Supplied training inputs are identified in worked scenarios; they do not assert performance for a real aircraft or flight. That check does not establish applicability to a current individual aircraft. See [source-enhancements-notes.md](content/source-enhancements-notes.md) and `content/aircraft-*-sources.txt` for scope and source mapping.
 
 Each card has a stable `id`, `category`, `question`, `answer`, `source`, and `sourceUrl`. Optional fields are:
 

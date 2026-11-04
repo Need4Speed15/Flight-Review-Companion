@@ -24,7 +24,7 @@ vm.createContext(context);vm.runInContext(extract('loadIdentity')+'\n'+extract('
  assert.equal(link.origin,'https://github.com');assert.equal(link.searchParams.get('title'),'Card correction: PRACTICE-006');assert(link.searchParams.get('body').includes('A&B?'));
  const content={window:{}};vm.createContext(content);
  for(const file of ['cards.js','source-enhancements.js','aircraft-cards.js'])vm.runInContext(fs.readFileSync(path.join(out,file),'utf8'),content);
- assert.equal(content.window.FLIGHT_REVIEW_CARDS.length,2495);
+ assert.equal(content.window.FLIGHT_REVIEW_CARDS.length,2650);
  assert.equal(content.window.FLIGHT_REVIEW_CATEGORIES.length,29);
- console.log('PASS: static mode avoids cloud APIs, local profile activation, public correction links, subpath-safe assets, and 2,495 cards across 29 categories.');
+ console.log('PASS: static mode avoids cloud APIs, local profile activation, public correction links, subpath-safe assets, and 2,650 cards across 29 categories.');
 })().catch(error=>{console.error(error);process.exit(1);});

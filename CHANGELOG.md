@@ -1,5 +1,11 @@
 # Changelog
 
+## Practical aircraft scenarios — November 3, 2026
+
+- Added 155 original practical scenarios, bringing the Cessna 150M to 75, Cessna 172S to 90, Archer II to 90, and King Air 200/200C to 150 cards.
+- Expanded failure recognition, procedure selection, and worked fuel, loading, and performance planning with handbook page citations on every addition.
+- Preserved the original 250 aircraft cards and their IDs. The full library now has 2,650 cards across 29 categories.
+
 ## Aircraft library expansion — November 3, 2026
 
 - Added 250 original, handbook-referenced cards: Cessna 172S (60), 1976 Cessna 150M (50), Piper Archer II PA-28-181 (60), and Super King Air 200/200C with PT6A-41 engines (80).

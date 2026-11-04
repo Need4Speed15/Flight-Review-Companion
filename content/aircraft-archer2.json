@@ -778,5 +778,395 @@
       "reviewedAt": "2026-11-03",
       "verificationStatus": "Handbook section checked; applicability limited to cited edition"
     }
+  },
+  {
+    "id": "ARCH2-061",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) fuel gauges look adequate, but a visual tank check shows less fuel than expected. Which information should control the departure decision?",
+    "answer": "Resolve the discrepancy before departure and plan from a verified usable quantity. The preflight requires both a gauge check and a visual check of each tank’s supply and fuel color; a reassuring gauge reading does not replace looking in the tanks.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.9, printed p.4-10",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=75",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-062",
+    "category": "piper-archer-ii",
+    "question": "After refueling an Archer II (PA-28-181), is one fuel-strainer sample with the selector left on one tank the complete POH contamination check?",
+    "answer": "No. The amplified preflight calls for draining both tank sumps first, then the strainer with each tank selected in turn. Examine the collected fuel and confirm that each drain closes without leaking. This check is required after refueling as well as before the day’s first flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.9, printed p.4-11",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=76",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-063",
+    "category": "piper-archer-ii",
+    "question": "During a cold start, the Archer II (PA-28-181) engine has not fired after 5–10 seconds. Should the pilot simply keep the starter engaged?",
+    "answer": "No. The handbook directs disengaging the starter, priming, and repeating the starting procedure. Reassess the engine’s condition and use the applicable starting procedure instead of prolonged continuous cranking.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(a), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-064",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) engine is flooded. Why would continuing a rich-mixture start with the electric fuel pump on be the wrong approach?",
+    "answer": "It continues supplying fuel when the flooded-start procedure instead calls for the pump off, mixture at idle cut-off, and throttle open during cranking. Once the engine fires, mixture and throttle must be adjusted promptly. Use the complete flooded-start procedure for the installed airplane.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(c), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-065",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) starts successfully using optional Piper External Power, but shows no alternator output afterward. Is that enough to depart?",
+    "answer": "No. A successful external-power start does not establish that the charging system works. After disconnecting the external supply and selecting the master on, the handbook requires an alternator-output check and specifically rules out flight with no output indication.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.13(d), printed p.4-13",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=78",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-066",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) has completed its normal warm-up time, but the engine skips or oil pressure drops when the throttle is opened. Is elapsed warm-up time enough for takeoff?",
+    "answer": "No. The warm-up guidance makes satisfactory throttle response and oil pressure part of readiness for takeoff. Investigate the abnormal response before departing; waiting a prescribed number of minutes alone does not make an engine ready.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.15, printed p.4-14",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=79",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-067",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) rolls normally out of parking, but its initial taxi brake check is ineffective. Should the pilot continue to run-up to investigate there?",
+    "answer": "No. Stop safely and resolve the problem before continuing. The POH calls for testing the brakes after moving only a few feet and checking steering with gentle turns, so a defect is discovered before normal taxi speeds or confined areas increase the risk.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.17, printed p.4-15",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=80",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-068",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) develops an induction fire during an overprimed start. Should the pilot keep priming to help it start?",
+    "answer": "No. Use the engine-fire-during-start procedure, which attempts to draw the fire into the engine rather than add fuel. If it persists beyond a few seconds, external extinguishing action is needed; the procedure calls for fuel shutoff and idle cut-off when using external extinguishing means.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.7, printed p.3-9",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=55",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-069",
+    "category": "piper-archer-ii",
+    "question": "After the Archer II (PA-28-181) rough-engine checks, the engine runs satisfactorily on one magneto but not on BOTH. Does that justify continuing the planned trip?",
+    "answer": "No. The handbook directs proceeding on the satisfactory magneto at reduced power, with mixture full rich, to the first available airport. A usable magneto can support a landing decision; it does not resolve the ignition fault.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.31, printed p.3-16",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=62",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-070",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) pilot selects only a little carburetor heat to remove suspected ice while limiting power loss. What is the POH concern?",
+    "answer": "Partial heat can melt some ice and allow it to refreeze farther into the intake. The handbook calls for full heat when removing carburetor ice, then full cold after the ice has cleared, using the complete icing/roughness procedure.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.31 note, printed p.3-17",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=63",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-071",
+    "category": "piper-archer-ii",
+    "question": "The Archer II (PA-28-181) ammeter reads 60 A although the known load is about 30 A. Why is “the alternator is rated for 60 A” an incomplete explanation?",
+    "answer": "The overload procedure uses output more than 20 A above the known load, not simply output above the alternator rating. A low battery or fault may be drawing the extra current. Follow the overload procedure for the actual BAT/ALT switch arrangement; interlocked and independent switches have different instructions.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §3.24, printed p.3-14",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=60",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-072",
+    "category": "piper-archer-ii",
+    "question": "After switching the Archer II (PA-28-181) master off for an electrical problem, can the pilot still rely on its normal stall-warning horn?",
+    "answer": "No. The handbook states that the stall-warning system is inoperative with the master off. Maintain appropriate airspeed and angle-of-attack awareness without waiting for an electrical warning that is no longer available.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.37 note, printed p.4-21",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=86",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-073",
+    "category": "piper-archer-ii",
+    "question": "An air-conditioned Archer II (PA-28-181) has its A/C switch on before takeoff. Is the full-throttle automatic cutout a substitute for selecting A/C off?",
+    "answer": "No. The before-takeoff procedure explicitly requires A/C off for normal takeoff performance. Full throttle normally disengages the compressor and retracts the condenser scoop, but that automatic feature does not replace the required switch selection. The A/C DOOR OPEN light refers to that condenser scoop.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.21, printed p.4-16; §7.33, printed p.7-22",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=81",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-074",
+    "category": "piper-archer-ii",
+    "question": "For an Archer II (PA-28-181) landing in a strong crosswind, must the pilot use the same full-flap configuration as a normal short landing?",
+    "answer": "No. The POH says that higher approach speeds with partial or no flaps may be desirable in strong crosswinds. Select a technique suited to wind, loading, and runway conditions, and reassess the landing distance rather than assuming the short-landing configuration is always best.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.31, printed p.4-20",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-075",
+    "category": "piper-archer-ii",
+    "question": "After touchdown during an Archer II (PA-28-181) short landing, how does the POH improve braking effectiveness?",
+    "answer": "It describes raising the flaps and applying aft control pressure to put more weight on the main wheels while braking. Keep directional control and positively identify the flap control; this is a ground-roll technique, not permission to retract flaps prematurely in flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.31, printed p.4-20",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=85",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-076",
+    "category": "piper-archer-ii",
+    "question": "During a prolonged power-off descent in the Archer II (PA-28-181), why should the pilot periodically check throttle response?",
+    "answer": "The handbook calls for briefly opening and closing the throttle about every 30 seconds to clear the engine and verify response. It also calls for full carburetor heat before reducing power if icing is suspected, with mixture adjusted as required.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.29, printed p.4-19",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=84",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-077",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) cruise plan uses the best-power chart, but the pilot leans an optional EGT installation to peak EGT. Do those assumptions match?",
+    "answer": "No. In this handbook, peak EGT is the best-economy reference; best power uses 100°F rich of peak. Use the chart and mixture procedure that match, within the permitted power/altitude conditions and current engine guidance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.27, printed p.4-18; §5.7, Figures 5-21–5-23",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-078",
+    "category": "piper-archer-ii",
+    "question": "While leaning the Archer II (PA-28-181) using optional EGT, the engine becomes rough before the gauge reaches a clear peak. Should the pilot keep leaning to force a higher indication?",
+    "answer": "No. The handbook uses the EGT at the onset of roughness as the peak reference in that situation. Apply the selected approved mixture procedure from that reference instead of accepting rough operation merely to find a numerical peak.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.27, printed p.4-18",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=83",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-079",
+    "category": "piper-archer-ii",
+    "question": "In the Archer II (PA-28-181) planning example, cruise uses 19.5 gal, climb 1 gal, and descent 1 gal. Is 19.5 gal the trip fuel, and how much weight is actually burned?",
+    "answer": "No. Add the segments: 21.5 US gal, or 129 lb using the handbook’s 6 lb/gal planning value. That is the example’s airborne trip burn; separately include ground use and the fuel reserve needed for the actual flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(g), printed p.5-7",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-080",
+    "category": "piper-archer-ii",
+    "question": "For an Archer II (PA-28-181) departing an elevated airport, the climb chart gives 11.5 min to cruise conditions and 3 min to departure-field conditions. What is the climb time for this departure?",
+    "answer": "8.5 minutes: subtract the departure-field value from the cruise-altitude value. The POH applies this same endpoint subtraction to climb distance and fuel; using the full sea-level-to-cruise amount would misstate this climb segment.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(c), printed p.5-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=93",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-081",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) route is 314 NM, with 11.5 NM allocated to climb and 20.5 NM to descent. How much distance should be assigned to cruise?",
+    "answer": "282 NM: 314 − 11.5 − 20.5. The POH plans climb, cruise, and descent separately; treating the entire route as cruise and then adding complete climb/descent segments would double-count distance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(d)–(e), printed p.5-6",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=94",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-082",
+    "category": "piper-archer-ii",
+    "question": "For a hypothetical Archer II (PA-28-181) cruise segment of 282 NM at 110 KTAS and 7.6 GPH, what does a steady 20-kt headwind do to the cruise fuel estimate?",
+    "answer": "Groundspeed becomes 90 kt. The segment takes about 3.13 hours and uses about 23.8 gal, instead of about 19.5 gal in still air. These are illustrative steady-condition calculations, excluding climb, descent, ground fuel, and reserve; use actual forecast winds and verified performance.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(e), printed pp.5-6–5-7; §5.5(b) note, printed p.5-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=95",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-083",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) pilot checks only landing ground roll for a runway with a 50-ft obstacle at the approach end. What performance comparison is missing?",
+    "answer": "Use the landing distance over a 50-ft barrier, not just the ground roll after touchdown. VB-1120 provides separate landing-performance and ground-roll charts; compare the applicable total distance and technique with the available runway and add an operating margin.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.7, Figures 5-35–5-37, printed pp.5-28–5-29",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=116",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-084",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) would weigh 2,300 lb at takeoff before adding usable fuel. Using 6 lb/gal, can it take off with all 48 usable gallons?",
+    "answer": "No. Full usable fuel adds 288 lb, making 2,588 lb. The 2,550-lb normal-category limit leaves 250 lb, or about 41.7 usable gallons by weight alone. CG, performance, fuel reserve, and any other applicable limits may require a different loading or flight plan.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §2.11, printed p.2-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-085",
+    "category": "piper-archer-ii",
+    "question": "A hypothetical Archer II (PA-28-181) loading totals 2,400 lb and 219,000 lb-in of moment. How is its CG found, and what is the next check?",
+    "answer": "Divide moment by weight: 219,000 ÷ 2,400 = 91.25 inches aft of datum. Then plot that CG with the 2,400-lb weight in the applicable category envelope; a moment calculation alone does not establish an acceptable loading.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7(a)–(e), printed p.6-9",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-086",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) weighs 2,400 lb at a 91.0-in CG. A 150-lb passenger plans to move from the 80.5-in front-seat station to the 118.1-in rear-seat station. Is the unchanged total weight enough to approve the move?",
+    "answer": "No. The move adds 150 × (118.1 − 80.5) = 5,640 lb-in of moment, moving CG aft by 2.35 in to 93.35 in. That exceeds this handbook’s 93.0-in normal-category aft limit. Use actual loading data and approved seating arrangements before changing the plan.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §2.13, printed p.2-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-087",
+    "category": "piper-archer-ii",
+    "question": "A hypothetical Archer II (PA-28-181) starts at 2,400 lb with 219,000 lb-in of moment and burns 20 gal from the standard 95-in fuel station. What happens to its CG?",
+    "answer": "Using 6 lb/gal, remove 120 lb and 11,400 lb-in. The new CG is 207,600 ÷ 2,280 ≈ 91.05 in, moving forward from 91.25 in. Fuel burn changes both weight and CG; verify the loading stays inside the envelope throughout flight.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §6.7, Figure 6-9, printed p.6-9; §4.41, printed p.4-22",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=128",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-088",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) departs at 2,400 lb and its planned airborne fuel burn is 129 lb. Which weight belongs in the destination landing-performance calculation?",
+    "answer": "The predicted landing weight is 2,271 lb, provided the planned burn occurs and no other weight changes intervene. Use that landing weight with destination conditions, and update the calculation if actual fuel use or the destination changes.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §5.5(a)–(b), printed pp.5-3–5-4",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=92",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-089",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) normal-category loading is 2,400 lb at an 85.0-in CG. Is it acceptable just because 85 in lies between the handbook’s overall 82- and 93-in extremes?",
+    "answer": "No. The forward limit depends on weight. Interpolating from 82.0 in at 2,050 lb to 88.6 in at 2,550 lb gives about 86.62 in at 2,400 lb. An 85.0-in CG is too far forward even though total weight is below maximum.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §2.13, printed p.2-5",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=38",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
+  },
+  {
+    "id": "ARCH2-090",
+    "category": "piper-archer-ii",
+    "question": "An Archer II (PA-28-181) will be left outdoors overnight. Does setting its parking brake complete the POH parking precautions?",
+    "answer": "No. The parking guidance also includes securing the control wheel with the belt, retracting the flaps, chocking the wheels, and securing the wing and tail tie-downs. Use the available approved tie-down points and appropriate precautions for the expected conditions.",
+    "source": "Piper Archer II PA-28-181 POH VB-1120, §4.5 parking checklist, printed p.4-9; §4.35, printed pp.4-20–4-21",
+    "sourceUrl": "https://www.mfu-pilotenclub.at/wp-content/uploads/2023/04/kbs-poh.pdf#page=74",
+    "sourceMetadata": {
+      "edition": "Piper Archer II PA-28-181 POH, Report VB-1120, issued July 2, 1979 (archived, revised copy)",
+      "reviewedAt": "2026-11-03",
+      "verificationStatus": "Handbook section checked; applicability limited to cited edition"
+    }
   }
 ]

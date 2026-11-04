@@ -82,3 +82,66 @@ Quality checks
 and PA-28-181; every answer has a handbook section/printed-page citation,
 direct PDF page URL, edition, review date, and limited-applicability status.
 Wording is original and focuses on practical knowledge and application.
+
+Scenario expansion: 60 to 90 cards (reviewed 2026-11-03)
+Added ARCH2-061 through ARCH2-090; original ARCH2-001 through ARCH2-060
+objects preserved without changes. The expansion adds operational decisions
+and worked planning examples rather than another set of limit-recall cards.
+
+New source checks included the following 1-based PDF pages:
+- 75–76 (printed 4-10–4-11): physical fuel checks and post-refueling
+  contamination checks, including the strainer with each tank selected.
+- 78–81 (printed 4-13–4-16): cold/flooded/external-power starts, warm-up,
+  initial taxi checks, and A/C-off before takeoff.
+- 55, 60, 62–63 (printed 3-9, 3-14, 3-16–3-17): start fire,
+  electrical overload, persistent roughness/magneto isolation, and the
+  warning about partial carburetor heat.
+- 83–86 (printed 4-18–4-21): EGT leaning, power-off descent response
+  checks, crosswind/short landing choices, and lost stall warning when
+  the master switch is off.
+- 158 (printed 7-22): optional A/C throttle cutout and condenser-door light.
+- 91–95 (printed 5-3–5-7): flight-planning method, segment subtraction,
+  destination conditions/weight, wind effects, and trip-fuel arithmetic.
+- 116–117 (printed 5-28–5-29): distinction between landing over a
+  50-ft barrier and ground roll.
+- 38 (printed 2-5), 87 (printed 4-22), and 128–131 (printed
+  6-9–6-12): weight-dependent CG envelope, standard loading stations,
+  and continuing compliance as fuel is burned.
+- 74–86 parking entries (printed 4-9, 4-20–4-21): controls,
+  flaps, chocks, and tie-downs.
+
+Worked-example checks (inputs labeled hypothetical where newly supplied):
+- Cruise distance: 314 - 11.5 - 20.5 = 282 NM.
+- Climb time from an elevated field: 11.5 - 3 = 8.5 minutes.
+- 20-kt headwind: 110 - 20 = 90 kt groundspeed;
+  282 / 90 x 7.6 = 23.813... gallons for the cruise segment only.
+- Trip segment fuel: 19.5 + 1 + 1 = 21.5 gallons; x 6 = 129 lb.
+- Usable-fuel allowance at a hypothetical 2,300-lb pre-fuel takeoff
+  weight: (2,550 - 2,300) / 6 = 41.666... gallons, subject to all
+  other loading/performance/reserve requirements.
+- Initial hypothetical CG: 219,000 / 2,400 = 91.25 inches.
+- Moving a 150-lb passenger from 80.5 to 118.1 inches adds 5,640
+  lb-in; / 2,400 = 2.35 inches aft; 91.0 + 2.35 = 93.35 inches,
+  beyond the cited 93.0-inch normal-category aft limit.
+- Burning 20 gallons at 6 lb/gal from the 95-inch fuel station removes
+  120 lb and 11,400 lb-in: 207,600 / 2,280 = 91.0526... inches.
+- Landing weight: 2,400 - 129 = 2,271 lb.
+- Normal-category forward CG limit at 2,400 lb:
+  82.0 + (2,400 - 2,050) / (2,550 - 2,050) x (88.6 - 82.0)
+  = 86.62 inches. A hypothetical 85.0-inch CG is too far forward.
+
+Additional exclusions/uncertainties
+The archived, revised §5.5 loading example includes a 360-lb
+"Baggage and Cargo" entry despite the separately stated 200-lb baggage
+limit. Its loading arrangement is not explained there. That example was
+not used to assert allowable baggage or reproduce an approved loading.
+The expansion instead uses the §6 method with explicitly hypothetical
+weights/moments and the documented standard station arms.
+No claim of verified performance for a particular real aircraft, runway,
+wind forecast, battery condition, or fuel reserve is made by the worked
+examples. No tail-specific STC content was added.
+
+Expansion validation: 90 unique IDs and normalized question strings;
+30 new model-explicit scenario questions; every new card has a handbook
+section/printed page, direct PDF page link, and the original edition/
+limited-applicability metadata with review date 2026-11-03.
